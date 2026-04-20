@@ -1,0 +1,51 @@
+# toqan_config.yaml
+# ─────────────────────────────────────────────────────────────────
+# Toqan Agent Configuration
+# Connect this file to your Toqan workspace to give the agent
+# full access to the DIG Regulatory Monitor content.
+# ─────────────────────────────────────────────────────────────────
+
+agent:
+  name: "DIG Regulatory Monitor Agent"
+  description: >
+    An AI agent that reads, displays, and answers questions about
+    the DIG Regulatory Monitor website content. Content is
+    automatically scraped and synced from the source website.
+  version: "1.0.0"
+
+# ── Data sources ──────────────────────────────────────────────────
+data_sources:
+  - type: github_repository
+    repo: "maleevskaina/toqan-agent"          # update to your new repo name
+    branch: main
+    paths:
+      - content/index.json                    # master page index
+      - content/pages/**/*.md                 # all scraped page content
+      - content/sync_summary.json             # last sync metadata
+
+# ── Capabilities ──────────────────────────────────────────────────
+capabilities:
+  - read_content        # Read and display page text
+  - search_content      # Search across all pages
+  - summarise           # Summarise individual pages or the full site
+  - sync_status         # Report when content was last updated
+
+# ── Content index ─────────────────────────────────────────────────
+index:
+  file: content/index.json
+  format: json
+  description: >
+    Lists every scraped page with its title, source URL,
+    local markdown file path, and scrape timestamp.
+
+# ── Sync schedule ─────────────────────────────────────────────────
+sync:
+  schedule: "0 6 * * *"    # Daily at 06:00 UTC (matches GitHub Actions)
+  notify_on_change: true
+
+# ── Display settings ──────────────────────────────────────────────
+display:
+  default_view: summary     # Options: full | summary | bullet_points
+  max_content_length: 4000  # Characters per page shown by default
+  show_source_url: true
+  show_last_updated: true

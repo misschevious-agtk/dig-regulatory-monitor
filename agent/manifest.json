@@ -1,0 +1,20 @@
+{
+  "name": "DIG Regulatory Monitor Agent",
+  "version": "1.0.0",
+  "description": "Reads and displays content from the DIG Regulatory Monitor website for the Toqan agent.",
+  "entry_point": "content/index.json",
+  "content_path": "content/pages",
+  "sync_summary": "content/sync_summary.json",
+  "supported_formats": ["markdown", "json"],
+  "capabilities": [
+    "read_content",
+    "search_content",
+    "summarise",
+    "sync_status"
+  ],
+  "toqan": {
+    "config_file": "agent/toqan_config.yaml",
+    "index_file": "content/index.json",
+    "content_directory": "content/pages"
+  }
+}
