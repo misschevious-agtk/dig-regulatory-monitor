@@ -10,7 +10,7 @@ import json
 import re
 from datetime import datetime
 from pathlib import Path
-from config import SCRAPER_CONFIG, CATEGORY_KEYWORDS, SOURCES
+from scraper.config import SCRAPER_CONFIG, CATEGORY_KEYWORDS, SOURCES
  
 CONTENT_DIR = Path(__file__).parent.parent / "content"
 PAGES_DIR = CONTENT_DIR / "pages"
