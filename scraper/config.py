@@ -5,7 +5,7 @@ Central configuration for the scraper and sync modules.
  
 SCRAPER_CONFIG = {
     # ── Target ────────────────────────────────────────────────────────────────
-    "base_url": "https://maleevskaina.github.io/dig-regulatory-monitor",
+    "base_url": "https://misschevious-agtk.github.io/dig-regulatory-monitor/",
  
     # ── Behaviour ─────────────────────────────────────────────────────────────
     "timeout": 15,
