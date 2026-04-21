@@ -205,32 +205,36 @@ def _today_str() -> str:
     return datetime.utcnow().strftime("%-d %B %Y")
  
  
-def run():
+pythondef run():
     print(f"[START] Scraping {len(SOURCES)} source(s)...")
     raw_articles = []
- 
+    seen_titles = set()
+
     for source in SOURCES:
         soup = fetch_page(source["url"])
         if not soup:
             continue
         articles = extract_articles_from_page(soup, source["label"], source["url"])
         print(f"  [{source['label']}] {len(articles)} article(s) found")
-        raw_articles.extend(articles)
- 
+        for a in articles:
+            if a["title"] not in seen_titles and len(a["title"]) > 20:
+                seen_titles.add(a["title"])
+                raw_articles.append(a)
+
     # Categorise and tag
     categorised = {cat: [] for cat in CATEGORY_KEYWORDS}
     for article in raw_articles:
+        if not article["body"]:
+            continue  # skip articles with no body text
         cat = categorise(article)
         article["tags"] = infer_tags(article)
         categorised[cat].append(article)
         save_markdown(article, cat)
- 
-    # Enforce max_per_category
+
     max_per = SCRAPER_CONFIG.get("max_per_category", 20)
     for cat in categorised:
         categorised[cat] = categorised[cat][:max_per]
- 
-    # Build final index
+
     index = {
         "trending": select_trending(categorised, n=SCRAPER_CONFIG.get("trending_count", 5)),
         "competition": categorised["competition"],
@@ -238,6 +242,21 @@ def run():
         "ip": categorised["ip"],
         "regulatory": categorised["regulatory"],
     }
+
+    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    total = sum(len(v) for v in categorised.values())
+    summary = {
+        "last_sync": datetime.utcnow().isoformat() + "Z",
+        "total_articles": total,
+        "by_category": {cat: len(articles) for cat, articles in categorised.items()},
+    }
+    SYNC_FILE.write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"[DONE] {total} article(s) indexed.")
+
+if __name__ == "__main__":
+    run()
  
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
