@@ -268,10 +268,4 @@ if __name__ == "__main__":
         "total_articles": total,
         "by_category": {cat: len(articles) for cat, articles in categorised.items()},
     }
-    SYNC_FILE.write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
- 
-    print(f"[DONE] {total} article(s) indexed across {len(categorised)} categories.")
- 
- 
-if __name__ == "__main__":
-    run()
+
