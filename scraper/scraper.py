@@ -205,7 +205,7 @@ def _today_str() -> str:
     return datetime.utcnow().strftime("%-d %B %Y")
  
  
-pythondef run():
+def run():
     print(f"[START] Scraping {len(SOURCES)} source(s)...")
     raw_articles = []
     seen_titles = set()
