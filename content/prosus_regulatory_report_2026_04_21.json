@@ -1,0 +1,250 @@
+{
+  "trending": [
+    {
+      "title": "CADE Opens Antitrust Probe into iFood, 99Food and Keeta Exclusivity Practices",
+      "body": "Brazil's CADE is actively monitoring the food-delivery market following a complaint by Keeta (Meituan's international brand) against 99Food, alleging abusive exclusivity arrangements that hinder rival expansion. CADE has been investigating iFood since 2023 over similar concerns about exclusive restaurant contracts that limit competitor access. The probe puts iFood — a Prosus portfolio company — at direct regulatory risk in Brazil's fast-consolidating delivery sector. A formal administrative proceeding could result in structural remedies or behavioural commitments on exclusivity clauses.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation",
+        "IN",
+        "EU"
+      ],
+      "source": "Valor Internacional / BrazilStockGuide — 2026-04-02",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "European Commission Orders Google to Share Search Data with Rivals Under DMA",
+      "body": "On 16 April 2026 the European Commission outlined proposed DMA remedies requiring Google/Alphabet to share key search data — including rankings, queries and click signals — with competing search engines. The move follows the Commission's ongoing enforcement proceedings and its September 2025 adtech decision. If adopted as binding measures, the obligation would reshape how Google structures its search API access across the EU. This directly affects platforms that rely on Google's search infrastructure for advertising and discovery.",
+      "tags": [
+        "Antitrust",
+        "DMA",
+        "EU",
+        "Under Investigation"
+      ],
+      "source": "The Register — 2026-04-16",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Irish DPC Fines TikTok €530 Million for Unlawful EU Data Transfers to China",
+      "body": "Ireland's Data Protection Commission issued a €530 million GDPR fine to TikTok (ByteDance) on 2 May 2025 for transferring EEA user data to China without adequate safeguards under GDPR Articles 44–46, and for transparency failures. This is the second-largest GDPR fine on record and accounted for the majority of the EDPB's reported €1.15 billion in total EU fines for 2025. The decision sets a high-water mark for cross-border transfer enforcement and signals continued DPC scrutiny of non-EU data routing by large platforms, including those in Prosus's ecommerce and fintech portfolio.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "Fine",
+        "EU"
+      ],
+      "source": "Irish Data Protection Commission / EDPB Annual Report — 2025-05-02",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "EU AI Act 'Digital Omnibus' Amendments Under Negotiation Ahead of August 2026 Deadline",
+      "body": "Proposed amendments to the EU AI Act — dubbed the 'Digital Omnibus on AI' — are under active trilogue negotiation between the European Parliament and the Council (Council document ST-7322-2026). Full enforcement of transparency and high-risk obligations, including those covering AI agents, takes effect on 2 August 2026. Many organisations are not yet audit-ready. The amendments aim to simplify harmonised AI rules while preserving the risk-classification framework. Prosus portfolio companies deploying recommendation, fraud-detection or agentic AI systems face direct compliance obligations within months.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "AI Governance"
+      ],
+      "source": "EU Council ST-7322-2026 / AgentStamp / EuroPar EPRS — 2026-04",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "CMA Publishes Agentic AI Consumer Law Guidance — Businesses Face 10% Global Turnover Penalties",
+      "body": "The UK Competition and Markets Authority published guidance (March 2026) clarifying that existing consumer protection law applies fully to AI agents, with businesses liable for any violations their agents commit — penalties can reach 10% of global annual turnover. The CMA highlighted specific risks: dark patterns, erosion of consumer agency, and 'agentic collusion' dampening market competition. Ecommerce platforms deploying autonomous purchasing or recommendation agents — including Prosus-linked marketplaces such as OLX and Takealot — must implement ongoing oversight, guardrails and consumer-rights grounding in their AI deployments.",
+      "tags": [
+        "AI Act",
+        "DMA",
+        "UK",
+        "Antitrust"
+      ],
+      "source": "CMA / Reed Smith / Mondaq — 2026-03",
+      "date": "21 April 2026"
+    }
+  ],
+  "competition": [
+    {
+      "title": "CADE Probes iFood, Keeta and 99Food Over Exclusivity and Market Foreclosure",
+      "body": "Brazil's CADE opened a competition probe following Keeta's formal complaint against 99Food over exclusivity contracts alleged to foreclose rivals. CADE has monitored iFood — a direct Prosus portfolio company — since 2023 over similar vertical restraints. The April 2026 escalation brings the case closer to a formal administrative proceeding, which could compel iFood to abandon or modify restaurant exclusivity arrangements. This mirrors global food-delivery antitrust trends seen with Zomato/Swiggy in India and DoorDash/Uber Eats regulatory scrutiny in the US.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation"
+      ],
+      "source": "Valor Internacional — 2026-04-02",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "CCI Finds Zomato and Swiggy in Breach of Indian Antitrust Law",
+      "body": "India's Competition Commission (CCI) has concluded that Zomato and Swiggy — key Prosus comparators in the food-delivery sector — are in breach of antitrust laws through practices including platform neutrality violations, data masking, private-brand prioritisation, cloud-kitchen operations and exclusive restaurant contracts. The CCI's report recommends structural and behavioural remedies. The decision is significant for benchmarking regulatory expectations for all major delivery platforms and could influence how regulators approach iFood and Delivery Hero in their respective markets.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation",
+        "IN"
+      ],
+      "source": "BRICS Competition / CCI — 2025/2026",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "European Commission Proposes DMA Search-Data Sharing Obligation on Google",
+      "body": "The European Commission outlined measures on 16 April 2026 that would compel Google/Alphabet to share search rankings, queries and click data with rival search engines as a DMA remedy. This follows the September 2025 adtech decision and ongoing interoperability investigations. If adopted as binding commitments, the obligation reshapes search-advertising ecosystems across the EU — directly relevant to Prosus portfolio companies that depend on Google Search for user acquisition in ecommerce, classifieds (OLX, EMPG/dubizzle) and food delivery.",
+      "tags": [
+        "Antitrust",
+        "DMA",
+        "EU",
+        "Under Investigation"
+      ],
+      "source": "The Register / CNBC — 2026-04-16",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "EU Fines Apple €500M and Meta €200M for DMA Violations",
+      "body": "On 23 April 2025 the European Commission issued the first-ever DMA fines: €500 million to Apple for breaching anti-steering requirements on the App Store, and €200 million to Meta for failing to offer users a genuine consent choice regarding personal data use. The decisions set binding precedents for how gatekeeper obligations are enforced and signal that the Commission is prepared to escalate to full non-compliance fines (up to 10% of global turnover, or 20% for repeat offences) in future proceedings. Prosus portfolio apps distributed via Apple's App Store or relying on Meta's ad stack face indirect exposure.",
+      "tags": [
+        "Antitrust",
+        "DMA",
+        "Fine",
+        "EU"
+      ],
+      "source": "European Commission / AP News / The Verge — 2025-04-23",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "CADE Investigates Meta/WhatsApp for AI Market Foreclosure",
+      "body": "Brazil's CADE opened an administrative inquiry against Meta in January 2026 for alleged abuse of dominance in AI markets, after Meta changed WhatsApp Business Solution rules to block rival AI providers from using the platform while keeping its own Meta AI tool in place. The investigation, which began as an area-technical inquiry in November 2025, could result in structural orders compelling Meta to allow rival AI integrations on WhatsApp. This has direct relevance for Prosus portfolio companies (e.g. iFood, PayU) that integrate with WhatsApp for customer communications and payments.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation"
+      ],
+      "source": "Jornal da Tarde / Valor Econômico — 2026-01",
+      "date": "21 April 2026"
+    }
+  ],
+  "privacy": [
+    {
+      "title": "Irish DPC Fines TikTok €530 Million — Largest Cross-Border Transfer Penalty Since Meta",
+      "body": "Ireland's DPC fined TikTok €530 million on 2 May 2025 for unlawfully routing EEA user data to China and for transparency failures, citing the absence of equivalent data-protection standards under GDPR Chapter V. The EDPB's 2025 annual report confirmed total EU GDPR fines of €1.15 billion, with the TikTok ruling comprising the bulk. The ruling reinforces that international data transfer mechanisms must be rigorously documented and that standard contractual clauses alone are insufficient where third-country law enables government access. PayU, iFood and other Prosus entities handling EU-user data should audit their data-transfer impact assessments immediately.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "Fine",
+        "EU"
+      ],
+      "source": "Irish DPC / EDPB Annual Report — 2025-05-02",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "ANPD Publishes 2026–2027 Enforcement Map — 75 Thematic Investigations Planned",
+      "body": "Brazil's ANPD published its Mapa de Temas Prioritários for 2026–2027, detailing 75 planned enforcement actions across four strategic axes: data-subject rights, children and adolescents, governance and privacy by design, and security incidents. The ANPD also served notices on 20 major companies (including TikTok and Uber) in December 2024 for missing data officers or inadequate communication channels. LGPD sanctions can reach 2% of annual revenue (capped at R$50 million per infraction), and the ANPD has signalled acceleration of formal proceedings in 2026. iFood, PayU and other Prosus Brazil entities should verify DPO registration and incident-response readiness.",
+      "tags": [
+        "Data & Privacy",
+        "GDPR",
+        "Fine"
+      ],
+      "source": "Confidata / ANPD / Audaks — 2026-03-01",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Brazil ECA Digital (Lei 15.211/2025) Compliance Deadline Passed — Platforms Now at Risk",
+      "body": "The compliance window under Brazil's ECA Digital law (Lei nº 15.211/2025) expired in March 2026. Platforms — including social networks, apps and digital services — are now legally required to have implemented age-verification mechanisms, parental supervision tools, content transparency, and moderation standards for minors. Non-compliant platforms face fines up to R$50 million. The ANPD is the primary enforcement authority for data-related obligations under the law. Prosus portfolio companies operating consumer-facing apps in Brazil, including iFood and Stack Overflow, should confirm full compliance.",
+      "tags": [
+        "Data & Privacy",
+        "Fine"
+      ],
+      "source": "IBDTEC / ANPD — 2025-09-23 / 2026-03",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "EDPB 2025 Annual Report: €1.15 Billion in GDPR Fines — AI and DMA Integration Flagged",
+      "body": "The European Data Protection Board's 2025 Annual Report recorded €1.15 billion in GDPR fines across EU/EEA member states, with Ireland (TikTok) and other member states contributing the largest amounts. The report also flagged growing convergence between GDPR enforcement and AI Act obligations — particularly around automated decision-making, profiling and foundation-model training data. The EDPB is expected to publish guidance on AI-system data-processing obligations in 2026, directly relevant to Prosus AI portfolio companies (Ema, Clarity, Brainfish).",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "AI Act",
+        "EU"
+      ],
+      "source": "EDPB / PPC.land — 2026-04-14",
+      "date": "21 April 2026"
+    }
+  ],
+  "ip": [
+    {
+      "title": "Anthropic $1.5 Billion AI Copyright Settlement Nears Final Court Approval",
+      "body": "Anthropic's landmark $1.5 billion settlement with authors and publishers (Barz v. Anthropic) is approaching final court approval, with a fairness hearing scheduled for April 2026 and nearly 100,000 claims filed. The first Anthropic payment was released in October 2025; the claims deadline passed on 30 March 2026. The case — the largest publicly reported copyright recovery in US history — establishes that LLM training on copyrighted books can constitute infringement absent a licence or fair-use defence. Prosus AI portfolio companies (Ema, Clarity, BrainLogic AI, Advolve.AI) training on web-scraped or book-corpus data face analogous exposure.",
+      "tags": [
+        "IP Law",
+        "US"
+      ],
+      "source": "CNET / OpenClassActions / Princeton University Press — 2026-04",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Delaware Court Rules AI Training on Westlaw Headnotes Is Not Fair Use",
+      "body": "A Delaware federal court ruled in February 2025 that using Thomson Reuters Westlaw Headnotes to train a competing legal-research AI was direct copyright infringement and not protected by fair use — the first substantive US ruling on direct AI-training infringement. The decision significantly narrows the 'transformation' argument commonly relied on by AI developers when training on commercial datasets. It is now being cited in multiple downstream litigations and affects any AI company training on proprietary or paywalled corpora, including legal-tech or knowledge-management tools in the Prosus/Stack Overflow ecosystem.",
+      "tags": [
+        "IP Law",
+        "US"
+      ],
+      "source": "Mondaq / PatentlyO — 2025-02",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Brazil PL 2338/2023 AI Bill Addresses Copyright for AI Training Data",
+      "body": "Brazil's AI Bill (PL 2338/2023), approved by the Senate in late 2024 and now advancing through the Câmara, includes provisions requiring AI developers to disclose copyrighted content used in training and to remunerate rights-holders for data mined for AI development. Scientific institutions and public libraries may be exempt under a TDM (text and data mining) carve-out. The bill passed the Câmara's Communications Committee in March 2026 as PL 2.688/2025 (Marco Regulatório da IA). If enacted, it would impose novel IP obligations on AI companies operating in Brazil, including Prosus portfolio AI entities.",
+      "tags": [
+        "IP Law",
+        "AI Act"
+      ],
+      "source": "Câmara dos Deputados / Poder 360 — 2026-03",
+      "date": "21 April 2026"
+    }
+  ],
+  "regulatory": [
+    {
+      "title": "EU AI Act 'Digital Omnibus' Trilogue Negotiations Ongoing — August 2026 Enforcement Imminent",
+      "body": "Proposed 'Digital Omnibus on AI' amendments (Council ST-7322-2026) are under Parliament–Council trilogue as the August 2, 2026 full-enforcement deadline approaches. The amendments aim to streamline compliance obligations for providers and deployers of high-risk AI systems, including AI agents. Logging, transparency (Article 13) and human-oversight mandates apply to agentic systems. Most organisations deploying AI agents in EU-facing services are not yet audit-ready. Prosus portfolio companies — particularly those in fintech (PayU), health (Corti) and AI SaaS — face direct obligations.",
+      "tags": [
+        "AI Act",
+        "EU"
+      ],
+      "source": "EU Council / AgentStamp / EPRS — 2026-04",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "CMA Agentic AI Consumer Guidance Imposes UK Compliance Obligations on Ecommerce Platforms",
+      "body": "The UK CMA's March 2026 guidance makes clear that agentic AI deployments in ecommerce are subject to existing consumer-protection law, with fines up to 10% of global turnover for violations. The CMA specifically identified risks from AI agents using dark patterns, overriding consumer autonomy, or enabling coordinated pricing behaviour ('agentic collusion'). The guidance is supplemented by powers under the Digital Markets, Competition and Consumers Act 2024. UK-exposed Prosus companies — OLX, Takealot, and delivery subsidiaries — should conduct agentic-AI compliance reviews.",
+      "tags": [
+        "AI Act",
+        "DMA",
+        "UK"
+      ],
+      "source": "CMA / Reed Smith / TLT — 2026-03",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Brazil Câmara Approves AI Governance Framework (PL 2.688/2025) in Committee",
+      "body": "Brazil's Communications Committee approved PL 2.688/2025 in March 2026, establishing the Marco Regulatório da Inteligência Artificial: a national framework covering AI rights, duties, governance mechanisms, and civil and criminal transparency norms. The bill designates ANPD as the primary regulator for sectors without a dedicated regulator and creates the Sistema Nacional de Governança de IA (SIA). It is expected to proceed to the full Câmara floor vote in 2026. Prosus Brazil operations across food delivery, fintech and AI products will be subject to mandatory governance documentation and impact assessments.",
+      "tags": [
+        "AI Act"
+      ],
+      "source": "Câmara dos Deputados / Ministério da Gestão — 2026-03",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "Singapore Issues Agentic AI Framework for Market Entry Guidance",
+      "body": "Singapore's AI Safety body published practical guidance in April 2026 for organisations deploying agentic AI in market contexts, addressing autonomous decision-making chains, human-override requirements and cross-border liability allocation. The framework complements the EU AI Act and is significant for Prosus portfolio companies expanding into Southeast Asian markets (Grab, Bibit, PayU). Singapore's light-touch approach may serve as a template for other APAC regulators. Companies entering Singapore with AI-powered ecommerce or fintech products should review the framework's market-entry requirements.",
+      "tags": [
+        "AI Act"
+      ],
+      "source": "Mayer Brown / Singapore AISG — 2026-04",
+      "date": "21 April 2026"
+    },
+    {
+      "title": "DSA Enforcement: Commission Continues VLOPs Oversight as Annual Transparency Reports Due",
+      "body": "The European Commission's DSA enforcement framework continues active oversight of 17 Very Large Online Platforms and 2 search engines designated in April 2023, with annual transparency reporting obligations now in force. The Commission has investigative powers including information requests, on-site inspections and interim measures. Non-compliance can result in fines up to 6% of global turnover. Just Eat Takeaway.com (JET) and OLX, as large platform operators in the EU, must ensure systematic risk assessments, recommender-system transparency and illegal-content reporting pipelines are operational.",
+      "tags": [
+        "DSA",
+        "EU"
+      ],
+      "source": "European Commission / Digital Strategy — 2025-09-22 / ongoing",
+      "date": "21 April 2026"
+    }
+  ]
+}
