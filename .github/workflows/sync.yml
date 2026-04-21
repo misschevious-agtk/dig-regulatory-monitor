@@ -1,0 +1,40 @@
+name: Scrape & Sync Content
+ 
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Every day at 06:00 UTC
+  workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
+ 
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+ 
+    permissions:
+      contents: write       # Needed to commit content back to the repo
+ 
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+ 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+ 
+      - name: Run scraper
+        run: python -m scraper.scraper
+ 
+      - name: Run sync
+        run: python -m sync.sync
+ 
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git diff --staged --quiet || git commit -m "chore: sync content $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+ 
