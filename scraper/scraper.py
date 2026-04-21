@@ -1,138 +1,258 @@
 """
 scraper.py
-Fetches and parses content from the DIG Regulatory Monitor website.
-Outputs clean markdown and JSON files for Toqan to consume.
+Fetches regulatory news articles, categorises them, and outputs
+content/index.json in the format expected by the DIG Regulatory Monitor site.
 """
-
+ 
 import requests
 from bs4 import BeautifulSoup
 import json
-import os
 import re
 from datetime import datetime
 from pathlib import Path
-from config import SCRAPER_CONFIG
-
+from config import SCRAPER_CONFIG, CATEGORY_KEYWORDS, SOURCES
+ 
 CONTENT_DIR = Path(__file__).parent.parent / "content"
 PAGES_DIR = CONTENT_DIR / "pages"
 INDEX_FILE = CONTENT_DIR / "index.json"
-
-
+SYNC_FILE = CONTENT_DIR / "sync_summary.json"
+ 
+ 
+# ── HTTP ───────────────────────────────────────────────────────────────────────
+ 
 def fetch_page(url: str) -> BeautifulSoup | None:
-    """Fetch a single page and return a BeautifulSoup object."""
     try:
         headers = {"User-Agent": SCRAPER_CONFIG["user_agent"]}
-        response = requests.get(url, headers=headers, timeout=SCRAPER_CONFIG["timeout"])
-        response.raise_for_status()
-        return BeautifulSoup(response.text, "html.parser")
+        r = requests.get(url, headers=headers, timeout=SCRAPER_CONFIG["timeout"])
+        r.raise_for_status()
+        return BeautifulSoup(r.text, "html.parser")
     except requests.RequestException as e:
-        print(f"[ERROR] Failed to fetch {url}: {e}")
+        print(f"[ERROR] {url}: {e}")
         return None
-
-
-def extract_content(soup: BeautifulSoup, url: str) -> dict:
-    """Extract title, body text, and metadata from a parsed page."""
-    title = soup.title.string.strip() if soup.title else "Untitled"
-
-    # Remove scripts, styles, nav, footer noise
-    for tag in soup(["script", "style", "nav", "footer", "header"]):
-        tag.decompose()
-
-    body_text = soup.get_text(separator="\n", strip=True)
-    # Collapse excessive blank lines
-    body_text = re.sub(r"\n{3,}", "\n\n", body_text)
-
-    return {
-        "url": url,
-        "title": title,
-        "content": body_text,
-        "scraped_at": datetime.utcnow().isoformat() + "Z",
-    }
-
-
-def save_page(page_data: dict) -> str:
-    """Save extracted page content as markdown and return file path."""
-    safe_name = re.sub(r"[^\w\-]", "_", page_data["title"])[:60]
-    md_path = PAGES_DIR / f"{safe_name}.md"
-
-    md_content = f"""---
-title: {page_data['title']}
-url: {page_data['url']}
-scraped_at: {page_data['scraped_at']}
----
-
-{page_data['content']}
-"""
-    PAGES_DIR.mkdir(parents=True, exist_ok=True)
-    md_path.write_text(md_content, encoding="utf-8")
-    print(f"[OK] Saved: {md_path.name}")
-    return str(md_path)
-
-
-def update_index(pages: list[dict]):
-    """Write/update the master index.json with all scraped pages."""
-    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
-    index = {
-        "last_updated": datetime.utcnow().isoformat() + "Z",
-        "source": SCRAPER_CONFIG["base_url"],
-        "total_pages": len(pages),
-        "pages": [
-            {
-                "title": p["title"],
-                "url": p["url"],
-                "file": f"pages/{re.sub(r'[^\w\-]', '_', p['title'])[:60]}.md",
-                "scraped_at": p["scraped_at"],
-            }
-            for p in pages
-        ],
-    }
-    INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"[OK] Index updated: {len(pages)} page(s) indexed.")
-
-
-def discover_links(soup: BeautifulSoup, base_url: str) -> list[str]:
-    """Collect internal links from a page."""
-    links = set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if href.startswith("/") or href.startswith(base_url):
-            full = href if href.startswith("http") else base_url.rstrip("/") + href
-            links.add(full.split("#")[0])  # strip anchors
-    return list(links)
-
-
-def run():
-    """Main scrape-and-sync entry point."""
-    base_url = SCRAPER_CONFIG["base_url"]
-    visited = set()
-    queue = [base_url]
-    all_pages = []
-
-    print(f"[START] Scraping: {base_url}")
-
-    while queue:
-        url = queue.pop(0)
-        if url in visited:
+ 
+ 
+# ── Article extraction ─────────────────────────────────────────────────────────
+ 
+def extract_articles_from_page(soup: BeautifulSoup, source_label: str, url: str) -> list[dict]:
+    """
+    Try multiple common article-listing patterns.
+    Returns a list of raw article dicts with title, body, source, date, url.
+    """
+    articles = []
+ 
+    # Pattern 1: <article> tags
+    items = soup.find_all("article")
+ 
+    # Pattern 2: common card class patterns
+    if not items:
+        items = soup.find_all(class_=re.compile(r"(card|post|entry|article|item)", re.I))
+ 
+    # Pattern 3: fallback — treat each <h2>/<h3> block as an article
+    if not items:
+        for heading in soup.find_all(["h2", "h3"]):
+            title_text = heading.get_text(strip=True)
+            if len(title_text) < 20:
+                continue
+            # Grab the next sibling paragraph as body
+            body = ""
+            sib = heading.find_next_sibling()
+            while sib and sib.name in ["p", "div", "span"]:
+                body += sib.get_text(" ", strip=True) + " "
+                sib = sib.find_next_sibling()
+            articles.append({
+                "title": title_text,
+                "body": body.strip(),
+                "source": source_label,
+                "date": _today_str(),
+                "url": url,
+            })
+        return articles
+ 
+    for item in items:
+        title_el = item.find(["h1", "h2", "h3", "h4"])
+        if not title_el:
             continue
-        visited.add(url)
-
-        soup = fetch_page(url)
+        title = title_el.get_text(strip=True)
+        if len(title) < 20:
+            continue
+ 
+        # Body: all <p> text inside the item
+        body_parts = [p.get_text(" ", strip=True) for p in item.find_all("p")]
+        body = " ".join(body_parts).strip()
+ 
+        # Date: look for <time> or text matching date patterns
+        date = _today_str()
+        time_el = item.find("time")
+        if time_el:
+            date = time_el.get_text(strip=True) or time_el.get("datetime", date)
+        else:
+            raw = item.get_text(" ")
+            m = re.search(r"\b(\d{1,2}\s+\w+\s+\d{4}|\d{4}-\d{2}-\d{2})\b", raw)
+            if m:
+                date = m.group(1)
+ 
+        # Source attribution
+        source = source_label
+        src_el = item.find(class_=re.compile(r"(source|byline|author|publisher)", re.I))
+        if src_el:
+            source = src_el.get_text(strip=True) or source_label
+ 
+        articles.append({
+            "title": title,
+            "body": body,
+            "source": source,
+            "date": date,
+            "url": url,
+        })
+ 
+    return articles
+ 
+ 
+# ── Categorisation ─────────────────────────────────────────────────────────────
+ 
+def categorise(article: dict) -> str:
+    """Return the best matching category key based on title + body keywords."""
+    text = (article["title"] + " " + article["body"]).lower()
+    scores = {cat: 0 for cat in CATEGORY_KEYWORDS}
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        for kw in keywords:
+            if kw.lower() in text:
+                scores[cat] += 1
+    best = max(scores, key=scores.get)
+    return best if scores[best] > 0 else "regulatory"
+ 
+ 
+def infer_tags(article: dict) -> list[str]:
+    """Generate display tags from content."""
+    text = (article["title"] + " " + article["body"]).lower()
+    tags = []
+ 
+    type_map = {
+        "Antitrust": ["antitrust", "competition law", "abuse of dominance"],
+        "AI / Antitrust": ["ai antitrust", "ai / antitrust", "ai assistant", "gatekeeper"],
+        "Cartel": ["cartel", "price fixing", "market sharing"],
+        "GDPR": ["gdpr", "data protection regulation"],
+        "Data & Privacy": ["data protection", "personal data", "privacy", "dpa"],
+        "IP Law": ["intellectual property", "copyright", "patent", "trademark"],
+        "AI Act": ["ai act", "artificial intelligence act"],
+        "DMA": ["digital markets act", "dma"],
+        "DSA": ["digital services act", "dsa"],
+        "Under Investigation": ["investigation", "probe", "charge sheet", "statement of objections"],
+        "Fine": ["fined", "fine of", "penalty of", "€"],
+    }
+ 
+    geo_map = {
+        "EU": ["european commission", "eu ", "cjeu", "ecj", "dma", "dsa", "ai act"],
+        "UK": ["uk ", "ico ", "cma ", "united kingdom"],
+        "US": ["ftc ", "doj ", "united states", "us "],
+        "IN": ["india", "cci ", "meity"],
+        "DE": ["germany", "bundeskartellamt"],
+        "FR": ["france", "cnil"],
+        "NL": ["netherlands", "dutch", "ap "],
+        "SG": ["singapore", "pdpc"],
+        "CN": ["china", "samr", "cyberspace administration"],
+    }
+ 
+    for tag, kws in type_map.items():
+        if any(kw in text for kw in kws):
+            tags.append(tag)
+            if len(tags) >= 3:
+                break
+ 
+    for geo, kws in geo_map.items():
+        if any(kw in text for kw in kws):
+            tags.append(geo)
+            break  # max one geo tag
+ 
+    return tags if tags else ["Regulatory"]
+ 
+ 
+# ── Trending selection ─────────────────────────────────────────────────────────
+ 
+def select_trending(categorised: dict, n: int = 5) -> list[dict]:
+    """Pick the n most recent articles across all categories as trending."""
+    all_articles = []
+    for articles in categorised.values():
+        all_articles.extend(articles)
+    # Deduplicate by title
+    seen = set()
+    unique = []
+    for a in all_articles:
+        if a["title"] not in seen:
+            seen.add(a["title"])
+            unique.append(a)
+    return unique[:n]
+ 
+ 
+# ── Markdown save ──────────────────────────────────────────────────────────────
+ 
+def save_markdown(article: dict, category: str):
+    safe_name = re.sub(r"[^\w\-]", "_", article["title"])[:60]
+    md_path = PAGES_DIR / f"{category}_{safe_name}.md"
+    PAGES_DIR.mkdir(parents=True, exist_ok=True)
+    md_path.write_text(
+        f"---\ntitle: {article['title']}\ncategory: {category}\n"
+        f"source: {article['source']}\ndate: {article['date']}\n"
+        f"url: {article.get('url','')}\ntags: {', '.join(article.get('tags',[]))}\n---\n\n"
+        f"{article['body']}\n",
+        encoding="utf-8",
+    )
+ 
+ 
+# ── Main ───────────────────────────────────────────────────────────────────────
+ 
+def _today_str() -> str:
+    return datetime.utcnow().strftime("%-d %B %Y")
+ 
+ 
+def run():
+    print(f"[START] Scraping {len(SOURCES)} source(s)...")
+    raw_articles = []
+ 
+    for source in SOURCES:
+        soup = fetch_page(source["url"])
         if not soup:
             continue
-
-        page_data = extract_content(soup, url)
-        save_page(page_data)
-        all_pages.append(page_data)
-
-        if SCRAPER_CONFIG.get("follow_links", True):
-            new_links = discover_links(soup, base_url)
-            for link in new_links:
-                if link not in visited:
-                    queue.append(link)
-
-    update_index(all_pages)
-    print(f"[DONE] Scraped {len(all_pages)} page(s).")
-
-
+        articles = extract_articles_from_page(soup, source["label"], source["url"])
+        print(f"  [{source['label']}] {len(articles)} article(s) found")
+        raw_articles.extend(articles)
+ 
+    # Categorise and tag
+    categorised = {cat: [] for cat in CATEGORY_KEYWORDS}
+    for article in raw_articles:
+        cat = categorise(article)
+        article["tags"] = infer_tags(article)
+        categorised[cat].append(article)
+        save_markdown(article, cat)
+ 
+    # Enforce max_per_category
+    max_per = SCRAPER_CONFIG.get("max_per_category", 20)
+    for cat in categorised:
+        categorised[cat] = categorised[cat][:max_per]
+ 
+    # Build final index
+    index = {
+        "trending": select_trending(categorised, n=SCRAPER_CONFIG.get("trending_count", 5)),
+        "competition": categorised["competition"],
+        "privacy": categorised["privacy"],
+        "ip": categorised["ip"],
+        "regulatory": categorised["regulatory"],
+    }
+ 
+    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
+ 
+    # Sync summary
+    total = sum(len(v) for v in categorised.values())
+    summary = {
+        "last_sync": datetime.utcnow().isoformat() + "Z",
+        "total_articles": total,
+        "by_category": {cat: len(articles) for cat, articles in categorised.items()},
+    }
+    SYNC_FILE.write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
+ 
+    print(f"[DONE] {total} article(s) indexed across {len(categorised)} categories.")
+ 
+ 
 if __name__ == "__main__":
     run()
