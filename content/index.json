@@ -1,380 +1,301 @@
 {
   "trending": [
     {
-      "title": "CMA Issues First Fine Under DMCCA 2024 — £4.2M Drip Pricing Penalty",
-      "body": "On 15 April 2026, the UK Competition and Markets Authority issued its inaugural fine under the Digital Markets, Competition and Consumers Act 2024, penalising AA Driving School and BSM Driving School £4.2 million for unlawful drip pricing in consumer-facing digital commerce. The ruling confirms that the CMA will use its new direct-fine powers without requiring court proceedings, setting a precedent for rapid enforcement against ecommerce platforms and gig-economy operators. Prosus portfolio companies operating consumer-facing digital services in the UK — including Wolt, Deliveroo (comparator) and OLX classifieds — should treat this as a baseline enforcement signal. Separately, the CMA has already signalled that agentic-AI conduct by digital intermediaries falls within DMCCA scope, amplifying compliance obligations across the group.",
+      "title": "New merger rules are no free ride for European champions, says Teresa Ribera",
+      "body": "The EU’s competition chief rejects consolidation-as-strategy argument ahead of next month’s unveiling of the revamped regulations.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Antitrust",
-        "Fine",
-        "UK",
-        "DMA",
-        "Ecommerce"
-      ],
-      "source": "Lewis Silkin / Mondaq",
-      "url": "https://www.lewissilkin.com/insights/2026/04/15/consumer-law-revolution-cma-issues-first-fine-of-4-2-million-for-consumer-law-b-102mpnr",
-      "date": "21 April 2026"
+        "Regulatory"
+      ]
     },
     {
-      "title": "Google Antitrust Remedies: DOJ Choice-Screen Mandate Averts Structural Break-Up",
-      "body": "A US federal court on 8 April 2026 ordered Google to implement a 'Choice Screen' for search-engine selection at device set-up, stopping short of forcing a Chrome divestiture or banning default search agreements outright. The DOJ and state attorneys-general are now appealing the remedies ruling, seeking stronger structural relief. The decision carries direct relevance for Prosus portfolio ecommerce platforms — particularly iFood, OLX, and PayU — that rely on Google's search-advertising and Android distribution infrastructure. A stricter remedy on appeal could reshape default-distribution economics for app-based platforms globally.",
-      "tags": [
-        "Antitrust",
-        "US",
-        "Under Investigation"
-      ],
-      "source": "Search Engine Land / Financial Content",
-      "url": "https://searchengineland.com/doj-states-appeal-google-search-antitrust-remedies-ruling-468230",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "CADE Monitors iFood TCC Compliance — Retaliation Allegations Against Rival-Platform Restaurants",
-      "body": "As of February 2026, Brazil's CADE Superintendence-General formally requested explanations from iFood (Prosus subsidiary) regarding alleged retaliatory conduct against restaurants that joined competing delivery platforms, including alleged suppression in search rankings and improper deactivations. This follows the 2023 Cease and Desist Agreement (TCC) capping exclusivity at 25% of GMV per restaurant. CADE is actively monitoring whether iFood has weaponised its 'exclusive' badge and ranking algorithms to circumvent the TCC's pro-competition obligations. A finding of non-compliance could expose iFood to substantial fines and forced behavioural remedies.",
-      "tags": [
-        "Antitrust",
-        "Under Investigation",
-        "Fine"
-      ],
-      "source": "Valor Econômico / CADE",
-      "url": "https://valor.globo.com/google/amp/empresas/noticia/2026/02/10/cade-pede-explicacoes-ao-ifood-sobre-suposto-boicote-a-restaurantes.ghtml",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "EU AI Act High-Risk Enforcement Deadline: August 2026 Compliance Crunch Looming",
-      "body": "The EU AI Act's full high-risk AI obligations enter force on 2 August 2026, giving organisations fewer than four months to achieve compliance. As of April 2026, enforcement data shows that a significant proportion of in-scope companies lack even a basic AI-system inventory, a mandatory first step. The European Data Protection Supervisor has been designated as a Market Surveillance Authority for EU-institution AI systems, and national authorities are ramping capacity. Prosus group entities deploying AI in credit-scoring (PayU), recruitment (Stack Overflow), or content moderation (OLX classifieds) may face high-risk classification obligations requiring conformity assessments and human-oversight mechanisms.",
-      "tags": [
-        "AI Act",
-        "EU",
-        "Under Investigation"
-      ],
-      "source": "AgentStamp / EU AI Act National Enforcement Tracker",
-      "url": "https://agentstamp.org/blog/eu-ai-act-agent-compliance",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "TikTok/ByteDance Fined €530M by Irish DPC for Unlawful EEA-to-China Data Transfers",
-      "body": "Ireland's Data Protection Commission fined TikTok Technology Limited €530 million on 2 May 2025 for transferring EEA user data to China without adequate safeguards and for failing to meet GDPR transparency requirements. The ruling is the largest GDPR fine targeting cross-border data transfers to a non-adequate country and sets a binding precedent for any platform routing EU user data to jurisdictions including China. Prosus's 26% stake in Tencent — itself a China-based data processor — should prompt a review of Tencent-linked data flows involving EU residents across the portfolio, including any joint products or data-sharing arrangements.",
-      "tags": [
-        "GDPR",
-        "Data & Privacy",
-        "Fine",
-        "EU"
-      ],
-      "source": "Irish Data Protection Commission",
-      "url": "https://www.dataprotection.ie/en/news-media/latest-news/irish-data-protection-commission-fines-tiktok-eu530-million-and-orders-corrective-measures-following",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Apple Fined €500M and Meta €200M Under DMA for Gatekeeper Violations",
-      "body": "The European Commission imposed its first DMA fines on 23 April 2025: €500 million against Apple for anti-steering violations in its App Store and €200 million against Meta for imposing a pay-or-consent model on Facebook/Instagram users. These are the first binding enforcement decisions under the DMA gatekeeper regime and confirm the Commission's willingness to levy nine-figure fines for non-compliance. For Prosus, the precedents directly affect portfolio apps distributed through Apple's App Store and Meta's advertising infrastructure, especially iFood, OLX, and Wolt. The Meta ruling also signals heightened regulatory scrutiny of consent-based data-monetisation models used by many ecommerce platforms.",
+      "title": "EU eyes tougher penalties for single market rule-breakers",
+      "body": "A draft joint declaration on One Europe, One Market Roadmap calls for Brussels to penalize foot-dragging by EU countries.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
-        "Antitrust",
-        "Fine",
         "EU"
-      ],
-      "source": "European Commission / Reuters",
-      "url": "https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en",
-      "date": "21 April 2026"
+      ]
+    },
+    {
+      "title": "EU says WhatsApp AI terms update fails to resolve antitrust concerns",
+      "body": "Commission finds that Meta’s proposal to charge fees for rival AI assistants on WhatsApp is “effectively equivalent” to an outright ban on access.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust",
+        "AI / Antitrust",
+        "EU"
+      ]
+    },
+    {
+      "title": "EU hires former von der Leyen aide as top competition official",
+      "body": "Anthony Whelan fills key antitrust role after monthslong search.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust",
+        "EU"
+      ]
+    },
+    {
+      "title": "The EU’s Big Tech rulebook is shifting the digital economy, says Ribera",
+      "body": "Speaking at POLITICO’s European Pulse Forum, the EU’s top antitrust official pushed back against criticism that enforcement has been too slow.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust"
+      ]
     }
   ],
   "competition": [
     {
-      "title": "CADE Opens Administrative Inquiry Against Meta/WhatsApp Over AI Terms of Use",
-      "body": "On 12 January 2026, CADE opened a formal administrative inquiry against Meta (WhatsApp and Facebook) for alleged abuse of dominant position related to new AI-data-processing terms of use. CADE ordered the immediate suspension of those terms pending analysis. A separate thread investigates whether Meta is blocking rival AI providers from WhatsApp's API, which would constitute foreclosure in the AI-services market. This inquiry is material for Prosus portfolio companies — particularly iFood and PayU — that rely on WhatsApp's business messaging infrastructure for customer communications and payment flows in Brazil.",
+      "title": "New merger rules are no free ride for European champions, says Teresa Ribera",
+      "body": "The EU’s competition chief rejects consolidation-as-strategy argument ahead of next month’s unveiling of the revamped regulations.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Antitrust",
-        "Under Investigation"
-      ],
-      "source": "Brasil 247 / Valor Econômico",
-      "url": "https://en.brasil247.com/negocios/cade-abre-investigacao-contra-meta-e-paralisa-regras-do-whatsapp-sobre-ia",
-      "date": "21 April 2026"
+        "Regulatory"
+      ]
     },
     {
-      "title": "CADE Deepens Google Investigation Over Journalistic Content and Pricing Algorithms",
-      "body": "Brazil's CADE has intensified its investigation into Google's use of journalistic content across its platforms and has published academic analysis on pricing algorithms in digital markets and their competition-law implications. CADE is soliciting industry contributions to the investigation. The probe is relevant to Prosus-affiliated classifieds and ecommerce platforms (OLX, Movile) that compete for search-driven traffic and advertising revenues with Google in Brazil.",
-      "tags": [
-        "Antitrust",
-        "Under Investigation"
-      ],
-      "source": "CADE / Revista de Defesa da Concorrência",
-      "url": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprofunda-investigacao-sobre-praticas-do-google-e-lanca-chamada-para-contribuicoes",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "South African Competition Commission Issues Final Guidance Note for Online Intermediation Platforms",
-      "body": "On 6 February 2026, the South African Competition Commission released its final Guidance Note for Online Intermediation Platforms, establishing expected conduct norms for fairness, transparency, and data access for third-party sellers. Takealot (Prosus/Naspers subsidiary) operates South Africa's largest ecommerce marketplace and is directly in scope. The Guidance Note does not carry automatic fine triggers but provides the Commission's interpretive framework for future complaints, merger reviews, and market-inquiry follow-on actions.",
-      "tags": [
-        "Antitrust",
-        "Ecommerce"
-      ],
-      "source": "Mondaq / Competition Commission South Africa",
-      "url": "https://webiis10.mondaq.com/southafrica/antitrust-eu-competition/1744728/south-african-competition-commission-issues-final-guidance-note-for-online-intermediation-platforms",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "DMA 2026 Outlook: Commission Continues Gatekeeper Investigations and Reviews DMA Scope",
-      "body": "The European Commission's 2025 DMA Annual Report confirmed ongoing investigations into gatekeeper conduct and the Commission's intention to review whether additional platforms should be designated. The DMA review consultation attracted numerous industry position papers, including from ecommerce and food-delivery operators. Prosus-linked comparators — Delivery Hero, Just Eat Takeaway, Uber Eats, Amazon — are actively engaged in DMA proceedings, and any new gatekeeper designation or obligation expansion could extend compliance burdens to mid-tier platforms in the Prosus portfolio.",
+      "title": "EU eyes tougher penalties for single market rule-breakers",
+      "body": "A draft joint declaration on One Europe, One Market Roadmap calls for Brussels to penalize foot-dragging by EU countries.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
-        "Antitrust",
         "EU"
-      ],
-      "source": "European Commission DMA Annual Report 2024",
-      "url": "https://digital-markets-act.ec.europa.eu/document/download/8ed232e8-a674-4434-a13e-8712ea42b0f5_en?filename=DMA_annual_report_2024.pdf",
-      "date": "21 April 2026"
+      ]
     },
     {
-      "title": "EU Commission AI Partnerships Under Antitrust Scrutiny — DG COMP Agenda 2026",
-      "body": "Europe's top antitrust review publication notes that AI partnerships and investments — including hyperscaler-to-startup deals — are now a primary priority for DG COMP alongside DMA enforcement. The Commission is examining whether minority stakes and preferred-partner agreements between large platforms and AI developers create de facto control or market foreclosure effects. This is directly relevant to Prosus's AI-first investment thesis and its stakes in AI companies such as Ema, Clarity, Brainfish, Advolve.AI, and Deccan AI, which may attract competition screening if any partner achieves significant market power.",
+      "title": "EU says WhatsApp AI terms update fails to resolve antitrust concerns",
+      "body": "Commission finds that Meta’s proposal to charge fees for rival AI assistants on WhatsApp is “effectively equivalent” to an outright ban on access.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
-        "AI Act",
+        "AI / Antitrust",
         "EU"
-      ],
-      "source": "Global Competition Review — Europe MEA Antitrust Review 2026",
-      "url": "https://globalcompetitionreview.com/review/europe-middle-east-and-africa-antitrust-review/2026/article/european-union-ai-partnerships-and-dma-enforcement-top-of-the-agenda-european-regulators/download",
-      "date": "21 April 2026"
+      ]
     },
     {
-      "title": "iFood CADE Data Protection Intersection: Delivery Market Data Practices Under Dual Scrutiny",
-      "body": "A December 2025 report highlighted how the dispute between iFood and rival delivery platforms raised data-protection risks alongside competition concerns. Allegations include that iFood controls access to restaurant operational data in ways that create barriers to switching, implicating both LGPD data-access rights and CADE's competition framework. The convergence of data-protection and antitrust enforcement mirrors EU practice under GDPR/DMA and signals growing regulatory sophistication in Brazil's oversight of Prosus's largest food-delivery asset.",
+      "title": "EU hires former von der Leyen aide as top competition official",
+      "body": "Anthony Whelan fills key antitrust role after monthslong search.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
-        "Data & Privacy",
-        "GDPR"
-      ],
-      "source": "Valor Econômico",
-      "url": "https://valor.globo.com/empresas/noticia/2025/12/02/disputa-no-delivery-coloca-em-xeque-protecao-de-dados.ghtml",
-      "date": "21 April 2026"
+        "EU"
+      ]
+    },
+    {
+      "title": "The EU’s Big Tech rulebook is shifting the digital economy, says Ribera",
+      "body": "Speaking at POLITICO’s European Pulse Forum, the EU’s top antitrust official pushed back against criticism that enforcement has been too slow.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust"
+      ]
     }
   ],
   "privacy": [
     {
-      "title": "Cumulative GDPR Fines Exceed €7.1 Billion — 5,467 Enforcement Actions Tracked",
-      "body": "As of April 2026, global GDPR enforcement data shows cumulative fines exceeding €7.1 billion across 33 European countries, with an average fine of €3.0 million per action. The acceleration in DPA enforcement is driven by cross-border data transfer violations, AI data processing, and children's data breaches. For Prosus, this environment heightens compliance obligations for subsidiaries processing EU personal data, including OLX Europe, Wolt's order data systems, and PayU payment-data flows. The EDPB's 2025 annual report specifically called out AI and DMA data obligations as priorities for 2026.",
+      "title": "Don’t ‘overload’ US deal with extra demands, says EU trade boss",
+      "body": "“A deal is a deal,” Maroš Šefčovič tells  POLITICO.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "GDPR",
-        "Data & Privacy",
-        "Fine",
         "EU"
-      ],
-      "source": "APIVult / EDPB 2025 Annual Report",
-      "url": "https://apivult.com/blog/gdpr-fines-7-billion-data-privacy-enforcement-2026-pii",
-      "date": "21 April 2026"
+      ]
     },
     {
-      "title": "France CNIL Fines France Travail €5M for Data Breach Affecting Millions of Job Seekers",
-      "body": "France's CNIL imposed a €5 million fine on France Travail in April 2026 for GDPR violations arising from a 2024 data breach that exposed sensitive personal data of millions of job seekers. The decision confirms that CNIL is actively pursuing breach-related fines at significant scale and that failure to implement adequate technical and organisational security measures triggers substantial penalties. Stack Overflow (Prosus portfolio) processes large volumes of developer personal data in EU member states and should review its breach-response and technical-security posture in light of this ruling.",
+      "title": "Germany’s digital minister wants a European Palantir",
+      "body": "Karsten Wildberger tells POLITICO European governments should support homegrown startups in scaling up.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "GDPR",
-        "Data & Privacy",
-        "Fine",
-        "EU"
-      ],
-      "source": "APIVult / CNIL",
-      "url": "https://apivult.com/blog/france-travail-cnil-5m-gdpr-fine-job-seeker-data-breach-2026",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "ANPD Shifts from Orientation to Accountability Phase in 2026 — LGPD Enforcement Escalation",
-      "body": "Brazil's ANPD has publicly signalled a strategic shift in 2026 from regulatory guidance to active enforcement and liability, with priority focus on data-subject rights violations and sensitive data processing. Sanctions available include fines of up to 2% of Brazilian revenue (capped at R$50 million per infraction) plus operational suspensions. iFood and PayU, both major processors of Brazilian consumer financial and behavioural data, face heightened exposure. The ANPD's new dosimetry regulation also provides a structured framework for calculating fine severity, increasing fine predictability and enforcer confidence.",
-      "tags": [
-        "Data & Privacy",
-        "Fine"
-      ],
-      "source": "Confidata / ANPD",
-      "url": "https://confidata.com.br/blog/lgpd-2026-o-que-anpd-espera",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "AEPD Fines Telecom Operator €6.5M for GDPR Failures Following Cyberattack",
-      "body": "Spain's AEPD levied a €6.5 million fine on a telecommunications company for GDPR failures exposed by a cyberattack, ruling that being a victim of a breach does not absolve controllers of responsibility for inadequate pre-existing security measures. The decision is significant for the principle that cyber-victimhood is not a defence and that data controllers must demonstrate proactive technical and organisational safeguards. PayU and other Prosus fintech entities processing payment data in Spain and EU markets should benchmark their security posture against this standard.",
-      "tags": [
-        "GDPR",
-        "Data & Privacy",
-        "Fine",
-        "EU"
-      ],
-      "source": "The National Law Review / AEPD",
-      "url": "https://natlawreview.com/article/when-data-breaches-cost-twice-aepds-landmark-fine-shows-being-victim-cyberattack",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "EDPB 2025 Annual Report: €1.15 Billion in Fines, New AI and DMA Guidelines",
-      "body": "The EDPB's 2025 annual report recorded €1.15 billion in GDPR fines for the year, alongside new guidelines intersecting the DMA's data-access obligations and the AI Act's data-governance requirements. Ireland's DPC alone contributed a large share through the TikTok €530 million decision. The EDPB flagged AI-generated personal data processing as a 2026 enforcement focus. This creates a multi-framework compliance challenge for Prosus AI subsidiaries (Ema, Clarity, Brainfish) and platforms deploying generative AI in EU-facing products.",
-      "tags": [
-        "GDPR",
-        "Data & Privacy",
-        "AI Act",
-        "Fine",
-        "EU"
-      ],
-      "source": "PPC Land / EDPB",
-      "url": "https://ppc.land/edpb-2025-annual-report-eur1-15bn-in-gdpr-fines-new-ai-and-dma-rules",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Nigeria Data Protection Commission Investigates Temu — Africa Data Enforcement Signal",
-      "body": "Nigeria's Data Protection Commission launched a formal investigation into Temu's data-processing activities in February 2026, marking a significant escalation of African DPA enforcement against non-domestic ecommerce platforms. This mirrors the South African NCC probe into Temu and Shein. For Prosus, the regulatory trajectory in Africa is material for Takealot's South African operations and for future expansion of OLX and classifieds businesses on the continent, as African DPAs increasingly model enforcement on GDPR standards.",
-      "tags": [
-        "Data & Privacy",
-        "Under Investigation"
-      ],
-      "source": "WeeTracker",
-      "url": "https://weetracker.com/2026/02/18/nigeria-south-africa-temu-regulation-probes",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Anatel Publishes AI Ethics Guidelines for Brazilian Telecoms — Data and AI Intersection",
-      "body": "Brazil's Anatel published Resolution No. 780 in August 2025 and added AI ethics guidelines to its 2025–2026 regulatory agenda, focusing on ethical AI use across the telecoms value chain including data-collection and algorithmic decision-making. Anatel's framework aligns with UNESCO and ITU recommendations. While directly targeting telecoms operators, the guidelines affect any Prosus portfolio company operating over Brazilian telecom infrastructure, particularly those leveraging AI-driven customer communications and fraud detection (PayU, iFood, Movile).",
-      "tags": [
-        "Data & Privacy",
-        "AI Act"
-      ],
-      "source": "Anatel",
-      "url": "https://informacoes.anatel.gov.br/legislacao/resolucoes/2025/2054-resolucao-anatel-780",
-      "date": "21 April 2026"
+        "UK"
+      ]
     }
   ],
-  "ip": [
-    {
-      "title": "US Court Rules AI Training on Copyrighted Works Not Protected by Fair Use",
-      "body": "A US federal court ruling in late 2025 held that training generative AI models on copyrighted works does not automatically qualify as fair use, distinguishing between the training act and the maintenance of a 'shadow library' of acquired content. The decision followed an Anthropic settlement and signals that AI developers cannot rely on a blanket fair-use defence for all aspects of LLM development. Prosus portfolio companies deploying or investing in AI (Ema, Brainfish, CodeKarma, BrainLogic AI, Advolve.AI) must review their training-data provenance and licensing arrangements to mitigate infringement liability.",
-      "tags": [
-        "IP Law",
-        "US"
-      ],
-      "source": "Mondaq / Patently-O",
-      "url": "http://dev.mondaq.com/unitedstates/copyright/1593212/court-rules-ai-training-on-copyrighted-works-is-not-fair-use--what-it-means-for-generative-ai",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "US Copyright Office Issues Report on AI Training Data Use — Regulatory Signal for AI Developers",
-      "body": "The US Copyright Office published its report addressing the use of copyrighted material to train generative AI systems, providing regulatory guidance on licensing, opt-out regimes, and compensation frameworks for rights holders. The report stops short of proposing new legislation but signals that Congress may act and that existing copyright law applies to AI training pipelines. Prosus AI ventures and its Tencent investee — one of the world's largest AI model developers — face indirect exposure to evolving US copyright standards.",
-      "tags": [
-        "IP Law",
-        "US",
-        "AI Act"
-      ],
-      "source": "Mondaq / US Copyright Office",
-      "url": "http://dev.mondaq.com/unitedstates/copyright/1632482/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Brazil PL 2338/2023 AI Bill Addresses Copyright in AI Training — Compensation Obligations Proposed",
-      "body": "Brazil's AI governance bill (PL 2338/2023), under active legislative consideration, proposes requiring AI developers to disclose the use of copyrighted materials in training datasets and to compensate rights holders. Scientific research exceptions are included. The bill also touches on AI-generated content ownership, noting that AI systems cannot hold authorship rights under Brazilian law. Prosus portfolio companies operating AI-based content services in Brazil — including Brainly and educational platforms — must monitor the bill's progress given its direct impact on AI content licensing and training-data obligations.",
-      "tags": [
-        "IP Law",
-        "AI Act"
-      ],
-      "source": "Câmara dos Deputados / indexlaw.org",
-      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/MARCOSALVESDESOUZASecretriodeDireitosAutoraiseIntelectuaisdoMINCCmaradosDeputados02.09.25.pdf/view",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Wave of Generative AI Copyright Litigation: Artists and Publishers vs. AI Developers",
-      "body": "As of late 2025, the generative AI IP litigation landscape is marked by multiple active lawsuits filed by artists, authors, and publishers against AI developers for training-data copyright infringement. Courts are grappling with questions of market substitution, transformative use, and whether AI outputs compete with the original works. A Debevoise year-in-review analysis identified at least a dozen active cases. Prosus's EdTech portfolio (GoodHabitz, Brainly, GoStudent, Eruditus, Platzi) and AI portfolio companies must assess copyright exposure in AI-generated educational content and training datasets.",
-      "tags": [
-        "IP Law",
-        "US"
-      ],
-      "source": "Debevoise & Plimpton",
-      "url": "https://www.debevoise.com/-/media/files/insights/publications/2025/12/ai-intellectual-property-disputes-the-year-in.pdf",
-      "date": "21 April 2026"
-    }
-  ],
+  "ip": [],
   "regulatory": [
     {
-      "title": "Singapore Model AI Governance Framework for Agentic AI — April 2026 Market Entry Guidance",
-      "body": "Singapore's Infocomm Media Development Authority published the Model AI Governance Framework for Agentic AI in April 2026, providing practical guidance for businesses entering the market with autonomous AI agents. The framework addresses accountability, human oversight, and transparency obligations specific to agentic architectures. Singapore is a key operational hub for Prosus's South-East Asian portfolio (Grab comparator market, PayU fintech) and for regional expansion of AI-powered services. Companies deploying agentic AI in Singapore should immediately assess framework alignment, particularly around agent-action traceability and principal-agent accountability.",
+      "title": "UK intelligence: 100 nations have spyware that can hack Britain",
+      "body": "Security officials will warn there is an increasing cyber threat from nation states at a conference in Glasgow on Wednesday.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "AI Act",
-        "Antitrust"
-      ],
-      "source": "Mayer Brown / JDSupra",
-      "url": "https://www.mayerbrown.com/en/insights/publications/2026/04/singapores-agentic-ai-framework-practical-guidance-for-market-entry",
-      "date": "21 April 2026"
+        "UK"
+      ]
     },
     {
-      "title": "EU AI Act Amendment Proposal: Commission Seeks to Simplify Harmonised AI Rules",
-      "body": "The European Commission published a proposal (COM(2025)0836) to amend the EU AI Act to simplify the implementation of harmonised rules and reduce compliance burden on deployers and providers. The proposal is part of the Commission's broader omnibus simplification agenda. While most AI Act obligations apply from August 2026–2027, the amendment could reshape conformity-assessment procedures and high-risk classification criteria affecting Prosus AI deployments across food delivery (iFood AI routing), payments (PayU fraud models), and classifieds (OLX content moderation).",
+      "title": "White House meets with Anthropic CEO amid hopes for a truce",
+      "body": "The “introductory meeting” came as the Trump administration is considering how to deploy a groundbreaking new Anthropic model amid its feud with the leading AI company.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "AI Act",
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Brussels launched an age checking app. Hackers say it takes 2 minutes to break it.",
+      "body": "Cyber experts say they have found holes in Brussels’ age verification app, despite claims by the EU executive that it is “technically ready.”",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
         "EU"
-      ],
-      "source": "European Parliament / European Commission",
-      "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0836/COM_COM(2025)0836_EN.pdf",
-      "date": "21 April 2026"
+      ]
     },
     {
-      "title": "CMA Issues Consumer Protection Guidance on Agentic AI — Dark Patterns and Collusion Risks Flagged",
-      "body": "The UK CMA published guidance clarifying that agentic AI systems used by digital platforms are subject to existing consumer protection law under the DMCCA 2024, including rules against dark patterns, deceptive personalisation, and AI-enabled price-fixing or 'agentic collusion.' The CMA flagged autonomous agent architectures that erode consumer choice as a priority enforcement risk. For Prosus, this guidance is directly relevant to any portfolio company using AI agents for pricing, recommendation, or negotiation in UK-facing digital services.",
+      "title": "Online age checks are coming in Europe",
+      "body": "European Commission President Ursula von der Leyen says the world’s biggest tech platforms have “no more excuses” for not checking users’ ages before letting them access restricted content.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "AI Act",
-        "UK",
-        "DMA"
-      ],
-      "source": "Reed Smith / CMA",
-      "url": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102mp93/regulators-turn-their-attention-to-agentic-ai",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Brazil AI Governance Bill (Government Proposal) Creates National AI System (SIA) — ANPD as Residual Regulator",
-      "body": "The Brazilian government's December 2025 AI governance bill proposes the Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA), designating the ANPD as the competent authority for AI sectors lacking a sector-specific regulator. The bill covers all AI system developers, deployers, and integrators with Brazilian nexus. iFood, PayU, and Prosus's EdTech holdings operating in Brazil fall squarely in scope. The proposed framework includes transparency obligations, civil liability for AI harms, and risk-based classification mirroring the EU AI Act.",
-      "tags": [
-        "AI Act",
-        "Data & Privacy"
-      ],
-      "source": "Gov.br",
-      "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
-      "date": "21 April 2026"
-    },
-    {
-      "title": "Deliveroo DSA Transparency Report — Platform Consumer-Protection Compliance Public Filing",
-      "body": "Deliveroo published its Digital Services Act transparency report outlining policies and mechanisms to protect consumers from illegal or dangerous items on its platform, in compliance with DSA obligations. The report details content-moderation workflows, trusted-flagger cooperation, and seller-traceability measures. As a key comparator to Prosus's food-delivery assets (iFood, Wolt, Just Eat Takeaway), Deliveroo's DSA compliance posture benchmarks the disclosure and operational standards Prosus platforms will increasingly need to match, particularly as DSA enforcement by the European Commission intensifies.",
-      "tags": [
-        "DSA",
-        "Ecommerce",
         "EU"
-      ],
-      "source": "Deliveroo Corporate",
-      "url": "https://corporate.deliveroo.co.uk/download_file/801/0",
-      "date": "21 April 2026"
+      ]
     },
     {
-      "title": "Tencent Approved for Nvidia H200 AI Chip Imports — China AI Compute Regulatory Clearance",
-      "body": "In January 2026, China approved Tencent (alongside ByteDance and Alibaba) to import over 400,000 Nvidia H200 AI chips, the first batch of approvals under China's AI compute governance framework. This regulatory green light accelerates Tencent's AI model development capacity and indirectly strengthens the valuation of Prosus's approximately 26% stake. However, the approval also embeds Tencent deeper in China's AI industrial policy, increasing exposure to US export-control counter-measures and potential secondary sanctions risk for Prosus as an EU-listed entity.",
+      "title": "‘No more excuses’: Von der Leyen says EU age checking app is ready",
+      "body": "Age verification app is central to EU effort to keep kids safe online.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "AI Act"
-      ],
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-gives-green-light-importing-first-batch-nvidias-h200-ai-chips-sources-say-2026-01-28",
-      "date": "21 April 2026"
+        "EU"
+      ]
     },
     {
-      "title": "Prosus AI-First Strategy and HY2026 Financial Results — Regulatory Risk Context",
-      "body": "Prosus's HY2026 results showed consolidated revenue growth of 22%, driven by iFood, OLX Europe, and PayU. The group has publicly declared an AI-first strategy focused on application-layer AI deployment rather than foundation-model development. This strategic framing is directly relevant to regulatory risk: application-layer AI deployment may still trigger EU AI Act high-risk obligations, while the group's investments in AI startups create potential DMA/antitrust partnership-screening exposure. The results filing serves as a baseline regulatory-risk disclosure reference for the group.",
+      "title": "European civil servants are being forced off WhatsApp",
+      "body": "Governments want to move away from “platforms over which we have no control,” says Dutch minister.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "AI Act",
-        "DMA",
-        "Antitrust"
-      ],
-      "source": "Prosus Investor Relations",
-      "url": "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/results-reports-and-events-archive/latest-results/hy2026/hy2026-summary-consolidated-financial-statements.pdf",
-      "date": "21 April 2026"
+        "NL"
+      ]
     },
     {
-      "title": "DSA Enforcement Framework — EU Commission Continues Platform Accountability Obligations for Ecommerce",
-      "body": "The EU Digital Services Act continues to impose obligations on very large online platforms and marketplaces to remove illegal content, implement seller-traceability systems, and conduct risk assessments. The Commission's September 2025 update confirmed that DSA enforcement is active and that non-compliant platforms face fines of up to 6% of global turnover. For Prosus-linked ecommerce operators, including OLX classifieds and any marketplace operations of Meesho or eMAG reaching EU thresholds, DSA compliance frameworks must include regular algorithmic-risk assessments and independent audits.",
+      "title": "Former von der Leyen aide’s new role reflects EU competition policy shift",
+      "body": "Veteran eurocrat Anthony Whelan is a safe pair of hands to lead the Commission’s competition department into a new era — especially for President Ursula von der Leyen.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "DSA",
-        "Ecommerce",
+        "EU"
+      ]
+    },
+    {
+      "title": "Robots captured Russian army positions for first time in history, Zelenskyy says",
+      "body": "“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "European regulators sidelined on Anthropic superhacking model",
+      "body": "New AI tech could pose major cybersecurity risks but many European regulators have limited oversight.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Germany’s €2B battlefield digitalization system runs into trouble",
+      "body": "Berlin is seeking fresh funding for a troubled comms system that raises questions about the country’s capacity to rearm.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Fine",
+        "DE"
+      ]
+    },
+    {
+      "title": "EU Parliament threatens to delay €1.8 trillion budget talks until 2027",
+      "body": "Lawmakers want to start technical negotiations only after member countries decide on the overall size of the EU cash pot.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
         "Fine",
         "EU"
-      ],
-      "source": "European Commission",
-      "url": "https://commission.europa.eu/news-and-media/news/digital-services-act-keeping-us-safe-online-2025-09-22_en",
-      "date": "21 April 2026"
+      ]
+    },
+    {
+      "title": "EU complaints system buckles under pressure of AI",
+      "body": "Regulators complain of surging workload and bottlenecks as citizens turn to AI to interact with officials.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "Europe should regulate Big Tech instead of banning kids from social media, Estonia says",
+      "body": "Banning kids from social media won’t work, as they “will find very quickly the ways to go around and to still use social media,” Estonian Education Minister Kristina Kallas said.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "UK looks to hold tech execs personally liable for intimate image abuse",
+      "body": "The U.K. government simultaneously announced it would ban porn depicting incest.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "UK"
+      ]
+    },
+    {
+      "title": "8 in 10 Europeans don’t trust US, Chinese firms with data",
+      "body": "Europe is rolling out measures to keep data local and reduce reliance on foreign tech.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Orbán’s government accuses Facebook of undermining his reelection campaign",
+      "body": "The “algorithm is basically working against the government parties,” said the government spokesperson — a claim that Facebook denies.",
+      "source": "Politico Tech",
+      "date": "22 April 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
     }
   ]
 }
