@@ -2,7 +2,7 @@
 title: Anthropic’s hacking tech exposes EU AI Office weaknesses
 category: ai
 source: Politico Tech
-date: 22 April 2026
+date: 23 April 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
