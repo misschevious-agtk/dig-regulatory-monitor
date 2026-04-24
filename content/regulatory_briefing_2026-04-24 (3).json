@@ -1,0 +1,336 @@
+{
+  "trending": [
+    {
+      "title": "CADE Opens Formal Proceedings Against Google Over AI-Powered Journalistic Content Scraping",
+      "body": "Brazil's CADE unanimously voted on 23 April 2026 to escalate a formal administrative process against Google for alleged exploitative abuse of dominant position in the search market. The case centres on Google's AI Overviews and search tools scraping journalistic content without offering opt-out mechanisms that do not entail search-result exclusion penalties. CADE Interim President Diogo Thomson's 184-page vote highlights that generative AI has materially worsened financial harm to media publishers, diverting traffic and ad revenue. Fines could reach up to 20% of Google's gross Brazilian revenue. The case intersects IP law (unlicensed content use), competition (dominance abuse), and AI governance (generative AI obligations), triggering multi-pillar escalation.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "IP Law",
+        "Fine",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "Folha de S.Paulo / CADE",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/04/cade-abre-processo-contra-google-por-uso-de-conteudo-jornalistico-em-buscas-e-ia.shtml",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T17:52:00Z"
+    },
+    {
+      "title": "EU Commission Proposes DMA Data-Sharing Measures on Google Search — Including AI Chatbots",
+      "body": "On 16 April 2026, the European Commission issued preliminary findings under DMA case DMA.100209, proposing that Alphabet share anonymised ranking, query, click, and view data from Google Search with third-party search engines on FRAND terms. The proposed measures explicitly extend eligibility to AI chatbots with search functionality, directly contesting Google's dominance in the search data layer. The binding decision is expected by 27 July 2026; public consultation closes 1 May 2026. Google has pushed back, arguing the measures exceed the DMA's mandate and pose privacy risks. This item escalates as it crosses Competition (DMA enforcement), AI Landscape (chatbot data access), and Data & Privacy (anonymisation protocols).",
+      "tags": [
+        "Antitrust",
+        "DMA",
+        "AI Landscape",
+        "Data & Privacy",
+        "EU",
+        "Under Investigation"
+      ],
+      "source": "European Commission / Digital Markets Act",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-proposes-measures-google-sharing-search-engine-data-third-parties-under-digital-markets-2026-04-16_en",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T00:00:00Z"
+    },
+    {
+      "title": "Prosus Sells 4.5% Delivery Hero Stake to Uber for €270M Under EC Merger Remedy",
+      "body": "Prosus agreed on 17 April 2026 to sell 13.6 million Delivery Hero shares to Uber at €20 per share (€270 million / $318 million), reducing its stake from 26.3% to 21.8%. The divestiture directly fulfils the European Commission's condition attached to Prosus's €4.1 billion acquisition of Just Eat Takeaway, which required Prosus to divest most of its Delivery Hero holding to eliminate food-delivery competition concerns. Prosus committed to sell its stake to single digits within the required timeline. The deal is a rare direct Prosus enforcement-remedy compliance event, crossing Competition (merger remedy execution), Ecommerce (food-delivery consolidation), and Corporate/Regulatory Communications pillars.",
+      "tags": [
+        "Antitrust",
+        "EU",
+        "DMA",
+        "Under Investigation"
+      ],
+      "source": "CNBC / Reuters / Bloomberg",
+      "url": "https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html",
+      "date": "2026-04-17",
+      "published_at": "2026-04-17T06:24:22Z"
+    },
+    {
+      "title": "Italian Garante Fines Poste Italiane & Postepay €12.5M for Invasive App Data Processing",
+      "body": "Italy's Garante privacy fined Poste Italiane €6.624 million and subsidiary Postepay €5.877 million on 20 April 2026, totalling over €12.5 million, for unlawfully processing millions of users' personal data through the BancoPosta and PostePay apps. The apps mandated device-monitoring permissions as a condition for use to detect fraud, but the Garante ruled this exceeded necessity and proportionality under GDPR. Additional violations included inadequate DPIA, transparency failures, and poor data retention policies. The fine is directly relevant to PayU (Prosus subsidiary, payment platform) given its comparable mobile payment data-processing model across multiple markets — this item crosses Data & Privacy and Ecommerce pillars.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "Fine",
+        "EU"
+      ],
+      "source": "Garante Privacy / ANSA",
+      "url": "https://www.ansa.it/english/news/general_news/2026/04/20/italian-data-protection-authority-fines-poste-italiane-and-postepay-over_58812328-d9dd-42c6-b8da-5fae228efc6f.html",
+      "date": "2026-04-20",
+      "published_at": "2026-04-20T15:46:00Z"
+    }
+  ],
+  "competition": [
+    {
+      "title": "UK CAT Certifies £1.7–2B Opt-Out Class Action Against Microsoft Over Cloud Licensing",
+      "body": "The UK Competition Appeal Tribunal ruled on 21 April 2026 to grant a Collective Proceedings Order (CPO) on an opt-out basis against Microsoft, clearing the way for a £1.7–2 billion ($2.3–2.7 billion) class action covering approximately 59,000 UK businesses. Claimants allege Microsoft abused its dominant position by charging more for Windows Server when run on rival clouds (AWS, Google Cloud, Alibaba) than on Azure. The CAT held the claim has 'reasonable prospects of success' and 'comfortably passes' the certification threshold. Microsoft plans to appeal. Relevant to Eruditus, GoStudent, GoodHabitz, and any portfolio company using hybrid-cloud infrastructure at scale in the UK.",
+      "tags": [
+        "Antitrust",
+        "UK",
+        "Under Investigation"
+      ],
+      "source": "The Register / Bloomberg / One Essex Court",
+      "url": "https://www.theregister.com/2026/04/22/microsoft_licensing_claim_cat/",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T11:08:04Z"
+    },
+    {
+      "title": "California AG Unseals Price-Fixing Evidence Against Amazon, Seeks Preliminary Injunction",
+      "body": "California Attorney General Rob Bonta on 20 April 2026 released largely unredacted documents from its 2022 antitrust suit against Amazon, showing internal communications where Amazon allegedly coerced vendors including Levi Strauss and Hanes into pressuring rivals (Walmart, Target, Chewy, Home Depot) to raise prices online. The court denied Amazon's summary judgment motion on 16 April 2026. Bonta is seeking a preliminary injunction and court-appointed compliance monitor; trial is set for January 2027. The case directly parallels ecommerce marketplace practices at OLX, Takealot, eMAG, and Meesho, where platform pricing policies and vendor relationships are under growing regulatory scrutiny.",
+      "tags": [
+        "Antitrust",
+        "US",
+        "Under Investigation"
+      ],
+      "source": "California AG / Reuters / AP",
+      "url": "https://oag.ca.gov/news/press-releases/naming-names-attorney-general-bonta-secures-public-access-evidence-amazon-price",
+      "date": "2026-04-20",
+      "published_at": "2026-04-20T06:02:22Z"
+    },
+    {
+      "title": "CADE Initiates Sanctions Process Against Meta/WhatsApp for Blocking Rival AI Providers",
+      "body": "CADE's tribunal placed Meta/WhatsApp on the April 23 session agenda over non-compliance with a preventive measure (Termo de Compromisso) requiring suspension of WhatsApp Business terms that excluded rival AI providers while keeping Meta AI. A daily fine of R$250,000 has been accumulating since 15 January 2026, when terms took effect. The case mirrors vertical foreclosure concerns increasingly applied to AI-platform integration, relevant to Prosus portfolio companies (Ema, BrainLogic AI, Advolve.AI) competing in AI-agent spaces where distribution via messaging platforms is critical.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "BR",
+        "Under Investigation",
+        "Fine"
+      ],
+      "source": "CADE / Mercado e Consumo",
+      "url": "https://mercadoeconsumo.com.br/17/04/2026/tecnologia/primeira-sessao-cade-novo-presidente-casos-google-meta/",
+      "date": "2026-04-17",
+      "published_at": "2026-04-17T00:00:00Z"
+    },
+    {
+      "title": "FTC Proposes Rulemaking on Hidden Fees in Online Food and Grocery Delivery",
+      "body": "The US Federal Trade Commission published an Advance Notice of Proposed Rulemaking (ANPRM) on 14–16 April 2026, targeting unfair and deceptive fee practices by platforms including DoorDash, Uber Eats, and Grubhub. The ANPRM seeks comment on whether a binding federal rule is needed to address late-disclosed fees, misleading 'free delivery' claims, tip misrepresentation, and personalized pricing. If enacted, a rule would allow the FTC to impose civil penalties and consumer redress, superseding the current patchwork of state laws. This is directly relevant to iFood, Just Eat Takeaway, Swiggy, Delivery Hero, Wolt, and Glovo, as the regulatory framework established in the US frequently signals global precedent.",
+      "tags": [
+        "Antitrust",
+        "US",
+        "Under Investigation"
+      ],
+      "source": "FTC / Federal Register",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-unfair-deceptive-fee-practices-online-food-grocery-delivery-services",
+      "date": "2026-04-14",
+      "published_at": "2026-04-14T18:20:52Z"
+    },
+    {
+      "title": "OLX Poland Upheld Fine of PLN 24.3M by Court Over Algorithmic Rating Manipulation",
+      "body": "Poland's UOKiK originally fined OLX Group PLN 28.4 million (~€6.6M) in June 2025 for misleading consumers through an algorithm that artificially inflated user ratings on OLX.pl. An April 2026 appellate court upheld the fine at PLN 24.3 million (~€5.6M), confirming the rating algorithm weighted positive reviews more heavily and categorised below-median scores as positive, deceiving platform users for over 3.5 years (November 2020 – July 2024). The ruling is now close to final. This is a direct enforcement action against a Prosus Tier 1 subsidiary, serving as a precedent for marketplace algorithmic transparency obligations across EU Member States.",
+      "tags": [
+        "Antitrust",
+        "Fine",
+        "EU"
+      ],
+      "source": "UOKiK / Wykop.pl",
+      "url": "https://uokik.gov.pl/public/en/confusing-rating-system-at-olxpl-decision-of-the-president-of-uokik",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T18:57:24Z"
+    },
+    {
+      "title": "Karnataka HC Extends Stay on CCI Antitrust Proceedings Against Swiggy",
+      "body": "India's Karnataka High Court extended its stay of the Competition Commission of India's antitrust proceedings against Swiggy on 21 April 2026, citing procedural concerns about untested third-party statements. The CCI had found violations in November 2024 based on a 2022 NRAI complaint alleging exclusivity deals, deep discounting, and platform-neutrality breaches by the food delivery platform. The next hearing is scheduled for 25 April 2026. Though Swiggy is not a Prosus subsidiary, the case sets precedent for iFood and Just Eat Takeaway in Brazil and Europe facing similar exclusivity and self-preferencing challenges.",
+      "tags": [
+        "Antitrust",
+        "IN",
+        "Under Investigation"
+      ],
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/karnataka-hc-extends-stay-on-cci-case-against-swiggy-over-data-dispute-126042101313_1.html",
+      "date": "2026-04-21",
+      "published_at": "2026-04-21T00:00:00Z"
+    }
+  ],
+  "privacy": [
+    {
+      "title": "EDPB Launches CEF 2026 Coordinated Enforcement on GDPR Transparency Obligations",
+      "body": "The European Data Protection Board launched its 2026 Coordinated Enforcement Framework (CEF) on 19 March 2026, directing 25 national DPAs to conduct simultaneous audits of data controllers — including ecommerce platforms — for compliance with GDPR Articles 12–14 (transparency and information obligations). Findings are expected in H2 2026, with potential fines to follow. The CEF is the mechanism most likely to produce binding enforcement actions against Prosus portfolio companies (OLX, eMAG, Takealot, PayU) operating across multiple EU jurisdictions.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "EU"
+      ],
+      "source": "EDPB",
+      "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+      "date": "2026-03-19",
+      "published_at": "2026-03-19T00:00:00Z"
+    },
+    {
+      "title": "ANPD Issues Resolution CD/ANPD No. 33 — New Structure Accelerates Platform Surveillance",
+      "body": "Brazil's ANPD formalised its new six-superintendency structure via Resolução CD/ANPD nº 33 on 6 April 2026, pursuant to Law 15.352/2026 (25 February 2026) which established ANPD as an autonomous regulatory agency. The resolution creates dedicated units for AI regulation and innovation technology, and 200 specialist positions via public examination. ANPD is now monitoring 37 digital platforms (Amazon, TikTok, Meta, Google, Microsoft etc.) for ECA Digital and LGPD compliance, with escalating enforcement expected from August 2026. iFood, PayU, and OLX Brazil face direct exposure as the ANPD increases its investigative bandwidth.",
+      "tags": [
+        "Data & Privacy",
+        "GDPR",
+        "AI Landscape",
+        "BR"
+      ],
+      "source": "ANPD / gov.br",
+      "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-ganha-nova-estrutura-e-se-consolida-como-agencia-reguladora",
+      "date": "2026-04-06",
+      "published_at": "2026-04-06T00:00:00Z"
+    },
+    {
+      "title": "DPC Ireland Opens Investigation into X (XIUC) for Cross-Border Data Practices",
+      "body": "Ireland's Data Protection Commission opened a formal investigation into X (formerly Twitter) in February 2026, targeting its cross-border data processing operations under GDPR's one-stop-shop mechanism. While dated to February, the investigation remains live and in the active 7-day window for monitoring given its ongoing nature and DPC's status as the lead supervisory authority for major US tech companies. The proceeding reinforces DPC enforcement precedents relevant to Prosus portfolio companies with EU-registered data-processing operations.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "EU"
+      ],
+      "source": "Data Protection Commission Ireland",
+      "url": "https://www.dataprotection.ie/en/news-media/press-releases",
+      "date": "2026-02-17",
+      "published_at": "2026-02-17T00:00:00Z"
+    },
+    {
+      "title": "CNIL & EDPB Adopt Guidelines on Scientific Research and Certification",
+      "body": "The CNIL published on 22 April 2026 that the EDPB has adopted the latest round of guidelines on scientific research exceptions and certification mechanisms under GDPR. These guidance documents define the boundaries of lawful data use for research and profiling, with direct implications for AI-training data and edtech platforms. Portfolio companies including Brainly, Eruditus, GoStudent, and GoodHabitz — which process large volumes of learner data — should assess their compliance posture against these updated standards.",
+      "tags": [
+        "Data & Privacy",
+        "GDPR",
+        "EU"
+      ],
+      "source": "CNIL",
+      "url": "https://www.cnil.fr/en/guidelines-scientific-research-and-certification-latest-documents-adopted-edps",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T00:00:00Z"
+    },
+    {
+      "title": "US SECURE Data Act Introduced — First Republican Federal Comprehensive Privacy Bill of 2026",
+      "body": "US Republicans introduced the SECURE Data Act on 22 April 2026, representing the latest attempt at comprehensive federal privacy legislation. The bill is reported to include data minimisation, consent obligations, opt-out rights for targeted advertising, and preemption of state privacy laws. While prospects for passage remain uncertain, any federal privacy framework would significantly reshape compliance obligations for US-facing portfolio companies such as Stack Overflow, Republic, Remitly, Bilt Rewards, and Despegar.",
+      "tags": [
+        "Data & Privacy",
+        "US"
+      ],
+      "source": "IAPP",
+      "url": "https://iapp.org/news/a/us-republicans-introduce-latest-comprehensive-privacy-legislation",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T00:00:00Z"
+    }
+  ],
+  "ip": [
+    {
+      "title": "US Court Denies Databricks Motion to Dismiss AI Copyright Suit — Authors' Claims Survive",
+      "body": "Judge Charles R. Breyer of the Northern District of California denied Databricks/MosaicML's motion to dismiss on 23 April 2026, allowing a class action by authors (Stewart O'Nan, Abdi Nazemian, Rebecca Makkai et al.) to proceed. Plaintiffs allege Databricks trained its MPT and DBRX LLMs on the Books3 dataset containing their works without authorisation. The court found plaintiffs' evidence of unauthorised copying sufficient to survive dismissal. The ruling reinforces the pattern that AI-training copyright suits are surviving early dismissal motions, directly relevant to Stack Overflow, Brainly, and Eruditus — all of which hold large structured content corpora potentially used in AI model training.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "US"
+      ],
+      "source": "Bloomberg Law / Publishers Lunch",
+      "url": "https://news.bloomberglaw.com/litigation/databricks-fails-to-shake-authors-ai-training-copyright-lawsuit",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T19:11:35Z"
+    },
+    {
+      "title": "Nvidia Faces Uphill Battle to Dismiss Authors' AI Copyright Suit — Judge Signals Denial",
+      "body": "On 16–17 April 2026, US District Judge Jon S. Tigar signalled he would deny Nvidia's motion to dismiss core copyright infringement claims, with the company's bid to eliminate direct and contributory claims facing open judicial scepticism. Plaintiffs allege Nvidia downloaded millions of books from shadow libraries (Anna's Archive, The Pile, SlimPajama) to train its NeMo Megatron and Nemotron models with internal executive sign-off. Only vicarious liability claims may be trimmed. The case runs parallel to Databricks and OpenAI proceedings, establishing a judicial climate hostile to AI training on pirated corpora — setting critical precedent for content-owning portfolio companies and AI-native subsidiaries alike.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "US"
+      ],
+      "source": "MLex / Law360",
+      "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2466612/nvidia-bid-to-dismiss-authors-copyright-claims-faces-skeptical-us-judge",
+      "date": "2026-04-17",
+      "published_at": "2026-04-17T01:12:00Z"
+    },
+    {
+      "title": "Brazil PL 2338/2023 (AI Framework) — Special Committee Receives New Annexations Ahead of Rapporteur Vote",
+      "body": "Brazil's Chamber of Deputies Special Committee on AI (PL 2338/2023) received multiple new bill annexations in March–April 2026, including PL 6479/2025 (7 April) and PL 762/2026, expanding the scope of the main AI regulation framework. The relator's vote, originally targeted for April 2026, is now expected before the 9 May 2026 contribution deadline. The bill's IP provisions — including controversial licensing obligations for text and data mining (TDM) — remain contested and could fundamentally alter AI training rights in Brazil, affecting Brainly, iFood AI systems, and any Prosus portfolio company training models on Brazilian content.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "BR"
+      ],
+      "source": "Câmara dos Deputados / VEJA",
+      "url": "https://veja.abril.com.br/brasil/regulacao-da-ia-esta-90-enderecada-e-deve-ser-votada-na-camara-em-abril-diz-relator/",
+      "date": "2026-04-07",
+      "published_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "title": "Conjur Report: 100+ Active IP Litigation Cases Now Involving AI-Generated Content in Brazil",
+      "body": "Brazilian legal outlet Conjur reported on 16 April 2026 that more than 100 active court proceedings in Brazil now involve intellectual property disputes related to AI-generated or AI-assisted content, up from fewer than 30 in 2024. Cases span authorship disputes, AI-generated art copyright claims, and content-scraping complaints against tech platforms. Brazilian courts have consistently ruled that AI cannot hold authorship rights under Lei 9.610/1998, but the absence of specific legislation is generating inconsistent jurisprudence. Portfolio companies including Brainly, Platzi, GoStudent, and Eruditus should monitor evolving Brazilian IP court postures.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "BR"
+      ],
+      "source": "Conjur",
+      "url": "https://www.conjur.com.br/2026-abr-16/100-processos-e-contando-propriedade-intelectual-na-era-da-inteligencia-artificial/",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T00:00:00Z"
+    }
+  ],
+  "ai_landscape": [
+    {
+      "title": "OpenAI Releases GPT-5.5 — Strongest Agentic Capabilities and Safety Mandates to Date",
+      "body": "OpenAI released GPT-5.5 on 23 April 2026, a frontier model with state-of-the-art performance on agentic benchmarks including multi-stage scientific workflows (GeneBench, BixBench) and complex coding tasks. The Preparedness Framework rates GPT-5.5 as 'High' in both cyber and bio capability, triggering the company's strongest-ever safeguards deployment: 5,000+ hours of red-teaming, multilayer bio/cyber mitigation, and TerminalBench misalignment evaluations. The model runs natively on NVIDIA GB200. Its release under EU AI Act Chapter V (GPAI obligations) means OpenAI must publish training data summaries and incident-reporting procedures applicable since August 2025.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "EU",
+        "US"
+      ],
+      "source": "OpenAI / TechCrunch",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T00:00:00Z"
+    },
+    {
+      "title": "Anthropic Releases Claude Opus 4.7 Under ASL-3 — Advanced Agentic Coding and Computer Use",
+      "body": "Anthropic launched Claude Opus 4.7 on 16 April 2026, rated ASL-3 under the Responsible Scaling Policy, with leading scores on SWE-bench Verified (87.6%) and XBOW agentic cybersecurity (98.5%). The model significantly advances computer-use and autonomous coding capabilities. A separate limited release of Claude Mythos (7 April), restricted to 12 partners including Amazon and Microsoft, achieved identification of thousands of zero-day vulnerabilities, raising concerns about agentic AI in offensive cyber contexts. Anthropic confirmed Mythos will not receive general release until safeguards for less capable models are validated — establishing a new benchmark for agentic AI deployment governance.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "EU",
+        "US"
+      ],
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T00:00:00Z"
+    },
+    {
+      "title": "EU Commission Publishes Preliminary Guidance on Agentic AI Under AI Act — August 2026 Deadline Looms",
+      "body": "The European Commission published preliminary guidance in April 2026 confirming that agentic AI systems are subject to the existing EU AI Act risk-based framework. Prohibited practices (Article 5) apply immediately; high-risk obligations under Chapter III activate 2 August 2026 for most deployments. Multi-agent chains raise unresolved accountability questions across providers, deployers, importers, and distributors. Policy experts recommend mandatory agent registries, comprehensive logging, and rapid revocation mechanisms. Portfolio AI companies — Ema, Clarity, Brainfish, CodeKarma, Advolve.AI — must complete conformity assessments before 2 August 2026.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "EU"
+      ],
+      "source": "European Commission / artificialintelligence-news.com",
+      "url": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T00:00:00Z"
+    },
+    {
+      "title": "Google DeepMind Launches Gemini Deep Research Agents with MCP Tool Integration",
+      "body": "Google DeepMind released Deep Research and Deep Research Max (powered by Gemini 3.1 Pro) on 21 April 2026, enabling autonomous long-horizon research agents that integrate multi-source search (web + proprietary), MCP tool calling, and evidence synthesis. The agents operate under Gemini safety policies including runtime Model Armor protection against prompt injection and Agent Gateway for identity governance. As GPAI-based agentic systems, they are subject to EU AI Act Chapter V incident-reporting and training-data summary obligations. The release adds competitive pressure on Prosus AI portfolio companies (Clarity, Brainfish) operating research-automation use cases.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "EU"
+      ],
+      "source": "Google DeepMind / TechCrunch",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+      "date": "2026-04-21",
+      "published_at": "2026-04-21T00:00:00Z"
+    },
+    {
+      "title": "TSE Brazil Enforces AI Deepfake Ban and Mandatory Labelling for 2026 Elections",
+      "body": "Brazil's Supreme Electoral Court (TSE) Resolução 23.755/2026 (2 March 2026) entered active enforcement in April 2026, prohibiting deepfake content in the 72-hour windows before and after elections, requiring mandatory watermarking of AI-generated political content, and imposing fines of R$5,000–30,000 per violation. The TSE published voter-facing communications in April 2026 explaining the rules. This is relevant to any Prosus portfolio company operating ad-tech, content platforms, or social commerce in Brazil (iFood, OLX, Brainly) during the 2026 election cycle.",
+      "tags": [
+        "AI Landscape",
+        "Data & Privacy",
+        "BR"
+      ],
+      "source": "TSE Brasil",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Abril/por-dentro-das-eleicoes-conheca-as-regras-sobre-uso-de-ia-na-campanha-eleitoral-de-2026",
+      "date": "2026-04-01",
+      "published_at": "2026-04-01T00:00:00Z"
+    }
+  ]
+}
