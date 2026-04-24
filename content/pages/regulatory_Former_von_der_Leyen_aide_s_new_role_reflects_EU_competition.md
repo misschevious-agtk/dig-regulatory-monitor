@@ -2,7 +2,7 @@
 title: Former von der Leyen aide’s new role reflects EU competition policy shift
 category: regulatory
 source: Politico Tech
-date: 23 April 2026
+date: 24 April 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

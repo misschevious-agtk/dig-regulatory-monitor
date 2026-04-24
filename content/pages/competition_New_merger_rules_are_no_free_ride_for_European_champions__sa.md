@@ -2,7 +2,7 @@
 title: New merger rules are no free ride for European champions, says Teresa Ribera
 category: competition
 source: Politico Tech
-date: 23 April 2026
+date: 24 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

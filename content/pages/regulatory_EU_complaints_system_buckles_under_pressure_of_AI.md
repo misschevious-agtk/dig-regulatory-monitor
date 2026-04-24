@@ -2,7 +2,7 @@
 title: EU complaints system buckles under pressure of AI
 category: regulatory
 source: Politico Tech
-date: 23 April 2026
+date: 24 April 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
