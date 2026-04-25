@@ -2,7 +2,7 @@
 title: Germany’s €2B battlefield digitalization system runs into trouble
 category: regulatory
 source: Politico Tech
-date: 24 April 2026
+date: 25 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, DE
 ---

@@ -2,7 +2,7 @@
 title: Europe should regulate Big Tech instead of banning kids from social media, Estonia says
 category: regulatory
 source: Politico Tech
-date: 24 April 2026
+date: 25 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
