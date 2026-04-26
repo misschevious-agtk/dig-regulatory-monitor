@@ -1,7 +1,8 @@
 {
-  "last_sync": "2026-04-25T08:38:22.716510Z",
+  "last_sync": "2026-04-26T09:16:12.857580Z",
   "changed_files": [
     "ai_Anthropic_s_hacking_tech_exposes_EU_AI_Office_weaknesses.md",
+    "ai_Florida_launches__criminal_investigation__into_ChatGPT__fuel.md",
     "competition_EU_eyes_tougher_penalties_for_single_market_rule-breakers.md",
     "competition_EU_hires_former_von_der_Leyen_aide_as_top_competition_offici.md",
     "competition_EU_says_WhatsApp_AI_terms_update_fails_to_resolve_antitrust_.md",
@@ -9,30 +10,29 @@
     "privacy_Don_t__overload__US_deal_with_extra_demands__says_EU_trade_b.md",
     "privacy_Germany_s_digital_minister_wants_a_European_Palantir.md",
     "privacy_The_problem_with_Europe_s_Big_Tech_breakup__It_s_still_hooke.md",
-    "regulatory_American_soldier_arrested_over_Polymarket_wagers_tied_to_Mad.md",
     "regulatory_Brussels_launched_an_age_checking_app__Hackers_say_it_takes_.md",
     "regulatory_EU_Commission_jobs_reshuffle_on_hold_as_chiefs_stick_in_post.md",
     "regulatory_EU_Parliament_threatens_to_delay__1_8_trillion_budget_talks_.md",
     "regulatory_EU_complaints_system_buckles_under_pressure_of_AI.md",
     "regulatory_EU_top_court_strikes_down_Hungary_s_anti-LGBTQ__rules.md",
-    "regulatory_Europe_should_regulate_Big_Tech_instead_of_banning_kids_from.md",
     "regulatory_European_civil_servants_are_being_forced_off_WhatsApp.md",
     "regulatory_European_regulators_sidelined_on_Anthropic_superhacking_mode.md",
     "regulatory_Former_von_der_Leyen_aide_s_new_role_reflects_EU_competition.md",
     "regulatory_Germany_faces_resistance_in_push_to_weaken_AI_rules.md",
     "regulatory_Germany_s__2B_battlefield_digitalization_system_runs_into_tr.md",
     "regulatory_Germany_turns_to_Brazil_as_US_ties_fray.md",
+    "regulatory_Head_of_UK_data_watchdog_voluntarily_steps_aside_amid_HR_pro.md",
     "regulatory_Online_age_checks_are_coming_in_Europe.md",
     "regulatory_Robots_captured_Russian_army_positions_for_first_time_in_his.md",
     "regulatory_White_House_meets_with_Anthropic_CEO_amid_hopes_for_a_truce.md",
     "regulatory__No_more_excuses___Von_der_Leyen_says_EU_age_checking_app_is.md"
   ],
   "total_changed": 25,
-  "total_articles": 24,
+  "total_articles": 23,
   "by_category": {
     "competition": 4,
     "privacy": 3,
     "ip": 0,
-    "regulatory": 17
+    "regulatory": 16
   }
 }
