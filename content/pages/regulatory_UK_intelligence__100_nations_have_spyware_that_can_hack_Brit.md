@@ -2,7 +2,7 @@
 title: UK intelligence: 100 nations have spyware that can hack Britain
 category: regulatory
 source: Politico Tech
-date: 22 April 2026
+date: 27 April 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
