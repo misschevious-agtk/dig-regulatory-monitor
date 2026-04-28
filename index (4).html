@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DIG Regulatory Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Syne:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:        #0B1724;
+  --navy-2:      #152234;
+  --navy-3:      #1E3148;
+  --gold:        #B8872A;
+  --gold-light:  #D4A84B;
+  --gold-pale:   #F5EDD8;
+  --cream:       #F4F1EC;
+  --white:       #FFFFFF;
+  --ink:         #0B1724;
+  --ink-2:       #3D4F62;
+  --ink-3:       #7A8FA3;
+  --rule:        #E3DDD4;
+  --rule-light:  #EDE9E3;
+
+  --cat-comp:      #1B3F6E; --cat-comp-bg:    #E8EFF8;
+  --cat-priv:      #1A5438; --cat-priv-bg:    #E6F2EC;
+  --cat-ip:        #6B3D0A; --cat-ip-bg:      #F6EDE0;
+  --cat-reg:       #4A1A6B; --cat-reg-bg:     #F0E8F6;
+  --cat-anti:      #6B1A1A; --cat-anti-bg:    #F6E8E8;
+  --cat-cartel:    #6B3A0A; --cat-cartel-bg:  #F6EDE0;
+  --cat-status:    #1A2E6B; --cat-status-bg:  #E8ECF6;
+  --cat-geo-bg:    #152234; --cat-geo:        #94B4CC;
+  --cat-ai:        #0F4A3A; --cat-ai-bg:      #E0F2EC;
+  --cat-ai-2:      #1A6B5A; --cat-ai-2-bg:    #D0EDE6;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Syne', sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; } to { opacity: 1; }
+}
+@keyframes shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(0.7); }
+}
+
+/* ── Header ── */
+header {
+  background: var(--navy);
+  height: 58px; padding: 0 2.5rem;
+  display: flex; align-items: center; justify-content: space-between;
+  position: sticky; top: 0; z-index: 200;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  animation: fadeIn 0.4s both;
+}
+.header-left { display: flex; align-items: center; gap: 14px; }
+.hamburger { display: flex; flex-direction: column; gap: 4.5px; cursor: pointer; padding: 4px; transition: opacity 0.2s; }
+.hamburger:hover { opacity: 0.6; }
+.hamburger span { display: block; width: 18px; height: 1.5px; background: rgba(255,255,255,0.45); border-radius: 2px; }
+.brand { display: flex; align-items: center; }
+.brand-name { font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #fff; }
+.brand-sep { width: 1px; height: 14px; background: rgba(255,255,255,0.2); margin: 0 13px; }
+.brand-sub { font-size: 12px; font-weight: 400; letter-spacing: 0.05em; color: rgba(255,255,255,0.5); }
+.header-right { display: flex; align-items: center; gap: 18px; }
+.hdr-team { font-size: 11.5px; color: rgba(255,255,255,0.4); letter-spacing: 0.03em; }
+.hdr-date { font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.06em; color: var(--gold-light); }
+
+/* ── Navigation ── */
+nav {
+  background: var(--white);
+  border-bottom: 1px solid var(--rule);
+  padding: 0 2.5rem;
+  display: flex; gap: 0;
+  position: sticky; top: 58px; z-index: 100;
+  animation: fadeIn 0.5s 0.1s both;
+  overflow-x: auto; scrollbar-width: none;
+}
+nav::-webkit-scrollbar { display: none; }
+
+.nav-tab {
+  padding: 15px 18px;
+  font-size: 12px; font-weight: 500;
+  letter-spacing: 0.04em; color: var(--ink-3);
+  cursor: pointer; border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+  white-space: nowrap; user-select: none;
+  display: flex; align-items: center; gap: 7px;
+  flex-shrink: 0;
+}
+.nav-tab:hover { color: var(--ink); }
+.nav-tab.active { color: var(--navy); border-bottom-color: var(--gold); }
+
+.nav-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9.5px; padding: 2px 6px; border-radius: 2px;
+  background: var(--rule-light); color: var(--ink-3);
+  transition: background 0.2s, color 0.2s;
+  min-width: 20px; text-align: center;
+}
+.nav-tab.active .nav-count { background: var(--gold-pale); color: var(--gold); }
+
+/* AI tab */
+.nav-tab.ai-tab { color: var(--cat-ai-2); }
+.nav-tab.ai-tab .nav-count { background: var(--cat-ai-bg); color: var(--cat-ai-2); }
+.nav-tab.ai-tab.active { border-bottom-color: var(--cat-ai-2); color: var(--cat-ai); }
+.ai-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--cat-ai-2); animation: pulse 2s ease-in-out infinite; }
+
+/* ── Main ── */
+main { max-width: 1180px; margin: 0 auto; padding: 2.75rem 2rem 5rem; }
+
+.section-head {
+  display: flex; align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  animation: fadeUp 0.5s 0.15s both;
+}
+.section-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 28px; font-weight: 600;
+  color: var(--navy); letter-spacing: -0.02em;
+}
+.section-title.ai-title  { color: var(--cat-ai); }
+.section-meta { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-3); letter-spacing: 0.05em; }
+
+/* Section banners */
+.section-banner {
+  border-radius: 4px; padding: 1rem 1.5rem;
+  margin-bottom: 1.75rem;
+  display: flex; align-items: center; gap: 12px;
+  animation: fadeUp 0.5s 0.1s both;
+}
+.ai-banner  { background: linear-gradient(135deg, #0B1F1A 0%, #0F2E26 50%, #0B1F1A 100%); border: 1px solid rgba(26,107,90,0.3); }
+.banner-dot { width: 8px; height: 8px; border-radius: 50%; animation: pulse 2s ease-in-out infinite; flex-shrink: 0; }
+.ai-banner .banner-dot  { background: #4AB89A; }
+.banner-text { font-size: 12px; color: rgba(255,255,255,0.55); letter-spacing: 0.03em; line-height: 1.5; }
+.ai-banner .banner-text strong  { color: #4AB89A; font-weight: 500; }
+
+/* ── Day group divider (today first, descending) ── */
+.day-group-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 0.5rem 0 0.75rem;
+  border-bottom: 1px solid var(--rule);
+  margin: 0 0 1.25rem;
+  display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
+  animation: fadeUp 0.4s var(--ease) both;
+}
+.day-group-label.today {
+  color: var(--gold);
+  border-bottom-color: var(--gold-pale);
+}
+.day-group-label .day-label-name {
+  font-weight: 600; letter-spacing: 0.14em;
+}
+.day-group-label .day-meta {
+  opacity: 0.75; font-weight: 400;
+}
+.day-group { margin-bottom: 2.5rem; }
+.day-group:last-child { margin-bottom: 0; }
+
+/* ── Cards ── */
+.cards-wrap { display: flex; flex-direction: column; gap: 1.125rem; }
+.card-featured { width: 100%; }
+.cards-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.125rem; }
+
+.card {
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1.625rem 1.875rem 1.375rem;
+  display: flex; flex-direction: column; gap: 0.875rem;
+  transition: border-color 0.25s var(--ease), transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
+  animation: fadeUp 0.5s var(--ease) both;
+  position: relative; overflow: hidden;
+}
+.card::before {
+  content: ''; position: absolute;
+  left: 0; top: 0; bottom: 0; width: 3px;
+  background: var(--gold);
+  transform: scaleY(0); transform-origin: bottom;
+  transition: transform 0.3s var(--ease);
+}
+.card:hover { border-color: #C8B99A; transform: translateY(-2px); box-shadow: 0 8px 32px rgba(11,23,36,0.08); }
+.card:hover::before { transform: scaleY(1); }
+.card-featured .card { padding: 2rem 2.25rem 1.625rem; }
+.card.ai-card::before { background: var(--cat-ai-2); }
+.card.ai-card:hover { border-color: rgba(26,107,90,0.4); }
+
+/* Today highlight: gold left rail visible by default */
+.card.today-card::before { transform: scaleY(1); }
+
+/* Tags */
+.card-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.tag {
+  font-size: 9.5px; font-weight: 600;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 3px 8px; border-radius: 2px; white-space: nowrap;
+}
+.tag-competition { background: var(--cat-comp-bg); color: var(--cat-comp); }
+.tag-privacy     { background: var(--cat-priv-bg); color: var(--cat-priv); }
+.tag-ip          { background: var(--cat-ip-bg);   color: var(--cat-ip); }
+.tag-regulatory  { background: var(--cat-reg-bg);  color: var(--cat-reg); }
+.tag-antitrust   { background: var(--cat-anti-bg); color: var(--cat-anti); }
+.tag-cartel      { background: var(--cat-cartel-bg); color: var(--cat-cartel); }
+.tag-status      { background: var(--cat-status-bg); color: var(--cat-status); }
+.tag-geo         { background: var(--cat-geo-bg);  color: var(--cat-geo); font-size: 9px; }
+.tag-ai          { background: var(--cat-ai-bg);   color: var(--cat-ai); }
+.tag-entity      { background: var(--gold);        color: var(--white); font-weight: 700; }
+
+/* Card title */
+.card-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px; font-weight: 600; line-height: 1.3;
+  color: var(--navy); letter-spacing: -0.01em;
+  text-decoration: none; display: block;
+  transition: color 0.2s var(--ease);
+}
+.card-title:hover { color: var(--gold); }
+.card-title.ai-link:hover  { color: var(--cat-ai-2); }
+.card-title.no-link { pointer-events: none; }
+.card-featured .card-title { font-size: 23px; }
+
+.card-body { font-size: 13.5px; line-height: 1.8; color: var(--ink-2); font-weight: 400; }
+
+.card-footer {
+  display: flex; align-items: center; justify-content: space-between;
+  padding-top: 0.875rem; border-top: 1px solid var(--rule-light);
+  margin-top: auto; gap: 1rem;
+}
+.card-source { font-size: 11.5px; color: var(--ink-3); font-style: italic; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
+.card-date   { font-family: 'JetBrains Mono', monospace; font-size: 10.5px; color: var(--ink-3); letter-spacing: 0.04em; white-space: nowrap; }
+
+/* ── Past News ── */
+.past-empty { background: var(--white); border: 1px dashed var(--rule); border-radius: 4px; padding: 3.5rem 2rem; text-align: center; }
+.past-empty p { font-size: 13px; color: var(--ink-3); line-height: 1.7; }
+.past-empty strong { color: var(--ink-2); }
+.past-group-label { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-3); padding: 0.5rem 0 0.75rem; border-bottom: 1px solid var(--rule); margin-bottom: 1rem; }
+.clear-past-btn { font-size: 11px; font-weight: 500; letter-spacing: 0.04em; color: var(--ink-3); background: none; border: 1px solid var(--rule); border-radius: 3px; padding: 6px 14px; cursor: pointer; transition: color 0.2s, border-color 0.2s; }
+.clear-past-btn:hover { color: var(--cat-anti); border-color: #F0C0C0; }
+
+/* ── Status bar ── */
+.status-bar {
+  background: var(--navy-2);
+  padding: 0 2.5rem;
+  border-top: 1px solid rgba(255,255,255,0.04);
+  display: flex; align-items: stretch;
+  min-height: 44px; overflow-x: auto; scrollbar-width: none;
+}
+.status-bar::-webkit-scrollbar { display: none; }
+.status-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9.5px; letter-spacing: 0.1em; text-transform: uppercase;
+  color: rgba(255,255,255,0.25);
+  display: flex; align-items: center;
+  padding-right: 1.5rem; border-right: 1px solid rgba(255,255,255,0.07);
+  white-space: nowrap; flex-shrink: 0;
+}
+.regulator-links { display: flex; align-items: center; gap: 0; flex: 1; overflow-x: auto; scrollbar-width: none; }
+.regulator-links::-webkit-scrollbar { display: none; }
+.reg-link {
+  display: flex; align-items: center; gap: 7px;
+  padding: 0 1.25rem; height: 44px;
+  font-size: 11.5px; font-weight: 500;
+  color: rgba(255,255,255,0.45);
+  text-decoration: none; white-space: nowrap;
+  border-right: 1px solid rgba(255,255,255,0.06);
+  transition: color 0.2s, background 0.2s;
+  letter-spacing: 0.02em; flex-shrink: 0;
+}
+.reg-link:hover { color: rgba(255,255,255,0.9); background: rgba(255,255,255,0.04); }
+.reg-link:first-child { padding-left: 1.5rem; }
+.reg-link-geo { font-family: 'JetBrains Mono', monospace; font-size: 8.5px; padding: 2px 5px; border-radius: 2px; background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.35); letter-spacing: 0.06em; }
+.status-sync { display: flex; align-items: center; padding-left: 1.25rem; border-left: 1px solid rgba(255,255,255,0.07); font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--gold-light); letter-spacing: 0.05em; white-space: nowrap; flex-shrink: 0; margin-left: auto; }
+
+/* ── Footer ── */
+footer { background: var(--white); border-top: 1px solid var(--rule); padding: 1.375rem 2.5rem; display: flex; align-items: center; justify-content: space-between; }
+.footer-l { display: flex; align-items: center; gap: 10px; }
+.footer-brand { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--navy); }
+.footer-desc { font-size: 11.5px; color: var(--ink-3); }
+.footer-r { display: flex; align-items: center; gap: 1.25rem; flex-wrap: wrap; }
+.footer-link { font-size: 11.5px; color: var(--ink-3); text-decoration: none; transition: color 0.18s; }
+.footer-link:hover { color: var(--navy); }
+
+/* ── Skeleton ── */
+.skeleton { background: linear-gradient(90deg, #ece8e1 25%, #e4e0d9 50%, #ece8e1 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 3px; }
+.skeleton-card { background: var(--white); border: 1px solid var(--rule); border-radius: 4px; padding: 1.625rem 1.875rem; display: flex; flex-direction: column; gap: 12px; }
+.sk-tags { display: flex; gap: 6px; }
+.sk-tag { height: 18px; width: 70px; }
+.sk-t1 { height: 22px; width: 90%; } .sk-t2 { height: 22px; width: 65%; }
+.sk-b1 { height: 14px; width: 100%; } .sk-b2 { height: 14px; width: 85%; } .sk-b3 { height: 14px; width: 72%; }
+.sk-f  { height: 12px; width: 40%; margin-top: 8px; }
+
+.empty-section { background: var(--white); border: 1px dashed var(--rule); border-radius: 4px; padding: 2.5rem; text-align: center; color: var(--ink-3); font-size: 13px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="hamburger"><span></span><span></span><span></span></div>
+    <div class="brand">
+      <span class="brand-name">DIG</span>
+      <div class="brand-sep"></div>
+      <span class="brand-sub">Regulatory Monitor</span>
+    </div>
+  </div>
+  <div class="header-right">
+    <span class="hdr-team">Digital Regulatory Team</span>
+    <span class="hdr-date" id="hdr-date"></span>
+  </div>
+</header>
+
+<nav id="main-nav">
+  <div class="nav-tab active"  data-section="trending">Trending Today<span class="nav-count" id="nc-trending"></span></div>
+  <div class="nav-tab"         data-section="competition">Competition Law<span class="nav-count" id="nc-competition"></span></div>
+  <div class="nav-tab"         data-section="privacy">Data &amp; Privacy<span class="nav-count" id="nc-privacy"></span></div>
+  <div class="nav-tab"         data-section="ip">IP Law<span class="nav-count" id="nc-ip"></span></div>
+  <div class="nav-tab ai-tab"  data-section="ai_landscape"><span class="ai-dot"></span>AI Landscape<span class="nav-count" id="nc-ai_landscape"></span></div>
+  <div class="nav-tab"         data-section="past">Past News<span class="nav-count" id="nc-past"></span></div>
+</nav>
+
+<main id="main-content">
+  <div>
+    <div class="section-head" style="animation:none;">
+      <div class="skeleton" style="height:28px;width:180px;"></div>
+    </div>
+    <div class="cards-wrap">
+      <div class="card-featured">
+        <div class="skeleton-card">
+          <div class="sk-tags"><div class="skeleton sk-tag"></div><div class="skeleton sk-tag"></div></div>
+          <div class="skeleton sk-t1"></div><div class="skeleton sk-t2"></div>
+          <div class="skeleton sk-b1"></div><div class="skeleton sk-b2"></div><div class="skeleton sk-b3"></div>
+          <div class="skeleton sk-f"></div>
+        </div>
+      </div>
+      <div class="cards-row">
+        <div class="skeleton-card"><div class="sk-tags"><div class="skeleton sk-tag"></div></div><div class="skeleton sk-t1"></div><div class="skeleton sk-t2"></div><div class="skeleton sk-b1"></div><div class="skeleton sk-b2"></div><div class="skeleton sk-f"></div></div>
+        <div class="skeleton-card"><div class="sk-tags"><div class="skeleton sk-tag"></div></div><div class="skeleton sk-t1"></div><div class="skeleton sk-t2"></div><div class="skeleton sk-b1"></div><div class="skeleton sk-b2"></div><div class="skeleton sk-f"></div></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<div class="status-bar">
+  <span class="status-label">Quick Access</span>
+  <div class="regulator-links">
+    <a class="reg-link" href="https://ec.europa.eu/commission/presscorner/home/en" target="_blank" rel="noopener">EC Press Releases<span class="reg-link-geo">EU</span></a>
+    <a class="reg-link" href="https://www.edpb.europa.eu/news/news_en" target="_blank" rel="noopener">EDPB News<span class="reg-link-geo">EU</span></a>
+    <a class="reg-link" href="https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/" target="_blank" rel="noopener">ICO News<span class="reg-link-geo">UK</span></a>
+    <a class="reg-link" href="https://www.cma.gov.uk/news-and-events/news" target="_blank" rel="noopener">CMA News<span class="reg-link-geo">UK</span></a>
+    <a class="reg-link" href="https://digital-markets-act.ec.europa.eu/news_en" target="_blank" rel="noopener">DMA Enforcement<span class="reg-link-geo">EU</span></a>
+    <a class="reg-link" href="https://www.ftc.gov/news-events/news" target="_blank" rel="noopener">FTC News<span class="reg-link-geo">US</span></a>
+    <a class="reg-link" href="https://cci.gov.in/press-release" target="_blank" rel="noopener">CCI Press<span class="reg-link-geo">IN</span></a>
+    <a class="reg-link" href="https://digital-strategy.ec.europa.eu/en/news" target="_blank" rel="noopener">EU AI Office<span class="reg-link-geo">EU</span></a>
+    <a class="reg-link" href="https://www.wipo.int/pressroom/en/" target="_blank" rel="noopener">WIPO Press<span class="reg-link-geo">INT</span></a>
+  </div>
+  <span class="status-sync" id="status-sync">Last updated: —</span>
+</div>
+
+<footer>
+  <div class="footer-l">
+    <span class="footer-brand">DIG</span>
+    <span class="footer-desc">Digital Regulatory Team · Internal Use Only</span>
+  </div>
+  <div class="footer-r">
+    <a href="#" class="footer-link">Data/Privacy</a>
+    <a href="#" class="footer-link">Competition</a>
+    <a href="#" class="footer-link">IP</a>
+    <a href="#" class="footer-link">AI Landscape</a>
+  </div>
+</footer>
+
+<script>
+// ──────────────────────────────────────────────────────────
+// Date helpers
+// ──────────────────────────────────────────────────────────
+const WINDOW_DAYS = 7;
+
+function parseDate(item) {
+  // Prefer published_at (full ISO) over date (string)
+  const ts = item?.published_at || item?.date;
+  if (!ts) return null;
+  const d = new Date(ts);
+  return isNaN(d) ? null : d;
+}
+
+function daysAgo(date) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const cmp = new Date(date);
+  cmp.setHours(0, 0, 0, 0);
+  return Math.floor((today - cmp) / 86400000);
+}
+
+function isToday(date) { return daysAgo(date) === 0; }
+function isThisWeek(date) {
+  const d = daysAgo(date);
+  return d >= 0 && d < WINDOW_DAYS;
+}
+
+function dayLabel(date) {
+  const d = daysAgo(date);
+  if (d === 0) return 'Today';
+  if (d === 1) return 'Yesterday';
+  return new Intl.DateTimeFormat('en-GB', { weekday: 'long', day: 'numeric', month: 'long' }).format(date);
+}
+
+function formatDate(raw) {
+  if (!raw) return '';
+  if (typeof raw === 'string' && /^\d{1,2}\s+\w+\s+\d{4}$/.test(raw.trim())) return raw.trim();
+  const d = raw instanceof Date ? raw : new Date(raw);
+  if (!isNaN(d)) return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  return raw;
+}
+
+function formatDateShort(date) {
+  return new Intl.DateTimeFormat('en-GB', { day: '2-digit', month: 'short' }).format(date);
+}
+
+function sortDesc(items) {
+  return [...items].sort((a, b) => {
+    const da = parseDate(a), db = parseDate(b);
+    if (!da && !db) return 0;
+    if (!da) return 1;
+    if (!db) return -1;
+    return db - da;
+  });
+}
+
+function groupByDay(items) {
+  const map = new Map();
+  for (const item of items) {
+    const d = parseDate(item);
+    if (!d) continue;
+    const key = d.toISOString().slice(0, 10);
+    if (!map.has(key)) map.set(key, { date: d, items: [] });
+    map.get(key).items.push(item);
+  }
+  return [...map.values()].sort((a, b) => b.date - a.date);
+}
+
+// ──────────────────────────────────────────────────────────
+// Header date
+// ──────────────────────────────────────────────────────────
+const now = new Date();
+document.getElementById('hdr-date').textContent = now.toLocaleDateString('en-GB', {
+  weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+});
+
+// ──────────────────────────────────────────────────────────
+// Tags
+// ──────────────────────────────────────────────────────────
+const GEO = new Set(['EU','US','UK','DE','FR','IN','CN','NL','BR','ZA','SG','AU','JP','BE','IE','ES','IT','PL','INT']);
+
+function tagClass(t) {
+  if (GEO.has(t.toUpperCase())) return 'tag-geo';
+  const s = t.toLowerCase();
+  if (s.includes('ai / anti') || s.includes('ai antitrust')) return 'tag-antitrust';
+  if (s.includes('antitrust') || s.includes('competition') || s.includes('dma')) return 'tag-antitrust';
+  if (s.includes('cartel')) return 'tag-cartel';
+  if (s.includes('gdpr') || s.includes('lgpd') || s.includes('popia') || s.includes('pdpb') || s.includes('privacy') || s.includes('data')) return 'tag-privacy';
+  if (s === 'ai' || s.includes('ai act') || s.includes('ai landscape') || s.includes('ai governance') || s.includes('llm') || s.includes('generative')) return 'tag-ai';
+  if (s.includes('ip') || s.includes('copyright') || s.includes('patent') || s.includes('trademark')) return 'tag-ip';
+  if (s.includes('investigation') || s.includes('fine') || s.includes('pending') || s.includes('under') || s.includes('court') || s.includes('ruling')) return 'tag-status';
+  return 'tag-status';
+}
+
+function renderTags(tags, entities) {
+  let html = '';
+  if (entities && entities.length) {
+    entities.slice(0, 2).forEach(e => {
+      html += `<span class="tag tag-entity">${e}</span>`;
+    });
+  }
+  html += (tags || []).map(t => `<span class="tag ${tagClass(t)}">${t}</span>`).join('');
+  return html;
+}
+
+// ──────────────────────────────────────────────────────────
+// Card
+// ──────────────────────────────────────────────────────────
+function renderCard(a, featured, delay, variant, isTodayItem) {
+  const url = a.url && a.url !== '' && !a.url.includes('github.io') ? a.url : null;
+  const extraClass = [
+    variant === 'ai' ? 'ai-card' : '',
+    isTodayItem ? 'today-card' : ''
+  ].filter(Boolean).join(' ');
+  const linkHover = variant === 'ai' ? 'ai-link' : '';
+  const titleClass = ['card-title', url ? linkHover : 'no-link'].filter(Boolean).join(' ');
+  const titleEl = url
+    ? `<a class="${titleClass}" href="${url}" target="_blank" rel="noopener">${a.title || 'Untitled'}</a>`
+    : `<span class="${titleClass}">${a.title || 'Untitled'}</span>`;
+
+  return `
+    <div class="${featured ? 'card-featured' : ''}">
+      <div class="card ${extraClass}" style="animation-delay:${delay}s">
+        <div class="card-tags">${renderTags(a.tags || [], a.entity_match || [])}</div>
+        ${titleEl}
+        <div class="card-body">${a.body || ''}</div>
+        <div class="card-footer">
+          <span class="card-source">${a.source || ''}</span>
+          <span class="card-date">${formatDate(a.date)}</span>
+        </div>
+      </div>
+    </div>`;
+}
+
+// ──────────────────────────────────────────────────────────
+// Section meta — 5 pillars (no e-commerce)
+// ──────────────────────────────────────────────────────────
+const SECTION_META = {
+  trending:    { label: 'Trending Today',  variant: '',   banner: null },
+  competition: { label: 'Competition Law', variant: '',   banner: null },
+  privacy:     { label: 'Data & Privacy',  variant: '',   banner: null },
+  ip:          { label: 'IP Law',          variant: '',   banner: null },
+  ai_landscape:{ label: 'AI Landscape',    variant: 'ai',
+    banner: { cls: 'ai-banner',
+      text: 'Tracking <strong>the AI landscape — model releases, agentic AI developments, AI Act enforcement, autonomous-agent liability, and national AI legislation</strong> across all jurisdictions.' } },
+  past:        { label: 'Past News',       variant: '',   banner: null },
+};
+const PILLAR_KEYS = ['trending', 'competition', 'privacy', 'ip', 'ai_landscape'];
+
+// ──────────────────────────────────────────────────────────
+// Section renderer — today first, descending, day-grouped
+// ──────────────────────────────────────────────────────────
+function renderSection(articles, key) {
+  const meta = SECTION_META[key] || { label: key, variant: '', banner: null };
+  const titleClass = meta.variant === 'ai' ? 'section-title ai-title' : 'section-title';
+
+  // Filter to last 7 days, drop undated items
+  const filtered = (articles || []).filter(a => {
+    const d = parseDate(a);
+    return d && isThisWeek(d);
+  });
+
+  if (filtered.length === 0) {
+    return `
+      <div class="section-head"><h2 class="${titleClass}">${meta.label}</h2><span class="section-meta">0 articles</span></div>
+      ${meta.banner ? `<div class="section-banner ${meta.banner.cls}"><div class="banner-dot"></div><div class="banner-text">${meta.banner.text}</div></div>` : ''}
+      <div class="empty-section">No ${meta.label.toLowerCase()} items in the last ${WINDOW_DAYS} days.</div>
+    `;
+  }
+
+  const sorted = sortDesc(filtered);
+  const groups = groupByDay(sorted);
+
+  let html = `
+    <div class="section-head" style="animation-delay:0.1s">
+      <h2 class="${titleClass}">${meta.label}</h2>
+      <span class="section-meta">${filtered.length} article${filtered.length !== 1 ? 's' : ''} · last ${WINDOW_DAYS} days</span>
+    </div>
+  `;
+
+  if (meta.banner) {
+    html += `<div class="section-banner ${meta.banner.cls}"><div class="banner-dot"></div><div class="banner-text">${meta.banner.text}</div></div>`;
+  }
+
+  let baseDelay = 0.05;
+  groups.forEach(g => {
+    const today = isToday(g.date);
+    html += `
+      <div class="day-group">
+        <div class="day-group-label${today ? ' today' : ''}">
+          <span class="day-label-name">${dayLabel(g.date)}</span>
+          <span class="day-meta">${g.items.length} item${g.items.length !== 1 ? 's' : ''} · ${formatDateShort(g.date)}</span>
+        </div>
+        <div class="cards-wrap">
+    `;
+    const [first, ...rest] = g.items;
+    html += renderCard(first, true, baseDelay, meta.variant, today);
+    if (rest.length) {
+      html += `<div class="cards-row">` +
+        rest.map((a, i) => renderCard(a, false, baseDelay + 0.04 + i * 0.03, meta.variant, today)).join('') +
+        `</div>`;
+    }
+    html += `</div></div>`;
+    baseDelay += 0.1;
+  });
+
+  return html;
+}
+
+// ──────────────────────────────────────────────────────────
+// Past News (localStorage-backed archive)
+// ──────────────────────────────────────────────────────────
+const PAST_KEY = 'dig_past_news', SEEN_KEY = 'dig_seen_hash', PREV_KEY = 'dig_prev_index';
+
+function getPast() { try { return JSON.parse(localStorage.getItem(PAST_KEY) || '[]'); } catch { return []; } }
+function savePast(a) { try { localStorage.setItem(PAST_KEY, JSON.stringify(a.slice(0, 200))); } catch {} }
+
+function archiveOld(freshIndex) {
+  const freshTitles = new Set();
+  PILLAR_KEYS.forEach(k => (freshIndex[k] || []).forEach(a => freshTitles.add(a.title)));
+  const newHash = JSON.stringify(freshIndex).slice(0, 200);
+  if (localStorage.getItem(SEEN_KEY) === newHash) return;
+  const past = getPast();
+  const pastTitles = new Set(past.map(a => a.title));
+  let prev = [];
+  try { prev = JSON.parse(localStorage.getItem(PREV_KEY) || '[]'); } catch {}
+  prev.forEach(a => {
+    if (!freshTitles.has(a.title) && !pastTitles.has(a.title)) {
+      past.unshift({ ...a, archived_at: new Date().toISOString() });
+    }
+  });
+  savePast(past);
+  const allCurrent = [];
+  PILLAR_KEYS.forEach(k => (freshIndex[k] || []).forEach(a => allCurrent.push(a)));
+  try { localStorage.setItem(PREV_KEY, JSON.stringify(allCurrent)); } catch {}
+  try { localStorage.setItem(SEEN_KEY, newHash); } catch {}
+}
+
+function renderPastNews() {
+  const past = getPast();
+  const main = document.getElementById('main-content');
+  if (!past.length) {
+    main.innerHTML = `
+      <div class="section-head"><h2 class="section-title">Past News</h2><span class="section-meta">Archive</span></div>
+      <div class="past-empty">
+        <p><strong>No archived articles yet.</strong><br>Articles that drop out of the live feed (older than ${WINDOW_DAYS} days) are saved here automatically after each daily update.</p>
+      </div>
+    `;
+    return;
+  }
+  const groups = {};
+  past.forEach(a => {
+    const d = a.archived_at ? new Date(a.archived_at).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }) : 'Earlier';
+    if (!groups[d]) groups[d] = [];
+    groups[d].push(a);
+  });
+  let html = `
+    <div class="section-head">
+      <h2 class="section-title">Past News</h2>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <span class="section-meta">${past.length} archived</span>
+        <button class="clear-past-btn" onclick="clearPast()">Clear archive</button>
+      </div>
+    </div>
+  `;
+  Object.entries(groups).forEach(([date, articles]) => {
+    html += `<div class="past-group-label">Archived ${date}</div><div class="cards-wrap" style="margin-bottom:2rem;">`;
+    const [first, ...rest] = articles;
+    html += renderCard(first, true, 0.1, '', false);
+    if (rest.length) html += `<div class="cards-row">` + rest.map((a, i) => renderCard(a, false, 0.15 + i * 0.05, '', false)).join('') + `</div>`;
+    html += `</div>`;
+  });
+  main.innerHTML = html;
+}
+
+window.clearPast = function() {
+  if (confirm('Clear all archived articles?')) { localStorage.removeItem(PAST_KEY); renderPastNews(); }
+};
+
+// ──────────────────────────────────────────────────────────
+// Nav
+// ──────────────────────────────────────────────────────────
+let allData = {}, activeSection = 'trending';
+
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    activeSection = tab.dataset.section;
+    renderActive();
+  });
+});
+
+function renderActive() {
+  const main = document.getElementById('main-content');
+  if (activeSection === 'past') { renderPastNews(); return; }
+  main.innerHTML = renderSection(allData[activeSection] || [], activeSection);
+}
+
+function updateCounts() {
+  PILLAR_KEYS.forEach(k => {
+    const items = (allData[k] || []).filter(a => {
+      const d = parseDate(a);
+      return d && isThisWeek(d);
+    });
+    const el = document.getElementById('nc-' + k);
+    if (el) el.textContent = items.length || '';
+  });
+  const el = document.getElementById('nc-past');
+  if (el) { const n = getPast().length; el.textContent = n || ''; }
+}
+
+// ──────────────────────────────────────────────────────────
+// Load
+// ──────────────────────────────────────────────────────────
+async function loadContent() {
+  try {
+    const res = await fetch('content/index.json?t=' + Date.now());
+    if (!res.ok) throw new Error();
+    allData = await res.json();
+    archiveOld(allData);
+
+    // Prefer briefing's own generated_at; fall back to sync_summary.json
+    if (allData.generated_at) {
+      const d = new Date(allData.generated_at);
+      document.getElementById('status-sync').textContent = 'Updated: ' +
+        d.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric' }) + ' ' +
+        d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }) + ' UTC';
+    } else {
+      try {
+        const sr = await fetch('content/sync_summary.json?t=' + Date.now());
+        if (sr.ok) {
+          const ss = await sr.json();
+          const ts = ss.last_sync || ss.synced_at;
+          if (ts) {
+            const d = new Date(ts);
+            document.getElementById('status-sync').textContent = 'Updated: ' +
+              d.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric' }) + ' ' +
+              d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }) + ' UTC';
+          }
+        }
+      } catch (_) {}
+    }
+  } catch (_) {
+    allData = FALLBACK;
+  }
+  updateCounts();
+  renderActive();
+}
+
+// ──────────────────────────────────────────────────────────
+// Fallback (used if content/index.json can't load)
+// ──────────────────────────────────────────────────────────
+const FALLBACK = {
+  trending: [
+    { title: "EU says WhatsApp AI terms update fails to resolve antitrust concerns", tags: ["Antitrust", "AI / Antitrust", "EU"], entity_match: ["Tencent"], body: "The European Commission found that Meta's proposal to charge fees for rival AI assistants on WhatsApp is effectively equivalent to an outright ban on access. The Commission is proceeding with interim measures.", source: "Politico Tech", date: "21 April 2026", url: "https://www.politico.eu/section/technology/" },
+    { title: "EU hires former von der Leyen aide as top competition official", tags: ["Antitrust", "EU"], body: "Anthony Whelan fills key antitrust role after a monthslong search. The appointment signals continuity in the Commission's enforcement approach.", source: "Politico Tech", date: "21 April 2026", url: "https://www.politico.eu/section/technology/" }
+  ],
+  competition: [], privacy: [], ip: [], ai_landscape: []
+};
+
+loadContent();
+</script>
+</body>
+</html>
