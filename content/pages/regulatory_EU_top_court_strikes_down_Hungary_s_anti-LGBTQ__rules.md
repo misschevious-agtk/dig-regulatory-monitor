@@ -2,7 +2,7 @@
 title: EU top court strikes down Hungary’s anti-LGBTQ+ rules
 category: regulatory
 source: Politico Tech
-date: 27 April 2026
+date: 28 April 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: European regulators sidelined on Anthropic superhacking model
 category: regulatory
 source: Politico Tech
-date: 27 April 2026
+date: 28 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

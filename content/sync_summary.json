@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-04-27T12:08:39.052385Z",
+  "last_sync": "2026-04-28T12:13:49.435738Z",
   "changed_files": [
     "ai_Anthropic_s_hacking_tech_exposes_EU_AI_Office_weaknesses.md",
     "ai_Florida_launches__criminal_investigation__into_ChatGPT__fuel.md",
@@ -8,22 +8,22 @@
     "competition_EU_says_WhatsApp_AI_terms_update_fails_to_resolve_antitrust_.md",
     "competition_New_merger_rules_are_no_free_ride_for_European_champions__sa.md",
     "privacy_Don_t__overload__US_deal_with_extra_demands__says_EU_trade_b.md",
+    "privacy_EU_countries_cool_on_Brussels_age-check_app.md",
     "privacy_Germany_s_digital_minister_wants_a_European_Palantir.md",
+    "privacy_Inside_Ukraine_s_robot_war_revolution.md",
     "privacy_The_problem_with_Europe_s_Big_Tech_breakup__It_s_still_hooke.md",
     "regulatory_Brussels_launched_an_age_checking_app__Hackers_say_it_takes_.md",
     "regulatory_EU_Commission_jobs_reshuffle_on_hold_as_chiefs_stick_in_post.md",
-    "regulatory_EU_Parliament_threatens_to_delay__1_8_trillion_budget_talks_.md",
+    "regulatory_EU_majority_resists_French_call_to_overhaul_US_trade_deal.md",
     "regulatory_EU_top_court_strikes_down_Hungary_s_anti-LGBTQ__rules.md",
     "regulatory_European_civil_servants_are_being_forced_off_WhatsApp.md",
     "regulatory_European_regulators_sidelined_on_Anthropic_superhacking_mode.md",
     "regulatory_Former_von_der_Leyen_aide_s_new_role_reflects_EU_competition.md",
     "regulatory_Germany_faces_resistance_in_push_to_weaken_AI_rules.md",
-    "regulatory_Germany_s__2B_battlefield_digitalization_system_runs_into_tr.md",
     "regulatory_Germany_turns_to_Brazil_as_US_ties_fray.md",
     "regulatory_Online_age_checks_are_coming_in_Europe.md",
     "regulatory_Robots_captured_Russian_army_positions_for_first_time_in_his.md",
     "regulatory_UK_intelligence__100_nations_have_spyware_that_can_hack_Brit.md",
-    "regulatory_Von_der_Leyen_plays_down_deregulation_clash_with_German_cons.md",
     "regulatory_White_House_meets_with_Anthropic_CEO_amid_hopes_for_a_truce.md",
     "regulatory__No_more_excuses___Von_der_Leyen_says_EU_age_checking_app_is.md"
   ],
@@ -31,8 +31,8 @@
   "total_articles": 23,
   "by_category": {
     "competition": 4,
-    "privacy": 3,
+    "privacy": 5,
     "ip": 0,
-    "regulatory": 16
+    "regulatory": 14
   }
 }

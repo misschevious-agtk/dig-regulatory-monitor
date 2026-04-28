@@ -2,7 +2,7 @@
 title: Germany’s digital minister wants a European Palantir
 category: privacy
 source: Politico Tech
-date: 27 April 2026
+date: 28 April 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

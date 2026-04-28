@@ -2,7 +2,7 @@
 title: EU eyes tougher penalties for single market rule-breakers
 category: competition
 source: Politico Tech
-date: 27 April 2026
+date: 28 April 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, EU
 ---
