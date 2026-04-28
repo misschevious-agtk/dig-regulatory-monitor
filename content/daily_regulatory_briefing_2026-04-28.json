@@ -1,0 +1,663 @@
+{
+  "generated_at": "2026-04-28T15:46:45Z",
+  "trending": [
+    {
+      "title": "EU Commission Sends Supplementary Objections to Meta Over WhatsApp AI Chatbot Exclusion — Interim Measures Imminent",
+      "body": "On 15 April 2026 the European Commission issued a supplementary Statement of Objections to Meta under Article 102 TFEU, finding Meta's revised fee-based policy for third-party AI assistants on WhatsApp equivalent to its prior outright ban. The Commission stated it intends to impose interim measures requiring Meta to restore access under pre-October 2025 conditions pending a final decision; the probe has been extended to the full EEA. The case sits at the intersection of competition law (abuse of dominance in AI assistant markets), AI landscape (access to a dominant messaging platform for AI services), and data privacy concerns. VP Teresa Ribera stated: 'Pushing out competitors in fast-evolving markets like AI is exactly the type of conduct that interim measures are designed to address.' Meta contests the action, arguing it benefits large AI companies at the expense of small businesses.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "Under Investigation",
+        "EU"
+      ],
+      "source": "European Commission / Reuters / Politico EU",
+      "url": "https://www.politico.eu/article/eu-to-halt-whatsapp-business-chatbot-policy/",
+      "date": "2026-04-15",
+      "published_at": "2026-04-15T12:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "EU DMA: Commission Proposes Draft Measures Requiring Google Android to Open AI Interoperability to Rivals",
+      "body": "On 27 April 2026 the European Commission sent preliminary findings and draft specification measures to Google under DMA Article 6(7), requiring Android to grant third-party AI services (e.g., ChatGPT, Claude) the same deep OS-level access enjoyed by Google Gemini — including custom wake-words, contextual data, app-action capabilities, and system on-device models. Public consultation opened until 13 May 2026; a binding decision is due by 27 July 2026. Non-compliance risks fines of up to 10% of global annual turnover. This is a pivotal DMA/AI Landscape crossover: it directly shapes the competitive AI assistant market for all Prosus portfolio companies that build on Android. Google criticised the measures as undermining privacy and OEM autonomy.",
+      "tags": [
+        "DMA",
+        "Antitrust",
+        "AI Landscape",
+        "Under Investigation",
+        "EU"
+      ],
+      "source": "European Commission Digital Markets Act / Reuters",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-seeks-feedback-measures-ensure-interoperability-googles-android-under-digital-markets-act-2026-04-27_en",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Google/Alphabet"
+      ]
+    },
+    {
+      "title": "CADE Brazil Opens Formal Antitrust Sanctions Probe Against Google Over AI Use of Journalistic Content",
+      "body": "On 23 April 2026 Brazil's CADE Tribunal unanimously voted 5-0 to convert its long-running inquiry into a formal Process for Administrative Sanctions (PAS) against Google, specifically incorporating the role of AI Overviews in diverting traffic and extracting value from news publishers without compensation. The case marks the first Latin American AI-centric abuse-of-dominance proceeding. Potential fines range from 0.1% to 20% of Brazil gross revenue; remedies could include mandatory compensation, true opt-out mechanisms, and behavioral changes. This case intersects antitrust, AI landscape, and IP (content licensing) pillars and has direct read-across to iFood's digital ecosystem and the broader Brazilian digital platform environment.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "IP Law",
+        "Under Investigation",
+        "BR"
+      ],
+      "source": "CADE / Reuters / Valor Internacional",
+      "url": "https://www.gov.br/cade/en/matters/news/cade2019s-tribunal-recommends-the-opening-of-an-investigation-into-google-regarding-the-use-of-journalistic-content",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T18:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Google/Alphabet",
+        "iFood"
+      ]
+    },
+    {
+      "title": "South Africa Withdraws Draft National AI Policy After AI-Generated Fake Citations Discovered",
+      "body": "On 26 April 2026, South Africa's Minister of Communications and Digital Technologies Solly Malatsi withdrew the Draft National AI Policy — gazetted on 10 April 2026 — after it was found to contain fictitious AI-generated citations throughout its reference list. The draft, which proposed a National AI Commission, AI Ethics Board, AI Regulatory Authority, an AI Insurance Superfund and a risk-based four-tier framework modelled on the EU AI Act, was Cabinet-approved on 25 March 2026. No timeline for a redraft has been announced. This is a significant AI governance setback for a priority Prosus jurisdiction and has direct read-across to Takealot, Property24, and other SA-facing portfolio companies.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "ZA"
+      ],
+      "source": "Reuters / SAnews.gov.za / ITWeb",
+      "url": "https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T09:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Takealot",
+        "Prosus"
+      ]
+    },
+    {
+      "title": "Mailbox Intel (Prosus): SA Draft AI Policy vs EU AI Act — Key Comparison for Portfolio Positioning",
+      "body": "An internal Prosus regulatory analysis circulated on 22 April 2026 compared the (then-active) South African Draft AI Policy with the EU AI Act across 13 dimensions. Key findings: SA's framework mirrors the EU's four-tier risk architecture but remains a non-binding policy document; the proposed AI Insurance Superfund and shared-liability model across developers, deployers, and integrators are the most immediately material provisions for tech platforms; SA's data sovereignty and POPIA alignment requirements could create additional obligations for portfolio companies beyond EU AI Act compliance. The draft was subsequently withdrawn on 26 April 2026. Source: Tara Harris, Prosus Regulatory Team.",
+      "tags": [
+        "AI Landscape",
+        "Data & Privacy",
+        "ZA",
+        "EU"
+      ],
+      "source": "Prosus Internal Regulatory Analysis (Mailbox)",
+      "url": "https://www.prosus.com",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T14:25:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Prosus",
+        "Naspers"
+      ]
+    },
+    {
+      "title": "EU DMA: Commission Proposes FRAND Data-Sharing Measures for Google Search — AI Chatbots Included",
+      "body": "On 16 April 2026 the European Commission issued preliminary findings under DMA Article 6(11) requiring Alphabet to share anonymised Google Search ranking, query, click, and view data with third-party search engines and AI chatbots on FRAND terms via API. Consultation closes 1 May 2026; binding decision expected by 27 July 2026. The measure directly intersects DMA competition law and AI landscape: if adopted, it creates a new data-access right for AI search competitors. Anonymisation must meet EDPB-aligned standards, adding a privacy dimension. Google objected, warning of 'dangerously ineffective privacy protections.'",
+      "tags": [
+        "DMA",
+        "Antitrust",
+        "AI Landscape",
+        "Data & Privacy",
+        "EU"
+      ],
+      "source": "European Commission DMA / Reuters",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-proposes-measures-google-sharing-search-engine-data-third-parties-under-digital-markets-2026-04-16_en",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T11:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Google/Alphabet"
+      ]
+    }
+  ],
+  "competition": [
+    {
+      "title": "CCI India Sets Final Hearing for 21 May in Apple App Store Antitrust Case — Apple Withholds Financial Data",
+      "body": "On 8 April 2026 the Competition Commission of India rejected Apple's request to stay proceedings and set a final hearing for 21 May 2026 in the App Store abuse-of-dominance case. Apple has withheld audited financials since October 2024, limiting its ability to contest penalty quantum. A 2024 investigation report found Apple's App Store an 'unavoidable trading partner' for iOS developers, mandating proprietary billing and blocking alternative payments. Penalties could be calculated on global turnover under the 2023 Competition Act amendment (Apple fears a theoretical $38B exposure). The case parallels the EU DMA Apple fine issued in April 2025 and has read-across to Indian portfolio companies dependent on iOS distribution.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation",
+        "Fine",
+        "IN"
+      ],
+      "source": "Reuters / Business Standard / MediaNama",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/apple-withholds-data-india-antitrust-case-watchdog-sets-final-hearing-2026-04-20/",
+      "date": "2026-04-20",
+      "published_at": "2026-04-20T09:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Apple"
+      ]
+    },
+    {
+      "title": "Karnataka High Court Extends Interim Stay on CCI Probe Into Swiggy Over Exclusivity and Data Disputes",
+      "body": "On 21–22 April 2026 the Karnataka High Court again extended Swiggy's interim protection against CCI proceedings arising from a 2022 National Restaurant Association of India complaint alleging abuse of dominance through exclusive partnerships, high commissions, and platform-neutrality violations. The court flagged CCI's reliance on untested third-party statements and confirmed Swiggy had established a prima facie procedural fairness case (denial of cross-examination). Swiggy shares jumped 3% on 22 April. The stay delays what could be a precedent-setting ruling on food delivery platform regulation in India.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation",
+        "IN"
+      ],
+      "source": "Business Standard / Inc42 / Karnataka High Court",
+      "url": "https://www.business-standard.com/companies/news/karnataka-hc-extends-stay-on-cci-case-against-swiggy-over-data-dispute-126042101313_1.html",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T10:30:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Swiggy"
+      ]
+    },
+    {
+      "title": "CADE Brazil Upholds BRL 250,000 Daily Fine Against Meta/WhatsApp for Non-Compliance with AI Chatbot Interim Measure",
+      "body": "On 23 April 2026 CADE's Tribunal upheld a daily fine of BRL 250,000 against Meta and WhatsApp for failure to comply with a CADE interim measure related to AI chatbot access in the Brazilian market. The proceeding is separate from but complementary to the EU Commission's parallel antitrust action on the same issue. The decision reinforces that Brazilian competition enforcers are actively monitoring AI-driven platform conduct and are willing to impose running penalties for non-compliance, creating dual-jurisdiction exposure for Meta.",
+      "tags": [
+        "Antitrust",
+        "Fine",
+        "AI Landscape",
+        "BR"
+      ],
+      "source": "CADE Official / Concurrences",
+      "url": "https://www.gov.br/cade/en/matters/news/cade-upholds-daily-fine-against-meta-and-whatsapp-for-failure-to-comply-with-interim-measure",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T16:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "CADE Brazil Opens Administrative Inquiry Into 99Food for Anticompetitive Exclusivity Clauses in Food Delivery",
+      "body": "On 31 March 2026 CADE's General Superintendence converted Keeta's complaint into a formal administrative inquiry against 99Food (Didi), alleging exclusivity contracts with restaurants — including up to BRL 300,000 incentive payments per restaurant to ban rivals Keeta and Rappi — breach Brazilian competition law. CADE issued questionnaires on 2–10 April 2026 to iFood, 99Food, Keeta, and Rappi, with responses due 27 April and a BRL 5,000 daily fine for non-response. iFood remains under its 2023 TCC monitoring. This active regulatory battle over Brazil's ~BRL 80B delivery market is directly material to iFood's competitive positioning.",
+      "tags": [
+        "Antitrust",
+        "Under Investigation",
+        "BR"
+      ],
+      "source": "CADE / Valor Internacional / Reuters",
+      "url": "https://valorinternacional.globo.com/business/news/2026/04/02/brazil-antitrust-watchdog-probes-delivery-market-after-keeta-complaint.ghtml",
+      "date": "2026-04-02",
+      "published_at": "2026-04-02T14:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "iFood"
+      ]
+    },
+    {
+      "title": "Prosus Sells 4.5% Delivery Hero Stake to Uber for €270M — EU Condition Met",
+      "body": "On 16 April 2026 Prosus sold approximately 13.58 million Delivery Hero shares to Uber at €20/share (€270M / ~$290M), reducing its stake from 26.3% to 21.8%. The disposal satisfied a European Commission merger condition linked to Uber's acquisition of Just Eat Takeaway, addressing food delivery competition concerns. The 22% premium to VWAP reflects strategic value; the transaction closes a key EU regulatory overhang for Prosus and raises cash for its ongoing share repurchase programme.",
+      "tags": [
+        "Antitrust",
+        "EU"
+      ],
+      "source": "Prosus / Business Insider Africa / LinkedIn",
+      "url": "https://africa.businessinsider.com/markets/south-africas-naspers-unit-sells-dollar290m-delivery-hero-stake-to-uber-amid-eu/qbezjl8",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T08:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Prosus",
+        "Naspers",
+        "Delivery Hero",
+        "Uber"
+      ]
+    },
+    {
+      "title": "US Jury Finds Live Nation and Ticketmaster Liable for Monopoly — States Win Antitrust Trial",
+      "body": "On 15 April 2026 a federal jury in New York found Live Nation Entertainment and Ticketmaster liable for operating as a monopoly in live event promotion, ticketing, and amphitheaters, overcharging fans by approximately $1.72 per ticket across 257 venues. A separate remedies phase will determine injunctive relief and possible divestitures; the DOJ had previously settled mid-trial for a $280M fund and 13 amphitheater divestitures (rejected by 33 states as insufficient). The verdict follows a five-week trial and is the most significant US antitrust jury verdict against an entertainment platform in decades.",
+      "tags": [
+        "Antitrust",
+        "Court Ruling",
+        "US"
+      ],
+      "source": "CNN / NPR / AP News",
+      "url": "https://apnews.com/article/live-nation-ticketmaster-antitrust-trial-f0ffdd20dd4f64e8b4bb9d97134b826f",
+      "date": "2026-04-15",
+      "published_at": "2026-04-15T20:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "FTC Takes Action Against Digital Ad Ecosystem Collusion — WPP, Publicis, Dentsu, Omnicom, IPG Reach Consent Orders",
+      "body": "On 15 April 2026 the FTC finalized consent orders against five major global advertising holding groups (WPP, Publicis, Dentsu, Omnicom, IPG) for colluding through trade bodies GARM and APB to impose 'brand safety' standards that demonetized certain publisher categories, distorting digital advertising competition since 2018. No monetary penalties were imposed; the orders prohibit future concerted standard-setting on ad-buying conduct. The action has direct read-across to digital advertising markets in which Prosus portfolio companies (Stack Overflow, Swiggy, Meesho) participate as buyers and sellers.",
+      "tags": [
+        "Antitrust",
+        "US"
+      ],
+      "source": "FTC / Reuters",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem",
+      "date": "2026-04-15",
+      "published_at": "2026-04-15T14:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU DMA: Apple Fined €500M, Meta €200M in First-Ever DMA Non-Compliance Decisions (April 2025 — Landmark Context)",
+      "body": "On 23 April 2025 the European Commission issued its first DMA non-compliance fines: Apple €500M for App Store anti-steering violations (Article 5(4)) and Meta €200M for the 'consent or pay' model on Facebook/Instagram (Article 5(2)). Both companies have appealed to the EU General Court. The decisions remain the baseline for ongoing DMA enforcement in 2026 and set the legal standard for how gatekeeper obligations will be interpreted in subsequent proceedings now targeting Google. Directly material to Prosus portfolio companies using the App Store or Facebook/Instagram ad infrastructure.",
+      "tags": [
+        "DMA",
+        "Antitrust",
+        "Fine",
+        "Court Ruling",
+        "EU"
+      ],
+      "source": "European Commission / Concurrences / Kluwer Competition Law Blog",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en",
+      "date": "2025-04-23",
+      "published_at": "2025-04-23T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Apple",
+        "Meta"
+      ]
+    },
+    {
+      "title": "AGCM Italy Fines Morellato €25.9M for Vertical Resale Price Fixing in Jewelry Distribution",
+      "body": "Italy's AGCM fined Morellato S.p.A. €25.9M for vertical resale price maintenance and marketplace bans across its jewelry distribution network between 2018 and 2025. The case demonstrates the AGCM's continued focus on restricting online channel sales as a standalone antitrust violation. While not a direct Prosus portfolio matter, the decision reinforces EU competition rules on marketplace access, relevant to eMAG and OLX Group operations as marketplace operators in Italy-adjacent jurisdictions.",
+      "tags": [
+        "Antitrust",
+        "Fine",
+        "IT"
+      ],
+      "source": "AGCM / Concurrences",
+      "url": "https://en.agcm.it/en/media/press-releases/2026/3/I876",
+      "date": "2026-03-31",
+      "published_at": "2026-03-31T12:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "CCI India Finds 7 Steel Associations Violated Antitrust Rules via WhatsApp Price Coordination",
+      "body": "On 15 April 2026 the Competition Commission of India ruled that seven steel industry associations used WhatsApp groups to coordinate price-fixing among major producers including Tata Steel, JSW Steel, and SAIL. The decision sets a notable precedent that informal messaging platforms used for coordinated commercial information exchange can constitute cartel conduct under Indian competition law. For Prosus, this is significant as it demonstrates the CCI's willingness to find violations in platform-facilitated coordination — relevant to B2B marketplaces such as merXu.",
+      "tags": [
+        "Antitrust",
+        "Cartel",
+        "Court Ruling",
+        "IN"
+      ],
+      "source": "Business Upturn / Bar and Bench",
+      "url": "https://www.businessupturn.com/finance/stock-market/cci-finds-7-steel-associations-violated-anti-trust-rules-whatsapp-used-to-coordinate-price-fixing-involving-tata-steel-jsw-sail-and-others/",
+      "date": "2026-04-15",
+      "published_at": "2026-04-15T11:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    }
+  ],
+  "privacy": [
+    {
+      "title": "Italian Garante Fines Poste Italiane and Postepay €12.5M for Unlawful App Data Surveillance",
+      "body": "On 17 April 2026 (press release 20 April) the Italian Garante fined Poste Italiane S.p.A. €6.624M and Postepay S.p.A. €5.877M (total €12.5M) for unlawfully collecting device data — installed/running apps, fingerprints, location — through the BancoPosta and Postepay mobile apps without legal basis, transparency, or a DPIA, and for coercing 303,880 users who faced account lockout after refusing consent. Violations span GDPR Articles 5, 6, 13, 25, 26/28, 32, 35 and Article 122 of the Italian Privacy Code. The decision is one of the largest Italian DPA fines to date and sets a high bar for app-based fraud-detection data collection. Poste Italiane is appealing.",
+      "tags": [
+        "GDPR",
+        "Fine",
+        "Data & Privacy",
+        "IT"
+      ],
+      "source": "Garante per la protezione dei dati personali / Reuters",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10241568",
+      "date": "2026-04-20",
+      "published_at": "2026-04-20T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "ANPD Brazil Gains New Regulatory Structure with Six Superintendencies — Enforcement Capacity Formally Upgraded",
+      "body": "On 6–8 April 2026 Brazil's ANPD formally became a fully autonomous regulatory agency through Resolution CD/ANPD No. 33 and Decree No. 12.881/2026, establishing six Superintendencies including a dedicated Supervision and Sanctions unit. The restructuring adds 200 specialist positions and financial autonomy, materially strengthening ANPD's capacity to investigate and sanction under the LGPD. A 2026–2027 Priority Map targets 75 fiscalizations including 30 on child digital protection (age verification) and 20 on AI/emerging technology. Prosus portfolio companies operating in Brazil — iFood, PayU, OLX — face significantly higher LGPD enforcement risk from Q3 2026.",
+      "tags": [
+        "LGPD",
+        "Data & Privacy",
+        "BR"
+      ],
+      "source": "ANPD / Baker McKenzie InsightPlus / gov.br",
+      "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-ganha-nova-estrutura-e-se-consolida-como-agencia-reguladora",
+      "date": "2026-04-08",
+      "published_at": "2026-04-08T11:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "iFood",
+        "PayU",
+        "OLX"
+      ]
+    },
+    {
+      "title": "ANPD Brazil Launches Probe Into Social Media Platforms Over Age Verification Failures and Child Data",
+      "body": "On approximately 20 April 2026 Brazil's ANPD opened a supervisory investigation into major social media platforms for failures in age verification and processing of sensitive data of children and adolescents under the LGPD and ECA Digital. The probe is part of ANPD's 2026–2027 priority fiscalization plan. No companies were officially named but the probe targets platforms with substantial Brazilian user bases. The action is highly material for Brainly (educational platform with minors) and any Prosus portfolio product with child-facing features.",
+      "tags": [
+        "LGPD",
+        "Data & Privacy",
+        "Under Investigation",
+        "BR"
+      ],
+      "source": "Sentinel.ht / ANPD / Teletime",
+      "url": "https://sentinel.ht/brazil-data-protection-investigation/",
+      "date": "2026-04-20",
+      "published_at": "2026-04-20T09:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Brainly"
+      ]
+    },
+    {
+      "title": "EDPB CEF 2026 Launched — Coordinated Enforcement on GDPR Transparency Obligations Across 25 DPAs",
+      "body": "On 19 March 2026 the EDPB launched its Coordinated Enforcement Framework 2026 action focusing on GDPR Articles 12–14 transparency and information obligations. Twenty-five EU/EEA DPAs are participating with national enforcement and fact-finding actions throughout 2026; a consolidated EDPB report is expected in H2 2026. The CEF follows the 2025 edition focused on the right to erasure (reported February 2026). For Prosus, this creates multi-jurisdictional exposure: any portfolio company collecting personal data without clear, accessible privacy information across NL, DE, FR, IE, IT, ES, PL, ZA (via POPIA alignment) faces coordinated scrutiny.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "EU"
+      ],
+      "source": "EDPB",
+      "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+      "date": "2026-03-19",
+      "published_at": "2026-03-19T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "POPIA South Africa: New Health and Sex Life Data Regulations Published — Cross-Border Transfer Limits Apply",
+      "body": "South Africa's Information Regulator published new Regulations on Processing of Health and Sex Life Data under POPIA (Government Gazette 54268, effective 6 March 2026). The regulations mandate confidentiality measures, security obligations, and restrict cross-border transfers of health and sex life data without explicit consent or a best-interests basis. Maximum penalties are R10M or 12 months imprisonment. The regulations are directly relevant to Prosus portfolio companies operating health, wellness, or insurance-adjacent products in South Africa.",
+      "tags": [
+        "POPIA",
+        "Data & Privacy",
+        "ZA"
+      ],
+      "source": "Information Regulator South Africa / Fasken",
+      "url": "https://www.fasken.com/en/knowledge/2026/04/health-data-under-the-microscope-new-popia-regulations",
+      "date": "2026-04-01",
+      "published_at": "2026-04-01T08:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EDPB Opinions on Binding Corporate Rules: Dutch, Spanish, and Belgian SAs Approve Four Multinationals",
+      "body": "On 27 April 2026 the EDPB adopted Opinions 9/2026 through 12/2026 approving BCR applications for Kuwait Petroleum, Santander, Jacobs Douwe Egberts, and SLB Group — led by the Dutch AP, Spanish AEPD, and Belgian DPA respectively. While not enforcement actions, approved BCRs represent the gold standard for cross-border data transfer compliance. The publication is a useful timing signal: BCR reviews are accelerating ahead of potential adequacy framework changes in 2026–2027, relevant for Prosus entities structuring intra-group transfers between EU and non-EU jurisdictions.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "EU",
+        "NL",
+        "ES"
+      ],
+      "source": "EDPB",
+      "url": "https://www.edpb.europa.eu/edpb_en",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T12:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "ICO UK Issues Preliminary Enforcement Notice Against Snapchat 'My AI' Feature",
+      "body": "On approximately 27 April 2026 the UK Information Commissioner's Office (ICO) issued a preliminary enforcement notice against Snapchat's AI chatbot feature 'My AI,' raising concerns about data protection compliance — likely including children's data risks given Snap's predominantly young user base. The action follows the ICO's £14.5M fine against Reddit (February 2026) and £1.2M against LastPass (November 2025). The ICO is pursuing a consistent enforcement posture on consumer-facing AI products, which is directly relevant to any Prosus portfolio AI-powered features serving UK users.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "AI Landscape",
+        "Under Investigation",
+        "UK"
+      ],
+      "source": "National Law Review / ICO / Bevan Brittan",
+      "url": "https://natlawreview.com/article/snapchat-snaps-ai-trouble-icos-preliminary-enforcement-notice-raises-concerns-over",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T09:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Spanish AEPD Fines YOTI €950,000 for Biometric Processing Without Legal Basis",
+      "body": "The Spanish Data Protection Authority (AEPD) imposed a €950,000 fine on YOTI — a digital identity and age-verification provider — for processing biometric data without an adequate legal basis under GDPR Article 9. The decision is significant because YOTI is widely used by platforms to verify user ages, including in contexts required by child protection regulations. The ruling has direct implications for any Prosus portfolio platform implementing biometric age-gating to comply with EU or UK children's data laws.",
+      "tags": [
+        "GDPR",
+        "Fine",
+        "Data & Privacy",
+        "ES"
+      ],
+      "source": "Gibson Dunn Europe Data Protection April 2026 / SecurityToday",
+      "url": "https://www.gibsondunn.com/gibson-dunn-europe-data-protection-april-2026/",
+      "date": "2026-04-25",
+      "published_at": "2026-04-25T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "CNIL France Fines Company €7,500 for DPIA Failure and Non-Compliant Video Surveillance",
+      "body": "On 2 April 2026 the CNIL sanctioned an unnamed company €7,500 for cumulative GDPR violations: non-compliant vidéoprotection systems, insufficient data minimisation, and — notably — failure to conduct a required Data Protection Impact Assessment (DPIA) under Article 35. While the fine amount is modest, the CNIL highlighted DPIA absence as the 'notable' breach, signalling that DPIA compliance will be a focal point of French enforcement in 2026 alongside the CEF 2026 transparency theme.",
+      "tags": [
+        "GDPR",
+        "Fine",
+        "Data & Privacy",
+        "FR"
+      ],
+      "source": "CNIL / leto.legal",
+      "url": "https://www.cnil.fr/fr/node/168058",
+      "date": "2026-04-02",
+      "published_at": "2026-04-02T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Garante Italy Fines Enel Energia €563,052 for Marketing Opt-Out Failure",
+      "body": "Italy's Garante fined Enel Energia S.p.A. €563,052 in April 2026 for failing to respect customer marketing opt-outs — continuing the Italian DPA's active enforcement posture in the area of direct marketing compliance. The decision reinforces GDPR Article 7 (consent withdrawal) obligations and Article 21 (right to object) requirements. Any Prosus portfolio company conducting email, SMS, or push-notification marketing to Italian or EU users must maintain demonstrable opt-out audit trails.",
+      "tags": [
+        "GDPR",
+        "Fine",
+        "Data & Privacy",
+        "IT"
+      ],
+      "source": "SecurityToday / Gibson Dunn",
+      "url": "https://www.securitytoday.de/en/2026/04/25/gdpr-fine-april-2026-renault-yoti-enel-bakeca-midsized-cyber/",
+      "date": "2026-04-25",
+      "published_at": "2026-04-25T09:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    }
+  ],
+  "ip": [
+    {
+      "title": "Authors' Copyright Suit Against Databricks Over AI Training on Books Survives Dismissal — DBRX Claims Proceed",
+      "body": "On 21 April 2026 (reported 22–25 April) Judge Charles R. Breyer of the Northern District of California denied Databricks' motion to dismiss the Second Amended Complaint in In Re Mosaic LLM Litigation (No. 3:24-cv-01451-CRB), allowing direct copyright infringement claims related to DBRX training on the Books3 dataset to proceed. The court found that authors had 'sufficient evidence at this early stage' linking copying to DBRX development based on discovery materials and employee statements. This follows August 2025 dismissal of DBRX claims as too vague; the amended complaint survived on the basis of stronger factual pleading. The ruling is one of the most significant AI training copyright decisions of 2026 and reinforces the need for rigorous training data provenance documentation.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "Court Ruling",
+        "US"
+      ],
+      "source": "Bloomberg Law / Law360 / CourtListener",
+      "url": "https://news.bloomberglaw.com/litigation/databricks-fails-to-shake-authors-ai-training-copyright-lawsuit",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T09:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "US Court Grants Preliminary Injunction Against OpenAI and Jony Ive Over 'io' Trademark in AI Hardware",
+      "body": "On 23 April 2026 Judge Trina L. Thompson of the Northern District of California granted iyO Inc.'s motion for a preliminary injunction (Case 3:25-cv-04861-TLT) barring OpenAI, Sam Altman, Jony Ive, and IO Products from using the 'io' name for AI hardware products during the litigation, after finding a likelihood of confusion with iyO's prior mark (in use since 2021). The court rejected the argument that OpenAI's voluntary de facto abandonment of the mark mooted the injunction. An amended complaint filed 13 March 2026 adds trade secret theft allegations against OpenAI's hardware chief. The ruling has strategic implications for AI hardware branding across the industry.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "Court Ruling",
+        "US"
+      ],
+      "source": "PRNewswire / Bloomberg Law / 9to5Mac / CourtListener",
+      "url": "https://www.prnewswire.com/news-releases/federal-court-issues-preliminary-injunction-against-openai-sam-altman-and-sir-jony-ive-iyo-alleges-trade-secret-theft-by-altmans-hardware-chief-302754047.html",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T14:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "US Copyright Office Report Part 3: AI Training and Fair Use — Pre-Publication Analysis Released",
+      "body": "The US Copyright Office released a pre-publication version of its Part 3 report on copyright and AI, analysing fair use as it applies to AI training data. The report does not express a binding opinion on pending cases but reviews the legal landscape following 2025 decisions (Bartz v. Anthropic — training fair use; Kadrey v. Meta — partial fair use; Thomson Reuters v. ROSS — no fair use for competitive AI). The report will shape legislative and judicial thinking on AI training rights and is required reading for any Prosus AI/ML team using third-party data sets.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "US"
+      ],
+      "source": "US Copyright Office",
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+      "date": "2026-04-01",
+      "published_at": "2026-04-01T14:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Thomson Reuters v. ROSS Intelligence on Appeal at Third Circuit — First AI Training Copyright Case to Reach Federal Circuit Court",
+      "body": "ROSS Intelligence filed its appellant brief at the Third Circuit (Case No. 25-2153) in January 2026 challenging Judge Bibas's landmark February 2025 ruling, which held that ROSS's use of Westlaw headnotes to train a competing AI legal research tool was not fair use — the first federal court to reject the fair use defence for AI training. The Third Circuit's ruling, expected in 2026–2027, will be the highest-court AI copyright precedent in the US to date and will significantly shape how AI companies license or obtain training data for commercial AI tools. Stack Overflow's API data-licensing model and any Prosus company building AI on third-party structured datasets are directly affected.",
+      "tags": [
+        "IP Law",
+        "AI Landscape",
+        "Court Ruling",
+        "US"
+      ],
+      "source": "National Law Review / CourtListener / Reuters Legal",
+      "url": "https://natlawreview.com/article/fair-use-falls-short-judge-bibas-rejects-ai-training-data-defense-thomson-reuters-v",
+      "date": "2026-01-16",
+      "published_at": "2026-01-16T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Stack Overflow"
+      ]
+    },
+    {
+      "title": "EU AI Act GPAI Code v2.1 Released — Training Data Template Mandatory for Systemic-Risk Models; Fine-Tuner FAQ Updated",
+      "body": "On 3 April 2026 the EU AI Office released GPAI Code of Practice version 2.1, adding a mandatory six-page standardised training data template for providers of models above the 10^25 FLOP systemic-risk threshold, covering domain breakdowns, language coverage, and synthetic data. On 5 April 2026 the AI Office refreshed 14 FAQs, clarifying that fine-tuning a GPAI model can make the fine-tuner a 'provider' subject to Chapter V obligations if the fine-tune substantially changes purpose or risk profile. This creates an IP/AI training compliance intersection: training data disclosure plus copyright compliance policy are both mandatory GPAI obligations under Article 53. Relevant to any Prosus entity fine-tuning foundation models for product features.",
+      "tags": [
+        "AI Act",
+        "AI Landscape",
+        "IP Law",
+        "EU"
+      ],
+      "source": "EU AI Office / artificialintelligenceact.eu / EU Commission digital-strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "date": "2026-04-05",
+      "published_at": "2026-04-05T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    }
+  ],
+  "ai_landscape": [
+    {
+      "title": "South Africa Draft National AI Policy Published — Then Withdrawn After Fake AI-Generated Citations Found",
+      "body": "South Africa gazetted a comprehensive Draft National AI Policy on 10 April 2026 proposing a National AI Commission, AI Ethics Board, AI Regulatory Authority, AI Ombudsperson, National AI Safety Institute, and an AI Insurance Superfund — a four-tier risk framework explicitly modelled on the EU AI Act. On 26 April 2026 Minister Malatsi withdrew the draft after an internal review found fictitious AI-generated citations in the reference list. No redraft timeline has been announced. The episode simultaneously highlights SA's ambition to regulate AI and the governance risks of AI-assisted policy drafting. It leaves Prosus SA-facing portfolio companies (Takealot, Property24) without a confirmed AI regulatory framework pending a restart.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "ZA"
+      ],
+      "source": "Reuters / SAnews / ITWeb / DCDT",
+      "url": "https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T09:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Takealot",
+        "Prosus"
+      ]
+    },
+    {
+      "title": "Connecticut SB5 Passes Senate 32-4 — Omnibus AI Bill Covers Companion Bots, Frontier Models, Hiring Tools",
+      "body": "On 21 April 2026 the Connecticut Senate passed SB5 (32-4), a 64-page omnibus AI regulation covering: companion chatbot operators (mandatory AI disclosure, self-harm referrals, minor protections, $25,000/violation penalty); frontier AI developers training models in CT (pre-deployment risk assessments, ongoing monitoring, whistleblower protections); automated hiring tools (bias testing, notice, appeal rights); and synthetic content watermarking. As of 28 April 2026 the bill is on the House calendar (position 480) and not yet enacted. Connecticut's bill follows Colorado SB24-205 and Texas RAIGA as the third major US state AI omnibus, and the frontier model safety obligations set a US state-level precedent for foundation model providers.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "US"
+      ],
+      "source": "CT Mirror / ppc.land / CT General Assembly",
+      "url": "https://ctmirror.org/2026/04/21/artificial-intelligence-regulation-senate-ct/",
+      "date": "2026-04-21",
+      "published_at": "2026-04-21T18:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "US: American Leadership in AI Act and TRUMP AMERICA AI Act Introduced — Federal Preemption of State AI Patchwork Sought",
+      "body": "On 27 April 2026 Reps. Lieu and Obernolte introduced the bipartisan American Leadership in AI Act (6 titles: NIST standards, research infrastructure, federal governance, worker protections, deepfake deterrence, education). On the same day, Sen. Blackburn released a discussion draft of the TRUMP AMERICA AI Act — a national rulebook covering child safety chatbot bans, IP/creator protections, viewpoint diversity bias evaluations, and data center cost obligations, framed as answering Trump's March 2026 National AI Legislative Framework calling for Congress to preempt state AI laws. Neither has passed; both signal intense federal legislative activity with direct implications for how AI regulation will apply to Prosus US-facing AI products and portfolio companies with US operations.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "US"
+      ],
+      "source": "Nextgov/FCW / CNBC / Sen. Blackburn / White House",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/04/lieu-and-obernolte-introduce-consolidated-ai-bill-package/413134/",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T16:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU AI Office GPAI Code v2.1 and FAQ Update — Fine-Tuning Now May Trigger Provider Status",
+      "body": "The AI Office released GPAI Code of Practice v2.1 on 3 April 2026 (enhanced training data disclosure template) and updated 14 FAQs on 5 April 2026 clarifying that fine-tuning a GPAI model triggers provider obligations under Chapter V of the AI Act if the fine-tune substantially alters the model's purpose or risk profile. The final version of the GPAI Code was received by the Commission on 24 April 2026. Full enforcement powers (fines up to €15M or 3% global turnover) activate 2 August 2026 for new models. Amazon, Anthropic, Google, Microsoft, Mistral AI, and OpenAI are among 23 full signatories; xAI has signed only the Safety and Security chapter.",
+      "tags": [
+        "AI Act",
+        "AI Landscape",
+        "EU"
+      ],
+      "source": "EU AI Office / artificialintelligenceact.eu",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/gpai-code-practice",
+      "date": "2026-04-05",
+      "published_at": "2026-04-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Amazon",
+        "Anthropic",
+        "Google/Alphabet",
+        "Microsoft",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "SA Draft AI Policy vs EU AI Act — Internal Prosus Comparative Analysis (Mailbox)",
+      "body": "A Prosus regulatory analysis circulated internally on 22 April 2026 set out a 13-dimension comparison of the SA Draft AI Policy (since withdrawn) against the EU AI Act. Key portfolio implications: (1) SA's shared liability model spanning developers, deployers, and integrators has no EU equivalent and would create new obligations; (2) the proposed AI Insurance Superfund creates novel financial risk transfer requirements; (3) POPIA alignment and data sovereignty requirements for AI training data could restrict Prosus' cross-border data flows between SA and EU; (4) mandatory LLM watermarking for models trained on copyrighted material is unique to SA. Although the draft was withdrawn on 26 April, this analysis remains relevant for the anticipated redraft.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "Data & Privacy",
+        "ZA",
+        "EU"
+      ],
+      "source": "Prosus Internal (Tara Harris, Regulatory Team) — Mailbox",
+      "url": "https://www.prosus.com",
+      "date": "2026-04-22",
+      "published_at": "2026-04-22T14:25:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Prosus",
+        "Naspers"
+      ]
+    },
+    {
+      "title": "DOJ Files Complaint Against Colorado AI Discrimination Law SB24-205 — Federal-State AI Governance Conflict Escalates",
+      "body": "On 24 April 2026 the US Department of Justice filed a complaint challenging Colorado's SB24-205 (effective 30 June 2026), which mandates that developers and deployers of high-risk AI systems conduct algorithmic impact assessments and prevent discriminatory outputs. The DOJ claims the law violates Equal Protection and mandates discrimination. This is the first time the federal government has sued a state to block AI-specific legislation, and directly sets up a constitutional battleground over whether states can regulate AI safety and bias. Significant for Prosus entities using AI-driven recommendation or credit-scoring systems in any US state.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "US"
+      ],
+      "source": "DOJ / National Law Review",
+      "url": "https://www.justice.gov/crt/media/1437846/dl",
+      "date": "2026-04-24",
+      "published_at": "2026-04-24T14:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU AI Act: Ireland Issues First Article 11 Information Request Under AI Act — Enforcement Signals Begin",
+      "body": "On approximately 4 April 2026 Ireland's national AI competent authority issued the first Article 11 information request under the EU AI Act, marking the earliest-known use of formal supervisory powers by a Member State authority. The target and subject matter have not been publicly disclosed. While not a fine or enforcement action, the request signals that national AI Act supervision is moving from preparation to active engagement ahead of the August 2026 activation of AI Office full powers for GPAI. Companies placing AI systems on the EU market via Irish establishments — including many Prosus-adjacent tech companies — should treat this as a readiness signal.",
+      "tags": [
+        "AI Act",
+        "AI Landscape",
+        "EU",
+        "IE"
+      ],
+      "source": "EU AI Act tracker / ainewsdesk.app",
+      "url": "https://ainewsdesk.app/eu-ai-act-news-today-april-2026/",
+      "date": "2026-04-04",
+      "published_at": "2026-04-04T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    }
+  ]
+}
