@@ -2,7 +2,7 @@
 title: The problem with Europe’s Big Tech breakup: It’s still hooked
 category: privacy
 source: Politico Tech
-date: 28 April 2026
+date: 29 April 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
