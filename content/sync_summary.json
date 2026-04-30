@@ -1,21 +1,21 @@
 {
-  "last_sync": "2026-04-29T11:56:24.143185Z",
+  "last_sync": "2026-04-30T11:55:05.420767Z",
   "changed_files": [
     "ai_Anthropic_s_hacking_tech_exposes_EU_AI_Office_weaknesses.md",
     "ai_Florida_launches__criminal_investigation__into_ChatGPT__fuel.md",
     "competition_EU_eyes_tougher_penalties_for_single_market_rule-breakers.md",
-    "competition_EU_says_WhatsApp_AI_terms_update_fails_to_resolve_antitrust_.md",
     "competition_New_merger_rules_are_no_free_ride_for_European_champions__sa.md",
     "privacy_Don_t__overload__US_deal_with_extra_demands__says_EU_trade_b.md",
+    "privacy_EU_countries_cool_on_Brussels_age-check_app.md",
     "privacy_Inside_Ukraine_s_robot_war_revolution.md",
     "privacy_The_problem_with_Europe_s_Big_Tech_breakup__It_s_still_hooke.md",
     "privacy__A_deal_is_a_deal___Trump_s_ambassador_tells_EU.md",
     "regulatory_American_soldier_arrested_over_Polymarket_wagers_tied_to_Mad.md",
     "regulatory_Brussels_does_Delaware__Von_der_Leyen_chases_startups__but_u.md",
     "regulatory_Brussels_launched_an_age_checking_app__Hackers_say_it_takes_.md",
+    "regulatory_China_threatens_to_retaliate_over_EU_self-reliance_push.md",
     "regulatory_EU_Commission_jobs_reshuffle_on_hold_as_chiefs_stick_in_post.md",
     "regulatory_EU_majority_resists_French_call_to_overhaul_US_trade_deal.md",
-    "regulatory_EU_must_have_more_of_its_own_taxes_from_2028__says_von_der_L.md",
     "regulatory_EU_top_court_strikes_down_Hungary_s_anti-LGBTQ__rules.md",
     "regulatory_Europe_craves_its_own_superhacking_AI.md",
     "regulatory_Germany_faces_resistance_in_push_to_weaken_AI_rules.md",
@@ -30,8 +30,8 @@
   "total_changed": 25,
   "total_articles": 23,
   "by_category": {
-    "competition": 3,
-    "privacy": 4,
+    "competition": 2,
+    "privacy": 5,
     "ip": 0,
     "regulatory": 16
   }

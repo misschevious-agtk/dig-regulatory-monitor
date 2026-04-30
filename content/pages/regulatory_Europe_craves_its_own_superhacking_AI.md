@@ -2,7 +2,7 @@
 title: Europe craves its own superhacking AI
 category: regulatory
 source: Politico Tech
-date: 29 April 2026
+date: 30 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: American soldier arrested over Polymarket wagers tied to Maduro’s capture
 category: regulatory
 source: Politico Tech
-date: 29 April 2026
+date: 30 April 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
