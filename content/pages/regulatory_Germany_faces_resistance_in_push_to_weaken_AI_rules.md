@@ -2,7 +2,7 @@
 title: Germany faces resistance in push to weaken AI rules
 category: regulatory
 source: Politico Tech
-date: 30 April 2026
+date: 1 May 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---

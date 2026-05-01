@@ -1,9 +1,8 @@
 {
-  "last_sync": "2026-04-30T11:55:05.420767Z",
+  "last_sync": "2026-05-01T10:54:17.149598Z",
   "changed_files": [
-    "ai_Anthropic_s_hacking_tech_exposes_EU_AI_Office_weaknesses.md",
     "ai_Florida_launches__criminal_investigation__into_ChatGPT__fuel.md",
-    "competition_EU_eyes_tougher_penalties_for_single_market_rule-breakers.md",
+    "ai_White_House_presses_tech_companies_for_support_on_AI-driven_.md",
     "competition_New_merger_rules_are_no_free_ride_for_European_champions__sa.md",
     "privacy_Don_t__overload__US_deal_with_extra_demands__says_EU_trade_b.md",
     "privacy_EU_countries_cool_on_Brussels_age-check_app.md",
@@ -13,8 +12,9 @@
     "regulatory_American_soldier_arrested_over_Polymarket_wagers_tied_to_Mad.md",
     "regulatory_Brussels_does_Delaware__Von_der_Leyen_chases_startups__but_u.md",
     "regulatory_Brussels_launched_an_age_checking_app__Hackers_say_it_takes_.md",
-    "regulatory_China_threatens_to_retaliate_over_EU_self-reliance_push.md",
+    "regulatory_EU_Commission__Blame_Berlin_and_Paris_for_red_tape__not_us.md",
     "regulatory_EU_Commission_jobs_reshuffle_on_hold_as_chiefs_stick_in_post.md",
+    "regulatory_EU_legislators_fail_to_clinch_deal_to_delay_AI_law.md",
     "regulatory_EU_majority_resists_French_call_to_overhaul_US_trade_deal.md",
     "regulatory_EU_top_court_strikes_down_Hungary_s_anti-LGBTQ__rules.md",
     "regulatory_Europe_craves_its_own_superhacking_AI.md",
@@ -22,7 +22,7 @@
     "regulatory_Germany_turns_to_Brazil_as_US_ties_fray.md",
     "regulatory_Head_of_UK_data_watchdog_voluntarily_steps_aside_amid_HR_pro.md",
     "regulatory_Intimate_talks__Brussels_ponders_the_naked_body_in_AI_bill.md",
-    "regulatory_Online_age_checks_are_coming_in_Europe.md",
+    "regulatory_UK_calls_on__middle_powers__to_counter_over-concentration_of.md",
     "regulatory_UK_intelligence__100_nations_have_spyware_that_can_hack_Brit.md",
     "regulatory_Von_der_Leyen_plays_down_deregulation_clash_with_German_cons.md",
     "regulatory_White_House_meets_with_Anthropic_CEO_amid_hopes_for_a_truce.md"
@@ -30,9 +30,9 @@
   "total_changed": 25,
   "total_articles": 23,
   "by_category": {
-    "competition": 2,
+    "competition": 1,
     "privacy": 5,
     "ip": 0,
-    "regulatory": 16
+    "regulatory": 17
   }
 }
