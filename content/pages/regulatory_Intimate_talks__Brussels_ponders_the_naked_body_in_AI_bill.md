@@ -2,7 +2,7 @@
 title: Intimate talks: Brussels ponders the naked body in AI bill
 category: regulatory
 source: Politico Tech
-date: 2 May 2026
+date: 3 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
