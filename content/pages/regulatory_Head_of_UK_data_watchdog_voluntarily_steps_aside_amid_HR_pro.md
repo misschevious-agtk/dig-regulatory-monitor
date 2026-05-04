@@ -2,7 +2,7 @@
 title: Head of UK data watchdog voluntarily steps aside amid HR probe
 category: regulatory
 source: Politico Tech
-date: 3 May 2026
+date: 4 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Under Investigation, UK
 ---

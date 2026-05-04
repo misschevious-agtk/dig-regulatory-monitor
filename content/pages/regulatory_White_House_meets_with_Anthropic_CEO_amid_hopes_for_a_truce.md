@@ -2,7 +2,7 @@
 title: White House meets with Anthropic CEO amid hopes for a truce
 category: regulatory
 source: Politico Tech
-date: 3 May 2026
+date: 4 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
