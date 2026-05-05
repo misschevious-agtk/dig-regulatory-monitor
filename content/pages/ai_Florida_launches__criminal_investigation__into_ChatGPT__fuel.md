@@ -2,7 +2,7 @@
 title: Florida launches ‘criminal investigation’ into ChatGPT, fueled by university shooting
 category: ai
 source: Politico Tech
-date: 4 May 2026
+date: 5 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Under Investigation
 ---

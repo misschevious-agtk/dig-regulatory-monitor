@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-05-04T12:11:41.601263Z",
+  "last_sync": "2026-05-05T11:06:03.675904Z",
   "changed_files": [
     "ai_Florida_launches__criminal_investigation__into_ChatGPT__fuel.md",
-    "competition_New_merger_rules_are_no_free_ride_for_European_champions__sa.md",
-    "privacy_Don_t__overload__US_deal_with_extra_demands__says_EU_trade_b.md",
     "privacy_EU_countries_cool_on_Brussels_age-check_app.md",
     "privacy_Inside_Ukraine_s_robot_war_revolution.md",
     "privacy_The_problem_with_Europe_s_Big_Tech_breakup__It_s_still_hooke.md",
     "privacy__A_deal_is_a_deal___Trump_s_ambassador_tells_EU.md",
     "regulatory_American_soldier_arrested_over_Polymarket_wagers_tied_to_Mad.md",
     "regulatory_Brussels_does_Delaware__Von_der_Leyen_chases_startups__but_u.md",
+    "regulatory_Brussels_tells_EU_countries_to_use_its_age-check_app.md",
+    "regulatory_China_threatens_to_retaliate_over_EU_self-reliance_push.md",
     "regulatory_EU_Commission__Blame_Berlin_and_Paris_for_red_tape__not_us.md",
     "regulatory_EU_Commission_jobs_reshuffle_on_hold_as_chiefs_stick_in_post.md",
-    "regulatory_EU_accused_of_wasting__20B_on_AI_computing_dreams.md",
     "regulatory_EU_legislators_fail_to_clinch_deal_to_delay_AI_law.md",
     "regulatory_EU_majority_resists_French_call_to_overhaul_US_trade_deal.md",
+    "regulatory_EU_must_have_more_of_its_own_taxes_from_2028__says_von_der_L.md",
     "regulatory_EU_says_Meta_needs_to_do_more_to_keep_under-13s_off_Instagra.md",
     "regulatory_EU_top_court_strikes_down_Hungary_s_anti-LGBTQ__rules.md",
     "regulatory_Europe_craves_its_own_superhacking_AI.md",
+    "regulatory_Europe_s_laws__ill-equipped__to_deal_with_superhacking_AI__l.md",
     "regulatory_Germany_faces_resistance_in_push_to_weaken_AI_rules.md",
     "regulatory_Germany_turns_to_Brazil_as_US_ties_fray.md",
     "regulatory_Head_of_UK_data_watchdog_voluntarily_steps_aside_amid_HR_pro.md",
     "regulatory_Intimate_talks__Brussels_ponders_the_naked_body_in_AI_bill.md",
     "regulatory_UK_calls_on__middle_powers__to_counter_over-concentration_of.md",
     "regulatory_UK_intelligence__100_nations_have_spyware_that_can_hack_Brit.md",
-    "regulatory_Von_der_Leyen_plays_down_deregulation_clash_with_German_cons.md",
-    "regulatory_White_House_meets_with_Anthropic_CEO_amid_hopes_for_a_truce.md"
+    "regulatory_Von_der_Leyen_plays_down_deregulation_clash_with_German_cons.md"
   ],
   "total_changed": 25,
   "total_articles": 24,
   "by_category": {
-    "competition": 1,
-    "privacy": 5,
+    "competition": 0,
+    "privacy": 4,
     "ip": 0,
-    "regulatory": 18
+    "regulatory": 20
   }
 }
