@@ -2,7 +2,7 @@
 title: Inside Ukraine’s robot war revolution
 category: privacy
 source: Politico Tech
-date: 5 May 2026
+date: 6 May 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

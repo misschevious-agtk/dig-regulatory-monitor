@@ -2,7 +2,7 @@
 title: White House presses tech companies for support on AI-driven cyberattacks
 category: ai
 source: Politico Tech
-date: 3 May 2026
+date: 6 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
