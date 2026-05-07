@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DIG Regulatory Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Syne:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:        #0B1724;
+  --navy-2:      #152234;
+  --gold:        #B8872A;
+  --gold-light:  #D4A84B;
+  --gold-pale:   #F5EDD8;
+  --cream:       #F4F1EC;
+  --white:       #FFFFFF;
+  --ink:         #0B1724;
+  --ink-2:       #3D4F62;
+  --ink-3:       #7A8FA3;
+  --rule:        #E3DDD4;
+  --rule-light:  #EDE9E3;
+
+  --cat-comp:      #1B3F6E; --cat-comp-bg:    #E8EFF8;
+  --cat-priv:      #1A5438; --cat-priv-bg:    #E6F2EC;
+  --cat-ip:        #6B3D0A; --cat-ip-bg:      #F6EDE0;
+  --cat-ai:        #0F4A3A; --cat-ai-bg:      #E0F2EC;
+  --cat-ai-2:      #1A6B5A;
+  --cat-past:      #6B5A1A; --cat-past-bg:    #F2EFE0;
+  --cat-trend:     #6B1A4A; --cat-trend-bg:   #F6E8EF;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Syne', sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(0.7); }
+}
+
+/* ─────────────── Header ─────────────── */
+header {
+  background: var(--navy);
+  height: 58px; padding: 0 2.5rem;
+  display: flex; align-items: center; justify-content: space-between;
+  position: sticky; top: 0; z-index: 200;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  animation: fadeIn 0.4s both;
+}
+.brand { display: flex; align-items: center; }
+.brand-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px; font-weight: 600; letter-spacing: 0.08em;
+  color: #fff; font-style: italic;
+}
+.brand-sep { width: 1px; height: 18px; background: rgba(255,255,255,0.2); margin: 0 14px; }
+.brand-sub {
+  font-family: 'Syne', sans-serif;
+  font-size: 11px; font-weight: 500; letter-spacing: 0.18em;
+  text-transform: uppercase; color: rgba(255,255,255,0.6);
+}
+.hdr-status { font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.06em; color: var(--gold-light); }
+
+/* ─────────────── Hero ─────────────── */
+.hero {
+  background: var(--navy);
+  padding: 3rem 2.5rem 2.75rem;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  animation: fadeIn 0.5s both;
+}
+.hero-inner { max-width: 1180px; margin: 0 auto; }
+.hero-eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--gold-light);
+  margin-bottom: 0.875rem;
+}
+.hero-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 46px; font-weight: 500; line-height: 1.15;
+  color: #fff; letter-spacing: -0.015em;
+  margin-bottom: 1rem;
+}
+.hero-title em { font-style: italic; color: var(--gold-light); font-weight: 400; }
+.hero-sub {
+  font-family: 'Syne', sans-serif;
+  font-size: 14px; line-height: 1.65;
+  color: rgba(255,255,255,0.65);
+  max-width: 720px;
+}
+
+/* ─────────────── Navigation ─────────────── */
+nav {
+  background: var(--white);
+  border-bottom: 1px solid var(--rule);
+  padding: 0 2.5rem;
+  display: flex; gap: 0;
+  position: sticky; top: 58px; z-index: 100;
+  animation: fadeIn 0.5s 0.1s both;
+  overflow-x: auto; scrollbar-width: none;
+}
+nav::-webkit-scrollbar { display: none; }
+
+.nav-tab {
+  padding: 16px 20px;
+  font-family: 'Syne', sans-serif;
+  font-size: 12px; font-weight: 500;
+  letter-spacing: 0.04em; color: var(--ink-3);
+  cursor: pointer; border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+  white-space: nowrap; user-select: none;
+  display: flex; align-items: center; gap: 8px;
+  flex-shrink: 0;
+}
+.nav-tab:hover { color: var(--ink); }
+.nav-tab.active { color: var(--navy); border-bottom-color: var(--gold); }
+
+.nav-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9.5px; padding: 2px 6px; border-radius: 2px;
+  background: var(--rule-light); color: var(--ink-3);
+  min-width: 22px; text-align: center;
+}
+.nav-tab.active .nav-count { background: var(--gold-pale); color: var(--gold); }
+
+.nav-tab.ai-tab { color: var(--cat-ai-2); }
+.nav-tab.ai-tab.active { border-bottom-color: var(--cat-ai-2); color: var(--cat-ai); }
+.nav-tab.ai-tab.active .nav-count { background: var(--cat-ai-bg); color: var(--cat-ai); }
+.ai-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--cat-ai-2); animation: pulse 2s ease-in-out infinite; }
+
+.nav-tab.past-tab { color: var(--cat-past); }
+.nav-tab.past-tab.active { border-bottom-color: var(--cat-past); color: var(--cat-past); }
+.nav-tab.past-tab.active .nav-count { background: var(--cat-past-bg); color: var(--cat-past); }
+
+.nav-tab.trend-tab { color: var(--cat-trend); }
+.nav-tab.trend-tab.active { border-bottom-color: var(--cat-trend); color: var(--cat-trend); }
+.nav-tab.trend-tab.active .nav-count { background: var(--cat-trend-bg); color: var(--cat-trend); }
+
+/* ─────────────── Main ─────────────── */
+main { max-width: 1180px; margin: 0 auto; padding: 2.75rem 2rem 5rem; }
+
+.section-head {
+  display: flex; align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  animation: fadeUp 0.5s 0.15s both;
+  flex-wrap: wrap; gap: 12px;
+}
+.section-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 34px; font-weight: 600;
+  color: var(--navy); letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+.section-title em { font-style: italic; font-weight: 500; color: var(--gold); }
+.section-title.ai-title { color: var(--cat-ai); }
+.section-title.past-title { color: var(--cat-past); }
+.section-title.trend-title { color: var(--cat-trend); }
+
+.section-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; color: var(--ink-3);
+  letter-spacing: 0.05em;
+}
+
+/* ─────────────── Day groups ─────────────── */
+.day-group-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 0.5rem 0 0.875rem;
+  border-bottom: 1px solid var(--rule);
+  margin: 0 0 1.5rem;
+  display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
+  animation: fadeUp 0.4s var(--ease) both;
+}
+.day-group-label.today {
+  color: var(--gold);
+  border-bottom-color: var(--gold-pale);
+}
+.day-group-label .label-main { font-weight: 600; letter-spacing: 0.16em; }
+.day-group-label .label-meta { opacity: 0.7; font-weight: 400; }
+.day-group { margin-bottom: 3rem; }
+.day-group:last-child { margin-bottom: 0; }
+
+/* ─────────────── Cards ─────────────── */
+.cards-wrap { display: flex; flex-direction: column; gap: 1.25rem; }
+.cards-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1.75rem 2rem 1.5rem;
+  display: flex; flex-direction: column; gap: 0.875rem;
+  transition: border-color 0.25s var(--ease), transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
+  animation: fadeUp 0.5s var(--ease) both;
+  position: relative; overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+.card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--gold);
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.3s var(--ease);
+}
+.card:hover::before { transform: scaleY(1); }
+.card:hover {
+  border-color: var(--gold-light);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(11, 23, 36, 0.06);
+}
+.card:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+.card-featured { width: 100%; }
+
+.card-tag-row {
+  display: flex; align-items: center; gap: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-3);
+}
+.pillar-pill {
+  display: inline-block;
+  padding: 3px 9px;
+  border-radius: 2px;
+  background: var(--rule-light);
+  color: var(--ink-2);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+}
+.pillar-pill.competition { background: var(--cat-comp-bg); color: var(--cat-comp); }
+.pillar-pill.privacy { background: var(--cat-priv-bg); color: var(--cat-priv); }
+.pillar-pill.ip { background: var(--cat-ip-bg); color: var(--cat-ip); }
+.pillar-pill.ai_landscape { background: var(--cat-ai-bg); color: var(--cat-ai); }
+.pillar-pill.trending { background: var(--cat-trend-bg); color: var(--cat-trend); }
+
+.card-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 18px; font-weight: 600;
+  color: var(--navy); line-height: 1.4;
+  letter-spacing: -0.01em;
+  transition: color 0.2s;
+}
+.card:hover .card-title { color: var(--gold); }
+
+.card-featured .card-title {
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.card-body {
+  font-family: 'Syne', sans-serif;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  letter-spacing: 0.2px;
+}
+
+.card-featured .card-body {
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+.card-footer {
+  display: flex; justify-content: space-between; align-items: flex-end; gap: 12px;
+  font-size: 11px; margin-top: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule-light);
+}
+
+.card-meta-left { display: flex; flex-direction: column; gap: 4px; }
+.card-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px; color: var(--ink-3);
+  letter-spacing: 0.06em;
+}
+.card-source {
+  font-family: 'Syne', sans-serif;
+  font-size: 11.5px; color: var(--ink-2);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.card-link-indicator {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-3);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: flex; align-items: center; gap: 5px;
+  transition: color 0.2s;
+  white-space: nowrap;
+}
+.card:hover .card-link-indicator { color: var(--gold); }
+.card-link-indicator::after {
+  content: '↗';
+  font-size: 14px;
+  transition: transform 0.2s;
+}
+.card:hover .card-link-indicator::after { transform: translate(2px, -2px); }
+
+.tags {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin-top: 0.25rem;
+}
+.tag {
+  display: inline-block;
+  font-family: 'Syne', sans-serif;
+  font-size: 10px; font-weight: 500;
+  padding: 4px 9px; border-radius: 3px;
+  background: var(--rule-light); color: var(--ink-2);
+  letter-spacing: 0.04em;
+}
+
+/* ─────────────── Empty / Loading ─────────────── */
+.empty-section {
+  padding: 3rem 2rem;
+  text-align: center;
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  color: var(--ink-3);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.empty-section strong {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px; font-weight: 600;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 5rem 2rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px; color: var(--ink-3);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+footer {
+  border-top: 1px solid var(--rule);
+  background: var(--white);
+  padding: 1.75rem 2.5rem;
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  color: var(--ink-3);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  header { padding: 0 1.25rem; }
+  .hero { padding: 2rem 1.25rem 1.75rem; }
+  .hero-title { font-size: 30px; }
+  nav { padding: 0 1.25rem; }
+  main { padding: 1.75rem 1rem 3rem; }
+  .section-title { font-size: 26px; }
+  .cards-row { grid-template-columns: 1fr; }
+  .card { padding: 1.5rem; }
+  .card-featured .card-title { font-size: 20px; }
+  footer { padding: 1.25rem; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="brand-name">DIG</div>
+    <div class="brand-sep"></div>
+    <div class="brand-sub">Regulatory Monitor</div>
+  </div>
+  <div class="hdr-status" id="status-sync">Loading…</div>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Digital Regulatory Team · Daily Briefing</div>
+    <h1 class="hero-title">
+      Daily intelligence on <em>digital regulation</em><br>across our priority jurisdictions.
+    </h1>
+    <p class="hero-sub">
+      Curated coverage of competition law, data privacy, intellectual property, and AI governance —
+      from EU, UK, Brazil, India, South Africa, and beyond. Updated daily.
+    </p>
+  </div>
+</section>
+
+<nav>
+  <div class="nav-tab trend-tab active" data-section="trending">
+    <span>Trending Today</span>
+    <span class="nav-count" id="nc-trending"></span>
+  </div>
+  <div class="nav-tab" data-section="competition">
+    <span>Competition Law</span>
+    <span class="nav-count" id="nc-competition"></span>
+  </div>
+  <div class="nav-tab" data-section="privacy">
+    <span>Data &amp; Privacy</span>
+    <span class="nav-count" id="nc-privacy"></span>
+  </div>
+  <div class="nav-tab" data-section="ip">
+    <span>IP Law</span>
+    <span class="nav-count" id="nc-ip"></span>
+  </div>
+  <div class="nav-tab ai-tab" data-section="ai_landscape">
+    <div class="ai-dot"></div>
+    <span>AI Regulatory Changes</span>
+    <span class="nav-count" id="nc-ai_landscape"></span>
+  </div>
+  <div class="nav-tab past-tab" data-section="past">
+    <span>Old News</span>
+    <span class="nav-count" id="nc-past"></span>
+  </div>
+</nav>
+
+<main>
+  <div id="main-content" class="loading">Loading regulatory briefing…</div>
+</main>
+
+<footer>
+  DIG Digital Regulatory Team · Internal Use Only · Updated Daily
+</footer>
+
+<script>
+// ════════════════════════════════════════════════════════════
+// Constants
+// ════════════════════════════════════════════════════════════
+const WINDOW_DAYS = 7;
+
+// 5 separate JSON files in content/ folder
+const SOURCES = {
+  trending:     'content/trending.json',
+  competition:  'content/competition.json',
+  privacy:      'content/privacy.json',
+  ip:           'content/ip.json',
+  ai_landscape: 'content/ai_landscape.json'
+};
+
+const PILLAR_KEYS = Object.keys(SOURCES);
+
+const SECTION_META = {
+  trending:     { label: 'Trending Today',        titleClass: 'trend-title', pillarLabel: 'Cross-Pillar' },
+  competition:  { label: 'Competition Law',       titleClass: '',            pillarLabel: 'Competition' },
+  privacy:      { label: 'Data & Privacy',        titleClass: '',            pillarLabel: 'Privacy' },
+  ip:           { label: 'IP Law',                titleClass: '',            pillarLabel: 'IP Law' },
+  ai_landscape: { label: 'AI Regulatory Changes', titleClass: 'ai-title',    pillarLabel: 'AI Landscape' }
+};
+
+// ════════════════════════════════════════════════════════════
+// Date utilities
+// ════════════════════════════════════════════════════════════
+function parseDate(article) {
+  if (!article || !article.date) return null;
+  const d = new Date(article.date);
+  return isNaN(d.getTime()) ? null : d;
+}
+
+function isThisWeek(date) {
+  const diff = new Date().getTime() - date.getTime();
+  const days = diff / (1000 * 60 * 60 * 24);
+  return days >= 0 && days < WINDOW_DAYS;
+}
+
+function isOlderThanWeek(date) {
+  const diff = new Date().getTime() - date.getTime();
+  const days = diff / (1000 * 60 * 60 * 24);
+  return days >= WINDOW_DAYS;
+}
+
+function isToday(date) {
+  return date.toDateString() === new Date().toDateString();
+}
+
+function dayLabel(date) {
+  if (isToday(date)) return 'Today';
+  const yesterday = new Date();
+  yesterday.setDate(yesterday.getDate() - 1);
+  if (date.toDateString() === yesterday.toDateString()) return 'Yesterday';
+  return date.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
+}
+
+function formatDateShort(date) {
+  return date.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric' });
+}
+
+function sortDesc(items) {
+  return [...items].sort((a, b) => {
+    const da = parseDate(a);
+    const db = parseDate(b);
+    if (!da || !db) return 0;
+    return db.getTime() - da.getTime();
+  });
+}
+
+function groupByDay(items) {
+  const groups = {};
+  items.forEach(a => {
+    const d = parseDate(a);
+    if (!d) return;
+    const key = d.toDateString();
+    if (!groups[key]) groups[key] = { date: d, items: [] };
+    groups[key].items.push(a);
+  });
+  return Object.values(groups).sort((a, b) => b.date.getTime() - a.date.getTime());
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// ════════════════════════════════════════════════════════════
+// Card rendering — entire card is clickable <a>
+// ════════════════════════════════════════════════════════════
+function renderCard(article, featured = false, delay = 0, pillarKey = '') {
+  const url = article.url || '#';
+  const src = (article.source || 'Source').replace(/\//g, ' / ');
+  const d = parseDate(article) || new Date();
+  const date = formatDateShort(d);
+  const tags = (article.tags || []).slice(0, 4);
+
+  const cardClass = featured ? 'card card-featured' : 'card';
+  const meta = SECTION_META[pillarKey] || {};
+  const pillarLabel = meta.pillarLabel || '';
+
+  const pillarPillHtml = pillarLabel
+    ? `<span class="pillar-pill ${pillarKey}">${escapeHtml(pillarLabel)}</span>`
+    : '';
+
+  const tagsHtml = tags.length
+    ? `<div class="tags">${tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>`
+    : '';
+
+  return `
+    <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="${cardClass}" style="animation-delay:${delay}s">
+      <div class="card-tag-row">
+        ${pillarPillHtml}
+        <span>${date}</span>
+      </div>
+      <div class="card-title">${escapeHtml(article.title || 'Untitled')}</div>
+      <div class="card-body">${escapeHtml(article.body || '')}</div>
+      ${tagsHtml}
+      <div class="card-footer">
+        <div class="card-meta-left">
+          <div class="card-date">${date}</div>
+          <div class="card-source">${escapeHtml(src)}</div>
+        </div>
+        <div class="card-link-indicator">Read article</div>
+      </div>
+    </a>
+  `;
+}
+
+// ════════════════════════════════════════════════════════════
+// Section rendering
+// ════════════════════════════════════════════════════════════
+function renderSection(items, sectionKey) {
+  const meta = SECTION_META[sectionKey];
+  if (!meta) return '<p>Unknown section</p>';
+
+  const filtered = items.filter(a => {
+    const d = parseDate(a);
+    return d && isThisWeek(d);
+  });
+
+  if (!filtered.length) {
+    return `
+      <div class="section-head">
+        <h2 class="section-title ${meta.titleClass}">${meta.label}</h2>
+        <span class="section-meta">${WINDOW_DAYS}-day window</span>
+      </div>
+      <div class="empty-section">
+        <strong>No new articles in the last ${WINDOW_DAYS} days</strong>
+        Check back tomorrow — the briefing updates daily.
+      </div>
+    `;
+  }
+
+  const sorted = sortDesc(filtered);
+  const groups = groupByDay(sorted);
+
+  let html = `
+    <div class="section-head">
+      <h2 class="section-title ${meta.titleClass}">${meta.label}</h2>
+      <span class="section-meta">${filtered.length} article${filtered.length !== 1 ? 's' : ''} · last ${WINDOW_DAYS} days</span>
+    </div>
+  `;
+
+  let baseDelay = 0.05;
+  groups.forEach(g => {
+    const today = isToday(g.date);
+    html += `
+      <div class="day-group">
+        <div class="day-group-label${today ? ' today' : ''}">
+          <span class="label-main">${dayLabel(g.date)}</span>
+          <span class="label-meta">${g.items.length} item${g.items.length !== 1 ? 's' : ''} · ${formatDateShort(g.date)}</span>
+        </div>
+        <div class="cards-wrap">
+    `;
+    const [first, ...rest] = g.items;
+    html += renderCard(first, true, baseDelay, sectionKey);
+    if (rest.length) {
+      html += `<div class="cards-row">` +
+        rest.map((a, i) => renderCard(a, false, baseDelay + 0.04 + i * 0.03, sectionKey)).join('') +
+        `</div>`;
+    }
+    html += `</div></div>`;
+    baseDelay += 0.1;
+  });
+
+  return html;
+}
+
+// ════════════════════════════════════════════════════════════
+// Old News — articles older than 7 days from any pillar
+// ════════════════════════════════════════════════════════════
+function getOldArticles() {
+  const old = [];
+  PILLAR_KEYS.forEach(k => {
+    (allData[k] || []).forEach(a => {
+      const d = parseDate(a);
+      if (d && isOlderThanWeek(d)) {
+        old.push({ ...a, _pillar: k });
+      }
+    });
+  });
+  return sortDesc(old);
+}
+
+function renderOldNews() {
+  const old = getOldArticles();
+  const main = document.getElementById('main-content');
+
+  if (!old.length) {
+    main.innerHTML = `
+      <div class="section-head">
+        <h2 class="section-title past-title">Old News</h2>
+        <span class="section-meta">Archive</span>
+      </div>
+      <div class="empty-section">
+        <strong>No archived articles yet</strong>
+        Articles older than ${WINDOW_DAYS} days will automatically appear here.
+      </div>
+    `;
+    return;
+  }
+
+  // Group by month
+  const groups = {};
+  old.forEach(a => {
+    const d = parseDate(a) || new Date();
+    const key = d.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+    if (!groups[key]) groups[key] = { date: d, items: [] };
+    groups[key].items.push(a);
+  });
+
+  const sortedGroups = Object.entries(groups).sort((a, b) => b[1].date.getTime() - a[1].date.getTime());
+
+  let html = `
+    <div class="section-head">
+      <h2 class="section-title past-title">Old News</h2>
+      <span class="section-meta">${old.length} archived article${old.length !== 1 ? 's' : ''}</span>
+    </div>
+  `;
+
+  let baseDelay = 0.05;
+  sortedGroups.forEach(([monthLabel, group]) => {
+    html += `
+      <div class="day-group">
+        <div class="day-group-label">
+          <span class="label-main">${monthLabel}</span>
+          <span class="label-meta">${group.items.length} item${group.items.length !== 1 ? 's' : ''}</span>
+        </div>
+        <div class="cards-wrap">
+    `;
+    const [first, ...rest] = group.items;
+    html += renderCard(first, true, baseDelay, first._pillar);
+    if (rest.length) {
+      html += `<div class="cards-row">` +
+        rest.map((a, i) => renderCard(a, false, baseDelay + 0.04 + i * 0.03, a._pillar)).join('') +
+        `</div>`;
+    }
+    html += `</div></div>`;
+    baseDelay += 0.1;
+  });
+
+  main.innerHTML = html;
+}
+
+// ════════════════════════════════════════════════════════════
+// Navigation
+// ════════════════════════════════════════════════════════════
+let allData = {};
+let activeSection = 'trending';
+
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    activeSection = tab.dataset.section;
+    renderActive();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+
+function renderActive() {
+  const main = document.getElementById('main-content');
+  if (activeSection === 'past') {
+    renderOldNews();
+    return;
+  }
+  main.innerHTML = renderSection(allData[activeSection] || [], activeSection);
+}
+
+function updateCounts() {
+  PILLAR_KEYS.forEach(k => {
+    const items = (allData[k] || []).filter(a => {
+      const d = parseDate(a);
+      return d && isThisWeek(d);
+    });
+    const el = document.getElementById('nc-' + k);
+    if (el) el.textContent = items.length || '';
+  });
+  const oldCount = getOldArticles().length;
+  const el = document.getElementById('nc-past');
+  if (el) el.textContent = oldCount || '';
+}
+
+// ════════════════════════════════════════════════════════════
+// Load all 5 JSON files in parallel
+// ════════════════════════════════════════════════════════════
+async function loadOne(pillar, path) {
+  try {
+    const res = await fetch(path + '?t=' + Date.now());
+    if (!res.ok) {
+      console.warn(`Could not load ${path}:`, res.status);
+      return [];
+    }
+    const data = await res.json();
+    // Each file has structure: { generated_at, [pillar]: [...articles] }
+    return data[pillar] || [];
+  } catch (err) {
+    console.warn(`Error loading ${path}:`, err);
+    return [];
+  }
+}
+
+async function loadContent() {
+  const startTime = Date.now();
+  
+  // Load all 5 files in parallel
+  const results = await Promise.all(
+    PILLAR_KEYS.map(k => loadOne(k, SOURCES[k]).then(articles => [k, articles]))
+  );
+
+  allData = {};
+  let total = 0;
+  results.forEach(([k, articles]) => {
+    allData[k] = articles;
+    total += articles.length;
+  });
+
+  // Status indicator
+  if (total > 0) {
+    const now = new Date();
+    document.getElementById('status-sync').textContent = 'Updated · ' +
+      now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }) + ' · ' +
+      now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }) + ' UTC';
+  } else {
+    document.getElementById('status-sync').textContent = 'No data loaded';
+    document.getElementById('main-content').innerHTML = `
+      <div class="empty-section">
+        <strong>Could not load briefing</strong>
+        Check that JSON files exist at: <code>content/trending.json</code>, <code>content/competition.json</code>, <code>content/privacy.json</code>, <code>content/ip.json</code>, <code>content/ai_landscape.json</code>
+      </div>
+    `;
+    return;
+  }
+
+  console.log(`Loaded ${total} articles in ${Date.now() - startTime}ms`);
+  
+  updateCounts();
+  renderActive();
+}
+
+window.addEventListener('load', loadContent);
+</script>
+
+</body>
+</html>
