@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DIG Regulatory Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy:        #0B1724;
+  --navy-2:      #152234;
+  --gold:        #B8872A;
+  --gold-light:  #D4A84B;
+  --gold-pale:   #F5EDD8;
+  --cream:       #F4F1EC;
+  --white:       #FFFFFF;
+  --ink:         #0B1724;
+  --ink-2:       #3D4F62;
+  --ink-3:       #7A8FA3;
+  --rule:        #E3DDD4;
+  --rule-light:  #EDE9E3;
+
+  --cat-comp:    #1B3F6E; --cat-comp-bg:  #E8EFF8;
+  --cat-priv:    #1A5438; --cat-priv-bg:  #E6F2EC;
+  --cat-ip:      #6B3D0A; --cat-ip-bg:    #F6EDE0;
+  --cat-ai:      #0F4A3A; --cat-ai-bg:    #E0F2EC;
+  --cat-ai-2:    #1A6B5A;
+  --cat-past:    #6B5A1A; --cat-past-bg:  #F2EFE0;
+  --cat-trend:   #6B1A4A; --cat-trend-bg: #F6E8EF;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn  { from { opacity: 0; } to { opacity: 1; } }
+@keyframes pulse   {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%      { opacity: 0.45; transform: scale(0.65); }
+}
+
+/* ─────────────────────────── Header ─────────────────────────── */
+header {
+  background: var(--navy);
+  height: 56px;
+  padding: 0 2.5rem;
+  display: flex; align-items: center; justify-content: space-between;
+  position: sticky; top: 0; z-index: 200;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  animation: fadeIn 0.35s both;
+}
+
+.brand { display: flex; align-items: center; gap: 14px; }
+
+.brand-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 21px; font-weight: 600; font-style: italic;
+  letter-spacing: 0.08em; color: #fff;
+}
+
+.brand-sep { width: 1px; height: 16px; background: rgba(255,255,255,0.18); }
+
+.brand-sub {
+  font-size: 10.5px; font-weight: 500;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+}
+
+.hdr-status {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px; letter-spacing: 0.06em;
+  color: var(--gold-light);
+}
+
+/* ─────────────────────────── Hero ─────────────────────────── */
+.hero {
+  background: var(--navy);
+  padding: 3rem 2.5rem 2.75rem;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  animation: fadeIn 0.45s both;
+}
+
+.hero-inner { max-width: 1200px; margin: 0 auto; }
+
+.hero-eyebrow {
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--gold-light); margin-bottom: 1rem;
+}
+
+.hero-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 44px; font-weight: 500; line-height: 1.15;
+  color: #fff; letter-spacing: -0.01em; margin-bottom: 1rem;
+}
+
+.hero-title em { font-style: italic; color: var(--gold-light); font-weight: 400; }
+
+.hero-sub {
+  font-size: 14px; font-weight: 300; line-height: 1.75;
+  color: rgba(255,255,255,0.58); max-width: 680px;
+}
+
+/* ─────────────────────────── Nav ─────────────────────────── */
+nav {
+  background: var(--white);
+  border-bottom: 1px solid var(--rule);
+  padding: 0 2.5rem;
+  display: flex;
+  position: sticky; top: 56px; z-index: 100;
+  overflow-x: auto; scrollbar-width: none;
+  animation: fadeIn 0.45s 0.05s both;
+}
+nav::-webkit-scrollbar { display: none; }
+
+.nav-tab {
+  height: 46px;
+  padding: 0 18px;
+  font-size: 12px; font-weight: 500; letter-spacing: 0.01em;
+  color: var(--ink-3);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+  white-space: nowrap; user-select: none;
+  display: flex; align-items: center; gap: 7px;
+  flex-shrink: 0;
+}
+
+.nav-tab:hover { color: var(--ink); }
+.nav-tab.active { color: var(--navy); border-bottom-color: var(--gold); }
+
+.nav-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9px; line-height: 1;
+  padding: 3px 6px; border-radius: 2px;
+  background: var(--rule-light); color: var(--ink-3);
+  min-width: 20px; text-align: center;
+}
+.nav-tab.active .nav-count { background: var(--gold-pale); color: var(--gold); }
+
+.nav-tab.ai-tab   { color: var(--cat-ai-2); }
+.nav-tab.ai-tab.active { border-bottom-color: var(--cat-ai-2); color: var(--cat-ai); }
+.nav-tab.ai-tab.active .nav-count { background: var(--cat-ai-bg); color: var(--cat-ai); }
+
+.nav-tab.past-tab  { color: var(--cat-past); }
+.nav-tab.past-tab.active  { border-bottom-color: var(--cat-past); color: var(--cat-past); }
+.nav-tab.past-tab.active .nav-count { background: var(--cat-past-bg); color: var(--cat-past); }
+
+.nav-tab.trend-tab { color: var(--cat-trend); }
+.nav-tab.trend-tab.active { border-bottom-color: var(--cat-trend); color: var(--cat-trend); }
+.nav-tab.trend-tab.active .nav-count { background: var(--cat-trend-bg); color: var(--cat-trend); }
+
+.ai-dot {
+  width: 5px; height: 5px; border-radius: 50%;
+  background: var(--cat-ai-2);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* ─────────────────────────── Main ─────────────────────────── */
+main { max-width: 1200px; margin: 0 auto; padding: 2.5rem 2rem 5rem; }
+
+/* ─────────────────────────── Section head ─────────────────────────── */
+.section-head {
+  display: flex; align-items: flex-end;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--navy);
+  margin-bottom: 2.25rem;
+  flex-wrap: wrap; gap: 10px;
+  animation: fadeUp 0.4s both;
+}
+
+.section-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px; font-weight: 600;
+  letter-spacing: -0.02em; line-height: 1;
+  color: var(--navy);
+}
+
+.section-title em  { font-style: italic; font-weight: 500; color: var(--gold); }
+.section-title.ai-title    { color: var(--cat-ai); }
+.section-title.past-title  { color: var(--cat-past); }
+.section-title.trend-title { color: var(--cat-trend); }
+
+.section-head-right {
+  display: flex; align-items: center; gap: 10px;
+  padding-bottom: 2px;
+}
+
+.section-meta {
+  font-size: 11px; font-weight: 400; color: var(--ink-3);
+  letter-spacing: 0.01em;
+}
+
+.hide-read-btn {
+  font-size: 11px; font-weight: 500;
+  background: none; border: 1px solid var(--rule);
+  color: var(--ink-3); padding: 5px 11px; border-radius: 3px;
+  cursor: pointer; letter-spacing: 0.01em;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+.hide-read-btn:hover { color: var(--ink); border-color: var(--ink-3); }
+.hide-read-btn.active {
+  color: var(--navy); border-color: var(--navy);
+  background: var(--rule-light);
+}
+
+/* ─────────────────────────── Day group ─────────────────────────── */
+.day-group { margin-bottom: 2.75rem; }
+.day-group:last-child { margin-bottom: 0; }
+
+.day-label-row {
+  display: flex; align-items: baseline;
+  justify-content: space-between; gap: 12px;
+  margin-bottom: 0;
+}
+
+.day-label-text {
+  font-size: 10px; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.day-label-row.today .day-label-text { color: var(--gold); }
+
+.day-label-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px; color: var(--ink-3); opacity: 0.7;
+  letter-spacing: 0.04em;
+}
+
+/* ─────────────────────────── Article list ─────────────────────────── */
+.article-list { display: flex; flex-direction: column; }
+
+/* ─────────────────────────── Article item ─────────────────────────── */
+.article-item {
+  display: grid;
+  grid-template-columns: 1fr 148px;
+  gap: 0 2rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--rule);
+  animation: fadeUp 0.45s var(--ease) both;
+  transition: opacity 0.3s;
+}
+
+.article-item:last-child { border-bottom: 1px solid var(--rule); }
+
+.article-item.is-read { opacity: 0.36; }
+
+/* Left column */
+.article-left {
+  display: flex; flex-direction: column; gap: 0.55rem;
+  min-width: 0;
+}
+
+.article-meta-top {
+  display: flex; align-items: center; gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pillar-pill {
+  font-size: 9.5px; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 2.5px 8px; border-radius: 2px;
+  white-space: nowrap;
+  background: var(--rule-light); color: var(--ink-2);
+}
+.pillar-pill.competition  { background: var(--cat-comp-bg); color: var(--cat-comp); }
+.pillar-pill.privacy      { background: var(--cat-priv-bg); color: var(--cat-priv); }
+.pillar-pill.ip           { background: var(--cat-ip-bg);   color: var(--cat-ip); }
+.pillar-pill.ai_landscape { background: var(--cat-ai-bg);   color: var(--cat-ai); }
+.pillar-pill.trending     { background: var(--cat-trend-bg);color: var(--cat-trend); }
+
+.article-keyword {
+  font-size: 10.5px; font-weight: 400; color: var(--ink-3);
+}
+
+.portfolio-badge {
+  font-size: 9.5px; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 2.5px 8px; border-radius: 2px;
+  background: var(--gold-pale); color: var(--gold);
+  border: 1px solid rgba(184,135,42,0.2);
+  white-space: nowrap;
+}
+
+.entity-row {
+  display: flex; align-items: center; flex-wrap: wrap;
+  gap: 5px; margin-top: 0.1rem;
+}
+
+.entity-label {
+  font-size: 9.5px; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-3); white-space: nowrap;
+}
+
+.entity-tag {
+  font-size: 10.5px; font-weight: 500;
+  padding: 2px 7px; border-radius: 2px;
+  background: var(--rule-light); color: var(--ink-2);
+  letter-spacing: 0.01em; white-space: nowrap;
+}
+
+.article-title {
+  font-size: 16px; font-weight: 600; line-height: 1.45;
+  letter-spacing: -0.015em; color: var(--navy);
+}
+
+.article-title a {
+  color: inherit; text-decoration: none;
+  transition: color 0.18s;
+}
+.article-title a:hover { color: var(--gold); }
+
+.article-body {
+  font-size: 13.5px; font-weight: 400; line-height: 1.72;
+  color: var(--ink-2); max-width: 700px;
+}
+
+.article-footer-row {
+  display: flex; align-items: center; gap: 14px;
+  margin-top: 0.15rem;
+}
+
+.article-source {
+  font-size: 11.5px; font-weight: 500; color: var(--ink-2);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  max-width: 240px;
+}
+
+.article-read-link {
+  font-size: 11.5px; font-weight: 400; color: var(--ink-3);
+  text-decoration: none;
+  display: flex; align-items: center; gap: 3px;
+  transition: color 0.18s; white-space: nowrap;
+}
+.article-read-link::after { content: '↗'; font-size: 11px; }
+.article-read-link:hover { color: var(--gold); }
+
+/* Right column */
+.article-right {
+  display: flex; flex-direction: column;
+  align-items: flex-end; justify-content: space-between;
+  padding: 0.1rem 0;
+}
+
+.article-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px; color: var(--ink-3);
+  letter-spacing: 0.06em; white-space: nowrap;
+}
+
+.mark-read-btn {
+  font-size: 11px; font-weight: 500;
+  display: flex; align-items: center; gap: 5px;
+  background: none; border: 1px solid var(--rule);
+  color: var(--ink-3); padding: 5px 10px; border-radius: 3px;
+  cursor: pointer; letter-spacing: 0.01em;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+  white-space: nowrap;
+}
+.mark-read-btn:hover { color: var(--gold); border-color: var(--gold-light); }
+.mark-read-btn.marked {
+  color: var(--gold); border-color: var(--gold-pale);
+  background: var(--gold-pale);
+}
+
+/* ─────────────────────────── Empty / Loading ─────────────────────────── */
+.empty-section {
+  padding: 3.5rem 2rem; text-align: center;
+  background: var(--white);
+  border: 1px solid var(--rule); border-radius: 3px;
+  color: var(--ink-3); font-size: 13px; line-height: 1.65;
+}
+.empty-section strong {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px; font-weight: 600;
+  color: var(--navy); margin-bottom: 0.5rem;
+}
+
+.loading {
+  text-align: center; padding: 5rem 2rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; color: var(--ink-3);
+  letter-spacing: 0.14em; text-transform: uppercase;
+}
+
+/* ─────────────────────────── Footer ─────────────────────────── */
+footer {
+  border-top: 1px solid var(--rule);
+  background: var(--white);
+  padding: 1.5rem 2.5rem; text-align: center;
+  font-size: 11px; font-weight: 400;
+  color: var(--ink-3); letter-spacing: 0.04em;
+}
+
+/* ─────────────────────────── Mobile ─────────────────────────── */
+@media (max-width: 768px) {
+  header { padding: 0 1.25rem; }
+  .hero  { padding: 2rem 1.25rem 1.75rem; }
+  .hero-title { font-size: 30px; }
+  nav  { padding: 0 1.25rem; }
+  main { padding: 1.75rem 1rem 3rem; }
+  .section-title { font-size: 26px; }
+
+  .article-item {
+    grid-template-columns: 1fr;
+    gap: 0.875rem 0;
+  }
+  .article-right {
+    flex-direction: row; align-items: center;
+    justify-content: space-between; min-width: auto;
+  }
+  footer { padding: 1.25rem; }
+}
+
+</style>
+</head>
+<body>
+
+<!-- ══════════════════ Header ══════════════════ -->
+<header>
+  <div class="brand">
+    <div class="brand-name">DIG</div>
+    <div class="brand-sep"></div>
+    <div class="brand-sub">Regulatory Monitor</div>
+  </div>
+  <div class="hdr-status" id="status-sync">Loading…</div>
+</header>
+
+<!-- ══════════════════ Hero ══════════════════ -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">DIG · Daily Intelligence</div>
+    <h1 class="hero-title">The <em>regulatory</em> brief.</h1>
+    <p class="hero-sub">
+      Competition, privacy, IP and AI policy — tracked daily across the jurisdictions that matter.
+    </p>
+  </div>
+</section>
+
+<!-- ══════════════════ Navigation ══════════════════ -->
+<nav>
+  <div class="nav-tab trend-tab active" data-section="trending">
+    <span>Trending Today</span>
+    <span class="nav-count" id="nc-trending"></span>
+  </div>
+  <div class="nav-tab" data-section="competition">
+    <span>Competition Law</span>
+    <span class="nav-count" id="nc-competition"></span>
+  </div>
+  <div class="nav-tab" data-section="privacy">
+    <span>Data &amp; Privacy</span>
+    <span class="nav-count" id="nc-privacy"></span>
+  </div>
+  <div class="nav-tab" data-section="ip">
+    <span>IP Law</span>
+    <span class="nav-count" id="nc-ip"></span>
+  </div>
+  <div class="nav-tab ai-tab" data-section="ai_landscape">
+    <div class="ai-dot"></div>
+    <span>AI Regulatory Changes</span>
+    <span class="nav-count" id="nc-ai_landscape"></span>
+  </div>
+  <div class="nav-tab past-tab" data-section="past">
+    <span>Old News</span>
+    <span class="nav-count" id="nc-past"></span>
+  </div>
+</nav>
+
+<!-- ══════════════════ Main ══════════════════ -->
+<main>
+  <div id="main-content" class="loading">Loading regulatory briefing…</div>
+</main>
+
+<footer>
+  DIG Digital Regulatory Team &nbsp;·&nbsp; Internal Use Only &nbsp;·&nbsp; Updated Daily
+</footer>
+
+<script>
+// ══════════════════════════════════════════════
+// Constants
+// ══════════════════════════════════════════════
+
+const WINDOW_DAYS = 7;
+
+const SOURCES = {
+  trending:    'content/trending.json',
+  competition: 'content/competition.json',
+  privacy:     'content/privacy.json',
+  ip:          'content/ip.json',
+  ai_landscape:'content/ai_landscape.json'
+};
+
+const PILLAR_KEYS = Object.keys(SOURCES);
+
+const SECTION_META = {
+  trending:    { label: 'Trending Today',         titleClass: 'trend-title', pillarLabel: 'Trending'     },
+  competition: { label: 'Competition Law',         titleClass: '',            pillarLabel: 'Competition'  },
+  privacy:     { label: 'Data & Privacy',          titleClass: '',            pillarLabel: 'Privacy'      },
+  ip:          { label: 'IP Law',                  titleClass: '',            pillarLabel: 'IP Law'       },
+  ai_landscape:{ label: 'AI Regulatory Changes',   titleClass: 'ai-title',    pillarLabel: 'AI Landscape' }
+};
+
+// ══════════════════════════════════════════════
+// Mark as Read (localStorage)
+// ══════════════════════════════════════════════
+
+const READ_KEY = 'dig_read_v1';
+
+function getReadSet() {
+  try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]')); }
+  catch { return new Set(); }
+}
+
+function saveReadSet(s) {
+  try { localStorage.setItem(READ_KEY, JSON.stringify([...s])); } catch {}
+}
+
+function articleId(a) { return a.url || a.title || ''; }
+function isRead(id)    { return getReadSet().has(id); }
+
+function setRead(id, val) {
+  const s = getReadSet();
+  val ? s.add(id) : s.delete(id);
+  saveReadSet(s);
+}
+
+// ══════════════════════════════════════════════
+// Date utilities
+// ══════════════════════════════════════════════
+
+function parseDate(a) {
+  if (!a || !a.date) return null;
+  const d = new Date(a.date);
+  return isNaN(d.getTime()) ? null : d;
+}
+
+const MS_DAY = 86400000;
+
+function isThisWeek(d)     { const ms = Date.now() - d.getTime(); return ms >= 0 && ms < WINDOW_DAYS * MS_DAY; }
+function isOlderThanWeek(d){ return Date.now() - d.getTime() >= WINDOW_DAYS * MS_DAY; }
+function isToday(d)        { return d.toDateString() === new Date().toDateString(); }
+
+function dayLabel(d) {
+  if (isToday(d)) return 'Today';
+  const y = new Date(); y.setDate(y.getDate() - 1);
+  if (d.toDateString() === y.toDateString()) return 'Yesterday';
+  return d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
+}
+
+function fmtDate(d) {
+  return d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+function sortDesc(arr) {
+  return [...arr].sort((a, b) => {
+    const da = parseDate(a), db = parseDate(b);
+    if (!da || !db) return 0;
+    return db - da;
+  });
+}
+
+function groupByDay(arr) {
+  const g = {};
+  arr.forEach(a => {
+    const d = parseDate(a); if (!d) return;
+    const k = d.toDateString();
+    if (!g[k]) g[k] = { date: d, items: [] };
+    g[k].items.push(a);
+  });
+  return Object.values(g).sort((a, b) => b.date - a.date);
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ══════════════════════════════════════════════
+// Render a single article item
+// ══════════════════════════════════════════════
+
+function renderItem(a, delay, pillarKey) {
+  const id       = articleId(a);
+  const read     = isRead(id);
+  const url      = a.url || '#';
+  const src      = (a.source || 'Unknown source').replace(/\//g, ' / ');
+  const d        = parseDate(a) || new Date();
+  const meta     = SECTION_META[pillarKey] || {};
+  const tags     = (a.tags || []).slice(0, 3);
+  const entities = (a.entity_match || []);
+  const isPortfolio = a.scope_path && (a.scope_path === 'B' || a.scope_path === 'AB');
+
+  const pillHtml = meta.pillarLabel
+    ? `<span class="pillar-pill ${esc(pillarKey)}">${esc(meta.pillarLabel)}</span>`
+    : '';
+
+  const portfolioBadge = isPortfolio
+    ? `<span class="portfolio-badge">Portfolio relevance</span>`
+    : '';
+
+  const keywordsHtml = tags
+    .map(t => `<span class="article-keyword">${esc(t)}</span>`)
+    .join('<span class="article-keyword" style="color:var(--rule)">·</span>');
+
+  const entityHtml = entities.length
+    ? `<div class="entity-row">
+        <span class="entity-label">Mentions</span>
+        ${entities.map(e => `<span class="entity-tag">${esc(e)}</span>`).join('')}
+       </div>`
+    : '';
+
+  return `
+<div class="article-item${read ? ' is-read' : ''}" data-id="${esc(id)}" style="animation-delay:${delay}s">
+  <div class="article-left">
+    <div class="article-meta-top">
+      ${pillHtml}
+      ${portfolioBadge}
+      ${keywordsHtml}
+    </div>
+    <div class="article-title">
+      <a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(a.title || 'Untitled')}</a>
+    </div>
+    ${a.body ? `<div class="article-body">${esc(a.body)}</div>` : ''}
+    ${entityHtml}
+    <div class="article-footer-row">
+      <span class="article-source">${esc(src)}</span>
+      <a class="article-read-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Read article</a>
+    </div>
+  </div>
+  <div class="article-right">
+    <div class="article-date">${fmtDate(d)}</div>
+    <button class="mark-read-btn${read ? ' marked' : ''}" data-id="${esc(id)}">
+      ${read ? '✓&nbsp;Read' : '○&nbsp;Mark read'}
+    </button>
+  </div>
+</div>`;
+}
+
+// ══════════════════════════════════════════════
+// Mark-as-read interaction (event delegation)
+// ══════════════════════════════════════════════
+
+let hideRead = false;
+
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.mark-read-btn');
+  if (!btn) return;
+
+  const id   = btn.dataset.id;
+  const item = btn.closest('.article-item');
+  const nowRead = !isRead(id);
+
+  setRead(id, nowRead);
+
+  btn.classList.toggle('marked', nowRead);
+  btn.innerHTML = nowRead ? '✓&nbsp;Read' : '○&nbsp;Mark read';
+
+  if (item) {
+    item.classList.toggle('is-read', nowRead);
+    if (hideRead && nowRead) item.style.display = 'none';
+    if (!nowRead)            item.style.display = '';
+  }
+
+  updateCounts();
+  refreshHideReadBtn();
+});
+
+// Hide / show read toggle
+document.addEventListener('click', e => {
+  if (!e.target.closest('.hide-read-btn')) return;
+  hideRead = !hideRead;
+  refreshHideReadBtn();
+  document.querySelectorAll('.article-item.is-read').forEach(el => {
+    el.style.display = hideRead ? 'none' : '';
+  });
+});
+
+function refreshHideReadBtn() {
+  const btn = document.querySelector('.hide-read-btn');
+  if (!btn) return;
+  btn.classList.toggle('active', hideRead);
+  btn.textContent = hideRead ? 'Show read' : 'Hide read';
+}
+
+// ══════════════════════════════════════════════
+// Render section
+// ══════════════════════════════════════════════
+
+function buildSectionHtml(items, sectionKey) {
+  const meta = SECTION_META[sectionKey];
+
+  const recent = items.filter(a => { const d = parseDate(a); return d && isThisWeek(d); });
+
+  if (!recent.length) return `
+    <div class="section-head">
+      <h2 class="section-title ${meta.titleClass}">${meta.label}</h2>
+    </div>
+    <div class="empty-section">
+      <strong>No new articles in the last ${WINDOW_DAYS} days</strong>
+      Check back tomorrow — the briefing updates daily.
+    </div>`;
+
+  const sorted  = sortDesc(recent);
+  const readCnt = recent.filter(a => isRead(articleId(a))).length;
+  const unread  = recent.length - readCnt;
+
+  let html = `
+    <div class="section-head">
+      <h2 class="section-title ${meta.titleClass}">${meta.label}</h2>
+      <div class="section-head-right">
+        <span class="section-meta">${unread} unread&nbsp;·&nbsp;${recent.length} total</span>
+        ${readCnt > 0
+          ? `<button class="hide-read-btn${hideRead ? ' active' : ''}">${hideRead ? 'Show read' : 'Hide read'}</button>`
+          : ''}
+      </div>
+    </div>`;
+
+  let delay = 0.04;
+  groupByDay(sorted).forEach(g => {
+    html += `
+    <div class="day-group">
+      <div class="day-label-row${isToday(g.date) ? ' today' : ''}">
+        <span class="day-label-text">${dayLabel(g.date)}</span>
+        <span class="day-label-meta">${g.items.length} item${g.items.length !== 1 ? 's' : ''}&nbsp;·&nbsp;${fmtDate(g.date)}</span>
+      </div>
+      <div class="article-list">
+        ${g.items.map((a, i) => renderItem(a, delay + i * 0.03, sectionKey)).join('')}
+      </div>
+    </div>`;
+    delay += 0.08;
+  });
+
+  return html;
+}
+
+// ══════════════════════════════════════════════
+// Old News
+// ══════════════════════════════════════════════
+
+function getOldArticles() {
+  return sortDesc(
+    PILLAR_KEYS.flatMap(k =>
+      (allData[k] || [])
+        .filter(a => { const d = parseDate(a); return d && isOlderThanWeek(d); })
+        .map(a => ({ ...a, _pillar: k }))
+    )
+  );
+}
+
+function buildOldNewsHtml() {
+  const old = getOldArticles();
+
+  if (!old.length) return `
+    <div class="section-head">
+      <h2 class="section-title past-title">Old News</h2>
+    </div>
+    <div class="empty-section">
+      <strong>No archived articles yet</strong>
+      Articles older than ${WINDOW_DAYS} days appear here automatically.
+    </div>`;
+
+  const groups = {};
+  old.forEach(a => {
+    const d   = parseDate(a) || new Date();
+    const key = d.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+    if (!groups[key]) groups[key] = { date: d, items: [] };
+    groups[key].items.push(a);
+  });
+
+  const readCnt = old.filter(a => isRead(articleId(a))).length;
+  const unread  = old.length - readCnt;
+
+  let html = `
+    <div class="section-head">
+      <h2 class="section-title past-title">Old News</h2>
+      <div class="section-head-right">
+        <span class="section-meta">${unread} unread&nbsp;·&nbsp;${old.length} archived</span>
+        ${readCnt > 0
+          ? `<button class="hide-read-btn${hideRead ? ' active' : ''}">${hideRead ? 'Show read' : 'Hide read'}</button>`
+          : ''}
+      </div>
+    </div>`;
+
+  let delay = 0.04;
+  Object.entries(groups)
+    .sort((a, b) => b[1].date - a[1].date)
+    .forEach(([month, g]) => {
+      html += `
+    <div class="day-group">
+      <div class="day-label-row">
+        <span class="day-label-text">${month}</span>
+        <span class="day-label-meta">${g.items.length} item${g.items.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="article-list">
+        ${g.items.map((a, i) => renderItem(a, delay + i * 0.03, a._pillar)).join('')}
+      </div>
+    </div>`;
+      delay += 0.08;
+    });
+
+  return html;
+}
+
+// ══════════════════════════════════════════════
+// Navigation
+// ══════════════════════════════════════════════
+
+let allData = {};
+let activeSection = 'trending';
+
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    activeSection = tab.dataset.section;
+    renderActive();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+});
+
+function renderActive() {
+  const main = document.getElementById('main-content');
+  main.innerHTML = activeSection === 'past'
+    ? buildOldNewsHtml()
+    : buildSectionHtml(allData[activeSection] || [], activeSection);
+
+  // Re-apply hide state after re-render
+  if (hideRead) {
+    document.querySelectorAll('.article-item.is-read').forEach(el => { el.style.display = 'none'; });
+  }
+}
+
+function updateCounts() {
+  PILLAR_KEYS.forEach(k => {
+    const el = document.getElementById('nc-' + k);
+    if (!el) return;
+    const unread = (allData[k] || [])
+      .filter(a => { const d = parseDate(a); return d && isThisWeek(d) && !isRead(articleId(a)); })
+      .length;
+    el.textContent = unread || '';
+  });
+  const oldUnread = getOldArticles().filter(a => !isRead(articleId(a))).length;
+  const el = document.getElementById('nc-past');
+  if (el) el.textContent = oldUnread || '';
+}
+
+// ══════════════════════════════════════════════
+// Data loading
+// ══════════════════════════════════════════════
+
+async function loadPillar(key, path) {
+  try {
+    const res = await fetch(path + '?t=' + Date.now());
+    if (!res.ok) { console.warn('Could not load', path, res.status); return []; }
+    const json = await res.json();
+    return json[key] || [];
+  } catch (err) { console.warn('Error loading', path, err); return []; }
+}
+
+async function loadAll() {
+  const pairs = await Promise.all(
+    PILLAR_KEYS.map(k => loadPillar(k, SOURCES[k]).then(arr => [k, arr]))
+  );
+
+  allData = {};
+  let total = 0;
+  pairs.forEach(([k, arr]) => { allData[k] = arr; total += arr.length; });
+
+  const statusEl = document.getElementById('status-sync');
+
+  if (!total) {
+    statusEl.textContent = 'No data loaded';
+    document.getElementById('main-content').innerHTML = `
+      <div class="empty-section">
+        <strong>Could not load briefing</strong>
+        Check that JSON files exist in the <code>content/</code> folder.
+      </div>`;
+    return;
+  }
+
+  const now = new Date();
+  statusEl.textContent =
+    'Updated · ' + now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+
+  updateCounts();
+  renderActive();
+}
+
+window.addEventListener('load', loadAll);
+</script>
+</body>
+</html>
