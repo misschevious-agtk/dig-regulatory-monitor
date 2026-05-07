@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DIG Regulatory Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --navy: #0D1B2A;
+    --navy-mid: #1A2E42;
+    --navy-light: #253D54;
+    --amber: #C8962E;
+    --amber-light: #E8B84B;
+    --cream: #F7F4EF;
+    --white: #FFFFFF;
+    --text-primary: #0D1B2A;
+    --text-secondary: #4A5568;
+    --text-muted: #8896A8;
+    --border: #E2DDD6;
+    --border-light: #EDE9E3;
+    --tag-competition-bg: #EBF0F8; --tag-competition-text: #1A3F6F;
+    --tag-privacy-bg: #EAF3EE; --tag-privacy-text: #1A5C3A;
+    --tag-ip-bg: #FDF3E3; --tag-ip-text: #7A4D0A;
+    --tag-regulatory-bg: #F5EBF5; --tag-regulatory-text: #5C1A7A;
+    --tag-antitrust-bg: #FCEAEA; --tag-antitrust-text: #7A1A1A;
+    --tag-cartel-bg: #FFF0E6; --tag-cartel-text: #7A3A0A;
+    --tag-status-bg: #F0F4FF; --tag-status-text: #1A2E6F;
+    --tag-geo-bg: #1A2E42; --tag-geo-text: #A8C4DC;
+  }
+
+  body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: var(--cream);
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: var(--navy);
+    padding: 0 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .hamburger { cursor: pointer; display: flex; flex-direction: column; gap: 4px; }
+  .hamburger span { display: block; width: 18px; height: 1.5px; background: rgba(255,255,255,0.5); }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+  }
+
+  .brand-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .brand-divider {
+    width: 1px;
+    height: 16px;
+    background: rgba(255,255,255,0.25);
+    margin: 0 12px;
+  }
+
+  .brand-subtitle {
+    font-size: 13px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.65);
+    letter-spacing: 0.04em;
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .header-team {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.55);
+    letter-spacing: 0.03em;
+  }
+
+  .header-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--amber-light);
+    letter-spacing: 0.05em;
+  }
+
+  /* ── Navigation ── */
+  nav {
+    background: var(--white);
+    border-bottom: 1px solid var(--border);
+    padding: 0 2.5rem;
+    display: flex;
+    gap: 0;
+  }
+
+  .nav-tab {
+    padding: 14px 20px;
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.18s ease;
+    white-space: nowrap;
+    letter-spacing: 0.01em;
+  }
+
+  .nav-tab:hover { color: var(--text-primary); }
+
+  .nav-tab.active {
+    color: var(--navy);
+    font-weight: 500;
+    border-bottom-color: var(--amber);
+  }
+
+  /* ── Main content ── */
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem 4rem;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.75rem;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: var(--navy);
+    letter-spacing: -0.01em;
+  }
+
+  .article-count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+    letter-spacing: 0.04em;
+  }
+
+  /* ── Cards ── */
+  .cards-grid {
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  .card-featured {
+    grid-column: 1 / -1;
+  }
+
+  .cards-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .card {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.5rem 1.75rem 1.25rem;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 0.875rem;
+  }
+
+  .card:hover {
+    border-color: #C8B99A;
+    box-shadow: 0 4px 20px rgba(13,27,42,0.06);
+  }
+
+  .card-featured .card {
+    padding: 2rem 2.25rem 1.5rem;
+  }
+
+  /* Tags */
+  .card-tags { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+
+  .tag {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+
+  .tag-competition { background: var(--tag-competition-bg); color: var(--tag-competition-text); }
+  .tag-privacy { background: var(--tag-privacy-bg); color: var(--tag-privacy-text); }
+  .tag-ip { background: var(--tag-ip-bg); color: var(--tag-ip-text); }
+  .tag-regulatory { background: var(--tag-regulatory-bg); color: var(--tag-regulatory-text); }
+  .tag-antitrust { background: var(--tag-antitrust-bg); color: var(--tag-antitrust-text); }
+  .tag-cartel { background: var(--tag-cartel-bg); color: var(--tag-cartel-text); }
+  .tag-status { background: var(--tag-status-bg); color: var(--tag-status-text); }
+  .tag-geo { background: var(--tag-geo-bg); color: var(--tag-geo-text); font-size: 9px; }
+
+  /* Card body */
+  .card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: var(--navy);
+    letter-spacing: -0.01em;
+  }
+
+  .card-featured .card-title { font-size: 22px; }
+
+  .card-body {
+    font-size: 14px;
+    line-height: 1.75;
+    color: var(--text-secondary);
+    font-weight: 300;
+  }
+
+  /* Card footer */
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border-light);
+    margin-top: auto;
+  }
+
+  .card-source {
+    font-size: 11.5px;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .card-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 0.03em;
+  }
+
+  /* ── Status bar ── */
+  .status-bar {
+    background: var(--navy);
+    padding: 10px 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .status-categories {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .status-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.65);
+    letter-spacing: 0.02em;
+  }
+
+  .status-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .status-count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.4);
+  }
+
+  .status-updated {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--amber-light);
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+
+  /* ── Footer ── */
+  footer {
+    background: var(--white);
+    border-top: 1px solid var(--border);
+    padding: 1.25rem 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .footer-left { display: flex; align-items: center; gap: 0.75rem; }
+  .footer-brand { font-size: 13px; font-weight: 600; color: var(--navy); letter-spacing: 0.06em; text-transform: uppercase; }
+  .footer-desc { font-size: 12px; color: var(--text-muted); }
+
+  .footer-right {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+  }
+
+  .footer-link {
+    font-size: 12px;
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  .footer-link:hover { color: var(--navy); }
+
+  /* ── Section divider ── */
+  .section-rule {
+    height: 1px;
+    background: var(--border);
+    margin: 3rem 0 2.5rem;
+  }
+
+  /* ── Loading state ── */
+  .loading-state {
+    text-align: center;
+    padding: 4rem;
+    color: var(--text-muted);
+    font-size: 14px;
+  }
+
+  /* ── Empty section ── */
+  .empty-section {
+    background: var(--white);
+    border: 1px dashed var(--border);
+    border-radius: 6px;
+    padding: 2.5rem;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <div class="header-left">
+    <div class="hamburger">
+      <span></span><span></span><span></span>
+    </div>
+    <div class="brand">
+      <span class="brand-name">DIG</span>
+      <div class="brand-divider"></div>
+      <span class="brand-subtitle">Regulatory Monitor</span>
+    </div>
+  </div>
+  <div class="header-right">
+    <span class="header-team">Digital Regulatory Team</span>
+    <span class="header-date" id="header-date"></span>
+  </div>
+</header>
+
+<!-- Navigation -->
+<nav id="main-nav">
+  <div class="nav-tab active" data-section="trending">Trending Today</div>
+  <div class="nav-tab" data-section="competition">Competition Law</div>
+  <div class="nav-tab" data-section="privacy">Data &amp; Privacy</div>
+  <div class="nav-tab" data-section="ip">IP Law</div>
+  <div class="nav-tab" data-section="regulatory">Regulatory Changes</div>
+</nav>
+
+<!-- Main -->
+<main id="main-content">
+  <div class="loading-state">Loading content…</div>
+</main>
+
+<!-- Status bar -->
+<div class="status-bar">
+  <div class="status-categories" id="status-categories">
+    <div class="status-item">
+      <div class="status-dot" style="background:#4A90D9;"></div>
+      Competition Law <span class="status-count" id="count-competition">—</span>
+    </div>
+    <div class="status-item">
+      <div class="status-dot" style="background:#4AB87A;"></div>
+      Data &amp; Privacy <span class="status-count" id="count-privacy">—</span>
+    </div>
+    <div class="status-item">
+      <div class="status-dot" style="background:#E8B84B;"></div>
+      IP Law <span class="status-count" id="count-ip">—</span>
+    </div>
+    <div class="status-item">
+      <div class="status-dot" style="background:#C07AD4;"></div>
+      Regulatory Changes <span class="status-count" id="count-regulatory">—</span>
+    </div>
+  </div>
+  <span class="status-updated" id="status-updated">Last updated: —</span>
+</div>
+
+<!-- Footer -->
+<footer>
+  <div class="footer-left">
+    <span class="footer-brand">DIG</span>
+    <span class="footer-desc">Digital Regulatory Team · Internal Use Only</span>
+  </div>
+  <div class="footer-right">
+    <a href="#" class="footer-link">Data/Privacy</a>
+    <a href="#" class="footer-link">Competition</a>
+    <a href="#" class="footer-link">IP</a>
+    <a href="#" class="footer-link">AI Governance</a>
+    <a href="#" class="footer-link">eCommerce</a>
+  </div>
+</footer>
+
+<script>
+// ── Date ──────────────────────────────────────────────────────────────────────
+const now = new Date();
+document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', {
+  weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+});
+
+// ── Tag helpers ───────────────────────────────────────────────────────────────
+const GEO_CODES = new Set(['EU','US','UK','DE','FR','IN','CN','NL','BR','SG','AU','JP']);
+
+function classifyTag(tag) {
+  const t = tag.toUpperCase();
+  if (GEO_CODES.has(t)) return 'tag-geo';
+  const s = tag.toLowerCase();
+  if (s.includes('competition') || s.includes('antitrust') || s.includes('dma')) return 'tag-antitrust';
+  if (s.includes('cartel')) return 'tag-cartel';
+  if (s.includes('privacy') || s.includes('data') || s.includes('gdpr')) return 'tag-privacy';
+  if (s.includes('ip') || s.includes('copyright') || s.includes('patent') || s.includes('trademark')) return 'tag-ip';
+  if (s.includes('regulatory') || s.includes('regulation') || s.includes('ai act')) return 'tag-regulatory';
+  if (s.includes('investigation') || s.includes('pending') || s.includes('enforcement')) return 'tag-status';
+  return 'tag-status';
+}
+
+function renderTags(tags) {
+  return (tags || []).map(t =>
+    `<span class="tag ${classifyTag(t)}">${t}</span>`
+  ).join('');
+}
+
+// ── Card renderer ─────────────────────────────────────────────────────────────
+function renderCard(article, featured = false) {
+  return `
+    <div class="${featured ? 'card-featured' : ''}">
+      <div class="card">
+        <div class="card-tags">${renderTags(article.tags || [])}</div>
+        <div class="card-title">${article.title || 'Untitled'}</div>
+        <div class="card-body">${article.body || article.summary || ''}</div>
+        <div class="card-footer">
+          <span class="card-source">${article.source || ''}</span>
+          <span class="card-date">${article.date || ''}</span>
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderSection(articles, title, sectionId) {
+  if (!articles || articles.length === 0) {
+    return `
+      <div class="section-header">
+        <h2 class="section-title">${title}</h2>
+        <span class="article-count">0 articles</span>
+      </div>
+      <div class="empty-section">No articles in this category yet.</div>`;
+  }
+
+  const [first, ...rest] = articles;
+  let html = `
+    <div class="section-header">
+      <h2 class="section-title">${title}</h2>
+      <span class="article-count">${articles.length} article${articles.length !== 1 ? 's' : ''}</span>
+    </div>
+    <div class="cards-grid">
+      ${renderCard(first, true)}`;
+
+  if (rest.length > 0) {
+    html += `<div class="cards-row">` + rest.map(a => renderCard(a, false)).join('') + `</div>`;
+  }
+
+  html += `</div>`;
+  return html;
+}
+
+// ── Navigation ────────────────────────────────────────────────────────────────
+let allData = {};
+let activeSection = 'trending';
+
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    activeSection = tab.dataset.section;
+    renderActive();
+  });
+});
+
+function renderActive() {
+  const main = document.getElementById('main-content');
+  const section = activeSection;
+  const map = {
+    trending: { key: 'trending', label: 'Trending Today' },
+    competition: { key: 'competition', label: 'Competition Law' },
+    privacy: { key: 'privacy', label: 'Data & Privacy' },
+    ip: { key: 'ip', label: 'IP Law' },
+    regulatory: { key: 'regulatory', label: 'Regulatory Changes' },
+  };
+  const { key, label } = map[section];
+  main.innerHTML = renderSection(allData[key] || [], label, key);
+}
+
+// ── Load content ──────────────────────────────────────────────────────────────
+async function loadContent() {
+  try {
+    const res = await fetch('content/index.json');
+    if (!res.ok) throw new Error('no index');
+    const data = await res.json();
+    allData = data;
+
+    // Update status counts
+    ['competition','privacy','ip','regulatory'].forEach(k => {
+      const el = document.getElementById(`count-${k}`);
+      if (el) el.textContent = (data[k] || []).length;
+    });
+
+    // Status timestamp
+    try {
+      const sr = await fetch('content/sync_summary.json');
+      if (sr.ok) {
+        const ss = await sr.json();
+        if (ss.last_sync) {
+          document.getElementById('status-updated').textContent =
+            'Last updated: ' + new Date(ss.last_sync).toLocaleString('en-GB', {
+              day:'2-digit', month:'2-digit', year:'numeric',
+              hour:'2-digit', minute:'2-digit', timeZoneName:'short'
+            });
+        }
+      }
+    } catch(_) {}
+
+  } catch(e) {
+    // Fallback: show sample data
+    allData = SAMPLE_DATA;
+    ['competition','privacy','ip','regulatory'].forEach(k => {
+      const el = document.getElementById(`count-${k}`);
+      if (el) el.textContent = (SAMPLE_DATA[k] || []).length;
+    });
+    document.getElementById('status-updated').textContent = 'Last updated: sample data';
+  }
+  renderActive();
+}
+
+// ── Sample data (fallback before scraper runs) ────────────────────────────────
+const SAMPLE_DATA = {
+  trending: [
+    {
+      title: "CCI Finds Swiggy and Zomato Violated Competition Law — Final Decision Pending",
+      tags: ["Antitrust", "Under Investigation", "India"],
+      body: "India's Competition Commission (CCI) investigation has found that both Swiggy and Zomato violated competition law by favouring select restaurant partners on their platforms. Swiggy was found to have promised growth incentives to restaurants that listed exclusively with it. The investigation marks a significant escalation in regulatory scrutiny of platform-based food delivery services in one of the world's fastest-growing digital economies. The CCI's findings are expected to set a precedent for how exclusivity arrangements on two-sided platforms are assessed under Indian competition law.",
+      source: "Digital Watch Observatory / Business Standard",
+      date: "19 April 2026"
+    },
+    {
+      title: "EC Issues Supplementary Charge Sheet Against Meta Over WhatsApp AI Rival Exclusion — Interim Measures Imminent",
+      tags: ["AI / Antitrust", "Under Investigation", "EU"],
+      body: "On 15 April 2026 the European Commission sent Meta a fresh Statement of Objections escalating its antitrust case over WhatsApp's exclusion of third-party AI assistants. The Commission intends to impose interim measures requiring Meta to restore access under the conditions that existed before 15 October 2025, pending the outcome of the full investigation. This represents one of the first enforcement actions under the Digital Markets Act targeting AI interoperability obligations, and signals the Commission's willingness to use interim measures as a proactive enforcement tool in fast-moving digital markets.",
+      source: "European Commission / European Sting",
+      date: "19 April 2026"
+    },
+    {
+      title: "EC Fines Delivery Hero and Glovo €329M for Food Delivery Cartel",
+      tags: ["Cartel", "Under Investigation", "EU"],
+      body: "On 2 June 2025, the European Commission fined Delivery Hero and Glovo a combined €329 million for operating an online food delivery cartel. The Commission found that the two companies — while Delivery Hero was also Glovo's largest shareholder — coordinated their conduct by sharing commercially sensitive information and dividing markets across multiple EU member states. The case illustrates the Commission's continued focus on cartel enforcement in the platform economy and raises important questions about shareholder influence and competitive harm in vertically integrated digital ecosystems.",
+      source: "PYMNTS / European Commission",
+      date: "19 April 2026"
+    }
+  ],
+  competition: [
+    {
+      title: "EC Issues Supplementary Charge Sheet Against Meta Over WhatsApp AI Rival Exclusion",
+      tags: ["AI / Antitrust", "Under Investigation", "EU"],
+      body: "On 15 April 2026 the European Commission sent Meta a fresh Statement of Objections escalating its antitrust case over WhatsApp's exclusion of third-party AI assistants. The Commission intends to impose interim measures requiring Meta to restore access under the conditions that existed before 15 October 2025. This represents one of the first enforcement actions under the Digital Markets Act targeting AI interoperability obligations.",
+      source: "European Commission / European Sting",
+      date: "19 April 2026"
+    },
+    {
+      title: "EC Fines Delivery Hero and Glovo €329M for Food Delivery Cartel",
+      tags: ["Cartel", "EU"],
+      body: "On 2 June 2025, the European Commission fined Delivery Hero and Glovo a combined €329 million for operating an online food delivery cartel, coordinating conduct by sharing commercially sensitive information and dividing markets across multiple EU member states.",
+      source: "PYMNTS / European Commission",
+      date: "19 April 2026"
+    },
+    {
+      title: "CCI Finds Swiggy and Zomato Violated Competition Law",
+      tags: ["Antitrust", "India"],
+      body: "India's CCI investigation found that both Swiggy and Zomato violated competition law by favouring select restaurant partners. The findings are expected to set precedent for exclusivity arrangements on two-sided platforms under Indian competition law.",
+      source: "Business Standard",
+      date: "19 April 2026"
+    }
+  ],
+  privacy: [
+    {
+      title: "Dutch DPA Issues €290M Fine Against Uber for GDPR Violations",
+      tags: ["GDPR", "Data & Privacy", "EU", "NL"],
+      body: "The Dutch Data Protection Authority (Autoriteit Persoonsgegevens) issued a €290 million fine against Uber for transferring European driver data to the United States without adequate safeguards. The authority found that Uber retained sensitive personal data including medical records, criminal records, and location data on its US servers without implementing appropriate transfer mechanisms under Chapter V GDPR.",
+      source: "AP / Autoriteit Persoonsgegevens",
+      date: "18 April 2026"
+    },
+    {
+      title: "ICO Opens Investigation into AI Training Data Practices",
+      tags: ["AI", "Data & Privacy", "UK"],
+      body: "The UK Information Commissioner's Office announced an investigation into how major AI developers collect and use personal data for model training. The investigation focuses on whether consent mechanisms and legitimate interest assessments meet UK GDPR standards, particularly for publicly scraped data used in large language model training.",
+      source: "ICO",
+      date: "17 April 2026"
+    }
+  ],
+  ip: [
+    {
+      title: "CJEU Rules on AI-Generated Content and Copyright Authorship",
+      tags: ["IP Law", "Copyright", "EU"],
+      body: "The Court of Justice of the European Union issued a preliminary ruling clarifying that AI-generated outputs do not qualify as copyright-protected works under EU law absent human creative input meeting the originality threshold established in Infopaq. The ruling has significant implications for generative AI companies commercialising outputs and for platforms hosting such content.",
+      source: "CJEU",
+      date: "16 April 2026"
+    },
+    {
+      title: "USPTO Issues Guidance on Patent Eligibility for AI-Assisted Inventions",
+      tags: ["IP Law", "Patent", "US"],
+      body: "The United States Patent and Trademark Office released updated examination guidance clarifying the standard for patent eligibility of inventions developed with AI assistance. The guidance reaffirms that a human must make a significant contribution to the claimed invention, while acknowledging that AI tools may be used as aids in the inventive process.",
+      source: "USPTO",
+      date: "15 April 2026"
+    }
+  ],
+  regulatory: [
+    {
+      title: "EU AI Act Obligations Enter Into Force for General-Purpose AI Providers",
+      tags: ["AI Act", "Regulatory Changes", "EU"],
+      body: "As of 2 August 2025, obligations under the EU AI Act applicable to providers of general-purpose AI models entered into force. Providers of models with systemic risk designation are now required to maintain model evaluations, incident reporting mechanisms, and cybersecurity measures meeting Commission-specified standards. The AI Office has begun processing the first wave of compliance documentation.",
+      source: "European Commission / AI Office",
+      date: "15 April 2026"
+    },
+    {
+      title: "India DPDPA Enforcement Commencement Delayed to Q3 2026",
+      tags: ["Data & Privacy", "Regulatory Changes", "IN"],
+      body: "The Indian government has confirmed that full enforcement of the Digital Personal Data Protection Act 2023 will not commence before Q3 2026 following delays in finalising the Data Protection Board appointments and subordinate rules on consent manager frameworks. Industry stakeholders have welcomed the additional compliance runway.",
+      source: "MeitY / Economic Times",
+      date: "14 April 2026"
+    }
+  ]
+};
+
+loadContent();
+</script>
+</body>
+</html>
