@@ -1,0 +1,381 @@
+{
+  "generated_at": "2026-05-07T12:47:00Z",
+  "competition": [
+    {
+      "title": "CADE Brazil Upholds BRL 250,000/Day Fine Against Meta/WhatsApp for Non-Compliance with AI Chatbot Interim Measure",
+      "body": "On 23 April 2026, CADE's Tribunal unanimously upheld the BRL 250,000-per-day daily fine against WhatsApp LLC and Facebook Serviços Online do Brasil Ltda. (Case No. 08700.012397/2025-63) for failure to restore AI chatbot providers' unrestricted access to the WhatsApp Business ecosystem, following CADE's 12 January 2026 administrative enquiry and 4 March 2026 interim measure. Commissioner Carlos Jacques confirmed that full compliance requires reverting to pre-change conditions — meaning no additional per-message charges for chatbot access — treating any access-restricting fee as exclusionary conduct under Article 36 of Brazil's Competition Law (Law 12.529/2011). Between 29 April and 4 May 2026, Meta/WhatsApp obtained Federal Court injunctions in São Paulo suspending the fine's enforceability and ordering conciliation proceedings under judicial secrecy, creating a split enforcement posture. This case directly implicates Prosus portfolio companies that use WhatsApp APIs for AI-powered customer interactions — including iFood's restaurant chatbots and PayU's payment customer service — as CADE's exclusionary theory could broadly restrict API monetisation models by dominant messaging platforms in Brazil.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "Fine",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "CADE / Valor Econômico",
+      "url": "https://www.gov.br/cade/en/matters/news/cade-upholds-daily-fine-against-meta-and-whatsapp-for-failure-to-comply-with-interim-measure",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T14:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Meta",
+        "iFood",
+        "PayU"
+      ]
+    },
+    {
+      "title": "South Africa Competition Commission Refers MultiChoice and Altech UEC to Tribunal for Alleged Market Division in Pay-TV Sector",
+      "body": "On 4 May 2026, the South Africa Competition Commission publicly announced it had lodged a formal complaint referral to the Competition Tribunal (filed 15 April 2026) against MultiChoice South Africa (Pty) Ltd and Altech UEC South Africa (Pty) Ltd, alleging that in February 2014 the parties entered a market-division agreement whereby Altech agreed not to enter or compete in the pay-TV market in exchange for continued set-top box supply — constituting a per se prohibited horizontal restriction under Section 4(1)(b)(ii) of the Competition Act 89 of 1998. The Commission is seeking a declaration of contravention and an administrative penalty of up to 10% of each company's annual turnover; given Canal+'s completed ~USD 2 billion acquisition of MultiChoice (finalised December 2025), Canal+ now faces an estimated ~USD 244 million maximum fine exposure. As of 7 May 2026 no Tribunal hearing date has been set and no finding of guilt has been made. The case is significant for platform operators and content distribution businesses active in South Africa — a priority Prosus jurisdiction — as it signals the Commission's continued willingness to pursue decade-old structural agreements in media markets.",
+      "tags": [
+        "Antitrust",
+        "Cartel",
+        "ZA",
+        "Under Investigation"
+      ],
+      "source": "Competition Commission South Africa",
+      "url": "https://www.compcom.co.za/wp-content/uploads/2026/05/Media-Statement-Commission-refers-Multichoice-and-Altech-to-the-Tribunal-for-prosecution-04-May-2026.pdf",
+      "date": "2026-05-04",
+      "published_at": "2026-05-04T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "CCI India Sets 21 May Final Penalty Hearing in Apple App Store Abuse Case; Apple Seeks Delhi HC Stay",
+      "body": "On 8 April 2026, the Competition Commission of India set 21 May 2026 as the final hearing date for penalty quantum in its abuse-of-dominance case against Apple (opened 2021, Director General investigation report issued July 2024), after Apple withheld financial data and failed to submit written observations since October 2024 despite multiple extensions — triggering CCI's power to proceed on available evidence under the Competition Act 2002. Apple's stated exposure reaches up to approximately USD 38 billion if the CCI applies the penalty formula based on global annual turnover under Section 27 of the Competition Act — a methodology Apple is separately challenging in the Delhi High Court (petition filed November 2025, seeking abeyance of CCI proceedings), though the CCI rejected Apple's request for a stay on 8 April 2026 and granted two further weeks for submissions. The CCI's approach to using global turnover as the penalty base — rather than India-only revenue — sets a potentially transformative precedent for all large platform operators in India, including Prosus portfolio companies Swiggy (food delivery marketplace) and Meesho (social commerce), both of which depend heavily on app distribution infrastructure governed by App Store rules.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "Fine",
+        "IN",
+        "Under Investigation"
+      ],
+      "source": "Economic Times / MediaNama / CCI",
+      "url": "https://www.medianama.com/2026/04/223-apple-refuses-financial-data-cci-antitrust-india-may-21-final-hearing/",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Apple",
+        "Swiggy",
+        "Meesho"
+      ]
+    },
+    {
+      "title": "EU Commission First DMA Review Confirms Act Fit for Purpose; Sets AI and Cloud as Priority Enforcement Areas",
+      "body": "On 28 April 2026, the European Commission published its first statutory DMA Review Report (COM(2026)178), confirming the Digital Markets Act 'remains fit for purpose and does not need to be revised,' while formally identifying AI services and cloud computing as the top enforcement priority areas going forward. The Commission disclosed that by the review date it had initiated seven non-compliance proceedings: two concluded with fines on Apple (€500 million, anti-steering, 23 April 2025) and Meta (€200 million, 'consent or pay' model, 23 April 2025); one Apple investigation closed following compliance; four remain ongoing; and three market investigations into Microsoft Azure, Amazon AWS, and cloud interoperability were opened in November 2025 to assess gatekeeper designation despite these services not yet meeting quantitative thresholds. The Commission explicitly stated that DMA enforcement will be extended to assess how gatekeeper obligations apply to AI services — a critical forward signal for Prosus portfolio companies that are adjacent to or dependent upon gatekeeper platforms (Apple App Store, Google Play, Meta APIs) for distribution, payments and advertising.",
+      "tags": [
+        "DMA",
+        "Gatekeeper",
+        "EU",
+        "Abuse of Dominance",
+        "Under Investigation"
+      ],
+      "source": "European Commission / Digital Markets Act",
+      "url": "https://digital-markets-act.ec.europa.eu/review-highlights-digital-markets-act-remains-fit-purpose-and-has-positive-impact-2026-04-28_en",
+      "date": "2026-04-28",
+      "published_at": "2026-04-28T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Apple",
+        "Meta",
+        "Microsoft",
+        "Amazon"
+      ]
+    },
+    {
+      "title": "EU Commission Proposes Mandatory Google Search Data Sharing with Third-Party Search Engines Under DMA Article 6(11)",
+      "body": "On 16 April 2026, the European Commission adopted preliminary findings in DMA Case DMA.100209, sending Alphabet/Google proposed specification measures requiring it to share anonymised query, view, click and ranking data with third-party undertakings operating online search engines (OSEs) in the EU/EEA, on FRAND terms — implementing Article 6(11) of the Digital Markets Act. The proposed measures cover six dimensions: eligibility of beneficiaries (explicitly including AI chatbots with search functionalities), scope of data to be shared, means and frequency of sharing, anonymisation safeguards, FRAND pricing parameters, and access governance processes — with a 'parity principle' requiring Google to grant eligible OSEs access to all data on equal terms to what Google itself uses for its own search optimisation. A public consultation ran until 1 May 2026, and the Commission will issue a final binding decision by 27 July 2026. This is highly significant for Prosus portfolio companies: Stack Overflow and other content-platform businesses could become eligible data beneficiaries, while iFood's search-adjacent consumer discovery tools operate in an ecosystem where Google search dominance is being structurally remedied.",
+      "tags": [
+        "DMA",
+        "Gatekeeper",
+        "EU",
+        "Abuse of Dominance"
+      ],
+      "source": "European Commission / Digital Markets Act",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-proposes-measures-google-sharing-search-engine-data-third-parties-under-digital-markets-2026-04-16_en",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Google",
+        "Stack Overflow",
+        "iFood"
+      ]
+    },
+    {
+      "title": "CADE Brazil Opens Administrative Proceeding Against Gol and LATAM for Alleged Algorithmic Price Alignment in Domestic Aviation",
+      "body": "On 28 April 2026, CADE's Superintendência-Geral formally opened Administrative Proceeding nº 08700.007894/2023-88 against Gol Linhas Aéreas and LATAM Airlines Brazil for alleged price alignment (alinhamento de preços) in domestic passenger air transport markets, following a 2023 preliminary investigation by CADE's Projeto Cérebro AI analytics team that identified persistent price interdependence — including identical fares to decimal places on key routes such as São Paulo-Rio — beyond what competitive dynamics would explain. The theory of harm centres on tacit collusion facilitated by shared third-party algorithmic dynamic pricing tools, fare intelligence services, and content distribution infrastructures used by both carriers in a concentrated near-duopoly, potentially violating Article 36 of Brazil's Competition Law (Law 12.529/2011); companies have been notified and must submit defences before any Tribunal decision. If a cartel is proven, fines could reach 20% of each airline's relevant Brazilian revenue; if tacit algorithmic collusion is found, structural or behavioural remedies may be imposed without fines. This case is a landmark in CADE's growing focus on algorithmic collusion — a trend directly relevant to Prosus portfolio companies like iFood and Rapido that use dynamic pricing algorithms in concentrated logistics and delivery markets.",
+      "tags": [
+        "Antitrust",
+        "Algorithmic Collusion",
+        "Cartel",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "CADE / Valor Econômico / Antitrust Intelligence",
+      "url": "https://www.gov.br/cade/en/matters/news/cade-investigates-alleged-collusion-in-air-passenger-market",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T13:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "iFood",
+        "Rapido"
+      ]
+    },
+    {
+      "title": "FTC Conditions $848M 365 Retail/Cantaloupe Merger on Divestiture and Interoperability Remedies; First Litigate-the-Fix Workshop Announced",
+      "body": "On 1 May 2026, the FTC announced a proposed consent order (voted 2-0) requiring 365 Retail Markets LLC — the largest micromarket kiosk provider — to divest Cantaloupe Inc.'s Three Square Market (TSM) business to Seaga Manufacturing Inc. as a condition of closing its $848 million acquisition of Cantaloupe, citing concerns that the deal would eliminate direct competition, raise prices for kiosk hardware, software and services, and enable competitive foreclosure through non-interoperability; the remedy package also includes 10-year prior-notice obligations for future acquisitions and a court-appointed monitor. On the same date (announcement press release dated 1 May 2026), the FTC confirmed a public workshop titled 'Eleventh-Hour Antitrust Remedy Proposals and Litigating the Fix' scheduled for 20 May 2026 — signalling a broader enforcement policy shift toward scrutinising late-stage merger fixes that bypass agency review and force courts to evaluate remedy sufficiency. These developments confirm the FTC's preference for structural divestitures and interoperability mandates as remedies in platform and marketplace mergers, directly relevant to any future M&A activity involving Prosus portfolio marketplace companies such as OLX, eMAG or Takealot.",
+      "tags": [
+        "Merger",
+        "Antitrust",
+        "US",
+        "Fine"
+      ],
+      "source": "FTC / Paul Weiss / Concurrences",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal",
+      "date": "2026-05-01",
+      "published_at": "2026-05-01T17:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "OLX",
+        "Takealot",
+        "eMAG"
+      ]
+    },
+    {
+      "title": "CMA UK Launches Microsoft Business Software Ecosystem SMS Investigation and Opens eBay/Depop Merger Inquiry",
+      "body": "On 31 March 2026, the CMA announced it would commence a Strategic Market Status (SMS) investigation into Microsoft's business software ecosystem — covering Windows, Office, Teams, Copilot and Azure licensing — scheduled to begin in May 2026, with a scope focused on whether Microsoft's licensing practices restrict cloud competition and undermine a level playing field for AI-enabled productivity tools; the investigation is expected to run up to nine months. Separately, on 23 April 2026, the CMA opened a merger inquiry into eBay's planned $1.2 billion acquisition of Depop (from Etsy), with a public comment period closing 8 May 2026 and Phase 1 investigation yet to formally begin; the transaction has already cleared US and German review but faces parallel scrutiny in Australia. Both actions underscore the CMA's expanding use of its new digital market powers under the Digital Markets, Competition and Consumers Act 2024, setting UK precedents on gatekeeper SMS designation methodology that will inform how other jurisdictions — including the EU under DMA — approach platform ecosystem investigations.",
+      "tags": [
+        "DMA",
+        "Gatekeeper",
+        "Merger",
+        "UK",
+        "Under Investigation"
+      ],
+      "source": "CMA / GOV.UK / Computer Weekly",
+      "url": "https://www.gov.uk/government/news/cma-announces-package-of-actions-on-business-software-and-cloud-services",
+      "date": "2026-03-31",
+      "published_at": "2026-03-31T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Microsoft"
+      ]
+    },
+    {
+      "title": "CADE Brazil Recommends Conviction of Audi, BMW, Porsche and Volkswagen in First-Ever Innovation Competition Cartel Case",
+      "body": "On 29 April 2026, CADE's Superintendência-Geral recommended partial conviction and fines against Audi AG, BMW AG, Porsche AG, and Volkswagen AG (and 23 individuals) in Administrative Proceeding nº 08700.000478/2024-30 — Brazil's first case targeting reduced innovation competition through the exchange of competitively sensitive R&D data on embedded components for light passenger vehicles, with alleged conduct spanning 1990–2017. The recommendation proposes fines of between 0.1% and 20% of turnover under Law 12.529/2011; Mercedes-Benz was recommended for archival due to insufficient evidence; the case is now forwarded to the CADE Tribunal for a final decision. BMW is contesting jurisdiction by arguing no Brazilian market impact and citing a prior EU antitrust settlement, while VW Brazil denies it is a defendant (the case relates to VW AG Germany). The case signals CADE's intent to reach international cartel conduct affecting Brazilian markets through domestic competition law — including the novel 'innovation harm' theory — which is directly relevant to Prosus-adjacent technology and platform companies whose global R&D coordination could attract CADE scrutiny.",
+      "tags": [
+        "Cartel",
+        "Antitrust",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "CADE / Valor Econômico / Global Competition Review",
+      "url": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-recomenda-condenacao-em-processo-sobre-troca-de-informacoes-no-mercado-internacional-de-veiculos-automotores-leves",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T13:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "CADE Brazil Upgrades Google Probe to Formal Administrative Process for AI-Powered News Content Exploitation",
+      "body": "On 23 April 2026, CADE's Tribunal unanimously approved escalating a 2019 inquiry (Process 08700.003498/2019-03) into Google's use of journalistic content in search results to a full administrative proceeding — explicitly expanding scope to include Google's AI Overviews generative search feature, which synthesises news content without traffic or compensation flowing to publishers, potentially constituting exploitative abuse of dominance under Article 36 of Brazil's Competition Law (Law 12.529/2011). The escalation was driven by interim CADE President Diogo Thomson de Andrade, who rejected a prior recommendation to close the inquiry on the grounds that generative AI had fundamentally changed the competitive harm analysis since 2019 by further reducing publisher traffic and deepening content dependency. Google called the probe a misunderstanding and pledged cooperation; no fine has been imposed and formal defences are pending. The case is of direct relevance to Prosus portfolio company Stack Overflow, a content platform whose training data and publisher economics are similarly affected by AI-generated summaries displacing organic search traffic.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "CADE / Reuters / Antitrust Intelligence",
+      "url": "https://www.reuters.com/legal/litigation/brazil-regulator-approves-deeper-probe-into-googles-news-content-use-2026-04-23/",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T16:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Google",
+        "Stack Overflow"
+      ]
+    },
+    {
+      "title": "NCLAT India Sets Aside ₹301.6 Crore CCI Penalty on Grasim Industries Over Due Process Violation",
+      "body": "On 5 May 2026, India's National Company Law Appellate Tribunal (NCLAT) set aside the Competition Commission of India's ₹301.61 crore (~USD 32.7 million) penalty on Grasim Industries (Aditya Birla Group) for alleged abuse of dominance in the viscose staple fibre (VSF) market (original CCI order: March 2020), remanding the case for a fresh hearing before the CCI with an instruction to hear Grasim's arguments wherever the CCI's own conclusions differ from the Director General investigation report — a foundational principle of natural justice that the NCLAT found had been violated. The NCLAT bench explicitly stated it had 'not commented on the merits of the case,' meaning the VSF dominance theory remains live and the CCI may reimpose a penalty after a proper process; the original penalty and behavioural directions (including disclosure of discounting/pricing policy) have no legal effect pending the fresh hearing. This ruling reinforces Indian competition law's strict procedural fairness requirements and reduces enforcement risk for companies willing to challenge CCI orders on procedural grounds — a relevant precedent for Prosus portfolio companies including Swiggy and Meesho, which face ongoing CCI scrutiny in their respective markets.",
+      "tags": [
+        "Court Ruling",
+        "Abuse of Dominance",
+        "IN",
+        "Fine"
+      ],
+      "source": "Business Standard / Bar and Bench / MLex",
+      "url": "https://www.business-standard.com/companies/news/nclat-sets-aside-rs-301-6-crore-cci-penalty-on-grasim-orders-fresh-hearing-126050501402_1.html",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T14:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Swiggy",
+        "Meesho"
+      ]
+    },
+    {
+      "title": "Autorité de la Concurrence Conducts Dawn Raids in French Food Supplements and Dermo-Cosmetics Sectors",
+      "body": "On 5 May 2026, France's Autorité de la concurrence conducted unannounced dawn raids (opérations de visite et saisie) — authorised by a juge des libertés et de la détention — at companies suspected of anticompetitive practices in the food supplements and dermo-cosmetic products sectors, with a formal investigation (instruction) now open; an announcement was published on 6 May 2026. The Autorité did not disclose the identities of the companies raided or the specific conduct under investigation, consistent with its standard practice of preserving the presumption of innocence, but it activated its leniency programme, inviting non-raided companies to self-report (contact: Anne Krenzer, 01 55 04 00 46). This action follows a separate April 2026 Autorité fine of €12.67 million against Synadis Bio and three organic distributors (including Greenweez/Carrefour and ITM Entreprises) for a brand-sharing cartel in organic products. The raids signal active French antitrust enforcement in consumer health categories — relevant to Prosus portfolio companies operating consumer marketplaces in France such as OLX Group's European classified verticals.",
+      "tags": [
+        "Antitrust",
+        "Cartel",
+        "FR",
+        "Under Investigation"
+      ],
+      "source": "Autorité de la concurrence / MLex / Reuters",
+      "url": "https://www.autoritedelaconcurrence.fr/fr/communiques-de-presse?field_sector_target_id=All&year=2026",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T14:09:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "OLX"
+      ]
+    },
+    {
+      "title": "Bundeskartellamt Publishes Full Decision Prohibiting Amazon Price Control Mechanisms and Ordering €59M Disgorgement",
+      "body": "On 30 April 2026, the Bundeskartellamt published the full decision text of its 4 February 2026 ruling prohibiting Amazon from applying algorithmic price control mechanisms — including pricing caps and its Fair Pricing Policy — that restrict third-party sellers' pricing autonomy on the German Amazon Marketplace, finding these practices breach both Germany's dominance rules under the GWB (Amazon having been designated as a company of paramount significance in July 2022, upheld April 2024) and EU competition law. The authority ordered disgorgement of €59 million in economic benefits — the first use of the Bundeskartellamt's new presumption-based disgorgement power since the GWB's 2023 reform — as a partial amount only, with the authority reserving the right to order further disgorgement as the ongoing violation is remedied. The published decision provides the full legal reasoning for the authority's theory that a platform competing directly with its marketplace sellers cannot impose pricing constraints on those sellers without raising exclusionary concerns — a principle that affects all marketplace operators in Germany and has direct relevance to Prosus's OLX, eMAG and Takealot classified and e-commerce marketplace businesses.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "Fine",
+        "DE"
+      ],
+      "source": "Bundeskartellamt / Politico",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/26_02_05_Amazon.html?nn=55030",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Amazon",
+        "OLX",
+        "Takealot",
+        "eMAG"
+      ]
+    },
+    {
+      "title": "AGCM Italy Fines Amica Chips, Pata and Preziosi Food €23.3M in First-Ever Settlement Procedure Under Italian Antitrust Law",
+      "body": "On 28 April 2026, Italy's Autorità Garante della Concorrenza e del Mercato (AGCM) imposed aggregate fines of €23,298,147 on Amica Chips SpA (€8.24M), Pata SpA (€7.56M) and Preziosi Food SpA (€7.50M) for a 'single, complex and continuous' market-sharing cartel in the Italian private-label savoury snacks market for large-scale retailers (GDO), in violation of Article 101 TFEU; the conduct ran from May 2016 to at least January 2019 when Preziosi Food joined. The AGCM applied its leniency programme (reducing Pata and Amica Chips fines by 50% and 30% respectively), and — in a procedural first — activated the settlement procedure under Article 14-quater of Law 287/1990 for the first time since its introduction, resulting in a further 10% reduction for all three parties who acknowledged liability. The landmark use of Italy's settlement procedure signals a shift toward faster, negotiated cartel enforcement that reduces regulatory uncertainty for companies — a template that could be extended to digital marketplace and platform cartel cases, including sectors where Prosus portfolio companies operate in Italian markets.",
+      "tags": [
+        "Cartel",
+        "Antitrust",
+        "Fine",
+        "IT"
+      ],
+      "source": "AGCM / Concurrences / Food Navigator",
+      "url": "https://en.agcm.it/en/media/press-releases/2026/4/I871",
+      "date": "2026-04-28",
+      "published_at": "2026-04-28T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "DOJ Files First Google Search Antitrust Final Judgment Compliance Status Report; Key Implementation Milestones Identified",
+      "body": "On 4 May 2026, the US Department of Justice filed its first Plaintiffs' Status Report on Google's compliance with the Final Judgment (entered December 5, 2025) in US v. Google LLC — Google's landmark monopolisation case under Section 2 of the Sherman Act — updating the court that Google has self-certified compliance with Section III's contractual injunctions (prohibition on exclusive distribution agreements for Search, Chrome, Gemini) but that several remedies remain under active implementation. Outstanding items include: syndication licence templates (to be filed 60 days after two remaining Technical Committee members are appointed per the Court's April 5, 2026 order); data-sharing safeguard frameworks under Section IV (Google has six months post-Final Judgment to implement); and a template licence for shared search data to be filed by 3 August 2026. The report signals that the structural unwinding of Google's exclusive distribution arrangements — a cornerstone of its search monopoly — is still mid-implementation, creating ongoing market structure uncertainty for search-adjacent products and content platforms including Prosus's Stack Overflow.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "Court Ruling",
+        "US"
+      ],
+      "source": "DOJ Antitrust Division",
+      "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc",
+      "date": "2026-05-04",
+      "published_at": "2026-05-04T15:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Google",
+        "Stack Overflow"
+      ]
+    },
+    {
+      "title": "CJEU Clarifies Jurisdiction Rules for Competition Damages Claims in Multi-Jurisdiction Cartel Cases",
+      "body": "On 16 April 2026, the Court of Justice of the EU issued a preliminary ruling in joined Cases C-672/23 (Power Cables) and C-673/23 (Cardboard Packaging), clarifying how Brussels I bis Regulation Article 8(1) anchor-defendant jurisdiction rules apply in follow-on competition damages litigation involving intermediate holding companies of cartel participants. The CJEU's ruling — building on its prior Sumal jurisprudence — confirms that plaintiffs can anchor damages claims against a cartel parent at the court where a subsidiary (anchor defendant) is domiciled, but holding companies used as structural intermediaries are not automatically suitable anchors unless they exercised decisive influence over the infringing subsidiary. The ruling has immediate practical significance for litigation strategy in multi-jurisdiction cartels involving EU-headquartered companies: it both enables and constrains forum-shopping, affecting how private damages claimants and competition authorities calculate litigation risk. Prosus group companies facing potential competition damages claims in the EU (including iFood/Just Eat-adjacent European markets) should factor this clarified jurisdictional framework into risk assessments.",
+      "tags": [
+        "Court Ruling",
+        "Antitrust",
+        "EU"
+      ],
+      "source": "CJEU / Greenberg Traurig",
+      "url": "https://www.gtlaw.com/en/insights/2026/5/eu-court-of-justice-clarifies-jurisdiction-rules-for-competition-damages-claims",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "iFood"
+      ]
+    },
+    {
+      "title": "EU General Court Upholds €3.5M Antitrust Fine on Ahlers in Pierre Cardin Cross-Border Sales Restriction Case",
+      "body": "On 7 May 2026, the EU General Court rejected Ahlers AG's legal challenge to its €3.5 million fine (part of a broader €5.7 million sanction package) imposed by the European Commission for anti-competitive agreements restricting cross-border sales of Pierre Cardin branded clothing within the EU Single Market, finding the Commission's turnover calculation methodology legally sound and the restriction of passive sales to constitute a hard-core horizontal restraint under Article 101 TFEU. While the fine quantum is relatively modest, the ruling reinforces the Commission's consistent enforcement of single-market distribution restrictions — including luxury and fashion brand licensing — and confirms that territorial sales restrictions in brand licensing agreements, even when commercially motivated, remain per se suspect under EU competition law. For Prosus portfolio companies that operate branded or licensed consumer goods marketplaces (including OLX's fashion classifieds verticals and eMAG's electronics distribution network in Romania), this ruling signals continued EU exposure where geographic sales restrictions exist in supplier agreements.",
+      "tags": [
+        "Court Ruling",
+        "Antitrust",
+        "Fine",
+        "EU"
+      ],
+      "source": "Retail Gazette / Concurrences",
+      "url": "https://www.retailgazette.co.uk/blog/2026/05/ahlers-loses-legal-challenge-over-e3-5m-pierre-cardin-antitrust-fine/",
+      "date": "2026-05-07",
+      "published_at": "2026-05-07T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "OLX",
+        "eMAG"
+      ]
+    },
+    {
+      "title": "Bundeskartellamt Fuel Wholesale Investigation Suspended by Düsseldorf Higher Regional Court",
+      "body": "On 30 April 2026, the Higher Regional Court of Düsseldorf suspended the Bundeskartellamt's fuel wholesale market investigation — initiated under the structural competition concerns tool (Sektoruntersuchung) pursuant to Section 32f(3) GWB — after Argus Media and S&P Global successfully challenged the legal basis for mandatory information requests issued to fuel price reporting agencies, arguing the Bundeskartellamt exceeded its statutory authority in how it required sensitive commercial data to be provided. The suspension does not constitute a final ruling on the merits of the fuel market investigation, but it creates a procedural pause that limits the Bundeskartellamt's data-gathering capability and may delay or narrow any remedial action in concentrated commodity trading markets. The ruling has broader implications for the Bundeskartellamt's expanding use of structural investigation tools under the post-2023 GWB reforms — particularly in digital and energy markets — and could limit the authority's ability to conduct pre-emptive market monitoring in oligopolistic sectors relevant to Prosus-adjacent logistics and delivery markets.",
+      "tags": [
+        "Antitrust",
+        "Market Study",
+        "DE",
+        "Court Ruling"
+      ],
+      "source": "Concurrences / Bundeskartellamt",
+      "url": "https://www.concurrences.com/en/bulletin/news-issues/april-2026/the-german-higher-regional-court-of-dusseldorf-suspends-the-bundeskartellamt-s",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "iFood Brazil Under CADE Monitoring for Alleged Retaliatory Conduct Against Restaurants Using Rival Platforms",
+      "body": "On 10 February 2026, CADE's Superintendência-Geral issued a formal letter to iFood (a Prosus group company) demanding explanations by 27 February 2026 regarding alleged retaliatory practices against restaurants using competing delivery platforms — including 99Food and Keeta — such as reducing search visibility, deactivating restaurant listings, reclassifying merchant categories, and placing 'exclusive' badges on national chain brands like Subway; the inquiry stems from a civil lawsuit filed by Sindibares-Goiânia (Process 5804992-27.2025.8.09.0051) and Reclame Aqui complaints. The CADE inquiry is linked to monitoring compliance with iFood's 2023 Cease-and-Desist Agreement (TCC SEI 1188549), which prohibits exclusivity with large restaurant chains (over 30 units) and caps exclusive restaurants at 8% of city listings and 25% GMV in major cities. Although no formal administrative proceeding has been opened as of May 2026, this monitoring action directly implicates iFood's go-to-market practices in Brazil's dominant food delivery market and creates compliance and reputational risk for the Prosus group.",
+      "tags": [
+        "Antitrust",
+        "Abuse of Dominance",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "CADE / Valor Econômico / Brazil Stock Guide",
+      "url": "https://brazilstockguide.com/insights/cade-ifood-retaliation-claims-99food/",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "iFood"
+      ]
+    },
+    {
+      "title": "South Africa Competition Tribunal Confirms Settlement in Gwalimba Construction Public Tender Collusion Case",
+      "body": "On approximately 27 April 2026, the South Africa Competition Tribunal confirmed a settlement (consent order) in the public tender collusion case against Gwalimba Construction and associated parties for price-fixing and collusive tendering in public procurement — with a final administrative penalty of R50,000 (approximately USD 2,700) reflecting the company's limited financial capacity and cooperation with the Tribunal process under Section 58 of the Competition Act 89 of 1998. While the fine is modest, the Tribunal's confirmation of the settlement reflects ongoing enforcement against construction-sector bid-rigging, a priority enforcement area for the Commission following the 2013 construction cartel settlements. The case is a reminder that South Africa's Competition Commission actively monitors public procurement markets — relevant for Prosus portfolio companies including Takealot and Property24 that participate in South African public-sector contracting or supply chains.",
+      "tags": [
+        "Cartel",
+        "Antitrust",
+        "ZA",
+        "Fine"
+      ],
+      "source": "Competition.Today / Competition Tribunal South Africa",
+      "url": "https://competition.today/2026/04/27/south-africa-tribunal-confirms-settlement-in-public-tender-collusion-case/",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Takealot",
+        "Property24"
+      ]
+    }
+  ]
+}
