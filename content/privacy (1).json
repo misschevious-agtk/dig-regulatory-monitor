@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-05-07T09:09:00Z",
+  "privacy": [
+    {
+      "title": "Ireland's Coimisiún na Meán Opens Two DSA Investigations into Meta's Dark Patterns on Facebook and Instagram Recommender Systems",
+      "body": "On 5 May 2026, Ireland's digital services regulator Coimisiún na Meán commenced two formal DSA investigations into Meta, covering both Facebook and Instagram. Investigation A targets Article 27(3) DSA: whether users can directly and easily select a recommender-system feed not based on profiling. Investigation B targets Article 25(1) DSA: whether dark patterns in the interface manipulate users away from choosing non-profiling feeds, with particular concern for children and young people. Sanctions, if violations are confirmed, can reach up to 6% of global turnover. These probes compound Meta's existing GDPR enforcement exposure and signal that Ireland—now acting as both the EU's lead GDPR DPA and DSA Digital Services Coordinator for Meta—is pursuing a comprehensive regulatory strategy across both frameworks simultaneously.",
+      "tags": [
+        "GDPR",
+        "EU",
+        "Under Investigation",
+        "Children's Data",
+        "Data & Privacy"
+      ],
+      "source": "Coimisiún na Meán",
+      "url": "https://www.cnam.ie/two-investigations-commenced-into-meta-in-respect-of-facebook-instagram/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "Canadian Privacy Regulators Find ChatGPT Training Did Not Comply with PIPEDA and Provincial Privacy Laws",
+      "body": "On 6 May 2026, the Office of the Privacy Commissioner of Canada (OPC), acting jointly with Quebec's CAI, BC's OIPC, and Alberta's OIPC, published PIPEDA Findings #2026-002 concluding that OpenAI's collection, use, and disclosure of personal information for training ChatGPT was 'not compliant' with applicable federal and provincial privacy laws. Concerns identified included overcollection of personal information, lack of valid consent and transparency, factual inaccuracies in outputs involving personal data, and inadequate access, correction, and deletion mechanisms. The complaint was found 'well-founded and conditionally resolved' based on OpenAI's commitments, including improved transparency on training data sources, formal retention and deletion policies, and quarterly compliance reporting. While Canada's PIPEDA is not GDPR, the findings closely mirror GDPR Articles 5, 6, 13, 15, 16, and 17, providing strong cross-jurisdictional precedent for how privacy regulators globally assess AI training data practices—directly relevant to any Prosus entity deploying generative AI.",
+      "tags": [
+        "Data & Privacy",
+        "Breach",
+        "Under Investigation",
+        "Data Transfer"
+      ],
+      "source": "Office of the Privacy Commissioner of Canada",
+      "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-002/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "UK DUAA: Data Protection Complaints Procedure Requirement to Enter Force 19 June 2026",
+      "body": "The UK's Data (Use and Access) Act 2025 (DUAA) has been commencing in staged tranches; most data-protection provisions entered force on 5 February 2026 under Commencement Regulations No. 6. The ICO confirmed on 5 May 2026 that the new mandatory data-protection complaints procedure—requiring organisations to acknowledge complaints within 30 days and respond without undue delay—will commence on 19 June 2026. Separately, the ICO also published guidance on 6 May 2026 on handling AI-generated FOI requests, reflecting the regulator's focus on AI-adjacent compliance. Prosus group entities with UK operations must implement a DUAA-compliant internal complaints mechanism before 19 June 2026, distinct from but complementary to the GDPR-era right to lodge complaints with the ICO directly.",
+      "tags": [
+        "GDPR",
+        "UK",
+        "Data & Privacy"
+      ],
+      "source": "ICO UK",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/02/statement-on-the-commencement-of-the-data-use-and-access-act-duaa/",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "ANPD Brazil Opens Public Consultation on ECA Digital Scope for Tech Product and Service Providers",
+      "body": "On 30 April 2026, Brazil's ANPD launched a Tomada de Subsídios (public consultation), open until 15 June 2026, on a draft Orientative Guide clarifying the scope and obligations of 'fornecedores de produtos ou serviços de tecnologia da informação' (IT product and service providers) under the ECA Digital—Brazil's child and adolescent online protection framework that operates in conjunction with the LGPD. The draft guide addresses which entities qualify as in-scope (social networks, app stores, operating systems, providers with editorial control) and the content of their prevention, protection, information, and security duties. This is the ANPD's most substantive child-data regulatory initiative in Brazil in 2026, directly relevant to Prosus portfolio companies iFood, OLX Brazil, and any group entity offering platforms, apps, or marketplaces accessible to minors in Brazil.",
+      "tags": [
+        "LGPD",
+        "BR",
+        "Children's Data",
+        "Data & Privacy"
+      ],
+      "source": "ANPD Brazil",
+      "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-tomada-de-subsidios-sobre-o-guia-orientativo-fornecedores-de-produtos-ou-servicos-de-tecnologia-da-informacao-no-ambito-do-eca-digital",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [
+        "iFood",
+        "OLX"
+      ]
+    }
+  ]
+}

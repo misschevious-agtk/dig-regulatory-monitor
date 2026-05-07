@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-05-07T09:10:00Z",
+  "window": {
+    "from": "2026-04-30",
+    "to": "2026-05-07",
+    "timezone": "Europe/Amsterdam"
+  },
+  "ip": [
+    {
+      "title": "CAFC Upholds PTAB Final Written Decision: DraftKings Fails to Prove Gaming Patent Claim 18 Unpatentable; Late Prior-Art Ground Waived",
+      "body": "On 6 May 2026, the U.S. Court of Appeals for the Federal Circuit affirmed the PTAB's final written decision in DK Crown Holdings Inc. v. AG 18, LLC, holding that DraftKings failed to prove claim 18 of U.S. Patent No. 9,978,205 unpatentable in inter partes review proceedings. The CAFC agreed with the PTAB that DraftKings improperly sought to introduce the Schlottmann prior-art reference through a footnote in its reply brief — absent from the petition — and that this late-raised theory was not properly before the Board and therefore could not be considered. The ruling reinforces the strict PTAB petition-completeness requirement under 37 C.F.R. § 42.23: all invalidity grounds must appear in the original IPR petition or are waived, with no opportunity to supplement via reply briefing. For Prosus portfolio companies filing or defending IPR petitions — particularly in digital gaming, platform, or fintech IP contexts — this is a procedural caution against omitting prior-art grounds from the initial petition in expectation of adding them later.",
+      "tags": [
+        "Patent",
+        "Court Ruling",
+        "US",
+        "IP Law"
+      ],
+      "source": "IPWatchdog",
+      "url": "https://ipwatchdog.com/2026/05/06/cafc-affirms-ptab-ruling-draftkings-failed-prove-unpatentability-gaming-patent-claim/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Italian Court of Venice Rules UPC Has Exclusive Jurisdiction Over Non-Opted-Out European Patents; Formal Opt-Out Filing in UPC Registry Mandatory for National Court Access",
+      "body": "On 6 May 2026, IPKat published analysis of a 4 December 2025 decision by the Venice Court of First Instance holding that the Unified Patent Court holds exclusive jurisdiction over classical European patents that have not been formally opted out, and that the transitional-regime provision in Article 83(1) UPCA allowing national-court actions is conditional on Article 83(3) — meaning patentees must actively register an opt-out in the UPC Registry to access national courts; absent that registration, the Italian court declared it lacked jurisdiction in favour of the UPC. The ruling resolves a key ambiguity in the UPCA transitional period: patentees cannot assume national courts remain available for non-opted-out patents, but must take affirmative opt-out action. This creates immediate portfolio-management urgency for Prosus-group entities holding classical European patents: unregistered patents are subject to UPC-exclusive enforcement, with associated risks of central pan-European revocation actions and cross-border injunctions.",
+      "tags": [
+        "Patent",
+        "Court Ruling",
+        "EU",
+        "IP Law"
+      ],
+      "source": "IPKat",
+      "url": "https://ipkitten.blogspot.com/2026/05/a-venetian-surprise-does-upca.html",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Major Publishers and Scott Turow File Class Action Against Meta and Zuckerberg for Willful Copyright Infringement in Llama AI Training",
+      "body": "On 5 May 2026, Elsevier, Cengage Learning, Hachette Book Group, Macmillan Publishing Group, McGraw Hill, and author Scott Turow filed a putative class action in the U.S. District Court for the Southern District of New York against Meta Platforms Inc. and CEO Mark Zuckerberg personally, alleging willful copyright infringement in the development of Meta's Llama large language models. The complaint alleges Meta torrented pirated copies of millions of textual works — including books and scholarly articles — from pirate repositories LibGen and Anna's Archive, with Zuckerberg personally authorizing the conduct; plaintiffs seek statutory damages, a permanent injunction, and destruction of all infringing copies. The explicit piracy allegations significantly undercut Meta's fair-use defense compared to cases involving lawfully-acquired training data, following the Bartz v. Anthropic precedent where the court found that training on pirated copies was not protected. For Prosus and portfolio companies, this case reinforces that sourcing AI training data from pirate repositories — rather than licensed datasets — exposes developers to maximum statutory damages, destruction orders, and personal director liability.",
+      "tags": [
+        "Copyright",
+        "AI Training",
+        "Infringement",
+        "US",
+        "IP Law"
+      ],
+      "source": "Association of American Publishers / Reuters",
+      "url": "https://publishers.org/news/publishers-and-authors-file-class-action-lawsuit-against-meta-and-zuckerberg-for-willful-copyright-infringement-to-develop-llama-ai-models/",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "Federal Circuit Affirms § 101 Dismissal of TJTM Vehicle-Mode Patent Against Google — Abstract Idea, No Inventive Concept",
+      "body": "On 5 May 2026, the U.S. Court of Appeals for the Federal Circuit issued a nonprecedential decision in TJTM Technologies, LLC v. Google LLC (No. 25-1218), affirming the Northern District of California's Rule 12(b)(6) dismissal of TJTM's patent infringement suit under 35 U.S.C. § 101. The court applied the Alice two-step, holding that U.S. Patent No. 8,958,853 — directed to automatically entering an inactive mode on a paired vehicle-mobile device to suppress notifications and transmit automated away messages — is directed to the abstract idea of notification screening, with all claimed elements (inactive mode, away messaging, vehicle pairing) being generic and conventionally arranged with no inventive concept. Reported by both IPWatchdog and Patently-O on 5 May 2026, the ruling reinforces continuing strict Federal Circuit § 101 doctrine for software-adjacent device-automation innovations. For Prosus engineering teams seeking U.S. patent protection, the case illustrates that device-behaviour automation without a demonstrable concrete technical improvement to the underlying technology remains patent-ineligible under current doctrine.",
+      "tags": [
+        "Patent",
+        "Court Ruling",
+        "US",
+        "IP Law"
+      ],
+      "source": "IPWatchdog / Patently-O",
+      "url": "https://ipwatchdog.com/2026/05/05/federal-circuit-affirms-101-dismissal-google-distracted-driving-patent-suit/",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Google"
+      ]
+    },
+    {
+      "title": "EPO Board of Appeal T 0941/24: Medical Device Use Claims Allowable Under Article 53(c) EPC Where Surgical Steps Not Implicitly Required",
+      "body": "On 5 May 2026, IPKat reported on EPO Board of Appeal decision T 0941/24, which addressed patentability of method claims for medical navigation and tracking device use under Article 53(c) EPC — the exclusion of methods of treatment by surgery. The Board held the claimed method was allowable because it did not encompass excluded surgical steps: attachment to bone was not an implicit or essential feature of the claims where the claim language and description did not require it, and the non-surgical navigation/tracking steps were independently patentable. The decision also underscores the post-G1/24 importance of using description text to clarify and constrain claim scope during EPO examination. This ruling expands the patentable space for medical-device software and hardware at the EPO, provided claims are carefully drafted, and is directly relevant to any Prosus health-tech or medical-data portfolio interests pursuing European patent protection.",
+      "tags": [
+        "Patent",
+        "Court Ruling",
+        "EU",
+        "IP Law"
+      ],
+      "source": "IPKat",
+      "url": "https://ipkitten.blogspot.com/2026/05/patenting-use-of-medical-devices-t.html",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Udio Admits Scraping YouTube Audio for AI Training; SDNY Judge Upholds Sony Music's DMCA Circumvention Claim",
+      "body": "On 4 May 2026, Music Business Worldwide reported that AI music generator Udio admitted in its formal answer to Sony Music's copyright lawsuit that it obtained audio training data from YouTube using YT-DLP, a tool capable of bypassing YouTube's technological protection measures. Manhattan federal Judge Alvin K. Hellerstein had previously denied Udio's motion to dismiss Sony's DMCA 17 U.S.C. § 1201 circumvention claim, holding Sony plausibly alleged that YouTube deploys access-control measures and that Udio circumvented them to harvest copyrighted sound recordings for AI model training — though Udio may renew arguments after discovery. Unlike direct copyright infringement, the DMCA circumvention claim is not subject to a fair-use defense, making the admission particularly damaging. This is among the first cases to test whether stream-ripping for AI training constitutes DMCA circumvention, establishing a critical boundary on permissible AI data-acquisition methods relevant to any Prosus-linked AI product development.",
+      "tags": [
+        "Copyright",
+        "AI Training",
+        "Infringement",
+        "US",
+        "IP Law",
+        "Creator Rights"
+      ],
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/",
+      "date": "2026-05-04",
+      "published_at": "2026-05-04T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Virginia Supreme Court Vacates $2 Billion Trade Secret Verdict Against Pegasystems in Appian Corp. v. Pegasystems; New Trial Ordered on Damages",
+      "body": "On 1 May 2026, Benesch Law reported that the Virginia Supreme Court overturned the $2 billion trade secret misappropriation jury verdict against Pegasystems Inc. in Appian Corp. v. Pegasystems, ordering a new trial due to multiple reversible trial-court errors: the judge improperly shifted the burden of proof to the defendant on damages, improperly excluded Pega's non-competing product-line revenue evidence, and barred software demonstrations relevant to damages quantum. While the appellate court confirmed evidence supported a finding of misappropriation, the $2 billion damages award is vacated and the case remanded for a new damages determination under the correct legal standard. As one of the largest trade secret verdicts in U.S. history, the case illustrates extreme financial exposure from misappropriation claims and the pivotal role of damages jury instructions — providing critical guidance for Prosus portfolio companies managing proprietary software and algorithm protection.",
+      "tags": [
+        "Trade Secret",
+        "Court Ruling",
+        "US",
+        "IP Law"
+      ],
+      "source": "Benesch Law",
+      "url": "https://www.beneschlaw.com/insight/2b-trade-secrets-verdict-overturned-by-the-virginia-supreme-court/",
+      "date": "2026-05-01",
+      "published_at": "2026-05-01T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    }
+  ]
+}

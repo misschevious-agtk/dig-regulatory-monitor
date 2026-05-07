@@ -1,0 +1,376 @@
+{
+  "generated_at": "2026-05-07T10:19:06Z",
+  "ai_landscape": [
+    {
+      "title": "EU Parliament and Council Reach Provisional Deal on AI Omnibus: High-Risk Obligations Delayed to December 2027",
+      "body": "On 7 May 2026, the European Parliament announced a provisional deal on the 'Digital Omnibus on AI' package, postponing the application of high-risk AI obligations under the EU AI Act. Under the agreement, standalone high-risk AI systems (Annex III, e.g., employment screening, biometrics, education tools) must comply by 2 December 2027, and AI systems embedded in regulated products (Annex I, e.g., medical devices, machinery) by 2 August 2028 — replacing the original single deadline of 2 August 2026. The provisional deal must be formally adopted by both Parliament and Council before 2 August 2026 to take legal effect; until then, the August 2026 enforcement date remains live. Additionally, the deal introduces a ban on AI-powered 'nudifier' applications. For Prosus portfolio companies using AI in hiring, education (Eruditus, GoStudent, Brainly), or EdTech risk scoring, this extension grants additional runway for compliance preparation, but internal readiness programmes should not be paused given the risk of formal adoption failure.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "GPAI",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "European Parliament",
+      "url": "https://www.europarl.europa.eu/news/ro/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps",
+      "date": "2026-05-07",
+      "published_at": "2026-05-07T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "UK AISI Advanced AI Evaluations May Update: Exploitable Weaknesses Found in All Tested Frontier Models",
+      "body": "In May 2026, the UK AI Security Institute (AISI) published its 'Advanced AI Evaluations: May Update,' reporting results from testing five leading large language models across cyber, chemical, biological, agentic, and safeguard capability domains. The report confirms that exploitable weaknesses were identified in every frontier model evaluated — a finding AISI CTO Jade Leung had flagged in April 2026. AISI is developing tiered evaluation methodologies for autonomous systems and multi-agent scaffolds, with improved safeguard robustness metrics. This is a landmark output: the first regular government-published cadence of model-level security vulnerability disclosures for frontier AI globally. Prosus should incorporate AISI evaluation outcomes into vendor risk registers and AI procurement decisions across all UK-operating portfolio companies.",
+      "tags": [
+        "AI Safety",
+        "UK",
+        "Foundation Model",
+        "Autonomous Agent",
+        "AI Governance"
+      ],
+      "source": "AISI (UK AI Security Institute)",
+      "url": "https://www.aisi.gov.uk/blog/advanced-ai-evaluations-may-update",
+      "date": "2026-05-07",
+      "published_at": "2026-05-07T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Canada Privacy Regulators Find OpenAI ChatGPT Non-Compliant: PIPEDA Findings #2026-002 Conditionally Resolved",
+      "body": "On 6 May 2026, Canada's Office of the Privacy Commissioner (OPC) and provincial counterparts in Quebec, British Columbia, and Alberta jointly published PIPEDA Findings #2026-002, finding OpenAI's ChatGPT 'not compliant' with Canadian privacy law. Issues identified include overcollection of personal information, lack of valid consent and transparency, factual inaccuracies involving personal data, inadequate access/correction/deletion rights, and insufficient accountability controls. The complaint was found 'well-founded and conditionally resolved' based on OpenAI's compliance commitments; Quebec-specific consent and retention concerns remain partially unresolved. This is a landmark first: the first enforcement finding by a G7 jurisdiction against a frontier AI model provider for training data practices. Prosus portfolio companies integrating GPT-series APIs — particularly in education (Brainly, Eruditus, GoStudent) — face analogous consent and data-governance exposure under GDPR and LGPD.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "Foundation Model",
+        "AI Landscape",
+        "Under Investigation"
+      ],
+      "source": "Office of the Privacy Commissioner of Canada (OPC)",
+      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260506/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "OpenAI",
+        "Brainly",
+        "Eruditus",
+        "GoStudent"
+      ]
+    },
+    {
+      "title": "Brazil AI Governance: Federal AI Ethics Ordinance and CFM Medical AI Rules Active Amid PL 2338/2023 Stall",
+      "body": "As of May 2026, Brazil's comprehensive AI bill PL 2338/2023 remains pending in a Chamber of Deputies special committee. However, two concrete AI governance instruments are operative: (1) Brazil's Ministry of Management issued Ordinance No. 485/2026 mandating ethical, transparent, and secure AI use across federal public administration with continuous monitoring against algorithmic discrimination; and (2) the Federal Council of Medicine's Resolution No. 2,454/2026 (27 February 2026) imposes auditing, monitoring, governance, and transparency requirements for AI in medicine, entering into force 10 August 2026. The ANPD continues to develop automated decision-making rules under LGPD Article 20 following Technical Note No. 12/2025. TechPolicy.Press (6 May 2026) frames Brazil's AI debate around data sovereignty and concentration of AI power. For Prosus, Brazil's sectoral AI rules are becoming binding ahead of any general AI law — directly relevant to the group's OLX and fintech footprint.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "BR",
+        "AI Landscape"
+      ],
+      "source": "TechPolicy.Press / Mondaq / ANPD",
+      "url": "https://www.techpolicy.press/the-political-economy-of-ai-starts-in-brazil-not-silicon-valley/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "US CAISI Expands Pre-Release AI Model Evaluations to Google, Microsoft, and xAI Following Mythos Crisis",
+      "body": "On 5 May 2026, the US Commerce Department's Center for AI Standards and Innovation (CAISI) announced voluntary pre-release evaluation agreements with Google DeepMind, Microsoft, and xAI, extending existing agreements with OpenAI and Anthropic to cover all five major frontier AI labs. The expansion was catalysed by Anthropic's 'Mythos' model disclosures of advanced hacking capabilities with national security implications. CAISI evaluations cover cybersecurity, biosecurity, and chemical-weapon risks; Director Chris Fall stated that 'independent, rigorous measurement science is essential to understanding frontier AI.' The White House is considering an executive order to formalise mandatory pre-release review. For Prosus, dependencies on all five frontier labs now carry government pre-release vetting requirements in the US, creating a new procurement due-diligence dimension when selecting AI vendor partners across the portfolio.",
+      "tags": [
+        "AI Safety",
+        "US",
+        "Foundation Model",
+        "Model Release",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "The Next Web / Axios / Politico",
+      "url": "https://thenextweb.com/news/us-ai-model-evaluation-google-microsoft-xai",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T13:10:02Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Anthropic",
+        "OpenAI",
+        "Google/Alphabet",
+        "Microsoft",
+        "xAI"
+      ]
+    },
+    {
+      "title": "EU AI Office: Enforcement Powers Activate August 2026 as Anthropic Mythos Hacking Risks Draw EU Scrutiny",
+      "body": "On 5 May 2026, amid growing EU pressure over Anthropic's 'Mythos' model's advanced hacking capabilities, the European Commission confirmed that once the AI Office's enforcement powers commence on 2 August 2026, it will seek model access from GPAI providers where needed for safety assessment. Currently the AI Office cannot compel pre-release access — a structural gap the Mythos episode exposed. Anthropic confirmed pre-release collaboration with US CAISI and UK AISI; however, no equivalent EU mechanism was in place. The episode accelerates the EU AI Office's push to fully exercise Chapter V enforcement from August 2026, including qualified alerts by the Scientific Panel, information requests, and fines up to €35 million. Prosus should ensure GPAI model dependencies across portfolio products are classified for systemic risk and documented before the August 2026 enforcement window.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "GPAI",
+        "Foundation Model",
+        "AI Safety",
+        "Regulation",
+        "Under Investigation"
+      ],
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/eu-pressure-builds-on-anthropic-over-mythos-hacking-risks/",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "UK AISI Partners with Microsoft on Frontier AI Safety Evaluation and Societal Resilience Research",
+      "body": "On 5 May 2026, the UK AI Security Institute (AISI) announced a formal partnership with Microsoft to advance methods for evaluating high-risk AI capabilities, testing safeguard effectiveness, and researching societal resilience in conversational AI deployed in sensitive contexts. Microsoft simultaneously confirmed its US CAISI agreement for pre-release frontier model testing. The dual announcements — US CAISI and UK AISI — represent a coordinated transatlantic AI safety evaluation framework emerging in May 2026, extending government oversight across all five major frontier labs. AISI's concurrent May 2026 evaluation update confirms exploitable weaknesses in every tested frontier model. For Prosus, Microsoft-backed AI tools deployed in the UK and US are now subject to heightened bilateral safety scrutiny, with implications for vendor risk assessment and AI product liability.",
+      "tags": [
+        "AI Safety",
+        "UK",
+        "Foundation Model",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "AISI (UK AI Security Institute)",
+      "url": "https://www.aisi.gov.uk/blog/partnering-with-microsoft-to-strengthen-frontier-ai-safety",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Microsoft"
+      ]
+    },
+    {
+      "title": "TechPolicy.Press: EU AI Act Is 'Not Ready for Agents' — Structural Oversight Gaps for Autonomous AI",
+      "body": "A May 2026 analysis on TechPolicy.Press argues that the EU AI Act applies to autonomous agents in principle but falls short in practice, specifically challenging the feasibility of the Act's 'stop button' and human-oversight assumptions for agents that take irreversible real-world actions. The piece identifies a structural liability gap: highly autonomous agents acting in the world cannot always be halted or recalled, yet the Act's compliance model assumes they can. A companion TechPolicy.Press piece (6 May 2026) on Brazil notes that human-in-the-loop as a default safeguard is becoming embedded across global AI governance frameworks — including the White House National Policy Framework — but behavioural realism of oversight under time pressure is rarely accounted for in legislation. For Prosus, agentic AI products under development across portfolio companies (Brainfish, Ema) require bespoke governance architecture that goes beyond standard EU AI Act compliance checklists.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "Autonomous Agent",
+        "AI Governance",
+        "AI Safety"
+      ],
+      "source": "TechPolicy.Press",
+      "url": "https://techpolicy.press/the-eu-ai-act-is-not-ready-for-agents",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Brainfish",
+        "Ema"
+      ]
+    },
+    {
+      "title": "NIST CAISI Publishes DeepSeek V4 Pro Evaluation: First US Government Benchmark of Major Open-Weight Chinese Model",
+      "body": "On 1 May 2026 (updated 2 May), NIST's Center for AI Standards and Innovation (CAISI) released its evaluation of DeepSeek V4 Pro, covering nine benchmarks across cyber, software engineering, natural sciences, abstract reasoning, and mathematics, including two held-out uncontaminated benchmarks. CAISI found that DeepSeek V4 Pro's capabilities lag the frontier by approximately eight months. This is the first public US government evaluation of a major open-weight Chinese AI model, operationalising the US AI Action Plan's mandate for CAISI to develop rigorous measurement science. The report establishes that open-weight models — freely downloadable and integrated across enterprise stacks — are now within the scope of national-security evaluation frameworks. Prosus technology teams should treat CAISI evaluation outputs as a mandatory reference for benchmarking and regulatory-risk profiling of open-weight model dependencies.",
+      "tags": [
+        "AI Safety",
+        "US",
+        "Foundation Model",
+        "Model Release",
+        "AI Governance"
+      ],
+      "source": "NIST / CAISI",
+      "url": "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro",
+      "date": "2026-05-01",
+      "published_at": "2026-05-01T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "US Senate Judiciary Committee Unanimously Backs AI Child Safety Bill Targeting OpenAI and Meta",
+      "body": "On 30 April 2026, the US Senate Judiciary Committee voted unanimously — crossing party lines — to advance legislation requiring AI companies, specifically naming OpenAI and Meta, to implement strict age verification systems, ban AI companion products for minors, and prohibit chatbots from delivering harmful content to under-18 users. The bill is the first bipartisan federal legislative response to AI-driven child safety concerns in the US, and mandates AI system design constraints — not merely content moderation — for all consumer-facing AI chatbots. If enacted, it would require verified parental consent and age-gating architecture across AI products accessible to minors. For Prosus, portfolio companies with youth-facing EdTech platforms — GoStudent, Brainly, Eruditus — face material product-design compliance risk if the bill advances to full Senate and House passage.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "US",
+        "AI Landscape"
+      ],
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/openai-meta-targeted-in-ai-child-safety-bill-senate-panel-backs",
+      "date": "2026-04-30",
+      "published_at": "2026-04-30T16:08:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "OpenAI",
+        "Meta",
+        "GoStudent",
+        "Brainly",
+        "Eruditus"
+      ]
+    },
+    {
+      "title": "Mistral AI Releases Mistral Medium 3.5; GPAI Governance Registry Demonstrates EU AI Act Article 53 Compliance",
+      "body": "On 29 April 2026, Mistral AI released Mistral Medium 3.5 in public preview — a 128B dense model integrating chat, reasoning, code, and vision on a modified MIT licence with 256k context window, powering Le Chat Work Mode and Vibe agent workflows. Mistral maintains a public AI Governance hub (legal.mistral.ai) listing all its models as General-Purpose AI Models under the EU AI Act, including Mistral Small 4 (16 March 2026) and Voxtral Mini TTS (25 March 2026) — demonstrating proactive Article 53 transparency compliance ahead of the 2 August 2026 enforcement date. Mistral's open-weight architecture confers reduced administrative burden under Article 53(2) and a stronger EU data-sovereignty proposition than US hyperscaler alternatives. For Prosus, Mistral represents a GPAI-compliant EU-sovereign model option for portfolio company integration ahead of the August 2026 enforcement window.",
+      "tags": [
+        "GPAI",
+        "Foundation Model",
+        "Model Release",
+        "EU",
+        "AI Governance",
+        "AI Landscape"
+      ],
+      "source": "Mistral AI",
+      "url": "https://legal.mistral.ai/ai-governance/models",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU AI Act Omnibus Negotiations Collapse on 29 April; August 2026 Enforcement Deadline Remains Operative",
+      "body": "After 12 hours of trilogue negotiations on 29 April 2026, EU Parliament and Council legislators failed to agree on the AI Omnibus changes, leaving the original 2 August 2026 high-risk enforcement deadline intact. The core dispute centred on whether Annex I high-risk AI systems embedded in regulated products (medical devices, machinery, toys) should be exempt from AI Act requirements. Germany pushed for an industrial machinery carve-out; Parliament sought a broader sectoral exemption. Talks resumed in May and produced a provisional deal on 7 May 2026, but formal adoption is still required. The April collapse is a critical compliance planning signal: companies relying on Omnibus timeline relief faced a period of acute legal uncertainty, and August 2026 must be treated as the operative planning date until formal adoption is complete. Prosus should maintain August-2026-ready compliance programmes in parallel.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/eu-ai-act-omnibus-deal-fails-april-2026-talks",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T07:11:55Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU AI Office Third GPAI Signatory Taskforce Meeting: Risk Tier Forecasting and Harmful Manipulation Framework Discussed",
+      "body": "On 27 April 2026, the EU AI Office published the summary of the third GPAI Signatory Taskforce meeting (held 27 March 2026), covering aggregate systemic-risk tier forecasting and harmful-manipulation scenarios under Measures 2.2 and 3.3 of the GPAI Code of Practice. The Forecasting Research Institute introduced methodology for semi-annual to annual aggregate industry risk forecasts: GPAI providers with systemic risk would individually answer risk-forecast questions, with results anonymised and aggregated across the sector. The AI Office will publish a concrete implementation approach. GPAI obligations apply from 2 August 2025; the AI Office's full enforcement powers activate 2 August 2026. For Prosus, any GPAI model provider integrated across portfolio products must prepare to submit semi-annual systemic-risk assessments and document harmful-manipulation risk scenarios before the August 2026 enforcement window.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "GPAI",
+        "Foundation Model",
+        "AI Safety",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "EU AI Office / European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/third-gpai-signatory-taskforce-meeting-safety-and-security-chapter",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "South Africa Withdraws Draft National AI Policy After AI-Generated Fictitious Citations Discovered",
+      "body": "On 27 April 2026, South Africa's Minister of Communications and Digital Technologies Solly Malatsi withdrew the country's Draft National AI Policy, gazetted on 10 April 2026 for public comment (deadline 10 June 2026), following discovery of multiple fictitious citations attributed to AI-generated content included without verification. Two DCDT officials were placed on precautionary suspension. The draft had envisaged a Year 2 (2026/27) publication of high-risk AI regulatory requirements and full sectoral rollout by 2027/28. The withdrawal delays South Africa's AI governance timeline and leaves a regulatory vacuum; the incident is a cautionary global precedent on generative AI use in official regulatory drafting. For Prosus, South Africa's AI governance programme is effectively reset — reducing near-term compliance burden but eliminating regulatory clarity for portfolio company AI deployments in one of the group's priority markets.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "ZA",
+        "AI Landscape"
+      ],
+      "source": "Reuters / SANews",
+      "url": "https://www.reuters.com/world/africa/south-africa-withdraws-ai-policy-due-fake-ai-generated-sources-2026-04-27/",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU DMA: Commission Moves to Force Google to Open Android AI Interoperability to ChatGPT and Claude",
+      "body": "On 16 April 2026, the European Commission published preliminary findings requiring Google to share anonymised search ranking, query, click, and view data with rival AI chatbot providers on FRAND terms, following two DMA specification proceedings opened 27 January 2026 under Articles 6(7) and 6(11). A parallel proceeding (DMA.100220) targets Android AI interoperability, requiring Google to provide third-party AI developers — including OpenAI (ChatGPT) and Anthropic (Claude) — with free and effective interoperability with Android hardware and software features that Gemini uses. The binding decision on both tracks must be adopted by 27 July 2026. For Prosus, this proceeding establishes the regulatory principle that AI model access on dominant platforms is a legal entitlement — potentially opening AI distribution channels on Android for portfolio-company products and setting a precedent for contestability in AI-adjacent markets.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "EU",
+        "Foundation Model",
+        "AI Landscape"
+      ],
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/google-eu-android-gemini-rivals-dma",
+      "date": "2026-04-23",
+      "published_at": "2026-04-23T16:21:18Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Anthropic",
+        "OpenAI",
+        "Google/Alphabet"
+      ]
+    },
+    {
+      "title": "India Constitutes AI Governance and Economic Group (AIGEG) as Apex Inter-Ministerial AI Body",
+      "body": "On 16 April 2026, India's Ministry of Electronics and Information Technology (MeitY) formally constituted the AI Governance and Economic Group (AIGEG) as India's apex inter-ministerial body for AI governance policy development and coordination. AIGEG will be supported by a Technology and Policy Expert Committee (TPEC) providing expert advisory on global AI developments, emerging risks, and evolving policy priorities; a dedicated AI Safety Institute (AISI) is also planned under the IndiaAI Mission. This operationalises the India AI Governance Guidelines unveiled in November 2025, while sectoral regulators retain domain-specific roles under the AIGEG umbrella. For Prosus — with significant edtech, consumer internet, and classifieds exposure in India — AIGEG signals India's first formal whole-of-government AI coordination layer, with likely sector-specific AI rules forthcoming that will directly affect portfolio company operations.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "IN",
+        "AI Landscape"
+      ],
+      "source": "Press Information Bureau (PIB) / IndiaAI Mission",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252739&lang=1&reg=1",
+      "date": "2026-04-16",
+      "published_at": "2026-04-16T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "EU AI Act Staffing and Employment AI: Annex III High-Risk Obligations Apply 2 August 2026",
+      "body": "A March 2026 analysis confirms that under the EU AI Act, AI systems used in recruitment, candidate screening, evaluation, performance monitoring, and employment decisions are classified as high-risk under Annex III, with full compliance obligations applying from 2 August 2026 — including mandatory risk assessments, technical documentation, bias testing, human oversight, transparency disclosures, and continuous monitoring. Since February 2025, emotion recognition and biometric categorisation in the workplace are already prohibited. The 7 May 2026 provisional Omnibus deal proposes deferral to 2 December 2027, but formal adoption is not yet complete. For Prosus, portfolio companies deploying AI in HR workflows — including Ema (AI workforce automation) and any recruitment tooling across the group — must treat 2 August 2026 as the operative deadline for full Article 9–15 compliance readiness pending Omnibus formalisation.",
+      "tags": [
+        "AI Act",
+        "EU",
+        "Regulation",
+        "AI Governance"
+      ],
+      "source": "EU Artificial Intelligence Act Tracker",
+      "url": "https://artificialintelligenceact.eu/what-the-act-means-for-staffing-businesses",
+      "date": "2026-03-17",
+      "published_at": "2026-03-17T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Ema"
+      ]
+    },
+    {
+      "title": "EU Parliament Backs EU Accession to Council of Europe AI Convention; North Macedonia Signs 8 May 2026",
+      "body": "On 11–12 March 2026, the European Parliament approved the EU's conclusion of the Council of Europe Framework Convention on Artificial Intelligence (CETS No. 225) — the world's first binding multilateral AI treaty covering human rights, democracy, and the rule of law. The Convention enters into force when five signatories (including at least three Council of Europe members) ratify it; North Macedonia is scheduled to sign on 8 May 2026. The Convention is open to non-Council of Europe states including the US, Canada, and Japan. For Prosus, the Convention's ratification trajectory is a leading indicator of binding international AI obligations across markets beyond the EU — particularly relevant for the group's operations in Brazil, India, and South Africa, jurisdictions not yet party to the Convention but increasingly aligning domestic AI policy with international frameworks.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "EU",
+        "AI Landscape"
+      ],
+      "source": "European Parliament / Miragenews",
+      "url": "https://www.europarl.europa.eu/news/en/press-room/20260306IPR37524/parliament-backs-eu-signature-of-framework-convention-on-artificial-intelligence",
+      "date": "2026-03-11",
+      "published_at": "2026-03-11T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "FTC and DOJ Launch Joint Inquiry on Algorithmic Pricing and Competitor Collaboration Guidance",
+      "body": "On 20 February 2026, the FTC and DOJ Antitrust Division opened a joint public inquiry for updated guidance on competitor collaborations, explicitly naming algorithmic pricing, data sharing, and labour collaborations as priority topics requiring new regulatory guidance; comments closed 24 April 2026. The inquiry builds on prior FTC/DOJ Statements of Interest establishing that 'price fixing by algorithm is still price fixing' and that direct competitor communication is not required where an algorithmic intermediary acts in concert. The DOJ's RealPage lawsuit remains the lead enforcement precedent for AI-mediated pricing collusion. For Prosus, any portfolio company using third-party algorithmic pricing or recommendation engines in the US — particularly in classifieds and e-commerce — must audit for Section 1 Sherman Act exposure, as updated guidance is expected to tighten the compliance standard for shared algorithmic pricing tools significantly.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "US",
+        "AI Landscape"
+      ],
+      "source": "FTC / DOJ",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/02/federal-trade-commission-department-justice-seek-public-comment-guidance-business-collaborations",
+      "date": "2026-02-20",
+      "published_at": "2026-02-20T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": []
+    },
+    {
+      "title": "Singapore IMDA Launches First-of-Kind Model AI Governance Framework for Agentic AI",
+      "body": "On 22 January 2026, Singapore's Infocomm Media Development Authority (IMDA) launched the world's first Model AI Governance Framework for Agentic AI, providing structured guidance for organisations deploying autonomous AI agents. The framework covers four dimensions: upfront risk assessment and capability bounding; human accountability via mandatory approval checkpoints; technical controls including access whitelisting; and end-user transparency and training. IMDA emphasised that 'humans are ultimately accountable' regardless of agent autonomy level — a principle directly aligned with evolving EU and UK regulatory expectations. For Prosus, portfolio companies developing agent-based AI products — including Brainfish and Ema — should benchmark internal governance against the IMDA framework as the current global best-practice standard for agentic AI deployment likely to inform future binding requirements across priority jurisdictions.",
+      "tags": [
+        "AI Governance",
+        "Regulation",
+        "Autonomous Agent",
+        "AI Safety",
+        "AI Landscape"
+      ],
+      "source": "IMDA Singapore",
+      "url": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2026/new-model-ai-governance-framework-for-agentic-ai",
+      "date": "2026-01-22",
+      "published_at": "2026-01-22T10:00:00Z",
+      "scope_path": "B",
+      "entity_match": [
+        "Brainfish",
+        "Ema"
+      ]
+    }
+  ]
+}

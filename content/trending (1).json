@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-05-07T09:33:00Z",
+  "trending": [
+    {
+      "title": "EU Commission Pursues Article 102 Interim Measures Against Meta to Restore WhatsApp AI Access for Rival Chatbots",
+      "body": "On 15 April 2026, the European Commission announced it is pursuing interim measures against Meta under Article 102 TFEU and Article 54 EEA Agreement (Article 8(1) of Regulation 1/2003), requiring Meta to restore third-party general-purpose AI assistants' access to WhatsApp under conditions existing before 15 October 2025. Meta's March 2026 fee revision, which imposed charges on AI chatbot messages via the WhatsApp Business API, was also targeted. The case spans two pillars: (1) Competition — Article 102 TFEU abuse of dominance/constructive refusal to deal; (2) AI Landscape — precedent on gatekeeper-neutral AI assistant access on dominant messaging platforms. Separately, CADE Brazil upheld a BRL 250,000 daily fine against Meta/WhatsApp on 23 April 2026 for non-compliance with its parallel AI access interim measure, demonstrating coordinated cross-jurisdictional enforcement. For Prosus portfolio companies deploying AI chatbots on WhatsApp, this dual EU/Brazil enforcement trajectory creates immediate compliance obligations and shapes WhatsApp's viability as an AI distribution channel.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "EU",
+        "BR",
+        "Under Investigation",
+        "Gatekeeper",
+        "DMA"
+      ],
+      "source": "2eu.brussels / CADE (gov.br)",
+      "url": "https://2eu.brussels/en/news/european-commission-moves-towards-interim-measures-against-meta-over-rival-ai-access-to-whatsapp",
+      "date": "2026-04-15",
+      "published_at": "2026-04-15T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "EU Commission Proposes DMA Article 6(7) Interoperability Measures Forcing Google to Open Android to Rival AI Assistants",
+      "body": "On 27 April 2026, the European Commission published preliminary findings in its DMA Article 67 specification proceedings against Alphabet/Google, proposing binding measures requiring Google to grant competing AI service providers effective interoperability with key Android capabilities — including email, food ordering, photo sharing via third-party apps, and activation via custom wake words. The case triggers two pillars: (1) Competition/Gatekeeper — DMA Article 6(7) interoperability obligations targeting Google's exclusive embedding of Gemini into Android (self-preferencing); (2) AI Landscape — the decision directly templates how AI assistants compete on mobile operating systems. The consultation deadline is 13 May 2026; the Commission must adopt a binding decision by 27 July 2026. This is the most concrete regulatory action to date compelling equal Android AI access, directly affecting Prosus companies building AI-powered mobile applications that compete with Gemini or Google Assistant.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "DMA",
+        "Gatekeeper",
+        "EU",
+        "Under Investigation"
+      ],
+      "source": "EU Commission / Digital Markets Act Portal",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-seeks-feedback-measures-ensure-interoperability-googles-android-under-digital-markets-act-2026-04-27_en",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "EU DMA Two-Year Review Report: Commission Pivots Enforcement Focus to AI and Cloud, Cites Data-Combination and Privacy Risks",
+      "body": "On 28-29 April 2026, the European Commission published its first statutory DMA Review Report concluding the regulation is fit for purpose but flagging AI services and cloud computing as dominant enforcement priorities. The report confirmed three cloud investigations opened in November 2025 targeting Microsoft Azure and Amazon Web Services for potential gatekeeper designation, and cited AI-specific concerns including default settings, equal OS access, and the prohibition on combining personal data for AI training without consent. This triggers three pillars: (1) Competition — gatekeeper designation proceedings against AWS/Azure; (2) AI Landscape — enforcement agenda for GPAI providers and AI assistant distribution; (3) Privacy — data-combination ban for AI training bridges DMA and GDPR. The European Parliament on 30 April 2026 called for faster enforcement, naming Google, TikTok, Microsoft, Meta, Apple, AWS, and Azure as targets. AWS/Azure gatekeeper risk affects Prosus cloud infrastructure, while AI assistant default and data-combination rules affect AI product architecture.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "GDPR",
+        "Data & Privacy",
+        "DMA",
+        "Gatekeeper",
+        "EU"
+      ],
+      "source": "EU Commission / 2eu.brussels / European Parliament",
+      "url": "https://2eu.brussels/en/news/commission-sees-positive-dma-impact-and-prepares-stronger-focus-on-ai-and-cloud",
+      "date": "2026-04-29",
+      "published_at": "2026-04-29T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape",
+        "privacy"
+      ]
+    },
+    {
+      "title": "UK CMA Launches SMS Investigation into Microsoft Business Software Ecosystem, Citing AI Copilot Lock-In and Cloud Barriers",
+      "body": "On 31 March 2026, the UK CMA announced commencement of a Strategic Market Status (SMS) investigation into Microsoft's business software ecosystem in May 2026, directly linking Microsoft's licensing practices to AI market foreclosure via the bundling of Microsoft Copilot into M365. The investigation builds on the CMA's 2025 cloud services market investigation findings that Microsoft and Amazon hold significant market power and that egress fees and interoperability barriers restrict multi-cloud switching. Two pillars are triggered: (1) Competition — the SMS regime (UK Digital Markets Competition Regime) targets bundling/leveraging of Microsoft's software dominance into adjacent AI services markets; (2) AI Landscape — the Copilot bundling dimension is the UK's most direct regulatory intervention into AI market competition. The investigation can take up to 9 months. For Prosus, the outcome affects enterprise software procurement, cloud-provider switching costs, and AI tools competing in Microsoft-dominated enterprise environments.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "UK",
+        "Under Investigation",
+        "Gatekeeper"
+      ],
+      "source": "CMA / GOV.UK",
+      "url": "https://www.gov.uk/government/news/cma-announces-package-of-actions-on-business-software-and-cloud-services",
+      "date": "2026-03-31",
+      "published_at": "2026-03-31T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "Brazil ANPD Fines Meta R$8.6M for Using Public User Data in AI Training Without LGPD Consent",
+      "body": "On 27 April 2026, Brazil's ANPD fined Meta R$8.6 million (~USD 1.7 million) for using publicly available Facebook and Instagram user data to train its AI models without transparency, an accessible opt-out, or valid legal basis under LGPD Articles 6 (transparency/purpose limitation) and 18 (data subject rights). The ANPD ordered Meta to revise its privacy policy and ensure a clear opt-out for Brazilian users. Two pillars are triggered: (1) Privacy — the first major LGPD enforcement action directly targeting AI training data practices, setting binding precedent on lawful legal basis requirements for social media data in generative AI development; (2) AI Landscape — confirms LGPD applies fully to AI training pipelines, not merely AI-generated outputs, affecting any GPAI model provider in Brazil. The ANPD noted parallels with EU scrutiny of Meta's AI data practices. For Prosus, any AI development ingesting user-generated data from Brazilian residents requires a lawful basis and opt-out under LGPD.",
+      "tags": [
+        "LGPD",
+        "Data & Privacy",
+        "AI Landscape",
+        "BR",
+        "Fine"
+      ],
+      "source": "Global Spark / ANPD Brazil",
+      "url": "https://globalspark.news/technology/artificial-intelligence/brazil-fines-meta-17m-for-ai-data-use.html",
+      "date": "2026-04-27",
+      "published_at": "2026-04-27T11:42:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "privacy",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "CADE Brazil Opens Formal Antitrust Case Against Google for Using Journalistic Content in AI Search Without Compensation",
+      "body": "On 24 April 2026, CADE opened a formal antitrust investigation against Google, finding its use of journalistic content to train and power AI Overviews (generative AI search summaries) constitutes exploitative abuse of a dominant search position, building AI features that reduce referral traffic to publishers and harm competition in the news content market. Three pillars are triggered: (1) Competition — abuse of dominance (exploitative + exclusionary) under Brazilian competition law; (2) IP/Copyright — use of publishers' copyrighted journalistic content for AI training and summarisation without licence or compensation raises direct copyright/neighbouring-rights questions, echoing the Australian News Media Bargaining Code model; (3) AI Landscape — the first Latin American regulatory action to place AI-generated search summaries at the centre of a market-dominance probe. For Prosus: OLX, Avito, and marketplace platforms depend on organic search visibility; AI-driven search that demotes publisher content could similarly affect marketplace listings, and compensation precedents could affect Prosus-backed content platforms.",
+      "tags": [
+        "Antitrust",
+        "Copyright",
+        "IP Law",
+        "AI Landscape",
+        "BR",
+        "Under Investigation"
+      ],
+      "source": "Rio Times Online / CADE",
+      "url": "https://www.riotimesonline.com/brazil-cade-google-ai-news-antitrust-probe-april-2026/",
+      "date": "2026-04-24",
+      "published_at": "2026-04-24T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "competition",
+        "ip",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "US Court Denies NVIDIA Motion to Dismiss: Shadow Library Training Scripts Found to Have 'No Other Purpose Than Infringement'",
+      "body": "In early May 2026, U.S. District Judge Jon Tigar (N.D. California) denied most of NVIDIA's motion to dismiss, ruling that scripts NVIDIA distributed to download and preprocess 'The Pile' dataset (including Books3) had 'no other purpose than enabling infringement' under the Cox v. Sony contributory infringement/inducement standard. Contributory copyright claims proceed; vicarious infringement claims may be amended. Two pillars are triggered: (1) IP/Copyright — tightens the standard for AI companies distributing tools that facilitate shadow library access, extending liability beyond a company's own training activities to ecosystem-level enablement; (2) AI Landscape — following Bartz v. Anthropic (fair use for lawfully-acquired data), the ruling creates a two-track legal framework governing permissible GPAI training data. The case appeared in 5+ independent outlets within 48 hours (TorrentFreak, Reuters, Bloomberg Law, Publishers Weekly, MLex), confirming high viral signal. For Prosus AI teams: any model using NeMo tools or The Pile dataset faces elevated copyright exposure, requiring immediate data provenance audit.",
+      "tags": [
+        "Copyright",
+        "IP Law",
+        "AI Landscape",
+        "US",
+        "Court Ruling",
+        "Under Investigation"
+      ],
+      "source": "TorrentFreak / U.S. District Court (N.D. Cal.)",
+      "url": "https://torrentfreak.com/nvidias-shadow-library-scripts-have-no-other-purpose-than-infringement-judge-rules/",
+      "date": "2026-05-06",
+      "published_at": "2026-05-06T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "ip",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "Apple Settles AI Feature False Advertising Class Action for $250M — Consumer Protection Meets AI Governance",
+      "body": "On 5 May 2026, Apple agreed to a $250 million settlement in the U.S. District Court (N.D. California) to resolve class-action claims it misled consumers by marketing 'Apple Intelligence' AI features — including an enhanced Siri — as available at launch on iPhone 16 and iPhone 15 Pro/Pro Max, when features were not operational at time of purchase. The settlement covers ~37 million devices (June 2024–March 2025); eligible consumers receive $25–$95 per device; preliminary approval hearing scheduled June 2026. Two pillars are triggered: (1) AI Landscape — the first $250M consumer-class settlement squarely targeting deceptive AI product marketing, establishing a private-enforcement precedent that will influence FTC and EU AI Act Article 50 transparency standards for AI feature claims; (2) Competition — consumers who chose iPhone over Android based on promised AI features may have been misled, creating competitive asymmetry regulators may examine. Appeared in Bloomberg Law, UPI, Fox Business, Washington Examiner, and TNW within 24 hours (viral signal confirmed). For Prosus portfolio companies: AI feature claims must be accurate at time of sale — not aspirational — with class action exposure at scale.",
+      "tags": [
+        "AI Landscape",
+        "Antitrust",
+        "US",
+        "Fine",
+        "Court Ruling"
+      ],
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/litigation/apple-agrees-to-250-million-deal-ending-ai-feature-false-ad-row",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T21:23:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "ai_landscape",
+        "competition"
+      ]
+    },
+    {
+      "title": "Italian Court Annuls Garante's €15M ChatGPT GDPR Fine — EDPB Cross-Border AI Enforcement Framework Called Into Question",
+      "body": "On 18 March 2026, Rome's Court of First Instance annulled the Italian Garante's November 2024 decision imposing a €15 million GDPR fine on OpenAI for ChatGPT violations, including lack of legal basis for training data processing (Article 6 GDPR), transparency failures (Articles 12-14), breach notification failure (Article 33), and absence of age verification safeguards (Article 8). The substantive annulment — not merely a procedural suspension — challenges the Garante's jurisdictional authority given OpenAI's establishment of OpenAI Ireland Limited (triggering the GDPR one-stop-shop with the Irish DPC as lead authority). Three pillars are triggered: (1) Privacy — contests the GDPR enforcement architecture for GPAI providers, determining which DPA has jurisdiction outside the one-stop-shop; (2) AI Landscape — constrains the EDPB ChatGPT Taskforce's multi-DPA coordination model and national regulators' ability to unilaterally fine GPAI providers; (3) Competition — may disadvantage EU-based AI developers (facing fragmented national GDPR enforcement) relative to US providers who route through the Irish DPC. For Prosus AI teams: confirms GPAI providers must prioritise Irish DPC engagement to reduce fragmented national enforcement risk.",
+      "tags": [
+        "GDPR",
+        "Data & Privacy",
+        "AI Landscape",
+        "EU",
+        "Court Ruling",
+        "Fine"
+      ],
+      "source": "Cross-Border Data Forum",
+      "url": "https://www.crossborderdataforum.org/generative-ai-and-gdpr-enforcement-in-europe-a-lot-of-noise-one-fine-zero-survivors/",
+      "date": "2026-03-19",
+      "published_at": "2026-03-19T10:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "privacy",
+        "ai_landscape",
+        "competition"
+      ]
+    },
+    {
+      "title": "EU AI Act GPAI Training-Data Summary Obligation Heads Toward August 2026 Enforcement Cliff — Copyright Compliance at Risk",
+      "body": "As of May 2026, the EU AI Office's enforcement powers over GPAI model providers are scheduled to activate on 2 August 2026, creating an imminent compliance cliff for AI companies that have not yet published compliant training-content summaries using the AI Office's official template (published July 2025). The obligation requires GPAI providers to disclose data sources, top domain names, and training dataset overviews, while maintaining a copyright policy respecting rightsholders' TDM opt-out reservations under EU Copyright Directive 2019/790. Non-compliance carries fines of up to 3% of global annual turnover or €15 million. Two pillars converge: (1) IP/Copyright — providers must actively identify and honour machine-readable TDM opt-outs; failure creates dual liability under both the AI Act and the Copyright Directive; (2) AI Landscape — the training-content transparency obligation is the first binding regulatory disclosure requirement for foundation models globally, with read-across for Brazil (ANPD), India (DPDP), and US (NIST AI RMF). For Prosus, the 2 August 2026 deadline is the most immediate hard AI regulatory deadline: all GPAI models deployed in the EU require compliant training-content summaries and copyright policies filed before that date.",
+      "tags": [
+        "AI Landscape",
+        "AI Act",
+        "Copyright",
+        "IP Law",
+        "EU"
+      ],
+      "source": "Clifford Chance / EU AI Office",
+      "url": "https://www.cliffordchance.com/insights/resources/blogs/ip-insights/2025/10/copyright-compliance-under-the-eu-ai-act-for-gpai-model-providers.html",
+      "date": "2026-05-07",
+      "published_at": "2026-05-07T09:00:00Z",
+      "scope_path": "A",
+      "entity_match": [],
+      "pillars_triggered": [
+        "ai_landscape",
+        "ip"
+      ]
+    },
+    {
+      "title": "Google $700M Play Store Antitrust Settlement Wins Final Approval — Android App Distribution Remedies Enter Force",
+      "body": "In early May 2026, a U.S. federal court (N.D. California) granted final approval to the $700 million multistate antitrust settlement against Google, led by a 52+ state attorney general coalition, resolving claims that Google unlawfully monopolised Android app distribution by charging up to 30% commissions and retaliating against developers seeking alternative payment channels. Consumers who purchased on Google Play (August 2016–September 2023) receive automatic PayPal/Venmo payments. Two pillars are triggered: (1) Competition — 5-year conduct remedies (alternative payment systems, no retaliation, competing store listing rights) and 7-year sideloading rights reshape Android app distribution economics and set a benchmark against which EU DMA Article 5(4) anti-steering enforcement against Apple and Google is compared; (2) AI Landscape — as AI agents and AI-native apps emerge, the sideloading and alternative-store remedies determine whether competing AI app stores and distribution channels are legally feasible. For Prosus portfolio companies (OLX, iFood, Swiggy) with Play Store apps, the conduct remedies reduce payment commission burden and open legal space for alternative distribution — an immediate operational benefit.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "US",
+        "Court Ruling",
+        "Fine"
+      ],
+      "source": "Utah Attorney General / Michigan AG",
+      "url": "https://attorneygeneral.utah.gov/google-app-store-monopoly/",
+      "date": "2026-05-05",
+      "published_at": "2026-05-05T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "iFood",
+        "OLX",
+        "Swiggy"
+      ],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape"
+      ]
+    },
+    {
+      "title": "CCI India Publishes AI Self-Audit Guidance Note Signalling Imminent Algorithmic Collusion and Self-Preferencing Enforcement",
+      "body": "On 16-17 March 2026, India's Competition Commission (CCI) published a formal Guidance Note urging all enterprises deploying AI tools to conduct self-audits at development, deployment, and monitoring stages, targeting hidden anticompetitive outcomes including algorithmic price collusion, self-preferencing in AI-powered rankings, and opacity in AI-driven recommendation systems. CCI Chairperson Ravneet Kaur stated the CCI is 'preparing a plan to curb anti-competitive practices in the AI space,' signalling imminent formal enforcement actions in H2 2026. Two pillars are triggered: (1) Competition — the guidance formalises enforcement theory on algorithmic collusion and AI self-preferencing, building on the CCI's October 2025 AI market study; the 6-component self-audit framework (governance, algorithm review, testing, monitoring, transparency, compliance) is expected to precede formal investigation notices; (2) AI Landscape — the most detailed AI competition compliance roadmap issued by any emerging-market regulator, with potential model effect for Brazil (CADE), South Africa (CCSA), and Southeast Asian regulators. For Prosus companies in India — Swiggy, OLX, PayU — the guidance creates an immediate self-audit obligation for AI-driven ranking, pricing, or recommendation algorithms.",
+      "tags": [
+        "Antitrust",
+        "AI Landscape",
+        "Algorithmic Collusion",
+        "IN",
+        "Under Investigation"
+      ],
+      "source": "BRICS Competition / Economic Times India",
+      "url": "https://bricscompetition.org/news/cci-issues-guidance-note-advising-enterprises-to-conduct-self-audits-on-ai-tools-to-avoid-competition-risks",
+      "date": "2026-03-17",
+      "published_at": "2026-03-17T10:00:00Z",
+      "scope_path": "AB",
+      "entity_match": [
+        "Swiggy",
+        "OLX",
+        "PayU"
+      ],
+      "pillars_triggered": [
+        "competition",
+        "ai_landscape"
+      ]
+    }
+  ]
+}
