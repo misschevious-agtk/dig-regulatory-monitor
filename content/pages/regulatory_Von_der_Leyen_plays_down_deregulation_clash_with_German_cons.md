@@ -2,7 +2,7 @@
 title: Von der Leyen plays down deregulation clash with German conservatives
 category: regulatory
 source: Politico Tech
-date: 9 May 2026
+date: 10 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

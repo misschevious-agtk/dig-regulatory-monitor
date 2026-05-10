@@ -2,7 +2,7 @@
 title: France and Spain want space reserved for EU firms in satellite frequencies
 category: regulatory
 source: Politico Tech
-date: 9 May 2026
+date: 10 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
