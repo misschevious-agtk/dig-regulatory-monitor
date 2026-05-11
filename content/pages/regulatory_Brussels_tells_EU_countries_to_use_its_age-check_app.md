@@ -2,7 +2,7 @@
 title: Brussels tells EU countries to use its age-check app
 category: regulatory
 source: Politico Tech
-date: 10 May 2026
+date: 11 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: EU pressure builds on Anthropic over Mythos hacking risks
 category: regulatory
 source: Politico Tech
-date: 10 May 2026
+date: 11 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
