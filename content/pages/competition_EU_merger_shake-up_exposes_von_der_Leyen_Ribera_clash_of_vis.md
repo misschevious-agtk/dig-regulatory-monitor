@@ -2,7 +2,7 @@
 title: EU merger shake-up exposes von der Leyen–Ribera clash of visions
 category: competition
 source: Politico Tech
-date: 11 May 2026
+date: 12 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
