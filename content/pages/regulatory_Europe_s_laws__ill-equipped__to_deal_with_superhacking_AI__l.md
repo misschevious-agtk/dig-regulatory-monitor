@@ -2,7 +2,7 @@
 title: Europe’s laws ‘ill-equipped’ to deal with superhacking AI, lawmakers warn
 category: regulatory
 source: Politico Tech
-date: 12 May 2026
+date: 13 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
