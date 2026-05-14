@@ -2,7 +2,7 @@
 title: UK seeks access to EU’s €5B tech scale-up fund
 category: regulatory
 source: Politico Tech
-date: 13 May 2026
+date: 14 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, UK
 ---
