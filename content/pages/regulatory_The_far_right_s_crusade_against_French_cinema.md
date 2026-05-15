@@ -2,7 +2,7 @@
 title: The far right’s crusade against French cinema
 category: regulatory
 source: Politico Tech
-date: 14 May 2026
+date: 15 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

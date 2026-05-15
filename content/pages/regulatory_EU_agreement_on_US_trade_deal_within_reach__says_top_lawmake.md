@@ -2,7 +2,7 @@
 title: EU agreement on US trade deal within reach, says top lawmaker
 category: regulatory
 source: Politico Tech
-date: 14 May 2026
+date: 15 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

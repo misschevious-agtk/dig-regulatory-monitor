@@ -2,7 +2,7 @@
 title: EUCOmaxxing: Influencers to be invited to EU summits
 category: regulatory
 source: Politico Tech
-date: 11 May 2026
+date: 15 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

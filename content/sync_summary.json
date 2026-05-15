@@ -1,16 +1,16 @@
 {
-  "last_sync": "2026-05-14T12:12:37.085249Z",
+  "last_sync": "2026-05-15T12:24:54.507894Z",
   "changed_files": [
     "ai_China_is_going_dark_to_develop_its_own_Mythos__German_cyber_.md",
     "ai_Von_der_Leyen__Hillary_Clinton_back_new_push_to_childproof_A.md",
     "ai_White_House_distances_itself_from_tighter_AI_regulation.md",
     "ai_Why_Estonia_is_gambling_on_AI_in_schools.md",
     "privacy_EU_must_go_beyond__binary_yes_or_no_ban__on_social_media__to.md",
+    "privacy_Silicon_Valley_wants_to_put_a_chip_in_your_brain.md",
     "regulatory_A_runaway_tycoon_and_millions_in_crypto__Polish_scandal_stok.md",
     "regulatory_Belgium_urges_EU_to_save_industry_by_getting_tough_on_China.md",
     "regulatory_Cloud_law_will_stop_Europe_becoming_tech__colony___Commissio.md",
-    "regulatory_Draghi__Europe_is__truly_alone_together__in_the_age_of_Trump.md",
-    "regulatory_EU_accused_of_wasting__20B_on_AI_computing_dreams.md",
+    "regulatory_EUCOmaxxing__Influencers_to_be_invited_to_EU_summits.md",
     "regulatory_EU_agreement_on_US_trade_deal_within_reach__says_top_lawmake.md",
     "regulatory_EU_clinches_deal_to_roll_back_AI_restrictions.md",
     "regulatory_EU_pressure_builds_on_Anthropic_over_Mythos_hacking_risks.md",
@@ -31,8 +31,8 @@
   "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 1,
+    "privacy": 2,
     "ip": 0,
-    "regulatory": 20
+    "regulatory": 19
   }
 }
