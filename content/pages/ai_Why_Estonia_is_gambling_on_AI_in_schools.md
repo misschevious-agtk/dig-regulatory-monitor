@@ -2,7 +2,7 @@
 title: Why Estonia is gambling on AI in schools
 category: ai
 source: Politico Tech
-date: 15 May 2026
+date: 16 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

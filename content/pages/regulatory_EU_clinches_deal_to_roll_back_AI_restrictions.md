@@ -2,7 +2,7 @@
 title: EU clinches deal to roll back AI restrictions
 category: regulatory
 source: Politico Tech
-date: 15 May 2026
+date: 16 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: European industry fears ‘back door’ for US in cloud law
 category: regulatory
 source: Politico Tech
-date: 15 May 2026
+date: 16 May 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
