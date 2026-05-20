@@ -2,7 +2,7 @@
 title: Sovereignty push shouldn’t disrupt tech supply chains, EU innovation chief warns
 category: regulatory
 source: Politico Tech
-date: 19 May 2026
+date: 20 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
