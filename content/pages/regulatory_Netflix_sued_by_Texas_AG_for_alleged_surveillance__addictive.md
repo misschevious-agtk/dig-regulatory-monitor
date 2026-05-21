@@ -2,7 +2,7 @@
 title: Netflix sued by Texas AG for alleged surveillance, addictive features
 category: regulatory
 source: Politico Tech
-date: 20 May 2026
+date: 21 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

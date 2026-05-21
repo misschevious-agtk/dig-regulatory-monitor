@@ -1,20 +1,40 @@
 {
   "trending": [
     {
+      "title": "Silicon Valley wants to put a chip in your brain",
+      "body": "A battle is looming not just over privacy, but the future of the human species.",
+      "source": "Politico Tech",
+      "date": "21 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy"
+      ]
+    },
+    {
       "title": "EU must go beyond ‘binary yes or no ban’ on social media, top official says",
       "body": "Decisionmakers tell POLITICO that social media ban for kids is ‘not the simple route.’",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
       ]
     },
     {
+      "title": "New Pentagon task force races to bring powerful AI tools to America’s most sensitive networks",
+      "body": "The new initiative will determine how AI models from tech giants such as OpenAI and Google can be safely deployed across Cyber Command and the NSA missions.",
+      "source": "Politico Tech",
+      "date": "21 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Why Estonia is gambling on AI in schools",
       "body": "Education and Research Minister Kristina Kallas is leading a pioneering effort to train students to use artificial intelligence.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -24,27 +44,7 @@
       "title": "Von der Leyen, Hillary Clinton back new push to childproof AI",
       "body": "New Youth AI Safety Institute plans to rate AI products based on how kids-friendly they are.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "China is going dark to develop its own Mythos, German cyber chief fears",
-      "body": "Several Chinese providers have recently stopped updating previously open AI models, which could indicate companies are moving development behind closed doors, Claudia Plattner warned.",
-      "source": "Politico Tech",
-      "date": "20 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "CN"
-      ]
-    },
-    {
-      "title": "White House distances itself from tighter AI regulation",
-      "body": "The White House is looking for “partnership” with companies rather than pursuing “government regulation,” a senior White House official said.",
-      "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -54,10 +54,20 @@
   "competition": [],
   "privacy": [
     {
+      "title": "Silicon Valley wants to put a chip in your brain",
+      "body": "A battle is looming not just over privacy, but the future of the human species.",
+      "source": "Politico Tech",
+      "date": "21 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy"
+      ]
+    },
+    {
       "title": "EU must go beyond ‘binary yes or no ban’ on social media, top official says",
       "body": "Decisionmakers tell POLITICO that social media ban for kids is ‘not the simple route.’",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -67,20 +77,20 @@
   "ip": [],
   "regulatory": [
     {
-      "title": "EU red tape hit squad finds simplification isn’t all that simple",
-      "body": "The EU thought it didn’t need experts in for its deregulation crusade. Reality is proving it does.",
+      "title": "Draghi: Europe is ‘truly alone together’ in the age of Trump",
+      "body": "The continent needs to change rapidly in a world where the U.S. has become “more adversarial and unpredictable” and “may no longer guarantee our security,” says European grandee.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "EU"
+        "Regulatory"
       ]
     },
     {
       "title": "Trump’s disappearing China hawks",
       "body": "The once vocal GOP wing that warned against making deals with Beijing has largely left the conversation ahead of Trump’s China summit.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -90,7 +100,7 @@
       "title": "Palantir CEO says Berlin’s distrust of battlefield software is misplaced",
       "body": "“I don’t understand how Germany believes it can afford this,” says CEO Alex Karp.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -100,7 +110,7 @@
       "title": "Nvidia’s Jensen Huang gets last-minute invite to Trump-Xi Summit",
       "body": "The Nvidia CEO was notably not included on the list of CEOs invited to attend the summit that was circulated Monday.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -110,7 +120,7 @@
       "title": "EU social media ban could come this summer, von der Leyen says",
       "body": "Commission chief says EU can learn from “pioneer” Australia in imposing minimum age for social media.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -120,7 +130,7 @@
       "title": "Netflix sued by Texas AG for alleged surveillance, addictive features",
       "body": "The complaint follows a product liability playbook that has been successful against other big tech platforms.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -130,7 +140,7 @@
       "title": "EUCOmaxxing: Influencers to be invited to EU summits",
       "body": "YouTubers and TikTokers would be granted access under a Council pilot scheme.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -140,7 +150,7 @@
       "title": "OpenAI offers EU access to new AI hacking model",
       "body": "European cyber and AI authorities in past weeks failed to gain access to superhacking AI, causing anxiety among officials.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -150,7 +160,7 @@
       "title": "The far right’s crusade against French cinema",
       "body": "French filmmakers fear a National Rally victory in next year’s presidential election will bring seismic changes to their industry.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -160,7 +170,7 @@
       "title": "White House’s ‘lack of organization’ has AI lobbyists fretting",
       "body": "The Trump administration has sent mixed signals about how tough it intends to be in vetting powerful new computer models.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -170,7 +180,7 @@
       "title": "Sovereignty push shouldn’t disrupt tech supply chains, EU innovation chief warns",
       "body": "Some in the U.S. still see value in working with European tech talent, Ekaterina Zaharieva says.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -180,7 +190,7 @@
       "title": "Lawmakers, industry push EU to move faster on AI rule cuts",
       "body": "Thursday’s deal leaves some lawmakers and lobby groups dissatisfied.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -190,7 +200,7 @@
       "title": "EU agreement on US trade deal within reach, says top lawmaker",
       "body": "“I guess there will be a conclusion at the next meeting,” says German MEP Bernd Lange.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -200,7 +210,7 @@
       "title": "EU clinches deal to roll back AI restrictions",
       "body": "Deal marks first significant delay of digital rules amid pressure from the U.S.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -210,7 +220,7 @@
       "title": "Belgium urges EU to save industry by getting tough on China",
       "body": "On returning from China, Foreign Minister Maxime Prévot warns the EU will become a “coalition of frogs” unless it embraces a cohesive strategy.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -220,7 +230,7 @@
       "title": "Germany set to secure win for industry in AI talks",
       "body": "Exemption for industry would mark a dramatic departure from law’s initial setup.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -230,7 +240,7 @@
       "title": "US firms could face exclusion under new EU cyber bill, lead lawmaker says",
       "body": "“I can see the Cybersecurity Act having an impact on U.S. companies if they don’t oblige by the rules,” says Czech Pirate MEP Markéta Gregorová.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -240,30 +250,10 @@
       "title": "Cloud law will stop Europe becoming tech ‘colony,’ Commission official says",
       "body": "The fresh comments suggest Brussels plans to take a tough approach to wean the continent off foreign technology.",
       "source": "Politico Tech",
-      "date": "20 May 2026",
+      "date": "21 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "European industry fears ‘back door’ for US in cloud law",
-      "body": "A technical formula on what counts as sovereign is prompting fierce reaction.",
-      "source": "Politico Tech",
-      "date": "20 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
-      ]
-    },
-    {
-      "title": "EU pressure builds on Anthropic over Mythos hacking risks",
-      "body": "Officials are losing patience over lack of access to superhacking model.",
-      "source": "Politico Tech",
-      "date": "20 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ]

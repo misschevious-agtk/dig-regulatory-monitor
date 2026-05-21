@@ -1,20 +1,20 @@
 {
-  "last_sync": "2026-05-20T09:41:24.768102Z",
+  "last_sync": "2026-05-21T09:50:39.478747Z",
   "changed_files": [
     "ai_China_is_going_dark_to_develop_its_own_Mythos__German_cyber_.md",
+    "ai_New_Pentagon_task_force_races_to_bring_powerful_AI_tools_to_.md",
     "ai_Von_der_Leyen__Hillary_Clinton_back_new_push_to_childproof_A.md",
     "ai_White_House_distances_itself_from_tighter_AI_regulation.md",
     "ai_Why_Estonia_is_gambling_on_AI_in_schools.md",
     "privacy_EU_must_go_beyond__binary_yes_or_no_ban__on_social_media__to.md",
+    "privacy_Silicon_Valley_wants_to_put_a_chip_in_your_brain.md",
     "regulatory_Belgium_urges_EU_to_save_industry_by_getting_tough_on_China.md",
     "regulatory_Cloud_law_will_stop_Europe_becoming_tech__colony___Commissio.md",
+    "regulatory_Draghi__Europe_is__truly_alone_together__in_the_age_of_Trump.md",
     "regulatory_EUCOmaxxing__Influencers_to_be_invited_to_EU_summits.md",
     "regulatory_EU_agreement_on_US_trade_deal_within_reach__says_top_lawmake.md",
     "regulatory_EU_clinches_deal_to_roll_back_AI_restrictions.md",
-    "regulatory_EU_pressure_builds_on_Anthropic_over_Mythos_hacking_risks.md",
-    "regulatory_EU_red_tape_hit_squad_finds_simplification_isn_t_all_that_si.md",
     "regulatory_EU_social_media_ban_could_come_this_summer__von_der_Leyen_sa.md",
-    "regulatory_European_industry_fears__back_door__for_US_in_cloud_law.md",
     "regulatory_Germany_set_to_secure_win_for_industry_in_AI_talks.md",
     "regulatory_Lawmakers__industry_push_EU_to_move_faster_on_AI_rule_cuts.md",
     "regulatory_Netflix_sued_by_Texas_AG_for_alleged_surveillance__addictive.md",
@@ -28,11 +28,11 @@
     "regulatory_White_House_s__lack_of_organization__has_AI_lobbyists_fretti.md"
   ],
   "total_changed": 25,
-  "total_articles": 21,
+  "total_articles": 20,
   "by_category": {
     "competition": 0,
-    "privacy": 1,
+    "privacy": 2,
     "ip": 0,
-    "regulatory": 20
+    "regulatory": 18
   }
 }

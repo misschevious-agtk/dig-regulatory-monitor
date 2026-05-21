@@ -2,7 +2,7 @@
 title: Trump’s disappearing China hawks
 category: regulatory
 source: Politico Tech
-date: 20 May 2026
+date: 21 May 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---
