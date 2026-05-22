@@ -2,7 +2,7 @@
 title: Palantir CEO says Berlin’s distrust of battlefield software is misplaced
 category: regulatory
 source: Politico Tech
-date: 21 May 2026
+date: 22 May 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---

@@ -2,7 +2,7 @@
 title: China is going dark to develop its own Mythos, German cyber chief fears
 category: ai
 source: Politico Tech
-date: 21 May 2026
+date: 22 May 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---

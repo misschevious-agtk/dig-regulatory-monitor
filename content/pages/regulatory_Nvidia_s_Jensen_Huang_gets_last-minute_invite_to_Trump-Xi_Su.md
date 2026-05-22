@@ -2,7 +2,7 @@
 title: Nvidia’s Jensen Huang gets last-minute invite to Trump-Xi Summit
 category: regulatory
 source: Politico Tech
-date: 21 May 2026
+date: 22 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
