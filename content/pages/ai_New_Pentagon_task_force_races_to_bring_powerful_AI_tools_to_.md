@@ -2,7 +2,7 @@
 title: New Pentagon task force races to bring powerful AI tools to America’s most sensitive networks
 category: ai
 source: Politico Tech
-date: 21 May 2026
+date: 23 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
