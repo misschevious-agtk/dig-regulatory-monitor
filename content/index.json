@@ -1,20 +1,10 @@
 {
   "trending": [
     {
-      "title": "Exclusive: Read Trump’s unsigned AI executive order",
-      "body": "POLITICO has obtained a copy of the executive order on artificial intelligence oversight that the president had been expected to sign Thursday.",
-      "source": "Politico Tech",
-      "date": "23 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
       "title": "Europe must make big changes to compete with US, space chief warns",
       "body": "“If we’re not making big changes, we will never catch up,” European Space Agency boss tells POLITICO.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -24,17 +14,27 @@
       "title": "Silicon Valley wants to put a chip in your brain",
       "body": "A battle is looming not just over privacy, but the future of the human species.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
       ]
     },
     {
+      "title": "Trump had ‘many’ concerns about AI draft policy order",
+      "body": "The artificial intelligence order pulled Thursday could still be rewritten.",
+      "source": "Politico Tech",
+      "date": "24 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "New Pentagon task force races to bring powerful AI tools to America’s most sensitive networks",
       "body": "The new initiative will determine how AI models from tech giants such as OpenAI and Google can be safely deployed across Cyber Command and the NSA missions.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -44,7 +44,7 @@
       "title": "Trump’s big AI order could land as soon as Thursday",
       "body": "The directive would ask tech companies to submit their advanced AI models to a review by federal agencies, people familiar with the draft say.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -54,20 +54,10 @@
   "competition": [],
   "privacy": [
     {
-      "title": "Exclusive: Read Trump’s unsigned AI executive order",
-      "body": "POLITICO has obtained a copy of the executive order on artificial intelligence oversight that the president had been expected to sign Thursday.",
-      "source": "Politico Tech",
-      "date": "23 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
       "title": "Europe must make big changes to compete with US, space chief warns",
       "body": "“If we’re not making big changes, we will never catch up,” European Space Agency boss tells POLITICO.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -77,7 +67,7 @@
       "title": "Silicon Valley wants to put a chip in your brain",
       "body": "A battle is looming not just over privacy, but the future of the human species.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
@@ -87,10 +77,30 @@
   "ip": [],
   "regulatory": [
     {
+      "title": "‘I didn’t like certain aspects’: Trump postpones AI executive order",
+      "body": "The abrupt delay came after leading AI executives had been briefed on the policy and invited to a Thursday signing in the White House.",
+      "source": "Politico Tech",
+      "date": "24 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Europe’s top tech boss warns Brussels is driving AI companies away",
+      "body": "The EU’s regulations are restrictive and out of sync with industry needs, said ASML CEO Christophe Fouquet.",
+      "source": "Politico Tech",
+      "date": "24 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "EU red tape hit squad finds simplification ain’t simple",
       "body": "The EU thought it didn’t need experts in for its deregulation crusade. Reality is proving it does.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -100,7 +110,7 @@
       "title": "Jury rejects Musk’s claims against Sam Altman over OpenAI Founding",
       "body": "Musk is expected to appeal.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -110,7 +120,7 @@
       "title": "Pope Leo launches AI commission",
       "body": "The Vatican said the pontiff was motivated by the increase in usage of AI, “its potential effects on human beings and on humanity as a whole [and] the church’s concern for the dignity of every human being.”",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -120,7 +130,7 @@
       "title": "Big promises, thin results from Trump’s China trip",
       "body": "U.S. President Donald Trump returns from his two-day summit with Chinese leader Xi Jinping with hints of deals but no progress on key issues that vex the U.S.-China relationship.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -130,7 +140,7 @@
       "title": "Germany’s spy agency picks French AI firm over Palantir",
       "body": "The move comes as German officials push for homegrown alternatives in sensitive security systems.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -140,7 +150,7 @@
       "title": "Draghi: Europe is ‘truly alone together’ in the age of Trump",
       "body": "The continent needs to change rapidly in a world where the U.S. has become “more adversarial and unpredictable” and “may no longer guarantee our security,” says European grandee.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -150,7 +160,7 @@
       "title": "Trump’s disappearing China hawks",
       "body": "The once vocal GOP wing that warned against making deals with Beijing has largely left the conversation ahead of Trump’s China summit.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -160,7 +170,7 @@
       "title": "Palantir CEO says Berlin’s distrust of battlefield software is misplaced",
       "body": "“I don’t understand how Germany believes it can afford this,” says CEO Alex Karp.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -170,7 +180,7 @@
       "title": "Nvidia’s Jensen Huang gets last-minute invite to Trump-Xi Summit",
       "body": "The Nvidia CEO was notably not included on the list of CEOs invited to attend the summit that was circulated Monday.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -180,7 +190,7 @@
       "title": "EU social media ban could come this summer, von der Leyen says",
       "body": "Commission chief says EU can learn from “pioneer” Australia in imposing minimum age for social media.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -190,7 +200,7 @@
       "title": "Netflix sued by Texas AG for alleged surveillance, addictive features",
       "body": "The complaint follows a product liability playbook that has been successful against other big tech platforms.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -200,7 +210,7 @@
       "title": "EUCOmaxxing: Influencers to be invited to EU summits",
       "body": "YouTubers and TikTokers would be granted access under a Council pilot scheme.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -210,7 +220,7 @@
       "title": "OpenAI offers EU access to new AI hacking model",
       "body": "European cyber and AI authorities in past weeks failed to gain access to superhacking AI, causing anxiety among officials.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -220,7 +230,7 @@
       "title": "The far right’s crusade against French cinema",
       "body": "French filmmakers fear a National Rally victory in next year’s presidential election will bring seismic changes to their industry.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -230,20 +240,10 @@
       "title": "White House’s ‘lack of organization’ has AI lobbyists fretting",
       "body": "The Trump administration has sent mixed signals about how tough it intends to be in vetting powerful new computer models.",
       "source": "Politico Tech",
-      "date": "23 May 2026",
+      "date": "24 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "Sovereignty push shouldn’t disrupt tech supply chains, EU innovation chief warns",
-      "body": "Some in the U.S. still see value in working with European tech talent, Ekaterina Zaharieva says.",
-      "source": "Politico Tech",
-      "date": "23 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ]

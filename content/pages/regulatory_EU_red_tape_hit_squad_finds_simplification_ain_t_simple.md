@@ -2,7 +2,7 @@
 title: EU red tape hit squad finds simplification ain’t simple
 category: regulatory
 source: Politico Tech
-date: 23 May 2026
+date: 24 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
