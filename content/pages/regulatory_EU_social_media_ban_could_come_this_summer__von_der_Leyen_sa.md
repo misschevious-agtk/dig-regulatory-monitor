@@ -2,7 +2,7 @@
 title: EU social media ban could come this summer, von der Leyen says
 category: regulatory
 source: Politico Tech
-date: 24 May 2026
+date: 25 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

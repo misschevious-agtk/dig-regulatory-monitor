@@ -2,7 +2,7 @@
 title: Draghi: Europe is ‘truly alone together’ in the age of Trump
 category: regulatory
 source: Politico Tech
-date: 24 May 2026
+date: 25 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
