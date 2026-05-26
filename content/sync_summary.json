@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-05-25T10:17:13.138167Z",
+  "last_sync": "2026-05-26T10:03:32.550715Z",
   "changed_files": [
     "ai_New_Pentagon_task_force_races_to_bring_powerful_AI_tools_to_.md",
+    "ai_Trump_had__many__concerns_about_AI_draft_policy_order.md",
     "ai_Trump_s_big_AI_order_could_land_as_soon_as_Thursday.md",
-    "ai_Why_Estonia_is_gambling_on_AI_in_schools.md",
     "competition_The_EU_s_Big_Tech_law_was_meant_to_move_fast__It_hasn_t_.md",
     "privacy_Europe_must_make_big_changes_to_compete_with_US__space_chief.md",
+    "privacy_Exclusive__Read_Trump_s_unsigned_AI_executive_order.md",
     "privacy_Silicon_Valley_wants_to_put_a_chip_in_your_brain.md",
     "privacy_Trump_yanked_AI_order_after_David_Sacks_raised_industry_conc.md",
+    "regulatory_A_nation_on_a_hard_drive__Inside_the_rise_of_digital_embassi.md",
     "regulatory_Big_promises__thin_results_from_Trump_s_China_trip.md",
     "regulatory_Draghi__Europe_is__truly_alone_together__in_the_age_of_Trump.md",
-    "regulatory_EUCOmaxxing__Influencers_to_be_invited_to_EU_summits.md",
     "regulatory_EU_red_tape_hit_squad_finds_simplification_ain_t_simple.md",
     "regulatory_EU_social_media_ban_could_come_this_summer__von_der_Leyen_sa.md",
     "regulatory_Europe_s_top_tech_boss_warns_Brussels_is_driving_AI_companie.md",
     "regulatory_Germany_s_spy_agency_picks_French_AI_firm_over_Palantir.md",
     "regulatory_Jury_rejects_Musk_s_claims_against_Sam_Altman_over_OpenAI_Fo.md",
-    "regulatory_Netflix_sued_by_Texas_AG_for_alleged_surveillance__addictive.md",
     "regulatory_Nvidia_s_Jensen_Huang_gets_last-minute_invite_to_Trump-Xi_Su.md",
     "regulatory_Palantir_CEO_says_Berlin_s_distrust_of_battlefield_software_.md",
     "regulatory_Pope_Leo_launches_AI_commission.md",
     "regulatory_Scott_Bessent_has_been_raising_the_alarm_on_AI_policy__But_t.md",
-    "regulatory_The_Vatican_vs__killer_robots__Pope_Leo_XIV_takes_aim_at_AI_.md",
     "regulatory_Tony_Blair_s_consultancy_doubles_down_on_AI_and_restructures.md",
     "regulatory_Trump_s_disappearing_China_hawks.md",
     "regulatory_UK_wargames_AI-driven_NATO_conflict_with_Russia.md",
+    "regulatory_US_judge_considers_ordering_Meta_to_revamp_its_apps.md",
     "regulatory__I_didn_t_like_certain_aspects___Trump_postpones_AI_executiv.md"
   ],
   "total_changed": 25,
   "total_articles": 22,
   "by_category": {
     "competition": 1,
-    "privacy": 3,
+    "privacy": 4,
     "ip": 0,
-    "regulatory": 18
+    "regulatory": 17
   }
 }

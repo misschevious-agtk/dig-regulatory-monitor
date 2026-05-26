@@ -2,7 +2,7 @@
 title: Big promises, thin results from Trump’s China trip
 category: regulatory
 source: Politico Tech
-date: 25 May 2026
+date: 26 May 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---

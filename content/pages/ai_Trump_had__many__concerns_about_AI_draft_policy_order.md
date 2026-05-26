@@ -2,7 +2,7 @@
 title: Trump had ‘many’ concerns about AI draft policy order
 category: ai
 source: Politico Tech
-date: 24 May 2026
+date: 26 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
