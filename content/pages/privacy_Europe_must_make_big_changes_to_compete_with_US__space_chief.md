@@ -2,7 +2,7 @@
 title: Europe must make big changes to compete with US, space chief warns
 category: privacy
 source: Politico Tech
-date: 26 May 2026
+date: 27 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

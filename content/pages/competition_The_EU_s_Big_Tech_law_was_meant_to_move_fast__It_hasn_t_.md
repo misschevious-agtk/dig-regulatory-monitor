@@ -2,7 +2,7 @@
 title: The EU’s Big Tech law was meant to move fast. It hasn’t.
 category: competition
 source: Politico Tech
-date: 26 May 2026
+date: 27 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Antitrust, DMA, Under Investigation
 ---

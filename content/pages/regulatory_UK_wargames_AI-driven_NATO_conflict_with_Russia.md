@@ -2,7 +2,7 @@
 title: UK wargames AI-driven NATO conflict with Russia
 category: regulatory
 source: Politico Tech
-date: 26 May 2026
+date: 27 May 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
