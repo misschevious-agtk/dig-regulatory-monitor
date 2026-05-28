@@ -2,7 +2,7 @@
 title: Scott Bessent has been raising the alarm on AI policy. But the delays keep coming.
 category: regulatory
 source: Politico Tech
-date: 27 May 2026
+date: 28 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

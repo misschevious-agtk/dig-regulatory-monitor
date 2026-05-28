@@ -2,7 +2,7 @@
 title: Silicon Valley wants to put a chip in your brain
 category: privacy
 source: Politico Tech
-date: 27 May 2026
+date: 28 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy
 ---

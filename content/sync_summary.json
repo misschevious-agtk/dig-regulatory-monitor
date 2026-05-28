@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-05-27T10:00:58.322426Z",
+  "last_sync": "2026-05-28T10:10:45.686584Z",
   "changed_files": [
     "ai_New_Pentagon_task_force_races_to_bring_powerful_AI_tools_to_.md",
     "ai_Trump_had__many__concerns_about_AI_draft_policy_order.md",
@@ -8,6 +8,7 @@
     "competition_The_EU_s_Big_Tech_law_was_meant_to_move_fast__It_hasn_t_.md",
     "privacy_Europe_must_make_big_changes_to_compete_with_US__space_chief.md",
     "privacy_Exclusive__Read_Trump_s_unsigned_AI_executive_order.md",
+    "privacy_Silicon_Valley_takes_its_AI_pitch_to_the_pope.md",
     "privacy_Silicon_Valley_wants_to_put_a_chip_in_your_brain.md",
     "privacy_Trump_yanked_AI_order_after_David_Sacks_raised_industry_conc.md",
     "regulatory_Big_promises__thin_results_from_Trump_s_China_trip.md",
@@ -17,7 +18,6 @@
     "regulatory_Europe_s_top_tech_boss_warns_Brussels_is_driving_AI_companie.md",
     "regulatory_Germany_s_spy_agency_picks_French_AI_firm_over_Palantir.md",
     "regulatory_Jury_rejects_Musk_s_claims_against_Sam_Altman_over_OpenAI_Fo.md",
-    "regulatory_Palantir_CEO_says_Berlin_s_distrust_of_battlefield_software_.md",
     "regulatory_Pope_Leo_launches_AI_commission.md",
     "regulatory_Scott_Bessent_has_been_raising_the_alarm_on_AI_policy__But_t.md",
     "regulatory_Tony_Blair_s_consultancy_doubles_down_on_AI_and_restructures.md",
@@ -31,8 +31,8 @@
   "total_articles": 21,
   "by_category": {
     "competition": 1,
-    "privacy": 4,
+    "privacy": 5,
     "ip": 0,
-    "regulatory": 16
+    "regulatory": 15
   }
 }

@@ -4,7 +4,7 @@
       "title": "The EU’s Big Tech law was meant to move fast. It hasn’t.",
       "body": "As the Digital Markets Act enters its third year, critics say enforcement is drifting toward the same delays that have plagued traditional antitrust probes.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -13,10 +13,20 @@
       ]
     },
     {
+      "title": "Silicon Valley takes its AI pitch to the pope",
+      "body": "As Leo XIV prepares his first encyclical, technology firms and Western diplomats have worked to make their case inside the Vatican.",
+      "source": "Politico Tech",
+      "date": "28 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Exclusive: Read Trump’s unsigned AI executive order",
       "body": "POLITICO has obtained a copy of the executive order on artificial intelligence oversight that the president had been expected to sign Thursday.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -26,7 +36,7 @@
       "title": "Trump yanked AI order after David Sacks raised industry concerns",
       "body": "The last-minute intervention by the president’s former AI czar came amid complaints from some tech companies, people told POLITICO.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -36,20 +46,10 @@
       "title": "Europe must make big changes to compete with US, space chief warns",
       "body": "“If we’re not making big changes, we will never catch up,” European Space Agency boss tells POLITICO.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "Silicon Valley wants to put a chip in your brain",
-      "body": "A battle is looming not just over privacy, but the future of the human species.",
-      "source": "Politico Tech",
-      "date": "27 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Data & Privacy"
       ]
     }
   ],
@@ -58,7 +58,7 @@
       "title": "The EU’s Big Tech law was meant to move fast. It hasn’t.",
       "body": "As the Digital Markets Act enters its third year, critics say enforcement is drifting toward the same delays that have plagued traditional antitrust probes.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -69,10 +69,20 @@
   ],
   "privacy": [
     {
+      "title": "Silicon Valley takes its AI pitch to the pope",
+      "body": "As Leo XIV prepares his first encyclical, technology firms and Western diplomats have worked to make their case inside the Vatican.",
+      "source": "Politico Tech",
+      "date": "28 May 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Exclusive: Read Trump’s unsigned AI executive order",
       "body": "POLITICO has obtained a copy of the executive order on artificial intelligence oversight that the president had been expected to sign Thursday.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -82,7 +92,7 @@
       "title": "Trump yanked AI order after David Sacks raised industry concerns",
       "body": "The last-minute intervention by the president’s former AI czar came amid complaints from some tech companies, people told POLITICO.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -92,7 +102,7 @@
       "title": "Europe must make big changes to compete with US, space chief warns",
       "body": "“If we’re not making big changes, we will never catch up,” European Space Agency boss tells POLITICO.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -102,7 +112,7 @@
       "title": "Silicon Valley wants to put a chip in your brain",
       "body": "A battle is looming not just over privacy, but the future of the human species.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
@@ -113,9 +123,9 @@
   "regulatory": [
     {
       "title": "EU to squeeze US space tech out of prized satellite airwaves",
-      "body": "A decision by the bloc’s executive is expected to push back on U.S. ownership of a critical space asset.",
+      "body": "The bloc’s executive is pushing back on U.S. ownership of a critical space asset.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -125,7 +135,7 @@
       "title": "Ukraine’s latest defense against Russian missiles: Making them miss",
       "body": "Kyiv is using the Lima electronic warfare system to divert attacks by Russian drones and missiles.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -135,7 +145,7 @@
       "title": "US judge considers ordering Meta to revamp its apps",
       "body": "The expected order may set a precedent for states to compel structural changes to social media apps.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -145,7 +155,7 @@
       "title": "UK wargames AI-driven NATO conflict with Russia",
       "body": "“Mission ready by 2030 is not a slogan, it is what we must do,” says top general.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -155,7 +165,7 @@
       "title": "Tony Blair’s consultancy doubles down on AI and restructures in Europe",
       "body": "The move will affect its recently opened Brussels office.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -165,7 +175,7 @@
       "title": "Scott Bessent has been raising the alarm on AI policy. But the delays keep coming.",
       "body": "The administration’s early response to Mythos sparked a turf clash, with Treasury Secretary Scott Bessent expressing that a top White House cyber official was not moving quickly enough.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -175,7 +185,7 @@
       "title": "‘I didn’t like certain aspects’: Trump postpones AI executive order",
       "body": "The abrupt delay came after leading AI executives had been briefed on the policy and invited to a Thursday signing in the White House.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -185,7 +195,7 @@
       "title": "Europe’s top tech boss warns Brussels is driving AI companies away",
       "body": "The EU’s regulations are restrictive and out of sync with industry needs, said ASML CEO Christophe Fouquet.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -195,7 +205,7 @@
       "title": "EU red tape hit squad finds simplification ain’t simple",
       "body": "The EU thought it didn’t need experts in for its deregulation crusade. Reality is proving it does.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -205,7 +215,7 @@
       "title": "Jury rejects Musk’s claims against Sam Altman over OpenAI Founding",
       "body": "Musk is expected to appeal.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -215,7 +225,7 @@
       "title": "Pope Leo launches AI commission",
       "body": "The Vatican said the pontiff was motivated by the increase in usage of AI, “its potential effects on human beings and on humanity as a whole [and] the church’s concern for the dignity of every human being.”",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -225,7 +235,7 @@
       "title": "Big promises, thin results from Trump’s China trip",
       "body": "U.S. President Donald Trump returns from his two-day summit with Chinese leader Xi Jinping with hints of deals but no progress on key issues that vex the U.S.-China relationship.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -235,7 +245,7 @@
       "title": "Germany’s spy agency picks French AI firm over Palantir",
       "body": "The move comes as German officials push for homegrown alternatives in sensitive security systems.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -245,7 +255,7 @@
       "title": "Draghi: Europe is ‘truly alone together’ in the age of Trump",
       "body": "The continent needs to change rapidly in a world where the U.S. has become “more adversarial and unpredictable” and “may no longer guarantee our security,” says European grandee.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -255,20 +265,10 @@
       "title": "Trump’s disappearing China hawks",
       "body": "The once vocal GOP wing that warned against making deals with Beijing has largely left the conversation ahead of Trump’s China summit.",
       "source": "Politico Tech",
-      "date": "27 May 2026",
+      "date": "28 May 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
-      ]
-    },
-    {
-      "title": "Palantir CEO says Berlin’s distrust of battlefield software is misplaced",
-      "body": "“I don’t understand how Germany believes it can afford this,” says CEO Alex Karp.",
-      "source": "Politico Tech",
-      "date": "27 May 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "DE"
       ]
     }
   ]

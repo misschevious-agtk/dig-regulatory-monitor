@@ -2,7 +2,7 @@
 title: Germany’s spy agency picks French AI firm over Palantir
 category: regulatory
 source: Politico Tech
-date: 27 May 2026
+date: 28 May 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---
