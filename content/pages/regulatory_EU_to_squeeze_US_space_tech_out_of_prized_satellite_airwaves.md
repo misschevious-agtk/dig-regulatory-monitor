@@ -2,7 +2,7 @@
 title: EU to squeeze US space tech out of prized satellite airwaves
 category: regulatory
 source: Politico Tech
-date: 28 May 2026
+date: 29 May 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
