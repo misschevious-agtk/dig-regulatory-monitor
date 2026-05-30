@@ -2,7 +2,7 @@
 title: A nation on a hard drive: Inside the rise of digital embassies
 category: regulatory
 source: Politico Tech
-date: 29 May 2026
+date: 30 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
