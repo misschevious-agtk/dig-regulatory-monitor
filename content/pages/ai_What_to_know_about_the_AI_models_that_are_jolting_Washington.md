@@ -2,7 +2,7 @@
 title: What to know about the AI models that are jolting Washington
 category: ai
 source: Politico Tech
-date: 30 May 2026
+date: 31 May 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
