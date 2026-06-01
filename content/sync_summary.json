@@ -1,25 +1,25 @@
 {
-  "last_sync": "2026-05-31T08:51:33.645528Z",
+  "last_sync": "2026-06-01T11:43:08.335713Z",
   "changed_files": [
+    "ai_4_ways_Europe_wants_to_wean_off_US_tech.md",
     "ai_Pope_Leo_demands_AI_rules_to__safeguard_humanity____before_i.md",
     "ai_Trump_had__many__concerns_about_AI_draft_policy_order.md",
     "ai_What_to_know_about_the_AI_models_that_are_jolting_Washington.md",
-    "competition_The_EU_s_Big_Tech_law_was_meant_to_move_fast__It_hasn_t_.md",
-    "privacy_Europe_must_make_big_changes_to_compete_with_US__space_chief.md",
     "privacy_Exclusive__Read_Trump_s_unsigned_AI_executive_order.md",
     "privacy_Silicon_Valley_takes_its_AI_pitch_to_the_pope.md",
     "privacy_Trump_yanked_AI_order_after_David_Sacks_raised_industry_conc.md",
     "regulatory_A_nation_on_a_hard_drive__Inside_the_rise_of_digital_embassi.md",
+    "regulatory_Brussels_eyes_slice_of_AI_chip_boom.md",
     "regulatory_Don_t_let_Big_Tech_hide_ecological_cost_of_AI__environment_a.md",
     "regulatory_EU_fines_China_s_Temu__200M_over_illegal_products.md",
     "regulatory_EU_forecasts__13B_budget_return_from_new_gambling_tax.md",
     "regulatory_EU_to_squeeze_US_space_tech_out_of_prized_satellite_airwaves.md",
-    "regulatory_Europe_s_top_tech_boss_warns_Brussels_is_driving_AI_companie.md",
-    "regulatory_Germany_pushes_back_on_US_attack_over_streaming_law.md",
+    "regulatory_Future_networks_will_not_be_built_on_yesterday_s_rules.md",
     "regulatory_Netherlands_blocks_US_takeover_of_vital_digital_supplier.md",
     "regulatory_Scott_Bessent_has_been_raising_the_alarm_on_AI_policy__But_t.md",
     "regulatory_The_Vatican_vs__killer_robots__Pope_Leo_XIV_takes_aim_at_AI_.md",
     "regulatory_Tony_Blair_s_consultancy_doubles_down_on_AI_and_restructures.md",
+    "regulatory_Top_US_trade_official_blasts_German_streaming_quota_plan.md",
     "regulatory_UK_wargames_AI-driven_NATO_conflict_with_Russia.md",
     "regulatory_US__UK_clash_with_France_over_children_s_online_safety_at_G7.md",
     "regulatory_US_judge_considers_ordering_Meta_to_revamp_its_apps.md",
@@ -28,11 +28,11 @@
     "regulatory__I_didn_t_like_certain_aspects___Trump_postpones_AI_executiv.md"
   ],
   "total_changed": 25,
-  "total_articles": 22,
+  "total_articles": 21,
   "by_category": {
-    "competition": 1,
-    "privacy": 4,
+    "competition": 0,
+    "privacy": 3,
     "ip": 0,
-    "regulatory": 17
+    "regulatory": 18
   }
 }

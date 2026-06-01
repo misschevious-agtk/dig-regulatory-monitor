@@ -2,7 +2,7 @@
 title: Don’t let Big Tech hide ecological cost of AI, environment agency chief tells EU
 category: regulatory
 source: Politico Tech
-date: 31 May 2026
+date: 1 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

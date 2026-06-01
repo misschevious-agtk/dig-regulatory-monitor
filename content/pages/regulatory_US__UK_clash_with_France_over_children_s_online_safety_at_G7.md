@@ -2,7 +2,7 @@
 title: US, UK clash with France over children’s online safety at G7 meet
 category: regulatory
 source: Politico Tech
-date: 31 May 2026
+date: 1 June 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
