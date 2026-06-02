@@ -2,7 +2,7 @@
 title: Trump yanked AI order after David Sacks raised industry concerns
 category: privacy
 source: Politico Tech
-date: 1 June 2026
+date: 2 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

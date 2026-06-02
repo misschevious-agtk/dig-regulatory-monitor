@@ -2,7 +2,7 @@
 title: EU fines China’s Temu €200M over illegal products
 category: regulatory
 source: Politico Tech
-date: 1 June 2026
+date: 2 June 2026
 url: https://www.politico.eu/section/technology/
 tags: DSA, Fine, EU
 ---

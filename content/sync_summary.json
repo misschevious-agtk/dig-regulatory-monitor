@@ -1,10 +1,11 @@
 {
-  "last_sync": "2026-06-01T11:43:08.335713Z",
+  "last_sync": "2026-06-02T10:43:18.627204Z",
   "changed_files": [
     "ai_4_ways_Europe_wants_to_wean_off_US_tech.md",
     "ai_Pope_Leo_demands_AI_rules_to__safeguard_humanity____before_i.md",
     "ai_Trump_had__many__concerns_about_AI_draft_policy_order.md",
     "ai_What_to_know_about_the_AI_models_that_are_jolting_Washington.md",
+    "privacy_Does_JD_Vance_have_to_choose_between_Pope_Leo_and_Peter_Thie.md",
     "privacy_Exclusive__Read_Trump_s_unsigned_AI_executive_order.md",
     "privacy_Silicon_Valley_takes_its_AI_pitch_to_the_pope.md",
     "privacy_Trump_yanked_AI_order_after_David_Sacks_raised_industry_conc.md",
@@ -14,9 +15,8 @@
     "regulatory_EU_fines_China_s_Temu__200M_over_illegal_products.md",
     "regulatory_EU_forecasts__13B_budget_return_from_new_gambling_tax.md",
     "regulatory_EU_to_squeeze_US_space_tech_out_of_prized_satellite_airwaves.md",
-    "regulatory_Future_networks_will_not_be_built_on_yesterday_s_rules.md",
+    "regulatory_How_Trump_supercharged_the_EU_s_tech_independence_push.md",
     "regulatory_Netherlands_blocks_US_takeover_of_vital_digital_supplier.md",
-    "regulatory_Scott_Bessent_has_been_raising_the_alarm_on_AI_policy__But_t.md",
     "regulatory_The_Vatican_vs__killer_robots__Pope_Leo_XIV_takes_aim_at_AI_.md",
     "regulatory_Tony_Blair_s_consultancy_doubles_down_on_AI_and_restructures.md",
     "regulatory_Top_US_trade_official_blasts_German_streaming_quota_plan.md",
@@ -25,14 +25,14 @@
     "regulatory_US_judge_considers_ordering_Meta_to_revamp_its_apps.md",
     "regulatory_US_refuses_to_budge_on_environmental_impact_of_tech__regulat.md",
     "regulatory_Ukraine_s_latest_defense_against_Russian_missiles__Making_th.md",
-    "regulatory__I_didn_t_like_certain_aspects___Trump_postpones_AI_executiv.md"
+    "regulatory_Von_der_Leyen_gears_up_for_fight_over_China_trade_ties.md"
   ],
   "total_changed": 25,
   "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 3,
+    "privacy": 4,
     "ip": 0,
-    "regulatory": 18
+    "regulatory": 17
   }
 }
