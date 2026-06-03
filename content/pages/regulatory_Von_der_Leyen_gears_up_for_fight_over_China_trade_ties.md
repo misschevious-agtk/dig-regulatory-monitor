@@ -2,7 +2,7 @@
 title: Von der Leyen gears up for fight over China trade ties
 category: regulatory
 source: Politico Tech
-date: 2 June 2026
+date: 3 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

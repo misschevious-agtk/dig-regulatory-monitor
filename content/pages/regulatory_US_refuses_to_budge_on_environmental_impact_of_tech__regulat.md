@@ -2,7 +2,7 @@
 title: US refuses to budge on environmental impact of tech, regulating Big Tech at G7
 category: regulatory
 source: Politico Tech
-date: 2 June 2026
+date: 3 June 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

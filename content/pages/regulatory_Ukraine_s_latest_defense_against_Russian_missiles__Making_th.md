@@ -2,7 +2,7 @@
 title: Ukraine’s latest defense against Russian missiles: Making them miss
 category: regulatory
 source: Politico Tech
-date: 2 June 2026
+date: 3 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

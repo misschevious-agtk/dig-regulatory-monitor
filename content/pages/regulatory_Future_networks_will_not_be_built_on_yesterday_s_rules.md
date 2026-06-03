@@ -2,7 +2,7 @@
 title: Future networks will not be built on yesterday’s rules
 category: regulatory
 source: Politico Tech
-date: 1 June 2026
+date: 3 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
