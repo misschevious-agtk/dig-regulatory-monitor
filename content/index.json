@@ -1,50 +1,51 @@
 {
   "trending": [
     {
+      "title": "European Parliament ditches Google for French search firm over privacy concerns",
+      "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
+      "source": "Politico Tech",
+      "date": "4 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy",
+        "EU"
+      ]
+    },
+    {
       "title": "Does JD Vance have to choose between Pope Leo and Peter Thiel?",
       "body": "The pope’s encyclical calling for AI restraints has fueled a backlash in Silicon Valley.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
-      "title": "Silicon Valley takes its AI pitch to the pope",
-      "body": "As Leo XIV prepares his first encyclical, technology firms and Western diplomats have worked to make their case inside the Vatican.",
+      "title": "OpenAI diverges from White House on AI safety rules",
+      "body": "The tech giant unveiled a regulatory framework for advanced AI that splits from new White House plans for voluntary vetting and an enhanced role for the intelligence community.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
+      ]
+    },
+    {
+      "title": "Anthropic expands access to cyber-capable Mythos model beyond US",
+      "body": "Anthropic is expanding access to its vulnerability-exploiting AI model Mythos to around 150 organizations across more than 15 countries, including several EU member states.",
+      "source": "Politico Tech",
+      "date": "4 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
       ]
     },
     {
       "title": "Pope Leo demands AI rules to ‘safeguard humanity’ — before it’s too late",
       "body": "The pontiff warns that artificial intelligence could exacerbate inequality, deepen social fragmentation and weaken moral responsibility unless it is constrained.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "What to know about the AI models that are jolting Washington",
-      "body": "Researchers who have tested Anthropic’s Mythos and OpenAI’s GPT-5.5 say their hacking capabilities are a “game-changer.”",
-      "source": "Politico Tech",
-      "date": "3 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Trump had ‘many’ concerns about AI draft policy order",
-      "body": "The artificial intelligence order pulled Thursday could still be rewritten.",
-      "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -54,20 +55,21 @@
   "competition": [],
   "privacy": [
     {
-      "title": "Does JD Vance have to choose between Pope Leo and Peter Thiel?",
-      "body": "The pope’s encyclical calling for AI restraints has fueled a backlash in Silicon Valley.",
+      "title": "European Parliament ditches Google for French search firm over privacy concerns",
+      "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Regulatory"
+        "Data & Privacy",
+        "EU"
       ]
     },
     {
-      "title": "Silicon Valley takes its AI pitch to the pope",
-      "body": "As Leo XIV prepares his first encyclical, technology firms and Western diplomats have worked to make their case inside the Vatican.",
+      "title": "Does JD Vance have to choose between Pope Leo and Peter Thiel?",
+      "body": "The pope’s encyclical calling for AI restraints has fueled a backlash in Silicon Valley.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -77,20 +79,40 @@
   "ip": [],
   "regulatory": [
     {
-      "title": "EU slams Trump’s forced labor tariff as ‘unjustified’",
-      "body": "The proposed 10 percent tariff threatens a fragile transatlantic trade truce.",
+      "title": "Trump’s AI order is a blow against laissez-faire",
+      "body": "While the White House backed away from mandatory vetting for AI systems, pro-regulation voices are hailing the new executive order as proof that the momentum is on their side.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "EU"
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Trump signs downsized AI order",
+      "body": "The executive order comes after President Donald Trump last month postponed a measure to address AI-driven cyber threats.",
+      "source": "Politico Tech",
+      "date": "4 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "How Trump supercharged the EU’s tech independence push",
+      "body": "The U.S. president’s weaponization of European dependence on U.S. firms has changed the conversation in Brussels.",
+      "source": "Politico Tech",
+      "date": "4 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
       ]
     },
     {
       "title": "Anthropic invites EU to access Mythos hacking tech",
       "body": "European authorities for weeks were shut off from accessing the cutting-edge cybersecurity AI tech.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -100,7 +122,7 @@
       "title": "Future networks will not be built on yesterday’s rules",
       "body": "Europe’s policy should match its ambition and reflect how much technology has evolved.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -110,7 +132,7 @@
       "title": "Brussels to Big Tech: Embrace sustainable AI or go away",
       "body": "Energy-hungry data centers must support the EU’s shift to carbon-free power, says Energy Commissioner Dan Jørgensen.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -120,7 +142,7 @@
       "title": "Right-wing mogul ignites culture war in French cinema",
       "body": "But French filmmakers are not ready to cut ties with controversial Vincent Bolloré.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -130,7 +152,7 @@
       "title": "Germany pushes back on US attack over streaming law",
       "body": "Berlin insists its streamer-investment plan is “very moderate by European standards.”",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -140,7 +162,7 @@
       "title": "How network planning could provide a £2.58 billion boost",
       "body": "The UK has lagged Europe on connectivity for far too long, ranking 24th out of 30 for 5G availability. There is a way to finally get back into gear.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -150,7 +172,7 @@
       "title": "Von der Leyen gears up for fight over China trade ties",
       "body": "The European Commission president has long wanted to protect key industries against Beijing. But not everyone is on board.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -160,7 +182,7 @@
       "title": "Top US trade official blasts German streaming quota plan",
       "body": "The clash comes barely a week after Brussels moved to implement the EU-U.S. Turnberry trade pact.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -170,7 +192,7 @@
       "title": "Brussels eyes slice of AI chip boom",
       "body": "The Commission and two R&D hubs eye cutting-edge chips factory in Europe.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -180,7 +202,7 @@
       "title": "EU forecasts €13B budget return from new gambling tax",
       "body": "The Commission is assessing revenue estimates that could be raised by potential new EU-wide taxes on online gambling, crypto firms and digital firms.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -191,7 +213,7 @@
       "title": "US refuses to budge on environmental impact of tech, regulating Big Tech at G7",
       "body": "French officials said environmental issues were the toughest to get a consensus on among G7 digital ministers.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -201,7 +223,7 @@
       "title": "EU fines China’s Temu €200M over illegal products",
       "body": "Fine is largest so far under the bloc’s platforms regulation, the Digital Services Act.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DSA",
@@ -213,7 +235,7 @@
       "title": "EU to squeeze US space tech out of prized satellite airwaves",
       "body": "The bloc’s executive is pushing back on U.S. ownership of a critical space asset.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -223,7 +245,7 @@
       "title": "US, UK clash with France over children’s online safety at G7 meet",
       "body": "Talks have been extended as countries struggle to agree on a joint declaration on tech policy.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -233,7 +255,7 @@
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "body": "Across Europe, there have been increased concerns about the bloc’s reliance on American tech.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -243,7 +265,7 @@
       "title": "A nation on a hard drive: Inside the rise of digital embassies",
       "body": "Facing cyberattacks, hybrid warfare and military conflict, governments are storing their data outside their borders.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -253,30 +275,10 @@
       "title": "Don’t let Big Tech hide ecological cost of AI, environment agency chief tells EU",
       "body": "Brussels must require tech companies to disclose data centers’ energy and water use, Leena Ylä-Mononen says.",
       "source": "Politico Tech",
-      "date": "3 June 2026",
+      "date": "4 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
-      ]
-    },
-    {
-      "title": "The Vatican vs. killer robots: Pope Leo XIV takes aim at AI warfare",
-      "body": "The pontiff’s first formal letter to the Catholic world warns of the dangers posed by autonomous weapons systems.",
-      "source": "Politico Tech",
-      "date": "3 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
-      ]
-    },
-    {
-      "title": "Ukraine’s latest defense against Russian missiles: Making them miss",
-      "body": "Kyiv is using the Lima electronic warfare system to divert attacks by Russian drones and missiles.",
-      "source": "Politico Tech",
-      "date": "3 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
       ]
     }
   ]

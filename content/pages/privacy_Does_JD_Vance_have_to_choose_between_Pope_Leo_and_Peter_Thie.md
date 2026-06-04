@@ -2,7 +2,7 @@
 title: Does JD Vance have to choose between Pope Leo and Peter Thiel?
 category: privacy
 source: Politico Tech
-date: 3 June 2026
+date: 4 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
