@@ -4,7 +4,7 @@
       "title": "European Parliament ditches Google for French search firm over privacy concerns",
       "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -15,7 +15,7 @@
       "title": "Does JD Vance have to choose between Pope Leo and Peter Thiel?",
       "body": "The pope’s encyclical calling for AI restraints has fueled a backlash in Silicon Valley.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -25,7 +25,7 @@
       "title": "EU wants households to cut peak time energy use as demand from industry and AI soars",
       "body": "A new law will aim to use artificial intelligence to boost efficient use of power as electricity demand threatens to overwhelm Europe’s grids.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -35,7 +35,7 @@
       "title": "4 ways Europe wants to wean off US tech",
       "body": "The European Commission is finalizing a package that aims to reduce the bloc’s reliance on American data centers, artificial intelligence, microchips and software.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -45,7 +45,7 @@
       "title": "Anthropic expands access to cyber-capable Mythos model beyond US",
       "body": "Anthropic is expanding access to its vulnerability-exploiting AI model Mythos to around 150 organizations across more than 15 countries, including several EU member states.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -58,7 +58,7 @@
       "title": "European Parliament ditches Google for French search firm over privacy concerns",
       "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -69,7 +69,7 @@
       "title": "Does JD Vance have to choose between Pope Leo and Peter Thiel?",
       "body": "The pope’s encyclical calling for AI restraints has fueled a backlash in Silicon Valley.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -79,20 +79,41 @@
   "ip": [],
   "regulatory": [
     {
-      "title": "Dear Microsoft, enough is enough",
-      "body": "Our global coalition of innovative developers promotes genuine competition and users’ freedom of choice. It’s time for Microsoft to do the same.",
+      "title": "Trump to meet with AI companies on government profit-share plan as soon as next week",
+      "body": "‘There’s so much money and it’s so big that there are concepts where pieces could be given to the American public,’ Trump said.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
+      "title": "EU lawmakers vote to shield peers from Huawei scandal probe",
+      "body": "Lawmakers say that the Belgian prosecutor’s allegations are too weak, but critics point out behind-the-scenes politicking.",
+      "source": "Politico Tech",
+      "date": "6 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Under Investigation",
+        "EU"
+      ]
+    },
+    {
+      "title": "EU plots long game against US digital supremacy",
+      "body": "The European Commission’s so-called tech sovereignty plan aims to boost domestic champions rather than shut out American competitors.",
+      "source": "Politico Tech",
+      "date": "6 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "EU slams Trump’s forced labor tariff as ‘unjustified’",
       "body": "The proposed 10 percent tariff threatens a fragile transatlantic trade truce.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -102,7 +123,7 @@
       "title": "Trump’s AI order is a blow against laissez-faire",
       "body": "While the White House backed away from mandatory vetting for AI systems, pro-regulation voices are hailing the new executive order as proof that the momentum is on their side.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -112,7 +133,7 @@
       "title": "Trump signs downsized AI order",
       "body": "The executive order comes after President Donald Trump last month postponed a measure to address AI-driven cyber threats.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -122,7 +143,7 @@
       "title": "How Trump supercharged the EU’s tech independence push",
       "body": "The U.S. president’s weaponization of European dependence on U.S. firms has changed the conversation in Brussels.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -132,7 +153,7 @@
       "title": "Anthropic invites EU to access Mythos hacking tech",
       "body": "European authorities for weeks were shut off from accessing the cutting-edge cybersecurity AI tech.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -142,7 +163,7 @@
       "title": "Future networks will not be built on yesterday’s rules",
       "body": "Europe’s policy should match its ambition and reflect how much technology has evolved.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -152,7 +173,7 @@
       "title": "Brussels to Big Tech: Embrace sustainable AI or go away",
       "body": "Energy-hungry data centers must support the EU’s shift to carbon-free power, says Energy Commissioner Dan Jørgensen.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -162,7 +183,7 @@
       "title": "Right-wing mogul ignites culture war in French cinema",
       "body": "But French filmmakers are not ready to cut ties with controversial Vincent Bolloré.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -172,7 +193,7 @@
       "title": "Germany pushes back on US attack over streaming law",
       "body": "Berlin insists its streamer-investment plan is “very moderate by European standards.”",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -182,7 +203,7 @@
       "title": "How network planning could provide a £2.58 billion boost",
       "body": "The UK has lagged Europe on connectivity for far too long, ranking 24th out of 30 for 5G availability. There is a way to finally get back into gear.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -192,7 +213,7 @@
       "title": "Von der Leyen gears up for fight over China trade ties",
       "body": "The European Commission president has long wanted to protect key industries against Beijing. But not everyone is on board.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -202,7 +223,7 @@
       "title": "Top US trade official blasts German streaming quota plan",
       "body": "The clash comes barely a week after Brussels moved to implement the EU-U.S. Turnberry trade pact.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -212,7 +233,7 @@
       "title": "Brussels eyes slice of AI chip boom",
       "body": "The Commission and two R&D hubs eye cutting-edge chips factory in Europe.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -222,7 +243,7 @@
       "title": "EU forecasts €13B budget return from new gambling tax",
       "body": "The Commission is assessing revenue estimates that could be raised by potential new EU-wide taxes on online gambling, crypto firms and digital firms.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -233,7 +254,7 @@
       "title": "US refuses to budge on environmental impact of tech, regulating Big Tech at G7",
       "body": "French officials said environmental issues were the toughest to get a consensus on among G7 digital ministers.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -243,7 +264,7 @@
       "title": "EU fines China’s Temu €200M over illegal products",
       "body": "Fine is largest so far under the bloc’s platforms regulation, the Digital Services Act.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DSA",
@@ -255,30 +276,10 @@
       "title": "EU to squeeze US space tech out of prized satellite airwaves",
       "body": "The bloc’s executive is pushing back on U.S. ownership of a critical space asset.",
       "source": "Politico Tech",
-      "date": "5 June 2026",
+      "date": "6 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
-      ]
-    },
-    {
-      "title": "US, UK clash with France over children’s online safety at G7 meet",
-      "body": "Talks have been extended as countries struggle to agree on a joint declaration on tech policy.",
-      "source": "Politico Tech",
-      "date": "5 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "body": "Across Europe, there have been increased concerns about the bloc’s reliance on American tech.",
-      "source": "Politico Tech",
-      "date": "5 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
       ]
     }
   ]

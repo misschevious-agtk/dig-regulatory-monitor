@@ -2,7 +2,7 @@
 title: Right-wing mogul ignites culture war in French cinema
 category: regulatory
 source: Politico Tech
-date: 5 June 2026
+date: 6 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

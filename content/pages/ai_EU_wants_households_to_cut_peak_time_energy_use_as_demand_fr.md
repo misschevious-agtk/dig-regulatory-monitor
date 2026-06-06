@@ -2,7 +2,7 @@
 title: EU wants households to cut peak time energy use as demand from industry and AI soars
 category: ai
 source: Politico Tech
-date: 5 June 2026
+date: 6 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
