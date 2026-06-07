@@ -2,7 +2,7 @@
 title: EU lawmakers vote to shield peers from Huawei scandal probe
 category: regulatory
 source: Politico Tech
-date: 6 June 2026
+date: 7 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Under Investigation, EU
 ---

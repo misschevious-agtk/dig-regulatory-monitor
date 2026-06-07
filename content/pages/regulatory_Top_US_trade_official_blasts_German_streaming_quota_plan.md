@@ -2,7 +2,7 @@
 title: Top US trade official blasts German streaming quota plan
 category: regulatory
 source: Politico Tech
-date: 6 June 2026
+date: 7 June 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
