@@ -2,7 +2,7 @@
 title: Anthropic expands access to cyber-capable Mythos model beyond US
 category: ai
 source: Politico Tech
-date: 7 June 2026
+date: 8 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

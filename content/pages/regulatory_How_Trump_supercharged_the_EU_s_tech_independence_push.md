@@ -2,7 +2,7 @@
 title: How Trump supercharged the EU’s tech independence push
 category: regulatory
 source: Politico Tech
-date: 7 June 2026
+date: 8 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
