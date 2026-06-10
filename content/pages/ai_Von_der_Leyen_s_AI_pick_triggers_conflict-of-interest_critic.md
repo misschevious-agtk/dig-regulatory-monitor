@@ -2,7 +2,7 @@
 title: Von der Leyen’s AI pick triggers conflict-of-interest criticism
 category: ai
 source: Politico Tech
-date: 9 June 2026
+date: 10 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
