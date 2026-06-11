@@ -1,10 +1,21 @@
 {
   "trending": [
     {
+      "title": "French telecoms deal tests ‘European champions’ playbook",
+      "body": "The €20 billion acquisition of SFR by Bouygues, Orange and Iliad will show how far antitrust authorities in Brussels and Paris are willing to allow heavyweight consolidation.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust",
+        "Fine"
+      ]
+    },
+    {
       "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
       "body": "Cameras in spectacles have lawmakers and regulators alarmed of surveillance risks.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
@@ -14,51 +25,53 @@
       "title": "European Parliament ditches Google for French search firm over privacy concerns",
       "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
         "EU"
+      ]
+    },
+    {
+      "title": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
+      "body": "The report’s findings are likely to further fuel claims made by Republicans and pro-AI voices that foreign entities have tried to meddle in the debate over AI data centers.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
       ]
     },
     {
       "title": "‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late",
       "body": "The U.S. has at most six to 12 months before Beijing can compete with this new wave of hyper-advanced AI models.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Von der Leyen’s AI pick triggers conflict-of-interest criticism",
-      "body": "Siemens chair will advise the Commission on industrial applications of artificial intelligence.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "OpenAI diverges from White House on AI safety rules",
-      "body": "The tech giant unveiled a regulatory framework for advanced AI that splits from new White House plans for voluntary vetting and an enhanced role for the intelligence community.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     }
   ],
-  "competition": [],
+  "competition": [
+    {
+      "title": "French telecoms deal tests ‘European champions’ playbook",
+      "body": "The €20 billion acquisition of SFR by Bouygues, Orange and Iliad will show how far antitrust authorities in Brussels and Paris are willing to allow heavyweight consolidation.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Antitrust",
+        "Fine"
+      ]
+    }
+  ],
   "privacy": [
     {
       "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
       "body": "Cameras in spectacles have lawmakers and regulators alarmed of surveillance risks.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
@@ -68,7 +81,7 @@
       "title": "European Parliament ditches Google for French search firm over privacy concerns",
       "body": "The switch lands as EU officials prepare a broader push to wean off US tech.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -76,13 +89,54 @@
       ]
     }
   ],
-  "ip": [],
+  "ip": [
+    {
+      "title": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
+      "body": "The report’s findings are likely to further fuel claims made by Republicans and pro-AI voices that foreign entities have tried to meddle in the debate over AI data centers.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
+      ]
+    }
+  ],
   "regulatory": [
     {
-      "title": "Europe’s next fighter jet problem has no easy answer",
-      "body": "FCAS was killed by industrial infighting, and now Berlin, Paris and Madrid must choose between national programs, U.S. aircraft and fragile new partnerships.",
+      "title": "Tanks, guns and rocket launchers: The ties that bind the EU and South Korea",
+      "body": "South Korea holds a key summit with the EU that will touch on trade, economics and defense.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "EU orders Meta to reopen WhatsApp to AI rivals for free",
+      "body": "It’s only the second time that the Commission has used this emergency power in two decades.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "‘Pure stupidity’: Belgian PM slams Franco-German fighter jet failure",
+      "body": "The Future Combat Air System, which also involves Spain, was meant to replace Germany’s Eurofighter and France’s Rafale jets by around 2040.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "DE"
+      ]
+    },
+    {
+      "title": "Lawmakers pile pressure on Commission over AI envoy appointment",
+      "body": "Forty lawmakers asked to see the “mandate, selection and conflict-of-interest assessment” behind Hagemann Snabe’s designation.",
+      "source": "Politico Tech",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -92,7 +146,7 @@
       "title": "Apple blames EU rules as it withholds new Siri AI from European devices",
       "body": "The decision to keep Siri AI out of the bloc “is Apple’s and Apple’s only,” responded Commission spokesperson Thomas Regnier.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -102,7 +156,7 @@
       "title": "The lawsuits that could give AI its ‘Big Tobacco’ moment",
       "body": "Litigation attacking chatbots as dangerous products are opening a new frontier in legal fights against tech.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -112,7 +166,7 @@
       "title": "Trump to meet with AI firms on profit-share plan as soon as next week",
       "body": "‘There’s so much money and it’s so big that there are concepts where pieces could be given to the American public,’ Trump said.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -122,7 +176,7 @@
       "title": "EU trade chief calls for new tool to diversify supply away from China",
       "body": "A new diversification instrument would compel companies to seek different suppliers in critical sectors, says Maroš Šefčovič.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -132,7 +186,7 @@
       "title": "Dear Microsoft, enough is enough",
       "body": "Our global coalition of innovative developers promotes genuine competition and users’ freedom of choice. It’s time for Microsoft to do the same.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -142,7 +196,7 @@
       "title": "Canada bids to lead middle powers in AI sovereignty race",
       "body": "The Liberal government is betting that Canada can carve a path away from U.S. technology.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -152,7 +206,7 @@
       "title": "EU’s tech independence push disappoints Brussels and irks the Americans",
       "body": "The European Commission swings at Big Tech — and annoys everyone.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -162,7 +216,7 @@
       "title": "EU lawmakers vote to shield peers from Huawei scandal probe",
       "body": "Lawmakers say that the Belgian prosecutor’s allegations are too weak, but critics point out behind-the-scenes politicking.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation",
@@ -173,7 +227,7 @@
       "title": "EU plots long game against US digital supremacy",
       "body": "The European Commission’s so-called tech sovereignty plan aims to boost domestic champions rather than shut out American competitors.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -183,7 +237,7 @@
       "title": "EU slams Trump’s forced labor tariff as ‘unjustified’",
       "body": "The proposed 10 percent tariff threatens a fragile transatlantic trade truce.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -193,7 +247,7 @@
       "title": "Trump’s AI order is a blow against laissez-faire",
       "body": "While the White House backed away from mandatory vetting for AI systems, pro-regulation voices are hailing the new executive order as proof that the momentum is on their side.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -203,47 +257,7 @@
       "title": "Trump signs downsized AI order",
       "body": "The executive order comes after President Donald Trump last month postponed a measure to address AI-driven cyber threats.",
       "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "How Trump supercharged the EU’s tech independence push",
-      "body": "The U.S. president’s weaponization of European dependence on U.S. firms has changed the conversation in Brussels.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Anthropic invites EU to access Mythos hacking tech",
-      "body": "European authorities for weeks were shut off from accessing the cutting-edge cybersecurity AI tech.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Future networks will not be built on yesterday’s rules",
-      "body": "Europe’s policy should match its ambition and reflect how much technology has evolved.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Brussels to Big Tech: Embrace sustainable AI or go away",
-      "body": "Energy-hungry data centers must support the EU’s shift to carbon-free power, says Energy Commissioner Dan Jørgensen.",
-      "source": "Politico Tech",
-      "date": "10 June 2026",
+      "date": "11 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"

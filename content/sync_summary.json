@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-06-10T10:09:51.753401Z",
+  "last_sync": "2026-06-11T10:43:25.632372Z",
   "changed_files": [
     "ai_4_ways_Europe_wants_to_wean_off_US_tech.md",
-    "ai_Anthropic_expands_access_to_cyber-capable_Mythos_model_beyon.md",
     "ai_EU_wants_households_to_cut_peak_time_energy_use_as_demand_fr.md",
     "ai_OpenAI_diverges_from_White_House_on_AI_safety_rules.md",
     "ai_Von_der_Leyen_s_AI_pick_triggers_conflict-of-interest_critic.md",
     "ai__It_s_a_hurricane_warning___Guardrails_around_powerful_AI_mo.md",
+    "competition_French_telecoms_deal_tests__European_champions__playbook.md",
+    "ip_OpenAI_says_China_launched_influence_campaign_to_shape_US_at.md",
     "privacy_European_Parliament_ditches_Google_for_French_search_firm_ov.md",
     "privacy_New_privacy_frontier__Europe_eyes_crackdown_on_smart_glasses.md",
-    "regulatory_Anthropic_invites_EU_to_access_Mythos_hacking_tech.md",
     "regulatory_Apple_blames_EU_rules_as_it_withholds_new_Siri_AI_from_Europ.md",
-    "regulatory_Brussels_to_Big_Tech__Embrace_sustainable_AI_or_go_away.md",
     "regulatory_Canada_bids_to_lead_middle_powers_in_AI_sovereignty_race.md",
     "regulatory_Dear_Microsoft__enough_is_enough.md",
     "regulatory_EU_lawmakers_vote_to_shield_peers_from_Huawei_scandal_probe.md",
+    "regulatory_EU_orders_Meta_to_reopen_WhatsApp_to_AI_rivals_for_free.md",
     "regulatory_EU_plots_long_game_against_US_digital_supremacy.md",
     "regulatory_EU_s_tech_independence_push_disappoints_Brussels_and_irks_th.md",
     "regulatory_EU_slams_Trump_s_forced_labor_tariff_as__unjustified_.md",
     "regulatory_EU_trade_chief_calls_for_new_tool_to_diversify_supply_away_f.md",
-    "regulatory_Europe_s_next_fighter_jet_problem_has_no_easy_answer.md",
-    "regulatory_Future_networks_will_not_be_built_on_yesterday_s_rules.md",
-    "regulatory_How_Trump_supercharged_the_EU_s_tech_independence_push.md",
+    "regulatory_Lawmakers_pile_pressure_on_Commission_over_AI_envoy_appointm.md",
+    "regulatory_Tanks__guns_and_rocket_launchers__The_ties_that_bind_the_EU_.md",
     "regulatory_The_lawsuits_that_could_give_AI_its__Big_Tobacco__moment.md",
     "regulatory_Trump_s_AI_order_is_a_blow_against_laissez-faire.md",
     "regulatory_Trump_signs_downsized_AI_order.md",
-    "regulatory_Trump_to_meet_with_AI_firms_on_profit-share_plan_as_soon_as_.md"
+    "regulatory_Trump_to_meet_with_AI_firms_on_profit-share_plan_as_soon_as_.md",
+    "regulatory__Pure_stupidity___Belgian_PM_slams_Franco-German_fighter_jet.md"
   ],
   "total_changed": 25,
-  "total_articles": 19,
+  "total_articles": 20,
   "by_category": {
-    "competition": 0,
+    "competition": 1,
     "privacy": 2,
-    "ip": 0,
-    "regulatory": 17
+    "ip": 1,
+    "regulatory": 16
   }
 }
