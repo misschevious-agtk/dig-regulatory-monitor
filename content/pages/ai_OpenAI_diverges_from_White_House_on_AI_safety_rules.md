@@ -2,7 +2,7 @@
 title: OpenAI diverges from White House on AI safety rules
 category: ai
 source: Politico Tech
-date: 12 June 2026
+date: 13 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

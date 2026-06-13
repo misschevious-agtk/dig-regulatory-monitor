@@ -1,12 +1,12 @@
 {
-  "last_sync": "2026-06-12T10:19:57.629680Z",
+  "last_sync": "2026-06-13T09:22:10.813865Z",
   "changed_files": [
-    "ai_4_ways_Europe_wants_to_wean_off_US_tech.md",
     "ai_EU_wants_households_to_cut_peak_time_energy_use_as_demand_fr.md",
     "ai_OpenAI_diverges_from_White_House_on_AI_safety_rules.md",
     "ai_Von_der_Leyen_s_AI_pick_triggers_conflict-of-interest_critic.md",
     "ai__It_s_a_hurricane_warning___Guardrails_around_powerful_AI_mo.md",
     "competition_French_telecoms_deal_tests__European_champions__playbook.md",
+    "ip_How_Germany_turned_a_fighter_jet_failure_into_an_opportunity.md",
     "privacy_New_privacy_frontier__Europe_eyes_crackdown_on_smart_glasses.md",
     "regulatory_AI_upskilling_can_transform_Spain_s_economy.md",
     "regulatory_Anthropic_releases_a_less-powerful_version_of_its_most_advan.md",
@@ -28,11 +28,11 @@
     "regulatory__Pure_stupidity___Belgian_PM_slams_Franco-German_fighter_jet.md"
   ],
   "total_changed": 25,
-  "total_articles": 20,
+  "total_articles": 21,
   "by_category": {
     "competition": 1,
     "privacy": 1,
-    "ip": 0,
+    "ip": 1,
     "regulatory": 18
   }
 }
