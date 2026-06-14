@@ -2,7 +2,7 @@
 title: EU trade chief calls for new tool to diversify supply away from China
 category: regulatory
 source: Politico Tech
-date: 13 June 2026
+date: 14 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

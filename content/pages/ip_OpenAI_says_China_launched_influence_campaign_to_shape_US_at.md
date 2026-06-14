@@ -2,7 +2,7 @@
 title: OpenAI says China launched influence campaign to shape US attitudes on AI data centers
 category: ip
 source: Politico Tech
-date: 11 June 2026
+date: 14 June 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
