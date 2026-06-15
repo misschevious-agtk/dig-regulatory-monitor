@@ -2,7 +2,7 @@
 title: ‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late
 category: ai
 source: Politico Tech
-date: 14 June 2026
+date: 15 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

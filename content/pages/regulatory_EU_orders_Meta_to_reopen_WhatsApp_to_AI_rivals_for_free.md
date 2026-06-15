@@ -2,7 +2,7 @@
 title: EU orders Meta to reopen WhatsApp to AI rivals for free
 category: regulatory
 source: Politico Tech
-date: 14 June 2026
+date: 15 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
