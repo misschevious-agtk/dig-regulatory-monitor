@@ -2,7 +2,7 @@
 title: Lawmakers pile pressure on Commission over AI envoy appointment
 category: regulatory
 source: Politico Tech
-date: 15 June 2026
+date: 16 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

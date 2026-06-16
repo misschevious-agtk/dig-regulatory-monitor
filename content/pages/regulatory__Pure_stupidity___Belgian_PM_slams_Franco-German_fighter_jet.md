@@ -2,7 +2,7 @@
 title: ‘Pure stupidity’: Belgian PM slams Franco-German fighter jet failure
 category: regulatory
 source: Politico Tech
-date: 15 June 2026
+date: 16 June 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---

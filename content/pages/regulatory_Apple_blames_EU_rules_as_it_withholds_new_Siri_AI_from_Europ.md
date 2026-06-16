@@ -2,7 +2,7 @@
 title: Apple blames EU rules as it withholds new Siri AI from European devices
 category: regulatory
 source: Politico Tech
-date: 15 June 2026
+date: 16 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

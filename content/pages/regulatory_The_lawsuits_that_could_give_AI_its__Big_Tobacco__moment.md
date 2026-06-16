@@ -2,7 +2,7 @@
 title: The lawsuits that could give AI its ‘Big Tobacco’ moment
 category: regulatory
 source: Politico Tech
-date: 15 June 2026
+date: 16 June 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

@@ -2,7 +2,7 @@
 title: French telecoms deal tests ‘European champions’ playbook
 category: competition
 source: Politico Tech
-date: 15 June 2026
+date: 16 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Antitrust, Fine
 ---
