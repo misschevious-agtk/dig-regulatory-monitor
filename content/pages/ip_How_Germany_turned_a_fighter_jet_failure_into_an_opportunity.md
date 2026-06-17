@@ -2,7 +2,7 @@
 title: How Germany turned a fighter jet failure into an opportunity
 category: ip
 source: Politico Tech
-date: 16 June 2026
+date: 17 June 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---

@@ -2,7 +2,7 @@
 title: Europe’s next fighter jet problem has no easy answer
 category: regulatory
 source: Politico Tech
-date: 16 June 2026
+date: 17 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

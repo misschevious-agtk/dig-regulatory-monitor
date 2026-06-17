@@ -2,7 +2,7 @@
 title: Advanced AI models can ‘destroy the financial system,’ IMF boss warns
 category: ai
 source: Politico Tech
-date: 16 June 2026
+date: 17 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
