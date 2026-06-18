@@ -2,7 +2,7 @@
 title: Meta shrugs off Trump’s idea for government ownership of AI
 category: regulatory
 source: Politico Tech
-date: 17 June 2026
+date: 18 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

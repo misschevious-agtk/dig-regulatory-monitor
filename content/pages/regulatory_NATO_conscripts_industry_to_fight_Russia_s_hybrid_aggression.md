@@ -2,7 +2,7 @@
 title: NATO conscripts industry to fight Russia’s hybrid aggression
 category: regulatory
 source: Politico Tech
-date: 17 June 2026
+date: 18 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Anthropic backs mandatory testing for frontier AI models
 category: ai
 source: Politico Tech
-date: 17 June 2026
+date: 18 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

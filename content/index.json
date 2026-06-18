@@ -4,28 +4,17 @@
       "title": "Competition tribe decamps from Washington to Brussels",
       "body": "A three-day festival aims to shift the global antitrust debate to this side of the Atlantic after Donald Trump boycotted the community’s main event in Washington.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust"
       ]
     },
     {
-      "title": "French telecoms deal tests ‘European champions’ playbook",
-      "body": "The €20 billion acquisition of SFR by Bouygues, Orange and Iliad will show how far antitrust authorities in Brussels and Paris are willing to allow heavyweight consolidation.",
-      "source": "Politico Tech",
-      "date": "17 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Antitrust",
-        "Fine"
-      ]
-    },
-    {
       "title": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
       "body": "A series of tense calls between Anthropic’s CEO and administration officials on Friday underscore how the White House is wrestling with advanced AI models.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "NL"
@@ -35,7 +24,7 @@
       "title": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
       "body": "The report’s findings are likely to further fuel claims made by Republicans and pro-AI voices that foreign entities have tried to meddle in the debate over AI data centers.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -45,10 +34,20 @@
       "title": "How Germany turned a fighter jet failure into an opportunity",
       "body": "After the collapse of its fighter jet project with France, Berlin is turning fiscal firepower into a claim for aerospace leadership.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
+      ]
+    },
+    {
+      "title": "West plays nice on AI in bid to shut out China",
+      "body": "Washington’s aggressive action over AI models fails to derail talks at the G7.",
+      "source": "Politico Tech",
+      "date": "18 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "CN"
       ]
     }
   ],
@@ -57,21 +56,10 @@
       "title": "Competition tribe decamps from Washington to Brussels",
       "body": "A three-day festival aims to shift the global antitrust debate to this side of the Atlantic after Donald Trump boycotted the community’s main event in Washington.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust"
-      ]
-    },
-    {
-      "title": "French telecoms deal tests ‘European champions’ playbook",
-      "body": "The €20 billion acquisition of SFR by Bouygues, Orange and Iliad will show how far antitrust authorities in Brussels and Paris are willing to allow heavyweight consolidation.",
-      "source": "Politico Tech",
-      "date": "17 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Antitrust",
-        "Fine"
       ]
     }
   ],
@@ -80,7 +68,7 @@
       "title": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
       "body": "A series of tense calls between Anthropic’s CEO and administration officials on Friday underscore how the White House is wrestling with advanced AI models.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "NL"
@@ -92,7 +80,7 @@
       "title": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
       "body": "The report’s findings are likely to further fuel claims made by Republicans and pro-AI voices that foreign entities have tried to meddle in the debate over AI data centers.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -102,7 +90,7 @@
       "title": "How Germany turned a fighter jet failure into an opportunity",
       "body": "After the collapse of its fighter jet project with France, Berlin is turning fiscal firepower into a claim for aerospace leadership.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -111,20 +99,51 @@
   ],
   "regulatory": [
     {
-      "title": "What €40 billion means for Europe — and what happens next",
-      "body": "With over a million jobs supported and over 100,000 small businesses selling across borders already, we’re playing our part in driving retail in the EU",
+      "title": "EU leaders to converge on harder line toward China",
+      "body": "Brussels wants to get tougher on Beijing, but neither side is ready for a full-blown confrontation.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Fine"
+        "EU"
+      ]
+    },
+    {
+      "title": "Le choc Anthropic secoue le G7",
+      "body": "D’un côté, les dirigeants des pays du G7. De l’autre, les patrons des entreprises d’intelligence artificielle parmi les plus importantes. Le déjeuner prévu mercredi à Evian suscite …",
+      "source": "Politico Tech",
+      "date": "18 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
+      ]
+    },
+    {
+      "title": "EU Parliament lifts immunity of senior Italian lawmaker over Huawei scandal probe",
+      "body": "Belgian authorities are investigating allegations of bribery involving the Chinese tech firm.",
+      "source": "Politico Tech",
+      "date": "18 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Under Investigation",
+        "EU"
+      ]
+    },
+    {
+      "title": "EU Parliament passes transatlantic trade deal",
+      "body": "MEPs finally back the U.S. accord after holding out for months following Donald Trump’s threats against Greenland and Spain.",
+      "source": "Politico Tech",
+      "date": "18 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
       ]
     },
     {
       "title": "French spy service drops Palantir",
       "body": "Europe is seeking to wean off U.S. tech for sensitive services.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -134,7 +153,7 @@
       "title": "Trump promised to bring order to AI oversight. That lasted 2 weeks.",
       "body": "New restrictions on Anthropic are causing industry advocates to worry the White House’s plan for a laissez-faire approach to the technology is crumbling.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -144,7 +163,7 @@
       "title": "Britain bans social media for under-16s: Who are the winners and losers?",
       "body": "For all the warm reception Keir Starmer’s carefully choreographed announcement garnered, some people are happier than others.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -154,7 +173,7 @@
       "title": "UK confirms social media ban for under-16s",
       "body": "British Prime Minister Keir Starmer said he is not “prepared to compromise on the safety and happiness of our children.”",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -164,7 +183,7 @@
       "title": "How to watch the G7 summit like a pro",
       "body": "What will the leaders agree on? Will Trump stay? Everything you need to know on Macron’s lakeside G7 get-together.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -174,7 +193,7 @@
       "title": "AI upskilling can transform Spain’s economy",
       "body": "Forty years ago, on June 12, Spain formally anchored its future to the European Union. As the tremors of the 1979 energy crisis subsided and our new …",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -184,7 +203,7 @@
       "title": "We want bigger cuts to EU budget than planned, richer countries say",
       "body": "Germany and its allies complain that the 2 percent decrease put forward by Cyprus is too small.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -194,7 +213,7 @@
       "title": "UK set to ban under-16s from social media, livestreaming, disappearing messages",
       "body": "Embattled Prime Minister Keir Starmer is looking for a clear policy win as he fights to stay in office.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -204,7 +223,7 @@
       "title": "NATO conscripts industry to fight Russia’s hybrid aggression",
       "body": "Defense alliance is setting up partnerships with private companies to better feed militaries’ monitoring of hybrid threats.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -214,7 +233,7 @@
       "title": "Meta shrugs off Trump’s idea for government ownership of AI",
       "body": "The Meta executive said the notion that the U.S. government should receive a financial stake in top AI companies is “not something we’ve spent a ton of time on.”",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -224,7 +243,7 @@
       "title": "EU turns to Brazil, South Korea to counter US tech dominance",
       "body": "The bloc wants to deepen tech ties with countries such as Brazil and South Korea.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -234,40 +253,10 @@
       "title": "Europe’s next fighter jet problem has no easy answer",
       "body": "FCAS was killed by industrial infighting, and now Berlin, Paris and Madrid must choose between national programs, U.S. aircraft and fragile new partnerships.",
       "source": "Politico Tech",
-      "date": "17 June 2026",
+      "date": "18 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "Anthropic releases a less-powerful version of its most advanced model",
-      "body": "“Releasing a model this capable comes with risks,” Anthropic said in its announcement.",
-      "source": "Politico Tech",
-      "date": "17 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Tanks, guns and rocket launchers: The ties that bind the EU and South Korea",
-      "body": "South Korea holds a key summit with the EU that will touch on trade, economics and defense.",
-      "source": "Politico Tech",
-      "date": "17 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "EU orders Meta to reopen WhatsApp to AI rivals for free",
-      "body": "It’s only the second time that the Commission has used this emergency power in two decades.",
-      "source": "Politico Tech",
-      "date": "17 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ]

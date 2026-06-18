@@ -2,7 +2,7 @@
 title: Anthropic suspends access to latest AI models following US order
 category: ai
 source: Politico Tech
-date: 17 June 2026
+date: 18 June 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
