@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-06-18T10:26:19.691969Z",
+  "last_sync": "2026-06-19T10:43:32.139500Z",
   "changed_files": [
     "ai_Advanced_AI_models_can__destroy_the_financial_system___IMF_b.md",
-    "ai_Anthropic_backs_mandatory_testing_for_frontier_AI_models.md",
     "ai_Anthropic_suspends_access_to_latest_AI_models_following_US_o.md",
     "ai_US_s_Anthropic_order_exposes_EU_s_AI_dependency.md",
-    "ai_West_plays_nice_on_AI_in_bid_to_shut_out_China.md",
     "competition_Competition_tribe_decamps_from_Washington_to_Brussels.md",
-    "ip_How_Germany_turned_a_fighter_jet_failure_into_an_opportunity.md",
     "ip_OpenAI_says_China_launched_influence_campaign_to_shape_US_at.md",
     "privacy_Inside_the_whirlwind_24_hours_that_led_the_White_House_to_sl.md",
     "regulatory_AI_upskilling_can_transform_Spain_s_economy.md",
     "regulatory_Britain_bans_social_media_for_under-16s__Who_are_the_winners.md",
+    "regulatory_Brussels_blames_national_capitals_and_MEPs_for_stalling_dere.md",
     "regulatory_EU_Parliament_lifts_immunity_of_senior_Italian_lawmaker_over.md",
     "regulatory_EU_Parliament_passes_transatlantic_trade_deal.md",
     "regulatory_EU_leaders_to_converge_on_harder_line_toward_China.md",
-    "regulatory_EU_turns_to_Brazil__South_Korea_to_counter_US_tech_dominance.md",
-    "regulatory_Europe_s_next_fighter_jet_problem_has_no_easy_answer.md",
+    "regulatory_Europe_must_choose_between_AI_and_climate_goals__data_center.md",
+    "regulatory_Europe_wary_of_stoking_Anthropic_row_at_G7.md",
     "regulatory_French_spy_service_drops_Palantir.md",
     "regulatory_How_to_watch_the_G7_summit_like_a_pro.md",
     "regulatory_Le_choc_Anthropic_secoue_le_G7.md",
-    "regulatory_Meta_shrugs_off_Trump_s_idea_for_government_ownership_of_AI.md",
     "regulatory_NATO_conscripts_industry_to_fight_Russia_s_hybrid_aggression.md",
     "regulatory_Trump_promised_to_bring_order_to_AI_oversight__That_lasted_2.md",
     "regulatory_UK_confirms_social_media_ban_for_under-16s.md",
+    "regulatory_UK_denies_seeking_carve-out_to_Anthropic_AI_restrictions.md",
+    "regulatory_UK_s_top_data_regulator_resigns__citing__poor_judgement_.md",
     "regulatory_UK_set_to_ban_under-16s_from_social_media__livestreaming__di.md",
-    "regulatory_We_want_bigger_cuts_to_EU_budget_than_planned__richer_countr.md"
+    "regulatory_We_want_bigger_cuts_to_EU_budget_than_planned__richer_countr.md",
+    "regulatory_What__40_billion_means_for_Europe___and_what_happens_next.md"
   ],
   "total_changed": 25,
-  "total_articles": 20,
+  "total_articles": 22,
   "by_category": {
     "competition": 1,
     "privacy": 1,
-    "ip": 2,
-    "regulatory": 16
+    "ip": 1,
+    "regulatory": 19
   }
 }

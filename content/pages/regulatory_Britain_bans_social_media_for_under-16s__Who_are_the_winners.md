@@ -2,7 +2,7 @@
 title: Britain bans social media for under-16s: Who are the winners and losers?
 category: regulatory
 source: Politico Tech
-date: 18 June 2026
+date: 19 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
