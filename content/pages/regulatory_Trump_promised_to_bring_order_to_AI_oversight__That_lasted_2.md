@@ -2,7 +2,7 @@
 title: Trump promised to bring order to AI oversight. That lasted 2 weeks.
 category: regulatory
 source: Politico Tech
-date: 20 June 2026
+date: 21 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

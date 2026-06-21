@@ -2,7 +2,7 @@
 title: We want bigger cuts to EU budget than planned, richer countries say
 category: regulatory
 source: Politico Tech
-date: 20 June 2026
+date: 21 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
