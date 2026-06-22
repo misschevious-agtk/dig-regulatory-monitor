@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-06-21T09:55:12.004538Z",
+  "last_sync": "2026-06-22T12:11:32.988455Z",
   "changed_files": [
     "ai_Advanced_AI_models_can__destroy_the_financial_system___IMF_b.md",
     "ai_Anthropic_suspends_access_to_latest_AI_models_following_US_o.md",
@@ -8,7 +8,6 @@
     "competition_Competition_tribe_decamps_from_Washington_to_Brussels.md",
     "privacy_Inside_the_whirlwind_24_hours_that_led_the_White_House_to_sl.md",
     "regulatory_AI_upskilling_can_transform_Spain_s_economy.md",
-    "regulatory_Aviation_officials_in_US_turn_to_AI_for_combating_runway_iss.md",
     "regulatory_Britain_bans_social_media_for_under-16s__Who_are_the_winners.md",
     "regulatory_Brussels_blames_national_capitals_and_MEPs_for_stalling_dere.md",
     "regulatory_Bulgaria_approved_surveillance_exports_to_foreign_spy_agenci.md",
@@ -19,20 +18,20 @@
     "regulatory_Europe_wary_of_stoking_Anthropic_row_at_G7.md",
     "regulatory_French_spy_service_drops_Palantir.md",
     "regulatory_How_to_watch_the_G7_summit_like_a_pro.md",
+    "regulatory_Ireland_s_Big_Tech_presidency_dilemma__Shaping_the_rules_for.md",
     "regulatory_Le_choc_Anthropic_secoue_le_G7.md",
     "regulatory_Meloni_says_Italian_government_won_t_push_for_social_media_b.md",
     "regulatory_Trump_promised_to_bring_order_to_AI_oversight__That_lasted_2.md",
     "regulatory_UK_confirms_social_media_ban_for_under-16s.md",
     "regulatory_UK_denies_seeking_carve-out_to_Anthropic_AI_restrictions.md",
-    "regulatory_We_want_bigger_cuts_to_EU_budget_than_planned__richer_countr.md",
     "regulatory_What__40_billion_means_for_Europe___and_what_happens_next.md"
   ],
-  "total_changed": 25,
-  "total_articles": 21,
+  "total_changed": 24,
+  "total_articles": 20,
   "by_category": {
     "competition": 1,
     "privacy": 1,
     "ip": 0,
-    "regulatory": 19
+    "regulatory": 18
   }
 }

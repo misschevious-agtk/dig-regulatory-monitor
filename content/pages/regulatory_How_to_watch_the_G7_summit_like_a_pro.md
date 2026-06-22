@@ -2,7 +2,7 @@
 title: How to watch the G7 summit like a pro
 category: regulatory
 source: Politico Tech
-date: 21 June 2026
+date: 22 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
