@@ -2,7 +2,7 @@
 title: US’s Anthropic order exposes EU’s AI dependency
 category: ai
 source: Politico Tech
-date: 22 June 2026
+date: 23 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

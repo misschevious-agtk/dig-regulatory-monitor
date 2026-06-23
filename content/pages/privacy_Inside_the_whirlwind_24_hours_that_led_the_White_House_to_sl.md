@@ -2,7 +2,7 @@
 title: Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic
 category: privacy
 source: Politico Tech
-date: 22 June 2026
+date: 23 June 2026
 url: https://www.politico.eu/section/technology/
 tags: NL
 ---
