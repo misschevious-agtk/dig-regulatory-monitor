@@ -1,15 +1,14 @@
 {
-  "last_sync": "2026-06-23T09:49:30.946644Z",
+  "last_sync": "2026-06-24T09:37:33.505752Z",
   "changed_files": [
     "ai_Anthropic_suspends_access_to_latest_AI_models_following_US_o.md",
     "ai_US_s_Anthropic_order_exposes_EU_s_AI_dependency.md",
     "ai_West_plays_nice_on_AI_in_bid_to_shut_out_China.md",
     "competition_Competition_tribe_decamps_from_Washington_to_Brussels.md",
-    "privacy_Inside_the_whirlwind_24_hours_that_led_the_White_House_to_sl.md",
+    "competition_Von_der_Leyen_plans_Armenia_visit_to_show_support_for_pro-EU.md",
     "regulatory_Britain_bans_social_media_for_under-16s__Who_are_the_winners.md",
     "regulatory_Brussels_blames_national_capitals_and_MEPs_for_stalling_dere.md",
     "regulatory_Bulgaria_approved_surveillance_exports_to_foreign_spy_agenci.md",
-    "regulatory_Cities_must_set_the_terms_for_the_AI_infrastructure_boom.md",
     "regulatory_EU_Parliament_lifts_immunity_of_senior_Italian_lawmaker_over.md",
     "regulatory_EU_Parliament_passes_transatlantic_trade_deal.md",
     "regulatory_EU_leaders_to_converge_on_harder_line_toward_China.md",
@@ -24,13 +23,14 @@
     "regulatory_Trump_promised_to_bring_order_to_AI_oversight__That_lasted_2.md",
     "regulatory_UK_confirms_social_media_ban_for_under-16s.md",
     "regulatory_UK_denies_seeking_carve-out_to_Anthropic_AI_restrictions.md",
+    "regulatory_UK_s_top_data_regulator_resigns__citing__poor_judgement_.md",
     "regulatory_What__40_billion_means_for_Europe___and_what_happens_next.md"
   ],
   "total_changed": 24,
   "total_articles": 21,
   "by_category": {
-    "competition": 1,
-    "privacy": 1,
+    "competition": 2,
+    "privacy": 0,
     "ip": 0,
     "regulatory": 19
   }

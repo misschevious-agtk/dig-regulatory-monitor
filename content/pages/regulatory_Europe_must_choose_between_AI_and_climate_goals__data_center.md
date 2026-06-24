@@ -2,7 +2,7 @@
 title: Europe must choose between AI and climate goals, data center lobby says
 category: regulatory
 source: Politico Tech
-date: 23 June 2026
+date: 24 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
