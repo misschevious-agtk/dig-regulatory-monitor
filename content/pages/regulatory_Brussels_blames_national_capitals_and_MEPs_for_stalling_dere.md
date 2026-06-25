@@ -2,7 +2,7 @@
 title: Brussels blames national capitals and MEPs for stalling deregulation drive
 category: regulatory
 source: Politico Tech
-date: 24 June 2026
+date: 25 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

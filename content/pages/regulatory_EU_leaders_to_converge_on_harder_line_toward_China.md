@@ -2,7 +2,7 @@
 title: EU leaders to converge on harder line toward China
 category: regulatory
 source: Politico Tech
-date: 24 June 2026
+date: 25 June 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
