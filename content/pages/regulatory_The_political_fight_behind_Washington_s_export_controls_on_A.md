@@ -2,7 +2,7 @@
 title: The political fight behind Washington’s export controls on Anthropic
 category: regulatory
 source: Politico Tech
-date: 26 June 2026
+date: 27 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
