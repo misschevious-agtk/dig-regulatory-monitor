@@ -2,7 +2,7 @@
 title: UK denies seeking carve-out to Anthropic AI restrictions
 category: regulatory
 source: Politico Tech
-date: 27 June 2026
+date: 28 June 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

@@ -4,7 +4,7 @@
       "title": "Von der Leyen plans Armenia visit to show support for pro-EU government",
       "body": "Commission chief’s trip underscores Brussels’ backing for Armenia’s Western turn after a landmark election that dealt a blow to Russian influence in the region.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -12,10 +12,20 @@
       ]
     },
     {
+      "title": "Tech industry grapples with Trump’s AI about-faces",
+      "body": "Silicon Valley billionaires backed Trump due to fears that Democrats would overregulate AI. Now the White House is restricting the release of new AI models — and tech lobbyists are cautiously searching for answers.",
+      "source": "Politico Tech",
+      "date": "28 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "President vs Parliament: Metsola overrides MEPs in bid to force through child abuse law",
       "body": "The European Parliament president’s power play is “without precedent,” diplomats wrote in a note seen by POLITICO.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -25,7 +35,7 @@
       "title": "Germany tells Trump: Without us, space exploration ‘cannot be done’",
       "body": "U.S. ambitions in space still rely on European know-how, German minister tells POLITICO.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -35,20 +45,10 @@
       "title": "West plays nice on AI in bid to shut out China",
       "body": "Washington’s aggressive action over AI models fails to derail talks at the G7.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
-      ]
-    },
-    {
-      "title": "White House partially lifts Anthropic’s AI export ban",
-      "body": "The release clears the way for a select group of companies and agencies to gain access to the company’s Mythos 5 model. But a second advanced Anthropic model remains blocked.",
-      "source": "Politico Tech",
-      "date": "27 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
       ]
     }
   ],
@@ -57,7 +57,7 @@
       "title": "Von der Leyen plans Armenia visit to show support for pro-EU government",
       "body": "Commission chief’s trip underscores Brussels’ backing for Armenia’s Western turn after a landmark election that dealt a blow to Russian influence in the region.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -67,10 +67,20 @@
   ],
   "privacy": [
     {
+      "title": "Tech industry grapples with Trump’s AI about-faces",
+      "body": "Silicon Valley billionaires backed Trump due to fears that Democrats would overregulate AI. Now the White House is restricting the release of new AI models — and tech lobbyists are cautiously searching for answers.",
+      "source": "Politico Tech",
+      "date": "28 June 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "President vs Parliament: Metsola overrides MEPs in bid to force through child abuse law",
       "body": "The European Parliament president’s power play is “without precedent,” diplomats wrote in a note seen by POLITICO.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -80,7 +90,7 @@
       "title": "Germany tells Trump: Without us, space exploration ‘cannot be done’",
       "body": "U.S. ambitions in space still rely on European know-how, German minister tells POLITICO.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -90,20 +100,20 @@
   "ip": [],
   "regulatory": [
     {
-      "title": "White House partially lifts Anthropic’s AI export ban",
-      "body": "The release clears the way for a select group of companies and agencies to gain access to the company’s Mythos 5 model. But a second advanced Anthropic model remains blocked.",
+      "title": "Paramount to amend $111B Warner Bros. deal to win EU green light",
+      "body": "The companies were told they should win clearance if they cut ties with Universal Pictures on movie distribution in several EU countries.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Regulatory"
+        "EU"
       ]
     },
     {
       "title": "Cities must set the terms for the AI infrastructure boom",
       "body": "The AI and data centers boom cannot be allowed to become a race to the bottom.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -113,7 +123,7 @@
       "title": "European tech CEOs want direct line to craft EU policy",
       "body": "CEOs of Airbus, ASML, Ericsson and others have von der Leyen’s attention to push for deregulation, consolidation.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -123,7 +133,7 @@
       "title": "Ireland’s Big Tech presidency dilemma: Shaping the rules for companies it hosts",
       "body": "Tech regulation will form a large part of Dublin’s presidency of the Council of the EU, which starts July 1.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -133,7 +143,7 @@
       "title": "Aviation officials in US turn to AI for combating runway issues",
       "body": "The aviation agency has partnered with tech company Palantir. “The long-term goal is to get to predictive,” said one official.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -143,7 +153,7 @@
       "title": "The political fight behind Washington’s export controls on Anthropic",
       "body": "In an administration that rewards political deference, Anthropic’s CEO has repeatedly clashed with the White House.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -153,7 +163,7 @@
       "title": "UK’s top data regulator resigns, citing ‘poor judgement’",
       "body": "John Edwards had been subject to an independent workplace probe that found there was “a case to answer.”",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation"
@@ -163,7 +173,7 @@
       "title": "Les candidats draguent le monde de la Tech",
       "body": "Playbook Paris se délocalise au salon Vivatech, à Paris, où jamais autant de candidats à la présidentielle n’ont choisi de se rendre alors que le sujet de …",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +183,7 @@
       "title": "The EU’s secret weapon for enlargement: AI",
       "body": "The tool used is the European Commission’s own creation: GPT@EC.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -183,7 +193,7 @@
       "title": "Bulgaria approved surveillance exports to foreign spy agencies, leaked licenses show",
       "body": "The licenses offer the clearest picture yet of the international reach of Circles BG, a sister company of Israeli-based NSO Group.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -193,7 +203,7 @@
       "title": "Meloni says Italian government won’t push for social media ban on kids",
       "body": "Prime minister says ban can be ’easily circumvented.’",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -203,7 +213,7 @@
       "title": "UK denies seeking carve-out to Anthropic AI restrictions",
       "body": "The U.K. says it has not requested a carve-out from U.S. AI export controls, opting for engagement while concerns over digital sovereignty grow across Europe.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -213,7 +223,7 @@
       "title": "Brussels blames national capitals and MEPs for stalling deregulation drive",
       "body": "The European Commission says member countries and lawmakers are slowing down its mission to cut red tape.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -223,7 +233,7 @@
       "title": "Europe must choose between AI and climate goals, data center lobby says",
       "body": "Tech sector says only carbon-emitting gas plants are reliable enough today to power the EU’s AI goals.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -233,7 +243,7 @@
       "title": "What €40 billion means for Europe — and what happens next",
       "body": "With over a million jobs supported and over 100,000 small businesses selling across borders already, we’re playing our part in driving retail in the EU",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine"
@@ -243,7 +253,7 @@
       "title": "Europe wary of stoking Anthropic row at G7",
       "body": "EU leaders are set to meet with the world’s top AI CEOs in the wake of the bust up over access to models with elite cyber capabilities.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -253,7 +263,7 @@
       "title": "EU leaders to converge on harder line toward China",
       "body": "Brussels wants to get tougher on Beijing, but neither side is ready for a full-blown confrontation.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -263,7 +273,7 @@
       "title": "Le choc Anthropic secoue le G7",
       "body": "D’un côté, les dirigeants des pays du G7. De l’autre, les patrons des entreprises d’intelligence artificielle parmi les plus importantes. Le déjeuner prévu mercredi à Evian suscite …",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -273,20 +283,10 @@
       "title": "EU Parliament lifts immunity of senior Italian lawmaker over Huawei scandal probe",
       "body": "Belgian authorities are investigating allegations of bribery involving the Chinese tech firm.",
       "source": "Politico Tech",
-      "date": "27 June 2026",
+      "date": "28 June 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation",
-        "EU"
-      ]
-    },
-    {
-      "title": "EU Parliament passes transatlantic trade deal",
-      "body": "MEPs finally back the U.S. accord after holding out for months following Donald Trump’s threats against Greenland and Spain.",
-      "source": "Politico Tech",
-      "date": "27 June 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
         "EU"
       ]
     }

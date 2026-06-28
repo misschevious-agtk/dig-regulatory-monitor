@@ -1,16 +1,16 @@
 {
-  "last_sync": "2026-06-27T08:41:03.777189Z",
+  "last_sync": "2026-06-28T09:16:06.543776Z",
   "changed_files": [
     "ai_West_plays_nice_on_AI_in_bid_to_shut_out_China.md",
     "competition_Von_der_Leyen_plans_Armenia_visit_to_show_support_for_pro-EU.md",
     "privacy_Germany_tells_Trump__Without_us__space_exploration__cannot_b.md",
     "privacy_President_vs_Parliament__Metsola_overrides_MEPs_in_bid_to_fo.md",
+    "privacy_Tech_industry_grapples_with_Trump_s_AI_about-faces.md",
     "regulatory_Aviation_officials_in_US_turn_to_AI_for_combating_runway_iss.md",
     "regulatory_Brussels_blames_national_capitals_and_MEPs_for_stalling_dere.md",
     "regulatory_Bulgaria_approved_surveillance_exports_to_foreign_spy_agenci.md",
     "regulatory_Cities_must_set_the_terms_for_the_AI_infrastructure_boom.md",
     "regulatory_EU_Parliament_lifts_immunity_of_senior_Italian_lawmaker_over.md",
-    "regulatory_EU_Parliament_passes_transatlantic_trade_deal.md",
     "regulatory_EU_leaders_to_converge_on_harder_line_toward_China.md",
     "regulatory_Europe_must_choose_between_AI_and_climate_goals__data_center.md",
     "regulatory_Europe_wary_of_stoking_Anthropic_row_at_G7.md",
@@ -19,19 +19,19 @@
     "regulatory_Le_choc_Anthropic_secoue_le_G7.md",
     "regulatory_Les_candidats_draguent_le_monde_de_la_Tech.md",
     "regulatory_Meloni_says_Italian_government_won_t_push_for_social_media_b.md",
+    "regulatory_Paramount_to_amend__111B_Warner_Bros__deal_to_win_EU_green_l.md",
     "regulatory_The_EU_s_secret_weapon_for_enlargement__AI.md",
     "regulatory_The_political_fight_behind_Washington_s_export_controls_on_A.md",
     "regulatory_UK_denies_seeking_carve-out_to_Anthropic_AI_restrictions.md",
     "regulatory_UK_s_top_data_regulator_resigns__citing__poor_judgement_.md",
-    "regulatory_What__40_billion_means_for_Europe___and_what_happens_next.md",
-    "regulatory_White_House_partially_lifts_Anthropic_s_AI_export_ban.md"
+    "regulatory_What__40_billion_means_for_Europe___and_what_happens_next.md"
   ],
   "total_changed": 24,
   "total_articles": 23,
   "by_category": {
     "competition": 1,
-    "privacy": 2,
+    "privacy": 3,
     "ip": 0,
-    "regulatory": 20
+    "regulatory": 19
   }
 }
