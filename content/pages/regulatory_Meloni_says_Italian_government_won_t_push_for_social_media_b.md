@@ -2,7 +2,7 @@
 title: Meloni says Italian government won’t push for social media ban on kids
 category: regulatory
 source: Politico Tech
-date: 28 June 2026
+date: 29 June 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
