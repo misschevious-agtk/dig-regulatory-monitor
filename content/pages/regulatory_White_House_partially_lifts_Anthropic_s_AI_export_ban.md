@@ -2,7 +2,7 @@
 title: White House partially lifts Anthropic’s AI export ban
 category: regulatory
 source: Politico Tech
-date: 27 June 2026
+date: 1 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
