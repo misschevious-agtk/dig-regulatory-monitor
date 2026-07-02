@@ -2,7 +2,7 @@
 title: Les candidats draguent le monde de la Tech
 category: regulatory
 source: Politico Tech
-date: 1 July 2026
+date: 2 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Paramount to amend $111B Warner Bros. deal to win EU green light
 category: regulatory
 source: Politico Tech
-date: 1 July 2026
+date: 2 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
