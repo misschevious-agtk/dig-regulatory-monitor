@@ -2,7 +2,7 @@
 title: Tech industry grapples with Trump’s AI about-faces
 category: privacy
 source: Politico Tech
-date: 2 July 2026
+date: 3 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
