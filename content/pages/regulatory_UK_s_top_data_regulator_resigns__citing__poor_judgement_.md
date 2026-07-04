@@ -2,7 +2,7 @@
 title: UK’s top data regulator resigns, citing ‘poor judgement’
 category: regulatory
 source: Politico Tech
-date: 3 July 2026
+date: 4 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Under Investigation
 ---
