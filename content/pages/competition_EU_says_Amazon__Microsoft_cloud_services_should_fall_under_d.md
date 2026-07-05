@@ -2,7 +2,7 @@
 title: EU says Amazon, Microsoft cloud services should fall under digital dominance rules
 category: competition
 source: Politico Tech
-date: 4 July 2026
+date: 5 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, Fine, EU
 ---

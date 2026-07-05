@@ -2,7 +2,7 @@
 title: Ireland’s Big Tech presidency dilemma: Shaping the rules for companies it hosts
 category: regulatory
 source: Politico Tech
-date: 4 July 2026
+date: 5 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
