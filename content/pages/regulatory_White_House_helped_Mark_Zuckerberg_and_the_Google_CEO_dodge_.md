@@ -2,7 +2,7 @@
 title: White House helped Mark Zuckerberg and the Google CEO dodge a Senate grilling
 category: regulatory
 source: Politico Tech
-date: 5 July 2026
+date: 6 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

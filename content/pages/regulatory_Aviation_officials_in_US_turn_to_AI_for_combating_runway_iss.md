@@ -2,7 +2,7 @@
 title: Aviation officials in US turn to AI for combating runway issues
 category: regulatory
 source: Politico Tech
-date: 5 July 2026
+date: 6 July 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

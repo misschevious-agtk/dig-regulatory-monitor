@@ -2,7 +2,7 @@
 title: Germany tells Trump: Without us, space exploration ‘cannot be done’
 category: privacy
 source: Politico Tech
-date: 5 July 2026
+date: 6 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---
