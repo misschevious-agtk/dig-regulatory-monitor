@@ -2,7 +2,7 @@
 title: Turbulent skies: The stealth erosion of EC261
 category: regulatory
 source: Politico Tech
-date: 8 July 2026
+date: 9 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

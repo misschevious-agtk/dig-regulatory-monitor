@@ -2,7 +2,7 @@
 title: Von der Leyen plans Armenia visit to show support for pro-EU government
 category: competition
 source: Politico Tech
-date: 8 July 2026
+date: 9 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, EU
 ---

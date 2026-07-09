@@ -1,20 +1,22 @@
 {
   "trending": [
     {
-      "title": "Billionaire companies want to pull up the ladder behind them",
-      "body": "Big brands want the CMA to gut app store security to dodge fees. Regulators must fix real problems — without breaking the trusted ecosystem small developers depend on.",
+      "title": "Top EU court upholds Google Android fine in landmark antitrust case",
+      "body": "The judgment strengthens Brussels’ hand as it increasingly relies on new digital competition rules to police Big Tech.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "UK"
+        "Antitrust",
+        "DMA",
+        "EU"
       ]
     },
     {
       "title": "EU says Amazon, Microsoft cloud services should fall under digital dominance rules",
       "body": "The decision marks an expansion of the Digital Markets Act beyond consumer tech into the €220 billion European market for cloud services.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -26,7 +28,7 @@
       "title": "Von der Leyen plans Armenia visit to show support for pro-EU government",
       "body": "Commission chief’s trip underscores Brussels’ backing for Armenia’s Western turn after a landmark election that dealt a blow to Russian influence in the region.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -37,7 +39,7 @@
       "title": "Trump’s court win reignites fight to sink €1.7T data deal with Europe",
       "body": "Trump’s power to fire regulators undermines independent oversight, European privacy groups argue.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -48,7 +50,7 @@
       "title": "Tech industry grapples with Trump’s AI about-faces",
       "body": "Silicon Valley billionaires backed Trump due to fears that Democrats would overregulate AI. Now the White House is restricting the release of new AI models — and tech lobbyists are cautiously searching for answers.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -57,20 +59,22 @@
   ],
   "competition": [
     {
-      "title": "Billionaire companies want to pull up the ladder behind them",
-      "body": "Big brands want the CMA to gut app store security to dodge fees. Regulators must fix real problems — without breaking the trusted ecosystem small developers depend on.",
+      "title": "Top EU court upholds Google Android fine in landmark antitrust case",
+      "body": "The judgment strengthens Brussels’ hand as it increasingly relies on new digital competition rules to police Big Tech.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "UK"
+        "Antitrust",
+        "DMA",
+        "EU"
       ]
     },
     {
       "title": "EU says Amazon, Microsoft cloud services should fall under digital dominance rules",
       "body": "The decision marks an expansion of the Digital Markets Act beyond consumer tech into the €220 billion European market for cloud services.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -82,7 +86,7 @@
       "title": "Von der Leyen plans Armenia visit to show support for pro-EU government",
       "body": "Commission chief’s trip underscores Brussels’ backing for Armenia’s Western turn after a landmark election that dealt a blow to Russian influence in the region.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -95,7 +99,7 @@
       "title": "Trump’s court win reignites fight to sink €1.7T data deal with Europe",
       "body": "Trump’s power to fire regulators undermines independent oversight, European privacy groups argue.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -106,7 +110,7 @@
       "title": "Tech industry grapples with Trump’s AI about-faces",
       "body": "Silicon Valley billionaires backed Trump due to fears that Democrats would overregulate AI. Now the White House is restricting the release of new AI models — and tech lobbyists are cautiously searching for answers.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -116,7 +120,7 @@
       "title": "Who’s in the frame for Europe’s top cop job",
       "body": "The job of leading Europe’s powerful police agency is up for grabs. POLITICO has the shortlist.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -126,7 +130,7 @@
       "title": "Germany bets on €580M software after fighter jet split with France",
       "body": "POLITICO has seen a €580 million contract that lays the foundations of Germany’s own  combat cloud system.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -137,7 +141,7 @@
       "title": "President vs Parliament: Metsola overrides MEPs in bid to force through child abuse law",
       "body": "The European Parliament president’s power play is “without precedent,” diplomats wrote in a note seen by POLITICO.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -149,7 +153,7 @@
       "title": "No ‘one size fits all’ answer on AI and jobs in Europe, OpenAI chief economist says",
       "body": "Germany has most jobs at risk while Luxembourg has largest share in occupations that may actually grow with AI, firm says in new report.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DE"
@@ -158,10 +162,20 @@
   ],
   "regulatory": [
     {
+      "title": "Metsola heads for clash with her own Parliament over child abuse bill",
+      "body": "Parliament president and EU countries are playing procedural politics to pass a law to scan internet services for child abuse material.",
+      "source": "Politico Tech",
+      "date": "9 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "How to navigate Ireland’s EU presidency policy agenda like a pro",
       "body": "Ireland takes the reins of the Council’s policy negotiations at a moment of political possibility.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -171,7 +185,7 @@
       "title": "The EU has a window of opportunity. Can Ireland deliver?",
       "body": "Dublin takes on the six-month presidency just before the French election grinds EU decision-making to a halt.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -181,7 +195,7 @@
       "title": "Turbulent skies: The stealth erosion of EC261",
       "body": "Reducing compensation to symbolic amounts strips the regulation of its primary purpose: consumer protection and accountability.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -191,7 +205,7 @@
       "title": "Brussels claps back at Trump’s tech threats",
       "body": "Tension over digital regulation clouds ongoing talks to launch a new EU-U.S. tech “dialog.”",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -201,7 +215,7 @@
       "title": "France hunts for new EU taxes to fund €2T budget",
       "body": "Paris is looking for fresh levies on foreign companies in order to reduce national contributions to the bloc’s budget.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -212,7 +226,7 @@
       "title": "White House partially lifts Anthropic’s AI export ban",
       "body": "The release clears the way for a select group of companies and agencies to gain access to the company’s Mythos 5 model. But a second advanced Anthropic model remains blocked.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -222,7 +236,7 @@
       "title": "Trump threatens additional tariffs on European countries using digital service taxes",
       "body": "The president has previously argued such taxes discriminate against U.S. companies.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -232,7 +246,7 @@
       "title": "EU and China reopen trade talks as Brussels hardens its stance",
       "body": "EU trade chief Maroš Šefčovič meets China’s Commerce Minister Wang Wentao as the EU prepares new trade defenses and pushes Beijing to rein in industry overcapacity.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -242,7 +256,7 @@
       "title": "White House helped Mark Zuckerberg and the Google CEO dodge a Senate grilling",
       "body": "Judiciary Chair Chuck Grassley has agreed to let the heads of the tech giants’ Instagram and YouTube brands testify in the chief executives’ place at a hearing tentatively set for next month, according to four people with knowledge of the matter.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -252,7 +266,7 @@
       "title": "EU looks at tech to bulk up its police agency",
       "body": "Europol needs cloud infrastructure, more data probing powers, EU executive says in draft mandate.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -262,7 +276,7 @@
       "title": "Paramount to amend $111B Warner Bros. deal to win EU green light",
       "body": "The companies were told they should win clearance if they cut ties with Universal Pictures on movie distribution in several EU countries.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -272,40 +286,10 @@
       "title": "Cities must set the terms for the AI infrastructure boom",
       "body": "The AI and data centers boom cannot be allowed to become a race to the bottom.",
       "source": "Politico Tech",
-      "date": "8 July 2026",
+      "date": "9 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "European tech CEOs want direct line to craft EU policy",
-      "body": "CEOs of Airbus, ASML, Ericsson and others have von der Leyen’s attention to push for deregulation, consolidation.",
-      "source": "Politico Tech",
-      "date": "8 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Ireland’s Big Tech presidency dilemma: Shaping the rules for companies it hosts",
-      "body": "Tech regulation will form a large part of Dublin’s presidency of the Council of the EU, which starts July 1.",
-      "source": "Politico Tech",
-      "date": "8 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Aviation officials in US turn to AI for combating runway issues",
-      "body": "The aviation agency has partnered with tech company Palantir. “The long-term goal is to get to predictive,” said one official.",
-      "source": "Politico Tech",
-      "date": "8 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
       ]
     }
   ]
