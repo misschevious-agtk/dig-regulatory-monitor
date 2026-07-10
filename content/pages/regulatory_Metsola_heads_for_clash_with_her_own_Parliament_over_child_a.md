@@ -2,7 +2,7 @@
 title: Metsola heads for clash with her own Parliament over child abuse bill
 category: regulatory
 source: Politico Tech
-date: 9 July 2026
+date: 10 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

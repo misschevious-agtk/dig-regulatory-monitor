@@ -1,25 +1,25 @@
 {
-  "last_sync": "2026-07-09T09:46:30.015995Z",
+  "last_sync": "2026-07-10T09:41:28.255394Z",
   "changed_files": [
     "ai_AI_security_questions_loom_over_NATO_summit.md",
-    "ai_Europe_s_AI_moment__Four_imperatives_for_business_leaders.md",
+    "ai_Big_EU_banks_must_set_out_AI_risk_plan__says_top_ECB_officia.md",
+    "competition_Billionaire_companies_want_to_pull_up_the_ladder_behind_them.md",
     "competition_EU_says_Amazon__Microsoft_cloud_services_should_fall_under_d.md",
+    "competition_Google_says_it_s_protecting_our_privacy__The_EU_thinks_it_s_.md",
     "competition_Top_EU_court_upholds_Google_Android_fine_in_landmark_antitru.md",
-    "competition_Von_der_Leyen_plans_Armenia_visit_to_show_support_for_pro-EU.md",
+    "ip_Inside_von_der_Leyen_s_push_for_an_EU_social_media_ban.md",
     "ip_No__one_size_fits_all__answer_on_AI_and_jobs_in_Europe__Open.md",
     "privacy_Germany_bets_on__580M_software_after_fighter_jet_split_with_.md",
-    "privacy_President_vs_Parliament__Metsola_overrides_MEPs_in_bid_to_fo.md",
     "privacy_Tech_industry_grapples_with_Trump_s_AI_about-faces.md",
     "privacy_Trump_s_court_win_reignites_fight_to_sink__1_7T_data_deal_wi.md",
     "privacy_Who_s_in_the_frame_for_Europe_s_top_cop_job.md",
     "regulatory_Brussels_claps_back_at_Trump_s_tech_threats.md",
-    "regulatory_Cities_must_set_the_terms_for_the_AI_infrastructure_boom.md",
     "regulatory_EU_and_China_reopen_trade_talks_as_Brussels_hardens_its_stan.md",
     "regulatory_EU_looks_at_tech_to_bulk_up_its_police_agency.md",
     "regulatory_France_hunts_for_new_EU_taxes_to_fund__2T_budget.md",
     "regulatory_How_to_navigate_Ireland_s_EU_presidency_policy_agenda_like_a.md",
     "regulatory_Metsola_heads_for_clash_with_her_own_Parliament_over_child_a.md",
-    "regulatory_Paramount_to_amend__111B_Warner_Bros__deal_to_win_EU_green_l.md",
+    "regulatory_Mythos_saga_reveals_how_weak_Europe_is_right_now_on_AI.md",
     "regulatory_The_EU_has_a_window_of_opportunity__Can_Ireland_deliver_.md",
     "regulatory_Trump_threatens_additional_tariffs_on_European_countries_usi.md",
     "regulatory_Turbulent_skies__The_stealth_erosion_of_EC261.md",
@@ -29,9 +29,9 @@
   "total_changed": 24,
   "total_articles": 22,
   "by_category": {
-    "competition": 3,
-    "privacy": 5,
-    "ip": 1,
-    "regulatory": 13
+    "competition": 4,
+    "privacy": 4,
+    "ip": 2,
+    "regulatory": 12
   }
 }

@@ -2,7 +2,7 @@
 title: AI security questions loom over NATO summit
 category: ai
 source: Politico Tech
-date: 9 July 2026
+date: 10 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

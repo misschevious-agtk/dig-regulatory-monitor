@@ -2,7 +2,7 @@
 title: EU and China reopen trade talks as Brussels hardens its stance
 category: regulatory
 source: Politico Tech
-date: 9 July 2026
+date: 10 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
