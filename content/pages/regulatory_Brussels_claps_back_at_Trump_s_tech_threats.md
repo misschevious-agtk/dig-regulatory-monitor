@@ -2,7 +2,7 @@
 title: Brussels claps back at Trump’s tech threats
 category: regulatory
 source: Politico Tech
-date: 10 July 2026
+date: 11 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
