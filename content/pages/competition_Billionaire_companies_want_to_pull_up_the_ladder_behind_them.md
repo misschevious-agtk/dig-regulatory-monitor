@@ -2,7 +2,7 @@
 title: Billionaire companies want to pull up the ladder behind them
 category: competition
 source: Politico Tech
-date: 11 July 2026
+date: 12 July 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
