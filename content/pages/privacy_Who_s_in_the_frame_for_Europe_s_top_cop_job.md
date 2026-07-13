@@ -2,7 +2,7 @@
 title: Who’s in the frame for Europe’s top cop job
 category: privacy
 source: Politico Tech
-date: 12 July 2026
+date: 13 July 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

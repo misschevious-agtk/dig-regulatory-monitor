@@ -2,7 +2,7 @@
 title: Google says it’s protecting our privacy. The EU thinks it’s guarding a monopoly.
 category: competition
 source: Politico Tech
-date: 12 July 2026
+date: 13 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy, DMA, EU
 ---
