@@ -2,7 +2,7 @@
 title: Trump’s court win reignites fight to sink €1.7T data deal with Europe
 category: privacy
 source: Politico Tech
-date: 13 July 2026
+date: 14 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy, Fine
 ---

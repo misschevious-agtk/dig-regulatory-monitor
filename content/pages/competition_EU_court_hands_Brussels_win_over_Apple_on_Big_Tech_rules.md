@@ -2,7 +2,7 @@
 title: EU court hands Brussels win over Apple on Big Tech rules
 category: competition
 source: Politico Tech
-date: 13 July 2026
+date: 14 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, EU
 ---

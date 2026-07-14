@@ -2,7 +2,7 @@
 title: Trump threatens additional tariffs on European countries using digital service taxes
 category: regulatory
 source: Politico Tech
-date: 13 July 2026
+date: 14 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
