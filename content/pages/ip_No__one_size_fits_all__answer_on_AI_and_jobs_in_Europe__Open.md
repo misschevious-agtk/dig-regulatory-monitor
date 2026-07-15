@@ -2,7 +2,7 @@
 title: No ‘one size fits all’ answer on AI and jobs in Europe, OpenAI chief economist says
 category: ip
 source: Politico Tech
-date: 14 July 2026
+date: 15 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---

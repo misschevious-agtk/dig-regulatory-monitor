@@ -2,7 +2,7 @@
 title: Big EU banks must set out AI risk plan, says top ECB official
 category: ai
 source: Politico Tech
-date: 14 July 2026
+date: 15 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

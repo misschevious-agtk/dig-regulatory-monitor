@@ -2,7 +2,7 @@
 title: The EU has a window of opportunity. Can Ireland deliver?
 category: regulatory
 source: Politico Tech
-date: 14 July 2026
+date: 15 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

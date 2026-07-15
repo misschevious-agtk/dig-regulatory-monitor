@@ -2,7 +2,7 @@
 title: How to navigate Ireland’s EU presidency policy agenda like a pro
 category: regulatory
 source: Politico Tech
-date: 14 July 2026
+date: 15 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
