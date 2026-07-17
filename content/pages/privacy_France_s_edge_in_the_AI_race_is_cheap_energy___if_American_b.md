@@ -2,7 +2,7 @@
 title: France’s edge in the AI race is cheap energy — if American big tech doesn’t plug in first
 category: privacy
 source: Politico Tech
-date: 16 July 2026
+date: 17 July 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---

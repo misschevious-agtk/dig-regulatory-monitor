@@ -1,10 +1,21 @@
 {
   "trending": [
     {
+      "title": "Why the EU’s new social media roadmap is tougher than it looks",
+      "body": "Europe is playing the long game on holding Big Tech platforms to account.",
+      "source": "Politico Tech",
+      "date": "17 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "DMA",
+        "EU"
+      ]
+    },
+    {
       "title": "EU court hands Brussels win over Apple on Big Tech rules",
       "body": "The ruling by the General Court strengthens the European Commission’s enforcement of the Digital Markets Act.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -15,7 +26,7 @@
       "title": "Billionaire companies want to pull up the ladder behind them",
       "body": "Big brands want the CMA to gut app store security to dodge fees. Regulators must fix real problems — without breaking the trusted ecosystem small developers depend on.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -25,7 +36,7 @@
       "title": "Google says it’s protecting our privacy. The EU thinks it’s guarding a monopoly.",
       "body": "A landmark case is forcing Brussels to decide whether opening Google’s search data to rivals can boost competition without undermining Europeans’ privacy.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -37,31 +48,32 @@
       "title": "Top EU court upholds Google Android fine in landmark antitrust case",
       "body": "The judgment strengthens Brussels’ hand as it increasingly relies on new digital competition rules to police Big Tech.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
         "DMA",
         "EU"
       ]
-    },
-    {
-      "title": "France’s edge in the AI race is cheap energy — if American big tech doesn’t plug in first",
-      "body": "French tech leaders and politicians don’t want the country’s strategic supply of electricity to end up lining the pockets of American AI giants.",
-      "source": "Politico Tech",
-      "date": "16 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "FR"
-      ]
     }
   ],
   "competition": [
     {
+      "title": "Why the EU’s new social media roadmap is tougher than it looks",
+      "body": "Europe is playing the long game on holding Big Tech platforms to account.",
+      "source": "Politico Tech",
+      "date": "17 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "DMA",
+        "EU"
+      ]
+    },
+    {
       "title": "EU court hands Brussels win over Apple on Big Tech rules",
       "body": "The ruling by the General Court strengthens the European Commission’s enforcement of the Digital Markets Act.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DMA",
@@ -72,7 +84,7 @@
       "title": "Billionaire companies want to pull up the ladder behind them",
       "body": "Big brands want the CMA to gut app store security to dodge fees. Regulators must fix real problems — without breaking the trusted ecosystem small developers depend on.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -82,7 +94,7 @@
       "title": "Google says it’s protecting our privacy. The EU thinks it’s guarding a monopoly.",
       "body": "A landmark case is forcing Brussels to decide whether opening Google’s search data to rivals can boost competition without undermining Europeans’ privacy.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -94,7 +106,7 @@
       "title": "Top EU court upholds Google Android fine in landmark antitrust case",
       "body": "The judgment strengthens Brussels’ hand as it increasingly relies on new digital competition rules to police Big Tech.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -108,21 +120,10 @@
       "title": "France’s edge in the AI race is cheap energy — if American big tech doesn’t plug in first",
       "body": "French tech leaders and politicians don’t want the country’s strategic supply of electricity to end up lining the pockets of American AI giants.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "FR"
-      ]
-    },
-    {
-      "title": "Trump’s court win reignites fight to sink €1.7T data deal with Europe",
-      "body": "Trump’s power to fire regulators undermines independent oversight, European privacy groups argue.",
-      "source": "Politico Tech",
-      "date": "16 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Data & Privacy",
-        "Fine"
       ]
     }
   ],
@@ -131,7 +132,7 @@
       "title": "EU wants 13+ age restriction for social media",
       "body": "A Commission report published Monday recommends minors under 13 years of age should only have “time-limited” access to certain platforms.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -141,7 +142,7 @@
       "title": "Inside von der Leyen’s push for an EU social media ban",
       "body": "A report out Monday will add weight to calls for a ban on social media for young people.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -150,20 +151,50 @@
   ],
   "regulatory": [
     {
-      "title": "Far right wants to gut public media, France TV boss says",
-      "body": "The National Rally’s push to privatize French public broadcasters would destroy them, Delphine Ernotte said.",
+      "title": "Google mega fine to slash taxpayers’ contributions to Brussels",
+      "body": "After years of legal wrangling, Google earlier this month paid the €4.6 billion, which amounts to over 2 percent of the bloc’s total budget in 2026.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "FR"
+        "Fine"
+      ]
+    },
+    {
+      "title": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety",
+      "body": "The U.S.-based company assigned a recently hired technical employee to testify remotely before the European Parliament, which left a series of key policy questions unanswered.",
+      "source": "Politico Tech",
+      "date": "17 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "EU relaxes rules for smart glasses after US pressure",
+      "body": "Commission exempts smart glasses like Meta’s from batteries regulation, clearing a major hurdle to European expansion.",
+      "source": "Politico Tech",
+      "date": "17 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "EU sanctions Russian cyber spies for years-long hacking",
+      "body": "Moscow’s Federal Security Service is behind the cyber espionage and sabotage campaigns, EU says.",
+      "source": "Politico Tech",
+      "date": "17 July 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
       ]
     },
     {
       "title": "Launch of Trump AI promotion program underwhelms",
       "body": "The administration is struggling to balance its desire to dominate AI globally with its ad-hoc security restrictions.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +204,7 @@
       "title": "EU tells Meta to change its apps’ addictive design",
       "body": "Social media giant engineered platforms to “shift the brain into ‘autopilot mode,'” EU says in new findings.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -183,7 +214,7 @@
       "title": "EU’s conservatives revive zombie bill on child abuse scanning",
       "body": "Top-level pressure and obscure procedures breathe new life into a controversial proposal to allow scanning for online child sexual abuse material.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -193,7 +224,7 @@
       "title": "EU Parliament sends child abuse bill back to Council after chaotic vote",
       "body": "The vote means member countries must now decide whether to accept the updated proposal.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -203,7 +234,7 @@
       "title": "Renewed Middle East conflict will buffet world economy, IMF warns",
       "body": "The warning comes as President Donald Trump announced the U.S. ceasefire and peace process with Iran is “over.”",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -213,7 +244,7 @@
       "title": "Europe’s industries demanded a bonfire of red tape. Now they hate it.",
       "body": "Businesses say the bloc’s simplification push is “drowning in the inertia” of Brussels bureaucracy.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -223,7 +254,7 @@
       "title": "Mythos saga reveals how weak Europe is right now on AI",
       "body": "The EU has a plan to fix its AI problem, but it won’t solve the fact that the bloc has neither the technology nor control over the guy who does.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -233,7 +264,7 @@
       "title": "Metsola heads for clash with her own Parliament over child abuse bill",
       "body": "Parliament president and EU countries are playing procedural politics to pass a law to scan internet services for child abuse material.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -243,40 +274,10 @@
       "title": "How to navigate Ireland’s EU presidency policy agenda like a pro",
       "body": "Ireland takes the reins of the Council’s policy negotiations at a moment of political possibility.",
       "source": "Politico Tech",
-      "date": "16 July 2026",
+      "date": "17 July 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
-      ]
-    },
-    {
-      "title": "The EU has a window of opportunity. Can Ireland deliver?",
-      "body": "Dublin takes on the six-month presidency just before the French election grinds EU decision-making to a halt.",
-      "source": "Politico Tech",
-      "date": "16 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Turbulent skies: The stealth erosion of EC261",
-      "body": "Reducing compensation to symbolic amounts strips the regulation of its primary purpose: consumer protection and accountability.",
-      "source": "Politico Tech",
-      "date": "16 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Brussels claps back at Trump’s tech threats",
-      "body": "Tension over digital regulation clouds ongoing talks to launch a new EU-U.S. tech “dialog.”",
-      "source": "Politico Tech",
-      "date": "16 July 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
       ]
     }
   ]

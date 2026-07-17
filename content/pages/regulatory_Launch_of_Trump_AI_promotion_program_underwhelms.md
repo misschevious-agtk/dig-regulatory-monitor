@@ -2,7 +2,7 @@
 title: Launch of Trump AI promotion program underwhelms
 category: regulatory
 source: Politico Tech
-date: 16 July 2026
+date: 17 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
