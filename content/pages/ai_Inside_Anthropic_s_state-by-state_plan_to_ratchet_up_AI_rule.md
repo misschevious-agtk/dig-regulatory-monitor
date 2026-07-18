@@ -2,7 +2,7 @@
 title: Inside Anthropic’s state-by-state plan to ratchet up AI rules in the US
 category: ai
 source: Politico Tech
-date: 17 July 2026
+date: 18 July 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

@@ -2,7 +2,7 @@
 title: Top EU court upholds Google Android fine in landmark antitrust case
 category: competition
 source: Politico Tech
-date: 17 July 2026
+date: 18 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Antitrust, DMA, EU
 ---

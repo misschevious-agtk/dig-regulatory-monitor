@@ -2,7 +2,7 @@
 title: EU sanctions Russian cyber spies for years-long hacking
 category: regulatory
 source: Politico Tech
-date: 17 July 2026
+date: 18 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
