@@ -2,7 +2,7 @@
 title: EU Parliament sends child abuse bill back to Council after chaotic vote
 category: regulatory
 source: Politico Tech
-date: 18 July 2026
+date: 19 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
