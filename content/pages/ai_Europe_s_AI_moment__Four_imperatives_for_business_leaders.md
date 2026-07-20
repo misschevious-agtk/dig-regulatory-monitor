@@ -2,7 +2,7 @@
 title: Europe’s AI moment: Four imperatives for business leaders
 category: ai
 source: Politico Tech
-date: 19 July 2026
+date: 20 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

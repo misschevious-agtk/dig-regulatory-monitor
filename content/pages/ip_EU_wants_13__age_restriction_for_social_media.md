@@ -2,7 +2,7 @@
 title: EU wants 13+ age restriction for social media
 category: ip
 source: Politico Tech
-date: 19 July 2026
+date: 20 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
