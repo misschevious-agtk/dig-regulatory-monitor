@@ -1,17 +1,17 @@
 {
-  "last_sync": "2026-07-20T09:21:06.577598Z",
+  "last_sync": "2026-07-21T08:34:22.899028Z",
   "changed_files": [
     "ai_Big_EU_banks_must_set_out_AI_risk_plan__says_top_ECB_officia.md",
     "ai_Europe_s_AI_moment__Four_imperatives_for_business_leaders.md",
     "ai_Inside_Anthropic_s_state-by-state_plan_to_ratchet_up_AI_rule.md",
     "competition_Billionaire_companies_want_to_pull_up_the_ladder_behind_them.md",
     "competition_EU_court_hands_Brussels_win_over_Apple_on_Big_Tech_rules.md",
-    "competition_Google_says_it_s_protecting_our_privacy__The_EU_thinks_it_s_.md",
     "competition_Why_the_EU_s_new_social_media_roadmap_is_tougher_than_it_loo.md",
     "ip_EU_wants_13__age_restriction_for_social_media.md",
     "ip_Inside_von_der_Leyen_s_push_for_an_EU_social_media_ban.md",
     "privacy_All_the_trade_promises_the_EU_and_the_US_never_meant_to_keep.md",
     "privacy_France_s_edge_in_the_AI_race_is_cheap_energy___if_American_b.md",
+    "regulatory_Britain_s_Brexit_Minister_Nick_Thomas-Symonds_axed_in_reshuf.md",
     "regulatory_EU_Parliament_sends_child_abuse_bill_back_to_Council_after_c.md",
     "regulatory_EU_relaxes_rules_for_smart_glasses_after_US_pressure.md",
     "regulatory_EU_s_conservatives_revive_zombie_bill_on_child_abuse_scannin.md",
@@ -19,20 +19,20 @@
     "regulatory_EU_tells_Meta_to_change_its_apps__addictive_design.md",
     "regulatory_Europe_s_industries_demanded_a_bonfire_of_red_tape__Now_they.md",
     "regulatory_Far_right_wants_to_gut_public_media__France_TV_boss_says.md",
+    "regulatory_French_far_right_to_Musk__Thanks_but_no_thanks_on_the_Le_Pen.md",
+    "regulatory_How_to_fill_EU_coffers__Eurogroup_chief_has_inventive_idea.md",
     "regulatory_Launch_of_Trump_AI_promotion_program_underwhelms.md",
-    "regulatory_Metsola_heads_for_clash_with_her_own_Parliament_over_child_a.md",
-    "regulatory_Mythos_saga_reveals_how_weak_Europe_is_right_now_on_AI.md",
     "regulatory_Renewed_Middle_East_conflict_will_buffet_world_economy__IMF_.md",
     "regulatory_The_EU_s_new_border_system_gets_confused_by_identical_twins.md",
-    "regulatory_The_European_Parliament_s_answer_to_its_AI_worries__More_AI.md",
+    "regulatory_US_judge_halts_sanctions_policy_that_hit_ex-EU_commissioner_.md",
     "regulatory__Anthropic_doesn_t_care_about_Europe____EU_officials_peeved_.md"
   ],
   "total_changed": 25,
   "total_articles": 22,
   "by_category": {
-    "competition": 4,
+    "competition": 3,
     "privacy": 2,
     "ip": 2,
-    "regulatory": 14
+    "regulatory": 15
   }
 }
