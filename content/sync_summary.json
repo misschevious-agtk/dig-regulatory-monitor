@@ -1,7 +1,6 @@
 {
-  "last_sync": "2026-07-21T08:34:22.899028Z",
+  "last_sync": "2026-07-22T08:33:56.074263Z",
   "changed_files": [
-    "ai_Big_EU_banks_must_set_out_AI_risk_plan__says_top_ECB_officia.md",
     "ai_Europe_s_AI_moment__Four_imperatives_for_business_leaders.md",
     "ai_Inside_Anthropic_s_state-by-state_plan_to_ratchet_up_AI_rule.md",
     "competition_Billionaire_companies_want_to_pull_up_the_ladder_behind_them.md",
@@ -11,12 +10,13 @@
     "ip_Inside_von_der_Leyen_s_push_for_an_EU_social_media_ban.md",
     "privacy_All_the_trade_promises_the_EU_and_the_US_never_meant_to_keep.md",
     "privacy_France_s_edge_in_the_AI_race_is_cheap_energy___if_American_b.md",
-    "regulatory_Britain_s_Brexit_Minister_Nick_Thomas-Symonds_axed_in_reshuf.md",
+    "regulatory_As_Le_Pen_looms__Macron_and_Merz_bid_to_show_Franco-German_e.md",
     "regulatory_EU_Parliament_sends_child_abuse_bill_back_to_Council_after_c.md",
     "regulatory_EU_relaxes_rules_for_smart_glasses_after_US_pressure.md",
     "regulatory_EU_s_conservatives_revive_zombie_bill_on_child_abuse_scannin.md",
     "regulatory_EU_sanctions_Russian_cyber_spies_for_years-long_hacking.md",
     "regulatory_EU_tells_Meta_to_change_its_apps__addictive_design.md",
+    "regulatory_Europe_s_27_leaders_to_take_on_AI___finally.md",
     "regulatory_Europe_s_industries_demanded_a_bonfire_of_red_tape__Now_they.md",
     "regulatory_Far_right_wants_to_gut_public_media__France_TV_boss_says.md",
     "regulatory_French_far_right_to_Musk__Thanks_but_no_thanks_on_the_Le_Pen.md",
@@ -28,11 +28,11 @@
     "regulatory__Anthropic_doesn_t_care_about_Europe____EU_officials_peeved_.md"
   ],
   "total_changed": 25,
-  "total_articles": 22,
+  "total_articles": 23,
   "by_category": {
     "competition": 3,
     "privacy": 2,
     "ip": 2,
-    "regulatory": 15
+    "regulatory": 16
   }
 }
