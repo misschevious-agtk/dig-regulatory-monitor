@@ -1,17 +1,17 @@
 {
-  "last_sync": "2026-07-23T08:35:27.507526Z",
+  "last_sync": "2026-07-24T08:31:49.031834Z",
   "changed_files": [
-    "ai_Europe_s_AI_moment__Four_imperatives_for_business_leaders.md",
     "ai_Inside_Anthropic_s_state-by-state_plan_to_ratchet_up_AI_rule.md",
-    "ai_OpenAI_s_models_broke_free_and_launched_a_cyberattack__US_Co.md",
     "competition_Why_the_EU_s_new_social_media_roadmap_is_tougher_than_it_loo.md",
     "ip_EU_wants_13__age_restriction_for_social_media.md",
     "ip_Inside_von_der_Leyen_s_push_for_an_EU_social_media_ban.md",
     "privacy_All_the_trade_promises_the_EU_and_the_US_never_meant_to_keep.md",
     "privacy_France_s_edge_in_the_AI_race_is_cheap_energy___if_American_b.md",
     "regulatory_As_Le_Pen_looms__Macron_and_Merz_bid_to_show_Franco-German_e.md",
-    "regulatory_EU_Parliament_sends_child_abuse_bill_back_to_Council_after_c.md",
+    "regulatory_Britain_s_Brexit_Minister_Nick_Thomas-Symonds_axed_in_reshuf.md",
+    "regulatory_EU_hits_China_s_Alibaba_with__550M_record_fine_over_illegal_.md",
     "regulatory_EU_relaxes_rules_for_smart_glasses_after_US_pressure.md",
+    "regulatory_EU_s_Google_fine_risks_triggering_Trump_as_he_gears_up_for_m.md",
     "regulatory_EU_s_conservatives_revive_zombie_bill_on_child_abuse_scannin.md",
     "regulatory_EU_sanctions_Russian_cyber_spies_for_years-long_hacking.md",
     "regulatory_EU_tells_Meta_to_change_its_apps__addictive_design.md",
@@ -28,11 +28,11 @@
     "regulatory__Anthropic_doesn_t_care_about_Europe____EU_officials_peeved_.md"
   ],
   "total_changed": 25,
-  "total_articles": 22,
+  "total_articles": 24,
   "by_category": {
     "competition": 1,
     "privacy": 2,
     "ip": 2,
-    "regulatory": 17
+    "regulatory": 19
   }
 }

@@ -2,7 +2,7 @@
 title: France, Germany vow to develop Palantir rival
 category: regulatory
 source: Politico Tech
-date: 23 July 2026
+date: 24 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---
