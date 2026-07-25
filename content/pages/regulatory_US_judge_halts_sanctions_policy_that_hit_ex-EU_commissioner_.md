@@ -2,7 +2,7 @@
 title: US judge halts sanctions policy that hit ex-EU commissioner Breton
 category: regulatory
 source: Politico Tech
-date: 24 July 2026
+date: 25 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

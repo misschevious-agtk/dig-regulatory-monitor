@@ -2,7 +2,7 @@
 title: French far right to Musk: Thanks but no thanks on the Le Pen endorsement
 category: regulatory
 source: Politico Tech
-date: 24 July 2026
+date: 25 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

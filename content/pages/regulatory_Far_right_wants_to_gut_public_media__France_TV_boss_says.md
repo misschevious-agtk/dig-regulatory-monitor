@@ -2,7 +2,7 @@
 title: Far right wants to gut public media, France TV boss says
 category: regulatory
 source: Politico Tech
-date: 24 July 2026
+date: 25 July 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---

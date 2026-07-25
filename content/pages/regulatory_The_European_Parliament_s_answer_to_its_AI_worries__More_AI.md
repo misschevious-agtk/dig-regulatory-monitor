@@ -2,7 +2,7 @@
 title: The European Parliament’s answer to its AI worries: More AI
 category: regulatory
 source: Politico Tech
-date: 24 July 2026
+date: 25 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

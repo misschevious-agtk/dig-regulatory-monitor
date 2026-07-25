@@ -2,7 +2,7 @@
 title: Inside von der Leyen’s push for an EU social media ban
 category: ip
 source: Politico Tech
-date: 24 July 2026
+date: 25 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
