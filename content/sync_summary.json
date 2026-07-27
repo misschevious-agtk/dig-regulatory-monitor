@@ -1,10 +1,9 @@
 {
-  "last_sync": "2026-07-26T08:31:28.573783Z",
+  "last_sync": "2026-07-27T09:57:44.602426Z",
   "changed_files": [
     "ai_Inside_Anthropic_s_state-by-state_plan_to_ratchet_up_AI_rule.md",
     "competition_Why_the_EU_s_new_social_media_roadmap_is_tougher_than_it_loo.md",
     "ip_EU_wants_13__age_restriction_for_social_media.md",
-    "ip_Inside_von_der_Leyen_s_push_for_an_EU_social_media_ban.md",
     "privacy_All_the_trade_promises_the_EU_and_the_US_never_meant_to_keep.md",
     "privacy_France_s_edge_in_the_AI_race_is_cheap_energy___if_American_b.md",
     "regulatory_As_Le_Pen_looms__Macron_and_Merz_bid_to_show_Franco-German_e.md",
@@ -12,17 +11,18 @@
     "regulatory_EU_hits_China_s_Alibaba_with__550M_record_fine_over_illegal_.md",
     "regulatory_EU_relaxes_rules_for_smart_glasses_after_US_pressure.md",
     "regulatory_EU_sanctions_Russian_cyber_spies_for_years-long_hacking.md",
-    "regulatory_EU_signals_relief_over_new_US_tariffs_as_Trump_respects_tran.md",
-    "regulatory_EU_tells_Meta_to_change_its_apps__addictive_design.md",
     "regulatory_Europe_s_27_leaders_to_take_on_AI___finally.md",
     "regulatory_Far_right_wants_to_gut_public_media__France_TV_boss_says.md",
     "regulatory_France__Germany_vow_to_develop_Palantir_rival.md",
     "regulatory_French_far_right_to_Musk__Thanks_but_no_thanks_on_the_Le_Pen.md",
     "regulatory_Google_mega_fine_to_slash_taxpayers__contributions_to_Brusse.md",
     "regulatory_How_to_fill_EU_coffers__Eurogroup_chief_has_inventive_idea.md",
-    "regulatory_Launch_of_Trump_AI_promotion_program_underwhelms.md",
+    "regulatory_Huawei_ban_to_cost_the_EU_up_to__40_billion__says_industry.md",
+    "regulatory_Macron_cements_tech_legacy_with_social_media_ban.md",
     "regulatory_The_EU_s_new_border_system_gets_confused_by_identical_twins.md",
     "regulatory_The_European_Parliament_s_answer_to_its_AI_worries__More_AI.md",
+    "regulatory_Trump_administration_marshals_allies_for_6G_race_with_China.md",
+    "regulatory_Trump_administration_steers__5B_toward_AI_research.md",
     "regulatory_Trump_pushes_UN__free_speech__declaration_in_veiled_attack_o.md",
     "regulatory_US_judge_halts_sanctions_policy_that_hit_ex-EU_commissioner_.md",
     "regulatory__Anthropic_doesn_t_care_about_Europe____EU_officials_peeved_.md"
@@ -32,7 +32,7 @@
   "by_category": {
     "competition": 1,
     "privacy": 2,
-    "ip": 2,
-    "regulatory": 19
+    "ip": 1,
+    "regulatory": 20
   }
 }

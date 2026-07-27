@@ -2,7 +2,7 @@
 title: Why the EU’s new social media roadmap is tougher than it looks
 category: competition
 source: Politico Tech
-date: 26 July 2026
+date: 27 July 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, EU
 ---
