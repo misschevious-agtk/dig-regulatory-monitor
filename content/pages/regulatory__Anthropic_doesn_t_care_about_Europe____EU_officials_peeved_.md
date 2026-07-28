@@ -2,7 +2,7 @@
 title: ‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety
 category: regulatory
 source: Politico Tech
-date: 27 July 2026
+date: 28 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

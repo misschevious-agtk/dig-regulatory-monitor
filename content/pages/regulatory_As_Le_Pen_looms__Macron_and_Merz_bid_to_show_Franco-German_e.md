@@ -2,7 +2,7 @@
 title: As Le Pen looms, Macron and Merz bid to show Franco-German engine still has clout
 category: regulatory
 source: Politico Tech
-date: 27 July 2026
+date: 28 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

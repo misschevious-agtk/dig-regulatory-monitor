@@ -2,7 +2,7 @@
 title: OpenAI’s models broke free and launched a cyberattack. US Congress wants new rules before it happens again.
 category: ai
 source: Politico Tech
-date: 23 July 2026
+date: 28 July 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
