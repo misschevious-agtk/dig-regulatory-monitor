@@ -2,7 +2,7 @@
 title: EU signals relief over new US tariffs as Trump respects transatlantic truce
 category: regulatory
 source: Politico Tech
-date: 26 July 2026
+date: 29 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
