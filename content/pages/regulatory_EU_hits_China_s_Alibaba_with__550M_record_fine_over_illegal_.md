@@ -2,7 +2,7 @@
 title: EU hits China’s Alibaba with €550M record fine over illegal products
 category: regulatory
 source: Politico Tech
-date: 29 July 2026
+date: 30 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, EU
 ---

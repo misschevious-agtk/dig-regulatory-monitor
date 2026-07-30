@@ -2,7 +2,7 @@
 title: Google mega fine to slash taxpayers’ contributions to Brussels
 category: regulatory
 source: Politico Tech
-date: 29 July 2026
+date: 30 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine
 ---
