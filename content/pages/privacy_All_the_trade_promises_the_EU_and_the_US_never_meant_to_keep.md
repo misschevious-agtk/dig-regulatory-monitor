@@ -2,7 +2,7 @@
 title: All the trade promises the EU and the US never meant to keep
 category: privacy
 source: Politico Tech
-date: 30 July 2026
+date: 31 July 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

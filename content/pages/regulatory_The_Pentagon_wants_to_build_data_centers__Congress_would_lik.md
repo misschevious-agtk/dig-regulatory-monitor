@@ -2,7 +2,7 @@
 title: The Pentagon wants to build data centers. Congress would like a word.
 category: regulatory
 source: Politico Tech
-date: 30 July 2026
+date: 31 July 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
