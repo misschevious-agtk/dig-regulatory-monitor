@@ -2,7 +2,7 @@
 title: Britain’s Brexit Minister Nick Thomas-Symonds axed in reshuffle
 category: regulatory
 source: Politico Tech
-date: 31 July 2026
+date: 1 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

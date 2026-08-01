@@ -2,7 +2,7 @@
 title: EU’s Google fine risks triggering Trump as he gears up for more tariffs
 category: regulatory
 source: Politico Tech
-date: 31 July 2026
+date: 1 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
