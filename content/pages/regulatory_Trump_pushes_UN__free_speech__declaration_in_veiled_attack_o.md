@@ -2,7 +2,7 @@
 title: Trump pushes UN ‘free speech’ declaration in veiled attack on EU tech regulation
 category: regulatory
 source: Politico Tech
-date: 4 August 2026
+date: 5 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
