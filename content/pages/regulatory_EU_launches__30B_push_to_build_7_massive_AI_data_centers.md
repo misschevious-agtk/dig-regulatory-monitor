@@ -2,7 +2,7 @@
 title: EU launches €30B push to build 7 massive AI data centers
 category: regulatory
 source: Politico Tech
-date: 31 July 2026
+date: 6 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, EU
 ---

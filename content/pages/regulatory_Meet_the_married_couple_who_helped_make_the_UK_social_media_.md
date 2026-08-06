@@ -2,7 +2,7 @@
 title: Meet the married couple who helped make the UK social media ban a reality
 category: regulatory
 source: Politico Tech
-date: 5 August 2026
+date: 6 August 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
