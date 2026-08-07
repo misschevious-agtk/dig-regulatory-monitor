@@ -2,7 +2,7 @@
 title: Meet the EU team leading the world’s first bona fide regulation of AI
 category: regulatory
 source: Politico Tech
-date: 6 August 2026
+date: 7 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

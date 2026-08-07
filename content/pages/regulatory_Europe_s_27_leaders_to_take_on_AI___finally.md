@@ -2,7 +2,7 @@
 title: Europe’s 27 leaders to take on AI — finally
 category: regulatory
 source: Politico Tech
-date: 6 August 2026
+date: 7 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
