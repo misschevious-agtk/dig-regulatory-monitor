@@ -2,7 +2,7 @@
 title: Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech
 category: regulatory
 source: Politico Tech
-date: 8 August 2026
+date: 9 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: Trump administration steers $5B toward AI research
 category: regulatory
 source: Politico Tech
-date: 8 August 2026
+date: 9 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
