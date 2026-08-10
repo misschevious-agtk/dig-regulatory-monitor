@@ -2,7 +2,7 @@
 title: Europe’s AI safety rules take on US rogue agents and Chinese ambitions
 category: ai
 source: Politico Tech
-date: 9 August 2026
+date: 10 August 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
