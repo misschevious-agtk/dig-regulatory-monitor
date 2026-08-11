@@ -1,26 +1,26 @@
 {
-  "last_sync": "2026-08-10T07:47:22.648836Z",
+  "last_sync": "2026-08-11T07:13:10.403802Z",
   "changed_files": [
     "ai_Commission_launches_major_hiring_push_for_AI_Office.md",
     "ai_Europe_s_AI_safety_rules_take_on_US_rogue_agents_and_Chinese.md",
     "ai_OpenAI_s_models_broke_free_and_launched_a_cyberattack__US_Co.md",
     "ai_OpenAI_s_rogue_models_roamed_the_internet_for_4_days_and_sta.md",
+    "ai_White_House_finalizes_voluntary_AI_oversight_framework.md",
+    "ip_EU_opens_channel_with_Meta__TikTok_to_tackle_Ceuta_migrant_c.md",
     "regulatory_Britain_s_Brexit_Minister_Nick_Thomas-Symonds_axed_in_reshuf.md",
     "regulatory_Cold_calculation_or_plucked_from_thin_air__How_the_EU_determ.md",
     "regulatory_EU_fines_Google__890M_for_breaching_Big_Tech_rulebook.md",
-    "regulatory_EU_hits_China_s_Alibaba_with__550M_record_fine_over_illegal_.md",
     "regulatory_EU_launches__30B_push_to_build_7_massive_AI_data_centers.md",
     "regulatory_EU_s_Google_fine_risks_triggering_Trump_as_he_gears_up_for_m.md",
     "regulatory_EU_signals_relief_over_new_US_tariffs_as_Trump_respects_tran.md",
     "regulatory_Europe_s_27_leaders_to_take_on_AI___finally.md",
+    "regulatory_Europe_wants_to_kick_its_Palantir_habit.md",
     "regulatory_Huawei_ban_to_cost_the_EU_up_to__40_billion__says_industry.md",
     "regulatory_London_mayor_Sadiq_Khan_accuses_Palantir_of_bypassing_procur.md",
     "regulatory_Macron_cements_tech_legacy_with_social_media_ban.md",
     "regulatory_Meet_the_EU_team_leading_the_world_s_first_bona_fide_regulat.md",
     "regulatory_Meet_the_married_couple_who_helped_make_the_UK_social_media_.md",
     "regulatory_Russia_charges_Telegram_founder_Durov_with_facilitating_terr.md",
-    "regulatory_Telecom_CEOs_blast_EU_for_failing_to_crack_down_on_child_sex.md",
-    "regulatory_The_European_Parliament_s_answer_to_its_AI_worries__More_AI.md",
     "regulatory_The_Pentagon_wants_to_build_data_centers__Congress_would_lik.md",
     "regulatory_Trump_administration_bans_foreign-made_robots_and_power_gear.md",
     "regulatory_Trump_administration_marshals_allies_for_6G_race_with_China.md",
@@ -32,7 +32,7 @@
   "by_category": {
     "competition": 0,
     "privacy": 0,
-    "ip": 0,
-    "regulatory": 20
+    "ip": 1,
+    "regulatory": 19
   }
 }

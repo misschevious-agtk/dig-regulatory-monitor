@@ -2,7 +2,7 @@
 title: Europe wants to kick its Palantir habit
 category: regulatory
 source: Politico Tech
-date: 4 August 2026
+date: 11 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
