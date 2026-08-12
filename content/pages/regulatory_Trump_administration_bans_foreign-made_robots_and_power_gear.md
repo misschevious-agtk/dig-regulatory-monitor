@@ -2,7 +2,7 @@
 title: Trump administration bans foreign-made robots and power gear amid fears of Chinese influence
 category: regulatory
 source: Politico Tech
-date: 11 August 2026
+date: 12 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

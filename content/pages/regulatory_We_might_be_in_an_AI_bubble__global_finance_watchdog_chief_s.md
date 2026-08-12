@@ -2,7 +2,7 @@
 title: We might be in an AI bubble, global finance watchdog chief says
 category: regulatory
 source: Politico Tech
-date: 11 August 2026
+date: 12 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
