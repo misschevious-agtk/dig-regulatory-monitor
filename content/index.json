@@ -4,17 +4,27 @@
       "title": "Palantir funnels earnings to US to avoid European taxes, report finds",
       "body": "A new study finds that Palantir, which boasts of high profit margins in the U.S., barely scrapes a margin in Europe, which helps slash its tax bill.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
       ]
     },
     {
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing",
+      "body": "The latest disclosures are likely to heighten concerns that the powerful technology is advancing too fast for responsible oversight.",
+      "source": "Politico Tech",
+      "date": "13 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "White House finalizes voluntary AI oversight framework",
       "body": "The administration is preparing to brief leading AI companies on its blueprint for reviewing advanced AI models.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -24,7 +34,7 @@
       "title": "Commission launches major hiring push for AI Office",
       "body": "The EU’s executive is seeking contract agents for two units within the two-year-old AI Office just as its power is expanding.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -34,20 +44,10 @@
       "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack",
       "body": "A new analysis reveals that the artificial intelligence company’s most powerful models spent days probing the open internet before breaching AI developer platform Hugging Face.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "Europe’s AI safety rules take on US rogue agents and Chinese ambitions",
-      "body": "The first-ever case of an artificial intelligence agent going rogue coincides with the EU’s major new powers to regulate AI. But Europe’s leverage may be limited by the U.S.-China two-way race for AI supremacy.",
-      "source": "Politico Tech",
-      "date": "12 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
       ]
     }
   ],
@@ -58,7 +58,7 @@
       "title": "Palantir funnels earnings to US to avoid European taxes, report finds",
       "body": "A new study finds that Palantir, which boasts of high profit margins in the U.S., barely scrapes a margin in Europe, which helps slash its tax bill.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -67,20 +67,40 @@
   ],
   "regulatory": [
     {
-      "title": "The backlash to social media bans has already begun",
-      "body": "Politicians are jumping at the chance to block teens from accessing social media apps. But experts and activists worry about both effectiveness and unintended consequences.",
+      "title": "Trump sued over paid early access to Truth Social posts",
+      "body": "The president’s social media company began offering high-speed access to his market-moving announcements for $100,000 a month in August.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
+      "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach",
+      "body": "Researchers from OpenAI said the company is “dramatically scaling up” its security efforts after discovering that two of its models orchestrated a hack without human prompting last month.",
+      "source": "Politico Tech",
+      "date": "13 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Malta leads fight against EU bid to tax Big Gambling",
+      "body": "The tiny Mediterranean island is clashing against the European Parliament and former football legend to oppose the levy.",
+      "source": "Politico Tech",
+      "date": "13 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "Europe wants to kick its Palantir habit",
       "body": "The U.S.-based data crunching firm is deeply embedded in the most sensitive European workflows, from policing to intelligence to health care. Finding alternatives won’t be easy.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -90,7 +110,7 @@
       "title": "London mayor Sadiq Khan accuses Palantir of bypassing procurement rules",
       "body": "The Met Police intended “at each stage” to award the larger contract to the U.S. tech firm, a legal statement claims.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -100,7 +120,7 @@
       "title": "EU launches €30B push to build 7 massive AI data centers",
       "body": "Germany, Greece, Portugal, Italy and Spain are backing plans to build the largest hubs.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -111,7 +131,7 @@
       "title": "Meet the married couple who helped make the UK social media ban a reality",
       "body": "How husband-and-wife team Daisy Greenwell and Joe Ryrie caught Keir Starmer’s attention on banning social media for kids.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -121,7 +141,7 @@
       "title": "Meet the EU team leading the world’s first bona fide regulation of AI",
       "body": "A new European Commission unit is about to have the power to fine or even shut down top AI platforms if they don’t ensure safety.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -131,7 +151,7 @@
       "title": "Russia charges Telegram founder Durov with facilitating terrorism",
       "body": "Moscow claims the platform allows Ukrainian intelligence services to recruit spies and support terrorist activities.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -141,7 +161,7 @@
       "title": "Trump administration bans foreign-made robots and power gear amid fears of Chinese influence",
       "body": "Advanced robots and power inverters made overseas pose risks that could include blackouts and espionage on Americans, U.S. officials said.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -151,7 +171,7 @@
       "title": "We might be in an AI bubble, global finance watchdog chief says",
       "body": "Asked whether the finance industry has enough safeguards in place to remain stable if an AI bubble unravels, Schindler said: “I do hope so.”",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -161,7 +181,7 @@
       "title": "Trump administration marshals allies for 6G race with China",
       "body": "More than 20 countries are joining a Trump administration initiative to coordinate next-generation wireless policy, standards and security before 6G reaches consumers.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -171,7 +191,7 @@
       "title": "Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech",
       "body": "A hefty EU fine against Google and one against Alibaba in the same week have both U.S. and Chinese authorities asking how these penalties are determined.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -181,7 +201,7 @@
       "title": "The Pentagon wants to build data centers. Congress would like a word.",
       "body": "Lawmakers are setting their sights on data centers proposed for military bases, concerned about massive energy and water consumption.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -191,7 +211,7 @@
       "title": "EU signals relief over new US tariffs as Trump respects transatlantic truce",
       "body": "A 10 percent duty will be applied on goods from the EU, respecting a threshold set under the EU-U.S. trade deal last year.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -201,7 +221,7 @@
       "title": "EU’s Google fine risks triggering Trump as he gears up for more tariffs",
       "body": "The fine against the U.S. tech giant lands just as Washington prepares new duties that could put last year’s fragile trade truce to the test.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -211,7 +231,7 @@
       "title": "EU fines Google €890M for breaching Big Tech rulebook",
       "body": "Brussels orders U.S. search giant to overhaul how it ranks rivals in search results and how it polices its app store — or face further penalties.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -222,38 +242,7 @@
       "title": "Trump administration steers $5B toward AI research",
       "body": "The initiative marks a wider push to steer federal science funding toward AI-powered research and individual investigators.",
       "source": "Politico Tech",
-      "date": "12 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Macron cements tech legacy with social media ban",
-      "body": "The French president spent years pushing a ban on minors using social media.",
-      "source": "Politico Tech",
-      "date": "12 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Huawei ban to cost the EU up to €40 billion, says industry",
-      "body": "The price tag for replacing telecom equipment from the Chinese manufacturer is hotly contested, and telecom operators want compensation.",
-      "source": "Politico Tech",
-      "date": "12 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Fine",
-        "EU"
-      ]
-    },
-    {
-      "title": "Europe’s 27 leaders to take on AI — finally",
-      "body": "The EU’s national leaders have agreed to sit down to talk about AI development and safety for the first time.",
-      "source": "Politico Tech",
-      "date": "12 August 2026",
+      "date": "13 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
