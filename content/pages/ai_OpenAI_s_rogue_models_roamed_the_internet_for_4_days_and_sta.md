@@ -2,7 +2,7 @@
 title: OpenAI’s rogue models roamed the internet for 4 days and staged a second attack
 category: ai
 source: Politico Tech
-date: 13 August 2026
+date: 14 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
