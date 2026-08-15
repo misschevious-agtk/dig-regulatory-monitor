@@ -2,7 +2,7 @@
 title: Trump administration marshals allies for 6G race with China
 category: regulatory
 source: Politico Tech
-date: 14 August 2026
+date: 15 August 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---

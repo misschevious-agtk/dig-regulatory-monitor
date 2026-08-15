@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-14T07:36:47.303997Z",
+  "last_sync": "2026-08-15T06:42:12.214094Z",
   "changed_files": [
     "ai_Anthropic_and_OpenAI_models_tried_to_trick_humans_into_poiso.md",
     "ai_Commission_launches_major_hiring_push_for_AI_Office.md",
@@ -8,9 +8,11 @@
     "ai_White_House_finalizes_voluntary_AI_oversight_framework.md",
     "ip_EU_opens_channel_with_Meta__TikTok_to_tackle_Ceuta_migrant_c.md",
     "ip_Palantir_funnels_earnings_to_US_to_avoid_European_taxes__rep.md",
+    "privacy_Meta_AI_glasses_face_criminal_complaint_in_Germany.md",
     "regulatory_Cold_calculation_or_plucked_from_thin_air__How_the_EU_determ.md",
     "regulatory_EU_launches__30B_push_to_build_7_massive_AI_data_centers.md",
     "regulatory_Europe_wants_to_kick_its_Palantir_habit.md",
+    "regulatory_French_court_blocks_social_media_ban_for_under_15s.md",
     "regulatory_London_mayor_Sadiq_Khan_accuses_Palantir_of_bypassing_procur.md",
     "regulatory_Malta_leads_fight_against_EU_bid_to_tax_Big_Gambling.md",
     "regulatory_Meet_the_EU_team_leading_the_world_s_first_bona_fide_regulat.md",
@@ -18,11 +20,9 @@
     "regulatory_OpenAI_s_models_shared_hacking_tips_on_a_secret_messaging_bo.md",
     "regulatory_Russia_charges_Telegram_founder_Durov_with_facilitating_terr.md",
     "regulatory_Telecom_CEOs_blast_EU_for_failing_to_crack_down_on_child_sex.md",
-    "regulatory_The_Pentagon_wants_to_build_data_centers__Congress_would_lik.md",
     "regulatory_The_backlash_to_social_media_bans_has_already_begun.md",
     "regulatory_Trump_administration_bans_foreign-made_robots_and_power_gear.md",
     "regulatory_Trump_administration_marshals_allies_for_6G_race_with_China.md",
-    "regulatory_US_lawmakers_visit_Vatican_to_discuss_AI___and_meet_the_pope.md",
     "regulatory_We_might_be_in_an_AI_bubble__global_finance_watchdog_chief_s.md",
     "regulatory_Zuckerberg_warns_against_centralizing_AI_power.md",
     "regulatory__Much_faster_than_originally_planned___Ukraine_warns_of_Russ.md"
@@ -31,8 +31,8 @@
   "total_articles": 20,
   "by_category": {
     "competition": 0,
-    "privacy": 0,
+    "privacy": 1,
     "ip": 2,
-    "regulatory": 18
+    "regulatory": 17
   }
 }
