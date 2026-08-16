@@ -2,7 +2,7 @@
 title: Malta leads fight against EU bid to tax Big Gambling
 category: regulatory
 source: Politico Tech
-date: 15 August 2026
+date: 16 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
