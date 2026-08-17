@@ -1,5 +1,5 @@
 ---
-title: Zuckerberg warns against centralizing AI power
+title: Poland rekindles Musk feud over Starlink snub
 category: regulatory
 source: Politico Tech
 date: 17 August 2026
@@ -7,4 +7,4 @@ url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
 
-In a 6,500 word essay, Zuckerberg detailed his vision for AI.
+The company has not explained why Warsaw was carved out of a 30-country roaming zone.
