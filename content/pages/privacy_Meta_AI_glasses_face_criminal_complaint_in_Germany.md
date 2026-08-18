@@ -2,7 +2,7 @@
 title: Meta AI glasses face criminal complaint in Germany
 category: privacy
 source: Politico Tech
-date: 17 August 2026
+date: 18 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy, DE
 ---
