@@ -2,7 +2,7 @@
 title: Palantir funnels earnings to US to avoid European taxes, report finds
 category: ip
 source: Politico Tech
-date: 18 August 2026
+date: 19 August 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
