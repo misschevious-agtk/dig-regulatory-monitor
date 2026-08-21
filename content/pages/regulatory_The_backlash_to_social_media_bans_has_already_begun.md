@@ -2,7 +2,7 @@
 title: The backlash to social media bans has already begun
 category: regulatory
 source: Politico Tech
-date: 20 August 2026
+date: 21 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

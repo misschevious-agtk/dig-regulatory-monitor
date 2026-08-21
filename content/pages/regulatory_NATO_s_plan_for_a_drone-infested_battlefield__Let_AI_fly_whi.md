@@ -2,7 +2,7 @@
 title: NATO’s plan for a drone-infested battlefield: Let AI fly while humans decide who dies
 category: regulatory
 source: Politico Tech
-date: 20 August 2026
+date: 21 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

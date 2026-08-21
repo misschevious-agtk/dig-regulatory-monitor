@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-20T06:51:28.745698Z",
+  "last_sync": "2026-08-21T06:52:18.401750Z",
   "changed_files": [
     "ai_Anthropic_and_OpenAI_models_tried_to_trick_humans_into_poiso.md",
     "ai_Commission_launches_major_hiring_push_for_AI_Office.md",
@@ -8,14 +8,14 @@
     "ip_EU_opens_channel_with_Meta__TikTok_to_tackle_Ceuta_migrant_c.md",
     "ip_Palantir_funnels_earnings_to_US_to_avoid_European_taxes__rep.md",
     "ip_The_government_is_recruiting_tech_companies_to_help_fight_it.md",
-    "privacy_How_satellite_technology_can_help_Europe_battle_wildfires.md",
     "privacy_Meta_AI_glasses_face_criminal_complaint_in_Germany.md",
     "regulatory_EU_launches__30B_push_to_build_7_massive_AI_data_centers.md",
     "regulatory_Europe_wants_to_kick_its_Palantir_habit.md",
     "regulatory_French_court_blocks_social_media_ban_for_under_15s.md",
+    "regulatory_From_factory_to_front_lines__A_Western_spy_drone_s_journey_t.md",
+    "regulatory_LAYING_THE_GROUNDWORK_FOR_AI-POWERED_CYBERSECURITY.md",
     "regulatory_London_mayor_Sadiq_Khan_accuses_Palantir_of_bypassing_procur.md",
     "regulatory_Malta_leads_fight_against_EU_bid_to_tax_Big_Gambling.md",
-    "regulatory_Meet_the_EU_team_leading_the_world_s_first_bona_fide_regulat.md",
     "regulatory_Meet_the_married_couple_who_helped_make_the_UK_social_media_.md",
     "regulatory_NATO_s_plan_for_a_drone-infested_battlefield__Let_AI_fly_whi.md",
     "regulatory_OpenAI_s_models_shared_hacking_tips_on_a_secret_messaging_bo.md",
@@ -31,8 +31,8 @@
   "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 2,
+    "privacy": 1,
     "ip": 3,
-    "regulatory": 16
+    "regulatory": 17
   }
 }
