@@ -2,7 +2,7 @@
 title: London mayor Sadiq Khan accuses Palantir of bypassing procurement rules
 category: regulatory
 source: Politico Tech
-date: 22 August 2026
+date: 23 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
