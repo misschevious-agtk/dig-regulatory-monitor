@@ -2,7 +2,7 @@
 title: Telecom CEOs blast EU for failing to crack down on child sexual abuse content
 category: regulatory
 source: Politico Tech
-date: 23 August 2026
+date: 24 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
