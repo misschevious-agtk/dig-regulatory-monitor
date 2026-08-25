@@ -2,7 +2,7 @@
 title: White House finalizes voluntary AI oversight framework
 category: ai
 source: Politico Tech
-date: 24 August 2026
+date: 25 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

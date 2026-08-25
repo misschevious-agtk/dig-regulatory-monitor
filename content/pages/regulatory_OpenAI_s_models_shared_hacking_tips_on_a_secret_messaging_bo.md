@@ -2,7 +2,7 @@
 title: OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach
 category: regulatory
 source: Politico Tech
-date: 24 August 2026
+date: 25 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

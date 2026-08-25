@@ -1,20 +1,10 @@
 {
   "trending": [
     {
-      "title": "Poll: The older and richer you are, the more you like AI",
-      "body": "Optimism for AI increases with age and wealth, with young adults the most pessimistic, polling shared with POLITICO shows.",
-      "source": "Politico Tech",
-      "date": "24 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
       "title": "Flipping the kill switch: I survived 72 hours without US tech",
       "body": "The EU wants to decrease reliance on American technology. Here’s what happened when a POLITICO reporter tried to live and work without it.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -24,7 +14,7 @@
       "title": "Meta AI glasses face criminal complaint in Germany",
       "body": "Privacy concerns over the device have snowballed in recent months amid reports of people being filmed without their consent.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -35,7 +25,7 @@
       "title": "The government is recruiting tech companies to help fight its cyber battles",
       "body": "The massive policy shift comes as Americans reported losing $20.8 billion to cybercrime in 2025.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -45,30 +35,30 @@
       "title": "EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis",
       "body": "Thousands of migrants crossing into a Spanish enclave in Morocco were reportedly spurred by misinformation.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
+      ]
+    },
+    {
+      "title": "Palantir funnels earnings to US to avoid European taxes, report finds",
+      "body": "A new study finds that Palantir, which boasts of high profit margins in the U.S., barely scrapes a margin in Europe, which helps slash its tax bill.",
+      "source": "Politico Tech",
+      "date": "25 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
       ]
     }
   ],
   "competition": [],
   "privacy": [
     {
-      "title": "Poll: The older and richer you are, the more you like AI",
-      "body": "Optimism for AI increases with age and wealth, with young adults the most pessimistic, polling shared with POLITICO shows.",
-      "source": "Politico Tech",
-      "date": "24 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
       "title": "Flipping the kill switch: I survived 72 hours without US tech",
       "body": "The EU wants to decrease reliance on American technology. Here’s what happened when a POLITICO reporter tried to live and work without it.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -78,7 +68,7 @@
       "title": "Meta AI glasses face criminal complaint in Germany",
       "body": "Privacy concerns over the device have snowballed in recent months amid reports of people being filmed without their consent.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -91,7 +81,7 @@
       "title": "The government is recruiting tech companies to help fight its cyber battles",
       "body": "The massive policy shift comes as Americans reported losing $20.8 billion to cybercrime in 2025.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -101,7 +91,7 @@
       "title": "EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis",
       "body": "Thousands of migrants crossing into a Spanish enclave in Morocco were reportedly spurred by misinformation.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -111,7 +101,7 @@
       "title": "Palantir funnels earnings to US to avoid European taxes, report finds",
       "body": "A new study finds that Palantir, which boasts of high profit margins in the U.S., barely scrapes a margin in Europe, which helps slash its tax bill.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -120,10 +110,30 @@
   ],
   "regulatory": [
     {
+      "title": "How a 17th-century Irish law is shielding Big Tech from class actions in Europe",
+      "body": "Ireland has limits on outside funding for court challenges, stopping Europeans from seeking compensation from Big Tech for harms.",
+      "source": "Politico Tech",
+      "date": "25 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Greece sabotages its own plans to reverse the brain drain of scientists",
+      "body": "Athens is trying to lure back researchers after an exodus during the financial crisis, but a major EU-backed scheme has fallen apart.",
+      "source": "Politico Tech",
+      "date": "25 August 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
+      ]
+    },
+    {
       "title": "From factory to front lines: A Western spy drone’s journey to war in Ukraine",
       "body": "Drones have transformed the war in Ukraine, and AR3 unmanned aircraft from Portuguese company Tekever are playing a key role.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -133,7 +143,7 @@
       "title": "French court blocks social media ban for under 15s",
       "body": "Ruling could have far-reaching implications about kids’ rights to access the internet.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -143,7 +153,7 @@
       "title": "US lawmakers visit Vatican to discuss AI — and meet the pope",
       "body": "The visit comes as the Catholic Church, including Pope Leo XIV, has increasingly focused on the rapidly developing technology.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -153,7 +163,7 @@
       "title": "NATO’s plan for a drone-infested battlefield: Let AI fly while humans decide who dies",
       "body": "Ukraine is already pioneering how to integrate AI into its war effort.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -163,7 +173,7 @@
       "title": "Trump sued over paid early access to Truth Social posts",
       "body": "The president’s social media company began offering high-speed access to his market-moving announcements for $100,000 a month in August.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +183,7 @@
       "title": "Poland rekindles Musk feud over Starlink snub",
       "body": "The company has not explained why Warsaw was carved out of a 30-country roaming zone.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -183,7 +193,7 @@
       "title": "‘Much faster than originally planned’: Ukraine warns of Russian rival to Musk’s Starlink",
       "body": "Russia’s Starlink copycat is heading to orbit ahead of schedule, and that’s a problem for Ukraine.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -193,7 +203,7 @@
       "title": "The backlash to social media bans has already begun",
       "body": "Politicians are jumping at the chance to block teens from accessing social media apps. But experts and activists worry about both effectiveness and unintended consequences.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -203,7 +213,7 @@
       "title": "Zuckerberg warns against centralizing AI power",
       "body": "In a 6,500 word essay, Zuckerberg detailed his vision for AI.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -213,7 +223,7 @@
       "title": "Telecom CEOs blast EU for failing to crack down on child sexual abuse content",
       "body": "Four of Europe’s top telecom chiefs pen letter demanding new EU-wide orders empowering internet providers to consistently block illegal material.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -223,7 +233,7 @@
       "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach",
       "body": "Researchers from OpenAI said the company is “dramatically scaling up” its security efforts after discovering that two of its models orchestrated a hack without human prompting last month.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -233,7 +243,7 @@
       "title": "Malta leads fight against EU bid to tax Big Gambling",
       "body": "The tiny Mediterranean island is clashing against the European Parliament and former football legend to oppose the levy.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -243,7 +253,7 @@
       "title": "Europe wants to kick its Palantir habit",
       "body": "The U.S.-based data crunching firm is deeply embedded in the most sensitive European workflows, from policing to intelligence to health care. Finding alternatives won’t be easy.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -253,21 +263,10 @@
       "title": "London mayor Sadiq Khan accuses Palantir of bypassing procurement rules",
       "body": "The Met Police intended “at each stage” to award the larger contract to the U.S. tech firm, a legal statement claims.",
       "source": "Politico Tech",
-      "date": "24 August 2026",
+      "date": "25 August 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "EU launches €30B push to build 7 massive AI data centers",
-      "body": "Germany, Greece, Portugal, Italy and Spain are backing plans to build the largest hubs.",
-      "source": "Politico Tech",
-      "date": "24 August 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Fine",
-        "EU"
       ]
     }
   ]

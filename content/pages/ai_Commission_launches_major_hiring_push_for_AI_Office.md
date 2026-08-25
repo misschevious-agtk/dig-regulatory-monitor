@@ -2,7 +2,7 @@
 title: Commission launches major hiring push for AI Office
 category: ai
 source: Politico Tech
-date: 24 August 2026
+date: 25 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-08-24T07:04:14.319537Z",
+  "last_sync": "2026-08-25T06:53:32.115294Z",
   "changed_files": [
     "ai_Anthropic_and_OpenAI_models_tried_to_trick_humans_into_poiso.md",
     "ai_Commission_launches_major_hiring_push_for_AI_Office.md",
@@ -10,11 +10,11 @@
     "ip_The_government_is_recruiting_tech_companies_to_help_fight_it.md",
     "privacy_Flipping_the_kill_switch__I_survived_72_hours_without_US_tec.md",
     "privacy_Meta_AI_glasses_face_criminal_complaint_in_Germany.md",
-    "privacy_Poll__The_older_and_richer_you_are__the_more_you_like_AI.md",
-    "regulatory_EU_launches__30B_push_to_build_7_massive_AI_data_centers.md",
     "regulatory_Europe_wants_to_kick_its_Palantir_habit.md",
     "regulatory_French_court_blocks_social_media_ban_for_under_15s.md",
     "regulatory_From_factory_to_front_lines__A_Western_spy_drone_s_journey_t.md",
+    "regulatory_Greece_sabotages_its_own_plans_to_reverse_the_brain_drain_of.md",
+    "regulatory_How_a_17th-century_Irish_law_is_shielding_Big_Tech_from_clas.md",
     "regulatory_London_mayor_Sadiq_Khan_accuses_Palantir_of_bypassing_procur.md",
     "regulatory_Malta_leads_fight_against_EU_bid_to_tax_Big_Gambling.md",
     "regulatory_NATO_s_plan_for_a_drone-infested_battlefield__Let_AI_fly_whi.md",
@@ -31,8 +31,8 @@
   "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 3,
+    "privacy": 2,
     "ip": 3,
-    "regulatory": 15
+    "regulatory": 16
   }
 }

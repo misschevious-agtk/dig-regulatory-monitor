@@ -2,7 +2,7 @@
 title: US lawmakers visit Vatican to discuss AI — and meet the pope
 category: regulatory
 source: Politico Tech
-date: 24 August 2026
+date: 25 August 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
