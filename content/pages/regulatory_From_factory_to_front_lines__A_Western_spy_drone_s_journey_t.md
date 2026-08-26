@@ -2,7 +2,7 @@
 title: From factory to front lines: A Western spy drone’s journey to war in Ukraine
 category: regulatory
 source: Politico Tech
-date: 25 August 2026
+date: 26 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

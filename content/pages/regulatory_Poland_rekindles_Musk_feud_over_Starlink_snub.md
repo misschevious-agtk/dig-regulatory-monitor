@@ -2,7 +2,7 @@
 title: Poland rekindles Musk feud over Starlink snub
 category: regulatory
 source: Politico Tech
-date: 25 August 2026
+date: 26 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

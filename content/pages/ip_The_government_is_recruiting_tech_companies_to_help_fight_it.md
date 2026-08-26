@@ -2,7 +2,7 @@
 title: The government is recruiting tech companies to help fight its cyber battles
 category: ip
 source: Politico Tech
-date: 25 August 2026
+date: 26 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
