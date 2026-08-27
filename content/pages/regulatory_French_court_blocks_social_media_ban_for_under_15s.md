@@ -2,7 +2,7 @@
 title: French court blocks social media ban for under 15s
 category: regulatory
 source: Politico Tech
-date: 26 August 2026
+date: 27 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
