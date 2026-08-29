@@ -2,7 +2,7 @@
 title: Flipping the kill switch: I survived 72 hours without US tech
 category: privacy
 source: Politico Tech
-date: 28 August 2026
+date: 29 August 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

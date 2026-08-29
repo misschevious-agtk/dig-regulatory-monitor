@@ -2,7 +2,7 @@
 title: Parents and politicians love social media bans for kids. Experts worry they’re a shot in the dark.
 category: regulatory
 source: Politico Tech
-date: 28 August 2026
+date: 29 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
