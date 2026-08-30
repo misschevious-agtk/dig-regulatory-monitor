@@ -2,7 +2,7 @@
 title: LAYING THE GROUNDWORK FOR AI-POWERED CYBERSECURITY
 category: regulatory
 source: Politico Tech
-date: 29 August 2026
+date: 30 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
