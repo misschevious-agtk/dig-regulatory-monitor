@@ -2,7 +2,7 @@
 title: The trade war came too soon for Mark Carney’s middle powers alliance
 category: regulatory
 source: Politico Tech
-date: 30 August 2026
+date: 31 August 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
