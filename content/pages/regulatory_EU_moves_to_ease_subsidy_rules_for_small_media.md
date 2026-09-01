@@ -2,7 +2,7 @@
 title: EU moves to ease subsidy rules for small media
 category: regulatory
 source: Politico Tech
-date: 31 August 2026
+date: 1 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

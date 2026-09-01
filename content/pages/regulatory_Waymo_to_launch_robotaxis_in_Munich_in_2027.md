@@ -2,7 +2,7 @@
 title: Waymo to launch robotaxis in Munich in 2027
 category: regulatory
 source: Politico Tech
-date: 31 August 2026
+date: 1 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

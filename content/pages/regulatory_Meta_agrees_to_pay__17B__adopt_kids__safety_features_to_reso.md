@@ -2,7 +2,7 @@
 title: Meta agrees to pay $17B, adopt kids’ safety features to resolve US lawsuits
 category: regulatory
 source: Politico Tech
-date: 31 August 2026
+date: 1 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
