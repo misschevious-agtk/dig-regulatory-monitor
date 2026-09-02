@@ -2,7 +2,7 @@
 title: The US got Meta to change Instagram and Facebook. Europe wants in.
 category: regulatory
 source: Politico Tech
-date: 1 September 2026
+date: 2 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

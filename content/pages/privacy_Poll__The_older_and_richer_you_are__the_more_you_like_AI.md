@@ -2,7 +2,7 @@
 title: Poll: The older and richer you are, the more you like AI
 category: privacy
 source: Politico Tech
-date: 1 September 2026
+date: 2 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

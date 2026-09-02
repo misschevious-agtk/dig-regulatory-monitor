@@ -2,7 +2,7 @@
 title: UN chief tells countries to rein in autonomous weapons
 category: regulatory
 source: Politico Tech
-date: 1 September 2026
+date: 2 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
