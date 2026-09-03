@@ -2,7 +2,7 @@
 title: UK ‘open to discussing’ digital services tax with Trump administration
 category: privacy
 source: Politico Tech
-date: 2 September 2026
+date: 3 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

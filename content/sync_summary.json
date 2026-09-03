@@ -1,16 +1,17 @@
 {
-  "last_sync": "2026-09-02T10:55:26.471911Z",
+  "last_sync": "2026-09-03T10:54:25.157774Z",
   "changed_files": [
+    "ai_Hey_EU__your_new_rules_for_ChatGPT_don_t_cover_chat.md",
     "ai_Hundreds_of_AI_agents_went_rogue_in_OpenAI_s_Hugging_Face_ha.md",
     "ai_Musk_s_AI_company_sues_its_users_as_victim_lawsuits_over_Gro.md",
     "competition_Brussels_changes_gear_on_Big_Tech_enforcement.md",
-    "privacy_Flipping_the_kill_switch__I_survived_72_hours_without_US_tec.md",
     "privacy_How_satellite_technology_can_help_Europe_battle_wildfires.md",
     "privacy_Nigel_Farage_wants_to_scrap_GDPR_for_the_UK.md",
     "privacy_Poll__The_older_and_richer_you_are__the_more_you_like_AI.md",
     "privacy_UK__open_to_discussing__digital_services_tax_with_Trump_admi.md",
     "regulatory_6_issues_that_will_shape_Ursula_von_der_Leyen_s_legacy.md",
     "regulatory_Andy_Burnham_has_to_shape_the_UK_s_social_media_ban__Austral.md",
+    "regulatory_China_s_latest_curbs_on_EU_firms_look_symbolic__That_could_c.md",
     "regulatory_Climate_and_AI_to_loom_large_in_von_der_Leyen_s_State_of_the.md",
     "regulatory_EU_moves_to_ease_subsidy_rules_for_small_media.md",
     "regulatory_Greece_sabotages_its_own_plans_to_reverse_the_brain_drain_of.md",
@@ -23,15 +24,14 @@
     "regulatory_Poland_asks_EU_to_fine_Meta__250_million_over_scam_ads.md",
     "regulatory_The_US_got_Meta_to_change_Instagram_and_Facebook__Europe_wan.md",
     "regulatory_The_trade_war_came_too_soon_for_Mark_Carney_s_middle_powers_.md",
-    "regulatory_TikTok_ban_divides_European_Commission.md",
     "regulatory_UN_chief_tells_countries_to_rein_in_autonomous_weapons.md",
     "regulatory_Waymo_to_launch_robotaxis_in_Munich_in_2027.md"
   ],
   "total_changed": 25,
-  "total_articles": 23,
+  "total_articles": 22,
   "by_category": {
     "competition": 1,
-    "privacy": 5,
+    "privacy": 4,
     "ip": 0,
     "regulatory": 17
   }
