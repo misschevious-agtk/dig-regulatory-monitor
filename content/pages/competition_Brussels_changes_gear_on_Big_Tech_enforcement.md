@@ -2,7 +2,7 @@
 title: Brussels changes gear on Big Tech enforcement
 category: competition
 source: Politico Tech
-date: 3 September 2026
+date: 4 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

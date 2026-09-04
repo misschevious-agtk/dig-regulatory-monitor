@@ -2,7 +2,7 @@
 title: How satellite technology can help Europe battle wildfires
 category: privacy
 source: Politico Tech
-date: 3 September 2026
+date: 4 September 2026
 url: https://www.politico.eu/section/technology/
 tags: NL
 ---
