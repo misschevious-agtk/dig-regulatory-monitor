@@ -2,7 +2,7 @@
 title: China’s latest curbs on EU firms look symbolic. That could change.
 category: regulatory
 source: Politico Tech
-date: 4 September 2026
+date: 5 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

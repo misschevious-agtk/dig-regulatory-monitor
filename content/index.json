@@ -1,30 +1,10 @@
 {
   "trending": [
     {
-      "title": "Brussels changes gear on Big Tech enforcement",
-      "body": "As the EU’s focus shifts from big-ticket fines to compliance, concerns are growing that the market power of dominant tech platforms could become more entrenched.",
-      "source": "Politico Tech",
-      "date": "4 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "US"
-      ]
-    },
-    {
-      "title": "Hungary poised to rejoin flagship EU research program",
-      "body": "Science and Tech Minister Zoltán Tanács told POLITICO that Hungary had cleared all the legal barriers to accessing EU research funding under Horizon Europe.",
-      "source": "Politico Tech",
-      "date": "4 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
       "title": "Nigel Farage wants to scrap GDPR for the UK",
       "body": "Reform UK said GDPR has “strangled small businesses and tech firms.”",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "GDPR",
@@ -35,51 +15,50 @@
       "title": "Poll: The older and richer you are, the more you like AI",
       "body": "Optimism for AI increases with age and wealth, with young adults the most pessimistic, polling shared with POLITICO shows.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
       ]
     },
     {
-      "title": "How satellite technology can help Europe battle wildfires",
-      "body": "As summer blazes are again spreading across the continent, satellites can now gather images and data to map damage and detect fires at an early stage.",
+      "title": "EU places ChatGPT, Reddit, Roblox under its strictest platform rules",
+      "body": "ChatGPT is designated a search engine under the EU executive’s decision.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "NL"
+        "EU"
       ]
-    }
-  ],
-  "competition": [
+    },
     {
-      "title": "Brussels changes gear on Big Tech enforcement",
-      "body": "As the EU’s focus shifts from big-ticket fines to compliance, concerns are growing that the market power of dominant tech platforms could become more entrenched.",
+      "title": "Musk’s AI company sues its users as victim lawsuits over Grok deepfakes mount",
+      "body": "As alleged victims sue the company over AI-generated child sexual abuse material, xAI takes the legal fight to its own users.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "US"
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack",
+      "body": "An independent review of the recent hack involving OpenAI models has raised fresh concerns about the limits of human control over increasingly advanced AI.",
+      "source": "Politico Tech",
+      "date": "5 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
       ]
     }
   ],
+  "competition": [],
   "privacy": [
     {
-      "title": "Hungary poised to rejoin flagship EU research program",
-      "body": "Science and Tech Minister Zoltán Tanács told POLITICO that Hungary had cleared all the legal barriers to accessing EU research funding under Horizon Europe.",
-      "source": "Politico Tech",
-      "date": "4 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
       "title": "Nigel Farage wants to scrap GDPR for the UK",
       "body": "Reform UK said GDPR has “strangled small businesses and tech firms.”",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "GDPR",
@@ -90,30 +69,50 @@
       "title": "Poll: The older and richer you are, the more you like AI",
       "body": "Optimism for AI increases with age and wealth, with young adults the most pessimistic, polling shared with POLITICO shows.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
-      ]
-    },
-    {
-      "title": "How satellite technology can help Europe battle wildfires",
-      "body": "As summer blazes are again spreading across the continent, satellites can now gather images and data to map damage and detect fires at an early stage.",
-      "source": "Politico Tech",
-      "date": "4 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "NL"
       ]
     }
   ],
   "ip": [],
   "regulatory": [
     {
+      "title": "Why Macron’s space summit risks blowing up on the launchpad",
+      "body": "Next week’s Paris meeting has more going against it than a Trump-organized shun.",
+      "source": "Politico Tech",
+      "date": "5 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "The EU is ready to bet billions on data centers. Not all countries want in.",
+      "body": "An EU industrial policy plan to build AI infrastructure is forcing European capitals to free up investment — or else fall further behind.",
+      "source": "Politico Tech",
+      "date": "5 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "Von der Leyen set to deliver major speech on Europe’s space policy",
+      "body": "The speech is the first ever by the Commission president dedicated solely to space policy at a moment of heightened security concern over satellites.",
+      "source": "Politico Tech",
+      "date": "5 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Power-hungry data centers are expanding in Europe. So is the resistance.",
       "body": "Activists are battling a vast Google data center in the Austrian countryside.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -123,7 +122,7 @@
       "title": "Trump: Communities that reject data centers will end up ‘backwards and poor’",
       "body": "It’s the president’s latest line of support for data centers despite growing bipartisan concerns over the cost of such projects.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -133,7 +132,7 @@
       "title": "China’s latest curbs on EU firms look symbolic. That could change.",
       "body": "Beijing’s retaliation against the EU’s Russia sanctions has been limited — but suggestive of how it could weaponize supply chains in future.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -143,7 +142,7 @@
       "title": "6 issues that will shape Ursula von der Leyen’s legacy",
       "body": "With 3 years left in her term, the Commission boss must revive Europe’s industry, defend its rules, bolster security, support Ukraine, expand the bloc — and pay for it all.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -153,7 +152,7 @@
       "title": "Climate and AI to loom large in von der Leyen’s State of the Union",
       "body": "Drafting is advancing on a speech that will set the course for the next phase of Ursula von der Leyen’s Commission.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -163,7 +162,7 @@
       "title": "Indian PM Modi expected to attend December European Council",
       "body": "Participation would enable signing of EU-India trade deal, which opens up market of 2 billion people.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "IN"
@@ -173,7 +172,7 @@
       "title": "The US got Meta to change Instagram and Facebook. Europe wants in.",
       "body": "The European Commission may be looking for bigger changes than Meta agreed to with 47 U.S. states.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -183,7 +182,7 @@
       "title": "Poland asks EU to fine Meta €250 million over scam ads",
       "body": "Polish authorities have notified Meta multiple times, but the company still hasn’t offered “an effective and adequate response” to the issue, the country’s deputy prime minister writes.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -194,7 +193,7 @@
       "title": "Meta’s mega-deal could change the game for social media",
       "body": "Almost all U.S. states are using litigation to impose kids’ protections that Congress failed to pass.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -204,7 +203,7 @@
       "title": "Meta agrees to pay $17B, adopt kids’ safety features to resolve US lawsuits",
       "body": "The tentative agreement is a massive concession from the tech giant.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -214,7 +213,7 @@
       "title": "Andy Burnham has to shape the UK’s social media ban. Australia and France could show him how.",
       "body": "The U.K. can learn from Australia and France’s attempts to kick kids off social media.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "FR"
@@ -224,7 +223,7 @@
       "title": "The trade war came too soon for Mark Carney’s middle powers alliance",
       "body": "The Canadian prime minister called for pro-trade democracies to resist great-power coercion together. Seven months later, he is largely fighting Trump alone.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -234,7 +233,7 @@
       "title": "UN chief tells countries to rein in autonomous weapons",
       "body": "Countries are set to gather in November for talks on weapons which use AI.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -244,7 +243,7 @@
       "title": "Waymo to launch robotaxis in Munich in 2027",
       "body": "The news marks the self-driving taxi company’s first foray into the European Union.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -254,7 +253,7 @@
       "title": "How a 17th-century Irish law is shielding Big Tech from class actions in Europe",
       "body": "Ireland has limits on outside funding for court challenges, stopping Europeans from seeking compensation from Big Tech for harms.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -264,7 +263,7 @@
       "title": "LAYING THE GROUNDWORK FOR AI-POWERED CYBERSECURITY",
       "body": "The EU’s Action Plan on Cybersecurity and AI lays the groundwork for new, AI-powered approaches to IT security but organizations need to ensure their security foundations are fit for purpose.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -274,7 +273,7 @@
       "title": "Parents and politicians love social media bans for kids. Experts worry they’re a shot in the dark.",
       "body": "The science behind kicking kids off social media is murky at best, and experts say it could backfire.",
       "source": "Politico Tech",
-      "date": "4 September 2026",
+      "date": "5 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"

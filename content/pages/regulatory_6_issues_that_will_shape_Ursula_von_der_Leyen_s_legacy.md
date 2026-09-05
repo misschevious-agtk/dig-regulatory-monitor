@@ -2,7 +2,7 @@
 title: 6 issues that will shape Ursula von der Leyen’s legacy
 category: regulatory
 source: Politico Tech
-date: 4 September 2026
+date: 5 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
