@@ -2,7 +2,7 @@
 title: Trump: Communities that reject data centers will end up ‘backwards and poor’
 category: regulatory
 source: Politico Tech
-date: 5 September 2026
+date: 6 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
