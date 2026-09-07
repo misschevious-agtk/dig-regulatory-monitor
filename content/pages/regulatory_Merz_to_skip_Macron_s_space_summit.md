@@ -1,5 +1,5 @@
 ---
-title: Waymo to launch robotaxis in Munich in 2027
+title: Merz to skip Macron’s space summit
 category: regulatory
 source: Politico Tech
 date: 7 September 2026
@@ -7,4 +7,4 @@ url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
 
-The news marks the self-driving taxi company’s first foray into the European Union.
+A spokesperson for the German chancellor blamed his busy schedule.
