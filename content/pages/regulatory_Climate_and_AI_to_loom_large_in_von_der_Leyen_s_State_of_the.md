@@ -2,7 +2,7 @@
 title: Climate and AI to loom large in von der Leyen’s State of the Union
 category: regulatory
 source: Politico Tech
-date: 7 September 2026
+date: 8 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
