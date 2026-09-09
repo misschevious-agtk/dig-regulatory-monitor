@@ -2,7 +2,7 @@
 title: Draghi Report or Hugging Face: who will win the tech race?
 category: ip
 source: Politico Tech
-date: 8 September 2026
+date: 9 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

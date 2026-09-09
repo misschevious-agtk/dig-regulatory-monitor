@@ -2,7 +2,7 @@
 title: Merz to skip Macron’s space summit
 category: regulatory
 source: Politico Tech
-date: 7 September 2026
+date: 9 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

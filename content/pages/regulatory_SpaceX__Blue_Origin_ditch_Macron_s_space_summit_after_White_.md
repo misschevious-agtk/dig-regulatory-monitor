@@ -2,7 +2,7 @@
 title: SpaceX, Blue Origin ditch Macron’s space summit after White House pressure
 category: regulatory
 source: Politico Tech
-date: 8 September 2026
+date: 9 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

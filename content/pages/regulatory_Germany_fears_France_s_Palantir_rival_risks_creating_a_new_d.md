@@ -2,7 +2,7 @@
 title: Germany fears France’s Palantir rival risks creating a new dependency
 category: regulatory
 source: Politico Tech
-date: 8 September 2026
+date: 9 September 2026
 url: https://www.politico.eu/section/technology/
 tags: DE
 ---
