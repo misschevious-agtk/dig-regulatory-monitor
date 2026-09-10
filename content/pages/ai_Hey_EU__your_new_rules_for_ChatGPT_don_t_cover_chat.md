@@ -2,7 +2,7 @@
 title: Hey EU, your new rules for ChatGPT don’t cover chat
 category: ai
 source: Politico Tech
-date: 9 September 2026
+date: 10 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

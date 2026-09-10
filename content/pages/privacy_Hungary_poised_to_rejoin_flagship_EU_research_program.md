@@ -2,7 +2,7 @@
 title: Hungary poised to rejoin flagship EU research program
 category: privacy
 source: Politico Tech
-date: 9 September 2026
+date: 10 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

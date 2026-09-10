@@ -2,7 +2,7 @@
 title: Power-hungry data centers are expanding in Europe. So is the resistance.
 category: regulatory
 source: Politico Tech
-date: 9 September 2026
+date: 10 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
