@@ -2,7 +2,7 @@
 title: Ribera ‘respectfully curious’ as to why a US judge spared Google
 category: regulatory
 source: Politico Tech
-date: 10 September 2026
+date: 11 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

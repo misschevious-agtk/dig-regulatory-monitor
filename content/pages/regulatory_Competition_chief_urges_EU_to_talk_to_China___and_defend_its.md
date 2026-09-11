@@ -2,7 +2,7 @@
 title: Competition chief urges EU to talk to China — and defend its own interests
 category: regulatory
 source: Politico Tech
-date: 10 September 2026
+date: 11 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

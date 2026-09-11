@@ -2,7 +2,7 @@
 title: Europe’s space chief wants decision this year on launching without NASA
 category: regulatory
 source: Politico Tech
-date: 10 September 2026
+date: 11 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

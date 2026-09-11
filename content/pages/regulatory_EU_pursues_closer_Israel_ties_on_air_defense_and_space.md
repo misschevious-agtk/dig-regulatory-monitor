@@ -2,7 +2,7 @@
 title: EU pursues closer Israel ties on air defense and space
 category: regulatory
 source: Politico Tech
-date: 10 September 2026
+date: 11 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
