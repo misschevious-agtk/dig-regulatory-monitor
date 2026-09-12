@@ -2,7 +2,7 @@
 title: King Charles to host exclusive AI gathering
 category: regulatory
 source: Politico Tech
-date: 11 September 2026
+date: 12 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
