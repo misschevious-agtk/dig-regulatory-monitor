@@ -2,7 +2,7 @@
 title: Macron’s space summit showed Europe isn’t ready for takeoff without the US
 category: regulatory
 source: Politico Tech
-date: 12 September 2026
+date: 13 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

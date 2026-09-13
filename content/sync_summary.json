@@ -1,7 +1,8 @@
 {
-  "last_sync": "2026-09-12T10:21:06.835884Z",
+  "last_sync": "2026-09-13T11:22:03.808699Z",
   "changed_files": [
     "ai_Bad_actors_in_China_and_Russia_are_already_weaponizing_Anthr.md",
+    "ai_EU_reveals_its_first_discovery_of_cyber_vulnerabilities_usin.md",
     "ai_Ribera_says_EU_data_centers_should_build_their_own_clean_ene.md",
     "competition_Von_der_Leyen_backs_space_mega-deal_despite_looming_EU_antit.md",
     "ip_Draghi_Report_or_Hugging_Face__who_will_win_the_tech_race_.md",
@@ -16,10 +17,9 @@
     "regulatory_EU_seeks_to_transform_procurement_into__600B_driver_of_indus.md",
     "regulatory_EU_watchdog_probes_von_der_Leyen_s_AI_envoy_pick.md",
     "regulatory_Europe_s_space_chief_wants_decision_this_year_on_launching_w.md",
+    "regulatory_Everyone_wants_a_line_in_Ursula_von_der_Leyen_s_big_speech.md",
     "regulatory_How_Emmanuel_Macron_brought_France_s_AI_darling_to_the_world.md",
-    "regulatory_King_Charles_to_host_exclusive_AI_gathering.md",
     "regulatory_Macron_s_space_summit_showed_Europe_isn_t_ready_for_takeoff_.md",
-    "regulatory_Merz_to_skip_Macron_s_space_summit.md",
     "regulatory_Ribera__respectfully_curious__as_to_why_a_US_judge_spared_Go.md",
     "regulatory_The_Draghi_plan_at_2__Competitiveness_crusade_runs_into_Euro.md",
     "regulatory_US_Democrats_prepare_to_put_AI_under_a_new_microscope.md",
@@ -28,11 +28,11 @@
     "regulatory__I_don_t_have_any___Trump_brushes_aside_concerns_over_AI_s_e.md"
   ],
   "total_changed": 25,
-  "total_articles": 23,
+  "total_articles": 22,
   "by_category": {
     "competition": 1,
     "privacy": 3,
     "ip": 1,
-    "regulatory": 18
+    "regulatory": 17
   }
 }
