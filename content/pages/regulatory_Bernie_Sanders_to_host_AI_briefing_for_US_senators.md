@@ -2,7 +2,7 @@
 title: Bernie Sanders to host AI briefing for US senators
 category: regulatory
 source: Politico Tech
-date: 13 September 2026
+date: 14 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

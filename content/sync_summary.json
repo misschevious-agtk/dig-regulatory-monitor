@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-09-13T11:22:03.808699Z",
+  "last_sync": "2026-09-14T12:14:26.975962Z",
   "changed_files": [
     "ai_Bad_actors_in_China_and_Russia_are_already_weaponizing_Anthr.md",
     "ai_EU_reveals_its_first_discovery_of_cyber_vulnerabilities_usin.md",
+    "ai_EU_tech_chief_backs_global_AI_rules_in_wake_of_extinction_wa.md",
     "ai_Ribera_says_EU_data_centers_should_build_their_own_clean_ene.md",
     "competition_Von_der_Leyen_backs_space_mega-deal_despite_looming_EU_antit.md",
-    "ip_Draghi_Report_or_Hugging_Face__who_will_win_the_tech_race_.md",
     "privacy_5_things_to_know_from_POLITICO_s_interview_with_Teresa_Riber.md",
     "privacy_Inside_the_EU_s_response_to_AI_extinction_warnings.md",
     "privacy_Putin_s_bot_army_is_targeting_German_and_French_elections__S.md",
     "regulatory_AI_is_helping_gangs_grow_illicit_tobacco_networks__EU_audito.md",
     "regulatory_Bernie_Sanders_to_host_AI_briefing_for_US_senators.md",
-    "regulatory_Competition_chief_urges_EU_to_talk_to_China___and_defend_its.md",
-    "regulatory_Costa_puts_EU_taxes_at_heart_of_his_grand_budget_tour.md",
-    "regulatory_EU_pursues_closer_Israel_ties_on_air_defense_and_space.md",
+    "regulatory_California_s_Newsom_signs_online_kid_safety_laws__including_.md",
+    "regulatory_EU_Parliament_ready_to_take_tougher_line_on_China__says_lead.md",
     "regulatory_EU_seeks_to_transform_procurement_into__600B_driver_of_indus.md",
+    "regulatory_EU_to_propose_KIDS_Act_on_social_media_safety.md",
     "regulatory_EU_watchdog_probes_von_der_Leyen_s_AI_envoy_pick.md",
     "regulatory_Europe_s_space_chief_wants_decision_this_year_on_launching_w.md",
     "regulatory_Everyone_wants_a_line_in_Ursula_von_der_Leyen_s_big_speech.md",
     "regulatory_How_Emmanuel_Macron_brought_France_s_AI_darling_to_the_world.md",
+    "regulatory_Iran-backed_Houthis_seize_Red_Sea_port__putting_another_key_.md",
     "regulatory_Macron_s_space_summit_showed_Europe_isn_t_ready_for_takeoff_.md",
     "regulatory_Ribera__respectfully_curious__as_to_why_a_US_judge_spared_Go.md",
     "regulatory_The_Draghi_plan_at_2__Competitiveness_crusade_runs_into_Euro.md",
     "regulatory_US_Democrats_prepare_to_put_AI_under_a_new_microscope.md",
     "regulatory_US_lawmakers_urge_Congress_to_act_after_AI_researcher_s_dire.md",
-    "regulatory__Gambling_with_our_lives___AI_researcher_quits_Anthropic_wit.md",
-    "regulatory__I_don_t_have_any___Trump_brushes_aside_concerns_over_AI_s_e.md"
+    "regulatory__Gambling_with_our_lives___AI_researcher_quits_Anthropic_wit.md"
   ],
   "total_changed": 25,
-  "total_articles": 22,
+  "total_articles": 21,
   "by_category": {
     "competition": 1,
     "privacy": 3,
-    "ip": 1,
+    "ip": 0,
     "regulatory": 17
   }
 }

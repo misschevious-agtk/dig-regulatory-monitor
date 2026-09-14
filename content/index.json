@@ -4,7 +4,7 @@
       "title": "Von der Leyen backs space mega-deal despite looming EU antitrust probe",
       "body": "Brussels officials typically refrain from commenting on ongoing investigations.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -16,7 +16,7 @@
       "title": "Inside the EU’s response to AI extinction warnings",
       "body": "Brussels sees the panic set off in Silicon Valley as vindication that its AI regulation is the right path.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -26,7 +26,7 @@
       "title": "Putin’s bot army is targeting German and French elections, Sweden warns",
       "body": "The country’s Psychological Defence Agency chief told POLITICO that platforms like X, TikTok and Facebook need to do more to combat Russia’s lie machine.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -36,20 +36,20 @@
       "title": "5 things to know from POLITICO’s interview with Teresa Ribera",
       "body": "Inside the EU’s plan to take on Big Tech, Big Oil and Beijing.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
-      "title": "Draghi Report or Hugging Face: who will win the tech race?",
-      "body": "When a swarm of AI agents decided to hack the computation company Hugging Face in July, it took them six days. That event became a case study …",
+      "title": "EU tech chief backs global AI rules in wake of extinction warning",
+      "body": "“Global rules are really needed,” European tech commissioner says after researchers sound alarm over AI risks.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Regulatory"
+        "EU"
       ]
     }
   ],
@@ -58,7 +58,7 @@
       "title": "Von der Leyen backs space mega-deal despite looming EU antitrust probe",
       "body": "Brussels officials typically refrain from commenting on ongoing investigations.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -72,7 +72,7 @@
       "title": "Inside the EU’s response to AI extinction warnings",
       "body": "Brussels sees the panic set off in Silicon Valley as vindication that its AI regulation is the right path.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -82,7 +82,7 @@
       "title": "Putin’s bot army is targeting German and French elections, Sweden warns",
       "body": "The country’s Psychological Defence Agency chief told POLITICO that platforms like X, TikTok and Facebook need to do more to combat Russia’s lie machine.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -92,41 +92,60 @@
       "title": "5 things to know from POLITICO’s interview with Teresa Ribera",
       "body": "Inside the EU’s plan to take on Big Tech, Big Oil and Beijing.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     }
   ],
-  "ip": [
-    {
-      "title": "Draghi Report or Hugging Face: who will win the tech race?",
-      "body": "When a swarm of AI agents decided to hack the computation company Hugging Face in July, it took them six days. That event became a case study …",
-      "source": "Politico Tech",
-      "date": "13 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    }
-  ],
+  "ip": [],
   "regulatory": [
     {
-      "title": "‘I don’t have any’: Trump brushes aside concerns over AI’s existential risks",
-      "body": "The president is instead focusing on American tech maintaining its lead over China.",
+      "title": "EU to propose KIDS Act on social media safety",
+      "body": "The proposal will propose a new enforcement structure similar to existing laws’.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "CN"
+        "EU"
+      ]
+    },
+    {
+      "title": "Iran-backed Houthis seize Red Sea port, putting another key trade route at risk",
+      "body": "With the Strait of Hormuz already snarled up, simultaneous disruption looms at the southern gateway to the Red Sea.",
+      "source": "Politico Tech",
+      "date": "14 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "US"
+      ]
+    },
+    {
+      "title": "EU Parliament ready to take tougher line on China, says lead MEP",
+      "body": "Pascal Canfin, the European Parliament’s China trade rapporteur, says MEPs are ready to back stronger measures against Beijing in the EU’s flagship industry bill.",
+      "source": "Politico Tech",
+      "date": "14 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "California’s Newsom signs online kid safety laws, including rules backed by Sam Altman",
+      "body": "The new state laws come amid rising concern that social media and AI pose health risks to children.",
+      "source": "Politico Tech",
+      "date": "14 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
       ]
     },
     {
       "title": "Everyone wants a line in Ursula von der Leyen’s big speech",
       "body": "Lobbyists and NGOs hope their message gets through to Ursula von der Leyen in time for the big speech.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -136,7 +155,7 @@
       "title": "Macron’s space summit showed Europe isn’t ready for takeoff without the US",
       "body": "The two-day gathering in Paris left some participants disappointed.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -146,7 +165,7 @@
       "title": "EU watchdog probes von der Leyen’s AI envoy pick",
       "body": "NGOs raise concerns about “independence and impartiality” of Siemens chief in EU role.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation",
@@ -157,7 +176,7 @@
       "title": "Bernie Sanders to host AI briefing for US senators",
       "body": "The briefing is expected to take place next week and will include some of the field’s most prominent researchers.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -167,7 +186,7 @@
       "title": "US Democrats prepare to put AI under a new microscope",
       "body": "Democratic leaders are open to creating a new panel to investigate the tech industry if the party wins back the House, according to four people familiar with planning.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -177,7 +196,7 @@
       "title": "How Emmanuel Macron brought France’s AI darling to the world stage",
       "body": "Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "FR"
@@ -187,7 +206,7 @@
       "title": "US lawmakers urge Congress to act after AI researcher’s dire warning",
       "body": "“Not enough of Congress is focusing on this,” Rep. Anna Paulina Luna said on X.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -197,7 +216,7 @@
       "title": "EU seeks to transform procurement into €600B driver of industry",
       "body": "A streamlined rulebook would set clearer guidelines for public authorities — giving a higher weighting for “quality” against cost.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -208,7 +227,7 @@
       "title": "‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety",
       "body": "“The people building AI earnestly believe that it could kill us all by the end of the decade,” staffer says in resignation post after leaving the tech giant.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -218,7 +237,7 @@
       "title": "The Draghi plan at 2: Competitiveness crusade runs into Europe’s old politics",
       "body": "The Commission has acted on much of Mario Draghi’s plan to save Europe’s economy, but national governments are pushing back.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -228,7 +247,7 @@
       "title": "Ribera ‘respectfully curious’ as to why a US judge spared Google",
       "body": "After an American judge threw out a bid by Washington to break up Google, the EU’s competition chief wants to learn more.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -238,7 +257,7 @@
       "title": "AI is helping gangs grow illicit tobacco networks, EU auditor warns",
       "body": "The EU and capitals face many challenges   clamping down on illicit tobacco trade which cause €13 billion annually in lost revenue, ECA said.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -249,40 +268,10 @@
       "title": "Europe’s space chief wants decision this year on launching without NASA",
       "body": "While the continent provides its own hardware to American-led missions, it still relies on the U.S. to send astronauts into orbit.",
       "source": "Politico Tech",
-      "date": "13 September 2026",
+      "date": "14 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "EU pursues closer Israel ties on air defense and space",
-      "body": "Israel Space Agency chief met with EU Commissioner Ekaterina Zaharieva for talks this week.",
-      "source": "Politico Tech",
-      "date": "13 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Competition chief urges EU to talk to China — and defend its own interests",
-      "body": "The EU should avoid treating Beijing as an adversary, argues the Commission’s number two.",
-      "source": "Politico Tech",
-      "date": "13 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Costa puts EU taxes at heart of his grand budget tour",
-      "body": "The European Council president is heading to Berlin, Warsaw and Madrid as EU capitals search for a landing zone on new sources of revenue for the bloc’s next long-term budget.",
-      "source": "Politico Tech",
-      "date": "13 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ]

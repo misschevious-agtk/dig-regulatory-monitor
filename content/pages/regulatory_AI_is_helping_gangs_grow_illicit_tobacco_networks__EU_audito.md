@@ -2,7 +2,7 @@
 title: AI is helping gangs grow illicit tobacco networks, EU auditor warns
 category: regulatory
 source: Politico Tech
-date: 13 September 2026
+date: 14 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, EU
 ---

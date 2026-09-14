@@ -2,7 +2,7 @@
 title: Inside the EU’s response to AI extinction warnings
 category: privacy
 source: Politico Tech
-date: 13 September 2026
+date: 14 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

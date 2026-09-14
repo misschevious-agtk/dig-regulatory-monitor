@@ -2,7 +2,7 @@
 title: How Emmanuel Macron brought France’s AI darling to the world stage
 category: regulatory
 source: Politico Tech
-date: 13 September 2026
+date: 14 September 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---

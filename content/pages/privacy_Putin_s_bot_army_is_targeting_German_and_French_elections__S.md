@@ -2,7 +2,7 @@
 title: Putin’s bot army is targeting German and French elections, Sweden warns
 category: privacy
 source: Politico Tech
-date: 13 September 2026
+date: 14 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
