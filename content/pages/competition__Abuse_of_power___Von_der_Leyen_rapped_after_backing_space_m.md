@@ -2,7 +2,7 @@
 title: ‘Abuse of power’: Von der Leyen rapped after backing space mega deal
 category: competition
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Antitrust
 ---

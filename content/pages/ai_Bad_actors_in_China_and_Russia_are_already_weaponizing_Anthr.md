@@ -2,7 +2,7 @@
 title: Bad actors in China and Russia are already weaponizing Anthropic’s AI
 category: ai
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

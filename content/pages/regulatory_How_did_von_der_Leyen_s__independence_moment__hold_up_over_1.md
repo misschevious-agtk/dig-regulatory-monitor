@@ -2,7 +2,7 @@
 title: How did von der Leyen’s ‘independence moment’ hold up over 12 months?
 category: regulatory
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

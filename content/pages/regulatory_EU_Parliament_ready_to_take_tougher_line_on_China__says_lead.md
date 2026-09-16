@@ -2,7 +2,7 @@
 title: EU Parliament ready to take tougher line on China, says lead MEP
 category: regulatory
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: ‘I don’t have any’: Trump brushes aside concerns over AI’s existential risks
 category: regulatory
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---

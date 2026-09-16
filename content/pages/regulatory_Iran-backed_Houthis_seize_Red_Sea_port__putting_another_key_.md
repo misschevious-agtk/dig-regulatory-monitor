@@ -2,7 +2,7 @@
 title: Iran-backed Houthis seize Red Sea port, putting another key trade route at risk
 category: regulatory
 source: Politico Tech
-date: 15 September 2026
+date: 16 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
