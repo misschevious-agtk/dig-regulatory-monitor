@@ -2,7 +2,7 @@
 title: ‘SICK conspiracy going on against AI’: Trump bids to shut down regulation push
 category: ai
 source: Politico Tech
-date: 16 September 2026
+date: 17 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
