@@ -2,7 +2,7 @@
 title: Von der Leyen tries to stem tide on global threats ― from Trump to AI and climate
 category: regulatory
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

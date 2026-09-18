@@ -2,7 +2,7 @@
 title: Carney puts exclamation point on Europe courtship with French archipelago visit
 category: regulatory
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

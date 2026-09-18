@@ -2,7 +2,7 @@
 title: OpenAI backs bipartisan push to address AI biothreats
 category: ai
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

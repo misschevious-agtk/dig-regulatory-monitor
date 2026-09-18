@@ -2,7 +2,7 @@
 title: Von der Leyen will invite AI leaders to discuss how to ‘pace the frontier’
 category: regulatory
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

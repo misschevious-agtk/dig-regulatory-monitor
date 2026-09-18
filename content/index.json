@@ -4,7 +4,7 @@
       "title": "EU antitrust chief would consider request from AI firms to coordinate on safety",
       "body": "Competition chief Teresa Ribera says she would entertain a request by leading U.S. AI labs to cooperate on safety — but hasn’t received one yet.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -12,43 +12,43 @@
       ]
     },
     {
-      "title": "Poll: Americans say there’s a serious risk of AI destroying humanity",
-      "body": "A new POLITICO Poll finds that a plurality of Americans favor pausing the development of more advanced AI models, and 63 percent say the technology poses at least a moderate risk of destroying humanity.",
+      "title": "What AI urgency? Industry and leaders split on how to handle advanced tech’s threats",
+      "body": "Conversations among lawmakers, tech executives and industry experts at the POLITICO Decoded Summit showed the long road toward reaching a consensus on addressing AI’s potentially existential risks.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
       ]
     },
     {
-      "title": "Nvidia boss on AI safety: ‘We don’t need any new laws’",
-      "body": "The head of one of the most profitable tech companies pushed arguments voiced by the president at a major AI conference as other industry leaders call for a slowdown.",
+      "title": "Poll: Americans say there’s a serious risk of AI destroying humanity",
+      "body": "A new POLITICO Poll finds that a plurality of Americans favor pausing the development of more advanced AI models, and 63 percent say the technology poses at least a moderate risk of destroying humanity.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "UK"
+      ]
+    },
+    {
+      "title": "AI titans invited to Trump-Xi dinner",
+      "body": "The executives’ attendance signals artificial intelligence could be a key talking point during negotiations next week.",
+      "source": "Politico Tech",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
-      "title": "OpenAI backs bipartisan push to address AI biothreats",
-      "body": "The company is endorsing three bills to standardize biological data and defend against threats amplified by advanced artificial intelligence.",
+      "title": "‘The US can’t lose’: Pentagon plows ahead on AI despite warnings",
+      "body": "Military leaders warn the risks of falling behind adversaries in artificial intelligence research outweigh the potential risks of the technology.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "‘SICK conspiracy going on against AI’: Trump bids to shut down regulation push",
-      "body": "He said the U.S. has already done enough, amid calls from leaders to slow the production of artificial intelligence over the weekend.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
+        "US"
       ]
     }
   ],
@@ -57,7 +57,7 @@
       "title": "EU antitrust chief would consider request from AI firms to coordinate on safety",
       "body": "Competition chief Teresa Ribera says she would entertain a request by leading U.S. AI labs to cooperate on safety — but hasn’t received one yet.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Antitrust",
@@ -67,10 +67,20 @@
   ],
   "privacy": [
     {
+      "title": "What AI urgency? Industry and leaders split on how to handle advanced tech’s threats",
+      "body": "Conversations among lawmakers, tech executives and industry experts at the POLITICO Decoded Summit showed the long road toward reaching a consensus on addressing AI’s potentially existential risks.",
+      "source": "Politico Tech",
+      "date": "18 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "UK"
+      ]
+    },
+    {
       "title": "Poll: Americans say there’s a serious risk of AI destroying humanity",
       "body": "A new POLITICO Poll finds that a plurality of Americans favor pausing the development of more advanced AI models, and 63 percent say the technology poses at least a moderate risk of destroying humanity.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -80,20 +90,30 @@
   "ip": [],
   "regulatory": [
     {
-      "title": "Canada’s Carney stops short of endorsing von der Leyen’s associate member plan",
-      "body": "Canadian prime minister says he welcomes “ambition” of European Commission president’s plan in speech in EU Parliament.",
+      "title": "King Charles: Pace of AI is ‘deeply concerning’",
+      "body": "The British monarch will tell tech CEOS the world wants “reassurance that we will not lose control of our destiny.”",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "EU"
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Anthropic policy chief says winning AI race key for safety",
+      "body": "Sarah Heck underscored the need for new rules governing existential risk but said the U.S. must stay in the lead on AI.",
+      "source": "Politico Tech",
+      "date": "18 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
       ]
     },
     {
       "title": "Von der Leyen’s call for talks on pausing AI can’t quell extinction risk fears",
       "body": "The EU chief used her annual State of the European Union address to confront rising panic about AI. What she said showed the limits on her power.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -103,7 +123,7 @@
       "title": "‘AI has been marketed horribly,’ LinkedIn co-founder says",
       "body": "But Reid Hoffman, also a Democratic megadonor, said he still sees a path for an “AI-positive” candidate to prevail in 2028.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -113,7 +133,7 @@
       "title": "‘We absolutely can’t surrender,’ top Republican says of AI race with China",
       "body": "Kentucky Republican Brett Guthrie warns against adopting the kinds of strict regulations that he argues have depressed tech advances in Europe.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -123,7 +143,7 @@
       "title": "12 takeaways from von der Leyen’s State of the Union",
       "body": "Everything you need to know about what was said — and not said — in the European Commission president’s big speech.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -133,7 +153,7 @@
       "title": "EU capitals caught off guard as von der Leyen announces ‘associate membership’ for Canada",
       "body": "Further alignment than currently planned would create new issues around steel, cars, genetically modified crops and other substantive issues, diplomats said.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -143,7 +163,7 @@
       "title": "Von der Leyen tries to stem tide on global threats ― from Trump to AI and climate",
       "body": "At time of “great perils,” the State of the Union speech pushes European “independence” while floating unique “associate membership” for Canada.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -153,7 +173,7 @@
       "title": "EU wants Canada to become ‘associate member,’ von der Leyen says",
       "body": "European Commission president proposes a new “Alliance for the Future” to build on existing trade EU-Canada trade agreement.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -163,7 +183,7 @@
       "title": "Von der Leyen will invite AI leaders to discuss how to ‘pace the frontier’",
       "body": "Fears are escalating over AI following warnings from tech titans.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +193,7 @@
       "title": "EU-China trade deficit has hit ‘tipping point,’ warns von der Leyen",
       "body": "“We will use all tools at our disposal to rebalance our relationship,” says European Commission president.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -183,7 +203,7 @@
       "title": "OpenAI: AI capabilities are in a ‘different place’ and require urgency",
       "body": "The company’s top lobbyist believes there’s still a window for policy.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -193,7 +213,17 @@
       "title": "EU countries to discuss AI rules as Trump calls safety warnings a ‘hoax’",
       "body": "Officials are set to gather in Brussels this week amid growing calls for regulation, including from key figures in the tech industry.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "Why the EU and Canada are betting on an AI ‘middle powers’ play",
+      "body": "With Von der Leyen and Carney touting a tech alliance, Canadian-German AI player Cohere embodies the potential to challenge the China-U.S. race for dominance.",
+      "source": "Politico Tech",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -203,7 +233,7 @@
       "title": "Carney puts exclamation point on Europe courtship with French archipelago visit",
       "body": "The French and Canadian leaders will meet in Saint-Pierre and Miquelon as Ottawa reorients its foreign relations away from Washington.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -213,60 +243,10 @@
       "title": "Von der Leyen’s warring EU Parliament allies want her to pick a side. Can she appease them?",
       "body": "Last year the State of the Union speech was followed by a shouting match between von der Leyen’s allies.",
       "source": "Politico Tech",
-      "date": "17 September 2026",
+      "date": "18 September 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
-      ]
-    },
-    {
-      "title": "Ukraine races for a solution to Russian jet-powered drones",
-      "body": "The Kremlin’s newest innovation is causing havoc for Kyiv’s air defenses.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Von der Leyen to skip Carney speech in EU Parliament",
-      "body": "Canadian prime minister will watch Commission president’s speech but she won’t be there when he speaks.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "EU to limit access to social media before age of 15",
-      "body": "New “EU KIDS Act” would require TikTok and Instagram to create safer accounts for younger users.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "7 things von der Leyen will say in her State of the Union speech",
-      "body": "Here’s what the European Commission president will announce in her biggest address of the year.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "The ideas shaping von der Leyen’s pitch to Carney",
-      "body": "From defense to critical raw materials, a new wave of EU-Canada agreements is on the horizon.",
-      "source": "Politico Tech",
-      "date": "17 September 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
       ]
     }
   ]

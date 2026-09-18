@@ -2,7 +2,7 @@
 title: Von der Leyen’s warring EU Parliament allies want her to pick a side. Can she appease them?
 category: regulatory
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

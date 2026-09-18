@@ -2,7 +2,7 @@
 title: EU-China trade deficit has hit ‘tipping point,’ warns von der Leyen
 category: regulatory
 source: Politico Tech
-date: 17 September 2026
+date: 18 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
