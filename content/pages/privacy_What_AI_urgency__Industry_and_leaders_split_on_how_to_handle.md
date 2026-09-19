@@ -2,7 +2,7 @@
 title: What AI urgency? Industry and leaders split on how to handle advanced tech’s threats
 category: privacy
 source: Politico Tech
-date: 18 September 2026
+date: 19 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

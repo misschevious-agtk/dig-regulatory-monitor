@@ -1,17 +1,16 @@
 {
-  "last_sync": "2026-09-18T10:51:34.756550Z",
+  "last_sync": "2026-09-19T10:33:54.225520Z",
   "changed_files": [
-    "ai_AI_titans_invited_to_Trump-Xi_dinner.md",
     "ai_Hugging_Face_CEO__Advanced_AI_models_require_new_transparenc.md",
     "ai_Nvidia_boss_on_AI_safety___We_don_t_need_any_new_laws_.md",
     "ai_OpenAI_backs_bipartisan_push_to_address_AI_biothreats.md",
-    "ai__SICK_conspiracy_going_on_against_AI___Trump_bids_to_shut_do.md",
     "ai__The_US_can_t_lose___Pentagon_plows_ahead_on_AI_despite_warn.md",
     "competition_EU_antitrust_chief_would_consider_request_from_AI_firms_to_c.md",
     "privacy_Poll__Americans_say_there_s_a_serious_risk_of_AI_destroying_.md",
     "privacy_What_AI_urgency__Industry_and_leaders_split_on_how_to_handle.md",
     "regulatory_12_takeaways_from_von_der_Leyen_s_State_of_the_Union.md",
     "regulatory_Anthropic_policy_chief_says_winning_AI_race_key_for_safety.md",
+    "regulatory_California_s_Newsom_signs_executive_order_to_explore_new_AI_.md",
     "regulatory_Carney_puts_exclamation_point_on_Europe_courtship_with_Frenc.md",
     "regulatory_EU-China_trade_deficit_has_hit__tipping_point___warns_von_de.md",
     "regulatory_EU_capitals_caught_off_guard_as_von_der_Leyen_announces__ass.md",
@@ -19,6 +18,7 @@
     "regulatory_EU_wants_Canada_to_become__associate_member___von_der_Leyen_.md",
     "regulatory_King_Charles__Pace_of_AI_is__deeply_concerning_.md",
     "regulatory_OpenAI__AI_capabilities_are_in_a__different_place__and_requi.md",
+    "regulatory_OpenAI_finds_6_new_cases_of__concerning__AI_behavior.md",
     "regulatory_Von_der_Leyen_s_call_for_talks_on_pausing_AI_can_t_quell_ext.md",
     "regulatory_Von_der_Leyen_s_warring_EU_Parliament_allies_want_her_to_pic.md",
     "regulatory_Von_der_Leyen_tries_to_stem_tide_on_global_threats___from_Tr.md",
@@ -28,11 +28,11 @@
     "regulatory__We_absolutely_can_t_surrender___top_Republican_says_of_AI_r.md"
   ],
   "total_changed": 25,
-  "total_articles": 19,
+  "total_articles": 21,
   "by_category": {
     "competition": 1,
     "privacy": 2,
     "ip": 0,
-    "regulatory": 16
+    "regulatory": 18
   }
 }
