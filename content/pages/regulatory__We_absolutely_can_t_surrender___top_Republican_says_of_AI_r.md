@@ -2,7 +2,7 @@
 title: ‘We absolutely can’t surrender,’ top Republican says of AI race with China
 category: regulatory
 source: Politico Tech
-date: 19 September 2026
+date: 20 September 2026
 url: https://www.politico.eu/section/technology/
 tags: CN
 ---

@@ -2,7 +2,7 @@
 title: EU capitals caught off guard as von der Leyen announces ‘associate membership’ for Canada
 category: regulatory
 source: Politico Tech
-date: 19 September 2026
+date: 20 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
