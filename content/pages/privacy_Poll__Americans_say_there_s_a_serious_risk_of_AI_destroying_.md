@@ -2,7 +2,7 @@
 title: Poll: Americans say there’s a serious risk of AI destroying humanity
 category: privacy
 source: Politico Tech
-date: 20 September 2026
+date: 21 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

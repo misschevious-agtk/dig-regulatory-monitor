@@ -2,7 +2,7 @@
 title: Von der Leyen’s call for talks on pausing AI can’t quell extinction risk fears
 category: regulatory
 source: Politico Tech
-date: 20 September 2026
+date: 21 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

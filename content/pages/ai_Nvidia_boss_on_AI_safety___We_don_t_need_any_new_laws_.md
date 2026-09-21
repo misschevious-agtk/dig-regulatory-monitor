@@ -2,7 +2,7 @@
 title: Nvidia boss on AI safety: ‘We don’t need any new laws’
 category: ai
 source: Politico Tech
-date: 20 September 2026
+date: 21 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

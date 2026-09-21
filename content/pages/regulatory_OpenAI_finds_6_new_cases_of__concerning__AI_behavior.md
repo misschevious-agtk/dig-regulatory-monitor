@@ -2,7 +2,7 @@
 title: OpenAI finds 6 new cases of ‘concerning’ AI behavior
 category: regulatory
 source: Politico Tech
-date: 20 September 2026
+date: 21 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

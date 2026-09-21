@@ -1,6 +1,7 @@
 {
-  "last_sync": "2026-09-20T10:56:44.116005Z",
+  "last_sync": "2026-09-21T12:22:26.579772Z",
   "changed_files": [
+    "ai_AI_king_Jensen_Huang_pushes__responsible_optimism__at_King_C.md",
     "ai_Hugging_Face_CEO__Advanced_AI_models_require_new_transparenc.md",
     "ai_Nvidia_boss_on_AI_safety___We_don_t_need_any_new_laws_.md",
     "ai_OpenAI_backs_bipartisan_push_to_address_AI_biothreats.md",
@@ -10,29 +11,28 @@
     "privacy_What_AI_urgency__Industry_and_leaders_split_on_how_to_handle.md",
     "regulatory_12_takeaways_from_von_der_Leyen_s_State_of_the_Union.md",
     "regulatory_Anthropic_policy_chief_says_winning_AI_race_key_for_safety.md",
-    "regulatory_California_s_Newsom_signs_executive_order_to_explore_new_AI_.md",
     "regulatory_Canada_s_Carney_stops_short_of_endorsing_von_der_Leyen_s_ass.md",
-    "regulatory_Carney_puts_exclamation_point_on_Europe_courtship_with_Frenc.md",
     "regulatory_EU-China_trade_deficit_has_hit__tipping_point___warns_von_de.md",
     "regulatory_EU_capitals_caught_off_guard_as_von_der_Leyen_announces__ass.md",
-    "regulatory_EU_countries_to_discuss_AI_rules_as_Trump_calls_safety_warni.md",
+    "regulatory_EU_pressures_Big_Tech_to_go_green_with_new_data_center_susta.md",
     "regulatory_EU_wants_Canada_to_become__associate_member___von_der_Leyen_.md",
+    "regulatory_European_Investment_Bank_chief_heads_to_Ottawa_amid_warming_.md",
+    "regulatory_Jensen_Huang__Don_t_regulate_AI_like_social_media.md",
     "regulatory_King_Charles__Pace_of_AI_is__deeply_concerning_.md",
     "regulatory_OpenAI__AI_capabilities_are_in_a__different_place__and_requi.md",
     "regulatory_OpenAI_finds_6_new_cases_of__concerning__AI_behavior.md",
     "regulatory_Von_der_Leyen_s_call_for_talks_on_pausing_AI_can_t_quell_ext.md",
     "regulatory_Von_der_Leyen_tries_to_stem_tide_on_global_threats___from_Tr.md",
     "regulatory_Von_der_Leyen_will_invite_AI_leaders_to_discuss_how_to__pace.md",
-    "regulatory_Why_the_EU_and_Canada_are_betting_on_an_AI__middle_powers__p.md",
     "regulatory__AI_has_been_marketed_horribly___LinkedIn_co-founder_says.md",
     "regulatory__We_absolutely_can_t_surrender___top_Republican_says_of_AI_r.md"
   ],
   "total_changed": 25,
-  "total_articles": 21,
+  "total_articles": 20,
   "by_category": {
     "competition": 1,
     "privacy": 2,
     "ip": 0,
-    "regulatory": 18
+    "regulatory": 17
   }
 }
