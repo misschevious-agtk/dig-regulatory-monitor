@@ -2,7 +2,7 @@
 title: European Investment Bank chief heads to Ottawa amid warming EU-Canada ties
 category: regulatory
 source: Politico Tech
-date: 21 September 2026
+date: 22 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

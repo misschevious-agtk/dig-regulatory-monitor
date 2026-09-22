@@ -2,7 +2,7 @@
 title: EU antitrust chief would consider request from AI firms to coordinate on safety
 category: competition
 source: Politico Tech
-date: 21 September 2026
+date: 22 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Antitrust, EU
 ---

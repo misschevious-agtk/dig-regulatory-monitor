@@ -2,7 +2,7 @@
 title: King Charles: Pace of AI is ‘deeply concerning’
 category: regulatory
 source: Politico Tech
-date: 21 September 2026
+date: 22 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: AI titans invited to Trump-Xi dinner
 category: ai
 source: Politico Tech
-date: 18 September 2026
+date: 22 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: 12 takeaways from von der Leyen’s State of the Union
 category: regulatory
 source: Politico Tech
-date: 21 September 2026
+date: 22 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
