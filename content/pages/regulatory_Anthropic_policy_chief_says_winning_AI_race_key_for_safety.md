@@ -2,7 +2,7 @@
 title: Anthropic policy chief says winning AI race key for safety
 category: regulatory
 source: Politico Tech
-date: 22 September 2026
+date: 23 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

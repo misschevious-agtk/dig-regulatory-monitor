@@ -2,7 +2,7 @@
 title: ‘The US can’t lose’: Pentagon plows ahead on AI despite warnings
 category: ai
 source: Politico Tech
-date: 22 September 2026
+date: 23 September 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

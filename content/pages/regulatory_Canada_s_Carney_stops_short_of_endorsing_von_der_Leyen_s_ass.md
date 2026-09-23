@@ -2,7 +2,7 @@
 title: Canada’s Carney stops short of endorsing von der Leyen’s associate member plan
 category: regulatory
 source: Politico Tech
-date: 22 September 2026
+date: 23 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
