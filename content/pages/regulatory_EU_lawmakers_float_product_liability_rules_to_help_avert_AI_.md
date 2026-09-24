@@ -2,7 +2,7 @@
 title: EU lawmakers float product liability rules to help avert AI disaster
 category: regulatory
 source: Politico Tech
-date: 23 September 2026
+date: 24 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
