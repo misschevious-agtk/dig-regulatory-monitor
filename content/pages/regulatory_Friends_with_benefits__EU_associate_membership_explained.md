@@ -2,7 +2,7 @@
 title: Friends with benefits: EU associate membership explained
 category: regulatory
 source: Politico Tech
-date: 24 September 2026
+date: 25 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -1,28 +1,28 @@
 {
-  "last_sync": "2026-09-24T11:22:43.806560Z",
+  "last_sync": "2026-09-25T11:28:20.625066Z",
   "changed_files": [
     "ai_AI_king_Jensen_Huang_pushes__responsible_optimism__at_King_C.md",
     "ai_AI_titans_invited_to_Trump-Xi_dinner.md",
-    "ai_Hugging_Face_CEO__Advanced_AI_models_require_new_transparenc.md",
+    "ai_OpenAI_model_breaches_Australian_government_websites.md",
     "ai_UK_will_aim_for__single_set__of_global_AI_standards_at_G20.md",
-    "ai__The_US_can_t_lose___Pentagon_plows_ahead_on_AI_despite_warn.md",
+    "ai_US__Chinese_visions_for_AI_regulation_differ_sharply_at_UN_m.md",
     "privacy_22_countries_back_call_to_keep_AI__under_human_control_.md",
+    "privacy_AI_anxiety_is_sweeping_the_globe___and_cutting_across_party_.md",
     "privacy_Costa_losing_touch__with_reality__on_EU_budget__Germany_says.md",
+    "privacy_EU_and_Canada_to_unveil_new_partnership__but_it_may_not_be__.md",
     "privacy_EU_budget_needs_taxes_governments_aren_t_already_raising__Co.md",
     "privacy_Google_hit_with__403M_privacy_fine_over_handling_of_user_loc.md",
     "privacy_Parents__privacy__parliaments__The_battle_begins_for_von_der.md",
-    "privacy_What_AI_urgency__Industry_and_leaders_split_on_how_to_handle.md",
+    "privacy_Von_der_Leyen_ally_slams_EU_Commission_s_AI_response.md",
     "regulatory_California_s_Newsom_signs_executive_order_to_explore_new_AI_.md",
     "regulatory_Canada_s_Carney_stops_short_of_endorsing_von_der_Leyen_s_ass.md",
+    "regulatory_Cybercriminal_group_claims_to_steal_thousands_of_FBI_employe.md",
     "regulatory_EU_lawmakers_float_product_liability_rules_to_help_avert_AI_.md",
     "regulatory_EU_pressures_Big_Tech_to_go_green_with_new_data_center_susta.md",
     "regulatory_European_Investment_Bank_chief_heads_to_Ottawa_amid_warming_.md",
     "regulatory_Friends_with_benefits__EU_associate_membership_explained.md",
     "regulatory_Jensen_Huang__Don_t_regulate_AI_like_social_media.md",
-    "regulatory_King_Charles__Pace_of_AI_is__deeply_concerning_.md",
-    "regulatory_OpenAI_finds_6_new_cases_of__concerning__AI_behavior.md",
     "regulatory_Rogue_AI_warnings_are_mostly__marketing___top_European_AI_CE.md",
-    "regulatory_The_world_wants_to_secure_AI__It_may_have_to_try_without_the.md",
     "regulatory_Trump_rejects_global_entity_for_AI_oversight.md",
     "regulatory_UK_seeks_to_broker_global_AI_agreement_at_G20.md"
   ],
@@ -30,8 +30,8 @@
   "total_articles": 19,
   "by_category": {
     "competition": 0,
-    "privacy": 6,
+    "privacy": 8,
     "ip": 0,
-    "regulatory": 13
+    "regulatory": 11
   }
 }
