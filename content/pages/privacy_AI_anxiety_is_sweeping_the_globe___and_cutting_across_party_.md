@@ -2,7 +2,7 @@
 title: AI anxiety is sweeping the globe — and cutting across party lines
 category: privacy
 source: Politico Tech
-date: 25 September 2026
+date: 26 September 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
