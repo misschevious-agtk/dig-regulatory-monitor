@@ -2,7 +2,7 @@
 title: OpenAI model breaches Australian government websites
 category: ai
 source: Politico Tech
-date: 26 September 2026
+date: 27 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

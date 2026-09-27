@@ -2,7 +2,7 @@
 title: EU pressures Big Tech to go green with new data center sustainability label
 category: regulatory
 source: Politico Tech
-date: 26 September 2026
+date: 27 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: EU budget needs taxes governments aren’t already raising, Costa says
 category: privacy
 source: Politico Tech
-date: 26 September 2026
+date: 27 September 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
