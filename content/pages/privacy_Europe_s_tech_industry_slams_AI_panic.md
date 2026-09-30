@@ -2,7 +2,7 @@
 title: Europe’s tech industry slams AI panic
 category: privacy
 source: Politico Tech
-date: 29 September 2026
+date: 30 September 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
