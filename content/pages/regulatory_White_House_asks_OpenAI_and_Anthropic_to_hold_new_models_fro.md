@@ -2,7 +2,7 @@
 title: White House asks OpenAI and Anthropic to hold new models from UK testers until US review
 category: regulatory
 source: Politico Tech
-date: 30 September 2026
+date: 1 October 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

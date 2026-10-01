@@ -2,7 +2,7 @@
 title: EU’s top AI adviser urges commissioners to use the tech to fix bloc’s economy
 category: regulatory
 source: Politico Tech
-date: 30 September 2026
+date: 1 October 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

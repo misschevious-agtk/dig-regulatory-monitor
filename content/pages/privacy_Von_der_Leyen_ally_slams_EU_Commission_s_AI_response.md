@@ -2,7 +2,7 @@
 title: Von der Leyen ally slams EU Commission’s AI response
 category: privacy
 source: Politico Tech
-date: 30 September 2026
+date: 1 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

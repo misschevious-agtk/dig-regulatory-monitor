@@ -2,7 +2,7 @@
 title: 22 countries back call to keep AI ‘under human control’
 category: privacy
 source: Politico Tech
-date: 30 September 2026
+date: 1 October 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
