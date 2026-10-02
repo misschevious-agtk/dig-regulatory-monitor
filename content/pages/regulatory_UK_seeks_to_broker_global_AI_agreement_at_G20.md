@@ -2,7 +2,7 @@
 title: UK seeks to broker global AI agreement at G20
 category: regulatory
 source: Politico Tech
-date: 1 October 2026
+date: 2 October 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

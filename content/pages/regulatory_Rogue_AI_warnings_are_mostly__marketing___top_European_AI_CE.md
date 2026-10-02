@@ -2,7 +2,7 @@
 title: Rogue AI warnings are mostly ‘marketing,’ top European AI CEO says
 category: regulatory
 source: Politico Tech
-date: 1 October 2026
+date: 2 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

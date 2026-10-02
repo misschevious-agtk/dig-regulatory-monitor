@@ -2,7 +2,7 @@
 title: Trump rejects global entity for AI oversight
 category: regulatory
 source: Politico Tech
-date: 1 October 2026
+date: 2 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
