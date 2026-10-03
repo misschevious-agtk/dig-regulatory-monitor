@@ -2,7 +2,7 @@
 title: The world wants to secure AI. It may have to try without the US.
 category: regulatory
 source: Politico Tech
-date: 2 October 2026
+date: 3 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Costa losing touch ‘with reality’ on EU budget, Germany says
 category: privacy
 source: Politico Tech
-date: 2 October 2026
+date: 3 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

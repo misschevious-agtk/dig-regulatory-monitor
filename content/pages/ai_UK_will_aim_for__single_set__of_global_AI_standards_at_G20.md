@@ -2,7 +2,7 @@
 title: UK will aim for ‘single set’ of global AI standards at G20
 category: ai
 source: Politico Tech
-date: 2 October 2026
+date: 3 October 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
