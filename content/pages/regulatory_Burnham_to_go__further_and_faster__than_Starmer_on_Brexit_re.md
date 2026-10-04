@@ -2,7 +2,7 @@
 title: Burnham to go ‘further and faster’ than Starmer on Brexit reset
 category: regulatory
 source: Politico Tech
-date: 3 October 2026
+date: 4 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

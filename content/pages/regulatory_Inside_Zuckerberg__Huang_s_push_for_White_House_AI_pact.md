@@ -2,7 +2,7 @@
 title: Inside Zuckerberg, Huang’s push for White House AI pact
 category: regulatory
 source: Politico Tech
-date: 3 October 2026
+date: 4 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
