@@ -2,7 +2,7 @@
 title: EU and Canada to unveil new partnership, but it may not be ‘associate membership,’ says ambassador
 category: privacy
 source: Politico Tech
-date: 4 October 2026
+date: 5 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
