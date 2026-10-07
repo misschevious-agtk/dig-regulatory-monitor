@@ -1,18 +1,17 @@
 {
-  "last_sync": "2026-10-06T13:01:45.876899Z",
+  "last_sync": "2026-10-07T12:56:10.755920Z",
   "changed_files": [
     "ai_Bill_Gates_says_an_AI__kill_switch__isn_t_enough.md",
     "ai_EU_to_Trump__We_will_keep_pushing_for_global_AI_safety_rules.md",
     "ai_OpenAI_model_breaches_Australian_government_websites.md",
-    "ai_UK_will_aim_for__single_set__of_global_AI_standards_at_G20.md",
+    "ai_Read_the_charter_for_the_White_House_s__Super_Intelligence_F.md",
     "ai_US__Chinese_visions_for_AI_regulation_differ_sharply_at_UN_m.md",
     "ai__Do_better_for_Australia___OpenAI_apologizes_for_unauthorize.md",
     "ip_Florida_seeks_injunction_to_hamper_OpenAI_development.md",
     "privacy_AI_anxiety_is_sweeping_the_globe___and_cutting_across_party_.md",
+    "privacy_Arms-maker_urges_Europe_to_let_defense_firms_take_down_hosti.md",
     "privacy_EU_Parliament_president_urges_Germany_to_do_deal_in_US_drug_.md",
     "privacy_EU_and_Canada_to_announce_sweeping_new_partnership_pact.md",
-    "privacy_EU_and_Canada_to_unveil_new_partnership__but_it_may_not_be__.md",
-    "privacy_Europe_s_AI_policing_plan_stokes_privacy_concerns.md",
     "privacy_Europe_s_tech_industry_slams_AI_panic.md",
     "privacy_Von_der_Leyen_ally_slams_EU_Commission_s_AI_response.md",
     "regulatory_Andy_Burnham_keeps_his_options_open_on_Brexit.md",
@@ -20,10 +19,11 @@
     "regulatory_Cybercriminal_group_claims_to_steal_thousands_of_FBI_employe.md",
     "regulatory_EU_accused_of_hiding_environmental_impact_of_data_centers.md",
     "regulatory_EU_s_top_AI_adviser_urges_commissioners_to_use_the_tech_to_f.md",
+    "regulatory_Europe_is_fighting_the_wrong_AI_sovereignty_battle.md",
     "regulatory_Inside_Zuckerberg__Huang_s_push_for_White_House_AI_pact.md",
     "regulatory_Peter_Thiel_slams_pope_s_AI_encyclical_as_gift_to_Chinese_Co.md",
+    "regulatory_Sam_Altman_to_Decoded___The_world_should_accept_some_bad_thi.md",
     "regulatory_The_world_wants_to_secure_AI__It_may_have_to_try_without_the.md",
-    "regulatory_Trump_rejects_global_entity_for_AI_oversight.md",
     "regulatory_White_House_asks_OpenAI_and_Anthropic_to_hold_new_models_fro.md",
     "regulatory__Absolute_s_t___EU_s_Microsoft_Teams_alternative_draws_bad_r.md"
   ],
@@ -31,8 +31,8 @@
   "total_articles": 19,
   "by_category": {
     "competition": 0,
-    "privacy": 7,
+    "privacy": 6,
     "ip": 1,
-    "regulatory": 11
+    "regulatory": 12
   }
 }

@@ -2,7 +2,7 @@
 title: EU and Canada to announce sweeping new partnership pact
 category: privacy
 source: Politico Tech
-date: 6 October 2026
+date: 7 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
