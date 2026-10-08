@@ -2,7 +2,7 @@
 title: Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI
 category: regulatory
 source: Politico Tech
-date: 7 October 2026
+date: 8 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
