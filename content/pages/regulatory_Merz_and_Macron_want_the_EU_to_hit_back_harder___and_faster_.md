@@ -2,7 +2,7 @@
 title: Merz and Macron want the EU to hit back harder — and faster — against trade threats
 category: regulatory
 source: Politico Tech
-date: 8 October 2026
+date: 9 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

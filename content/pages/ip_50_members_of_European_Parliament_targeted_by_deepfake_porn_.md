@@ -2,7 +2,7 @@
 title: 50 members of European Parliament targeted by deepfake porn, report says
 category: ip
 source: Politico Tech
-date: 8 October 2026
+date: 9 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

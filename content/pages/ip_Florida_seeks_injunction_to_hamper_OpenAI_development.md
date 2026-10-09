@@ -2,7 +2,7 @@
 title: Florida seeks injunction to hamper OpenAI development
 category: ip
 source: Politico Tech
-date: 8 October 2026
+date: 9 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

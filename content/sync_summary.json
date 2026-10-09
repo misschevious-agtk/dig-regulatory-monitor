@@ -1,15 +1,16 @@
 {
-  "last_sync": "2026-10-08T13:04:26.079223Z",
+  "last_sync": "2026-10-09T12:50:56.078341Z",
   "changed_files": [
     "ai_Bill_Gates_says_an_AI__kill_switch__isn_t_enough.md",
+    "ai_EU_cyber_and_science_researchers_are_testing_Chinese_AI_mode.md",
     "ai_EU_to_Trump__We_will_keep_pushing_for_global_AI_safety_rules.md",
-    "ai_OpenAI_model_breaches_Australian_government_websites.md",
     "ai__Do_better_for_Australia___OpenAI_apologizes_for_unauthorize.md",
     "ip_50_members_of_European_Parliament_targeted_by_deepfake_porn_.md",
     "ip_Florida_seeks_injunction_to_hamper_OpenAI_development.md",
     "privacy_Arms-maker_urges_Europe_to_let_defense_firms_take_down_hosti.md",
     "privacy_EU_Parliament_president_urges_Germany_to_do_deal_in_US_drug_.md",
     "privacy_EU_and_Canada_to_announce_sweeping_new_partnership_pact.md",
+    "privacy_Europe_s_AI_policing_plan_stokes_privacy_concerns.md",
     "privacy_Europe_s_tech_industry_slams_AI_panic.md",
     "privacy_Macron_is_most_impressive_world_leader_on_AI__says_Altman.md",
     "privacy_Von_der_Leyen_ally_slams_EU_Commission_s_AI_response.md",
@@ -26,11 +27,11 @@
     "regulatory_White_House_asks_OpenAI_and_Anthropic_to_hold_new_models_fro.md",
     "regulatory__Absolute_s_t___EU_s_Microsoft_Teams_alternative_draws_bad_r.md"
   ],
-  "total_changed": 24,
-  "total_articles": 20,
+  "total_changed": 25,
+  "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 6,
+    "privacy": 7,
     "ip": 2,
     "regulatory": 12
   }

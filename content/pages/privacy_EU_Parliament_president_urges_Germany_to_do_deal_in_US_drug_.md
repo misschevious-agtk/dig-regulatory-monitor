@@ -2,7 +2,7 @@
 title: EU Parliament president urges Germany to do deal in US drug pricing dispute
 category: privacy
 source: Politico Tech
-date: 8 October 2026
+date: 9 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
