@@ -4,7 +4,7 @@
       "title": "Europe’s AI policing plan stokes privacy concerns",
       "body": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -15,7 +15,7 @@
       "title": "Macron is most impressive world leader on AI, says Altman",
       "body": "OpenAI CEO tells Decoded by POLITICO the French president is “extremely thoughtful and has been for a long time about where this is going.”",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -25,7 +25,7 @@
       "title": "Arms-maker urges Europe to let defense firms take down hostile drones",
       "body": "Weapons manufacturers should be treated as critical infrastructure, a top executive at KNDS tells POLITICO.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -35,7 +35,7 @@
       "title": "EU and Canada to announce sweeping new partnership pact",
       "body": "From critical raw materials to fighting wildfires, a document obtained by POLITICO reveals a wide-ranging expansion in relations.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -45,7 +45,7 @@
       "title": "Von der Leyen ally slams EU Commission’s AI response",
       "body": "Axel Voss, a Conservative German member of the European Parliament, told POLITICO that the EU is responding too slowly to AI threats.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -58,7 +58,7 @@
       "title": "Europe’s AI policing plan stokes privacy concerns",
       "body": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -69,7 +69,7 @@
       "title": "Macron is most impressive world leader on AI, says Altman",
       "body": "OpenAI CEO tells Decoded by POLITICO the French president is “extremely thoughtful and has been for a long time about where this is going.”",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -79,7 +79,7 @@
       "title": "Arms-maker urges Europe to let defense firms take down hostile drones",
       "body": "Weapons manufacturers should be treated as critical infrastructure, a top executive at KNDS tells POLITICO.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -89,7 +89,7 @@
       "title": "EU and Canada to announce sweeping new partnership pact",
       "body": "From critical raw materials to fighting wildfires, a document obtained by POLITICO reveals a wide-ranging expansion in relations.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -99,7 +99,7 @@
       "title": "Von der Leyen ally slams EU Commission’s AI response",
       "body": "Axel Voss, a Conservative German member of the European Parliament, told POLITICO that the EU is responding too slowly to AI threats.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -109,20 +109,10 @@
       "title": "EU Parliament president urges Germany to do deal in US drug pricing dispute",
       "body": "A deal between Washington and Berlin is needed to avoid an “impossible” race on drugs, Roberta Metsola told POLITICO.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
-      ]
-    },
-    {
-      "title": "Europe’s tech industry slams AI panic",
-      "body": "The existential fear emanating from Silicon Valley and the U.N., techies say, masks what is ultimately a cybersecurity challenge.",
-      "source": "Politico Tech",
-      "date": "9 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
       ]
     }
   ],
@@ -131,7 +121,7 @@
       "title": "50 members of European Parliament targeted by deepfake porn, report says",
       "body": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday. The number of women targeted by deepfake …",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -141,7 +131,7 @@
       "title": "Florida seeks injunction to hamper OpenAI development",
       "body": "Uthmeier cited newly disclosed breaches of U.S. and Australian government websites, along with reports of OpenAI agents going rogue.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -150,10 +140,20 @@
   ],
   "regulatory": [
     {
+      "title": "Turkey bans social media for kids under 15",
+      "body": "The law comes amid a global push for tougher age restrictions on social media platforms.",
+      "source": "Politico Tech",
+      "date": "10 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
       "body": "France and Germany want to give Brussels new powers to rapidly block imports deemed an economic or security threat.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -163,7 +163,7 @@
       "title": "Europe is fighting the wrong AI sovereignty battle",
       "body": "POLITICAL ADVERTISEMENT More information here.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +173,7 @@
       "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
       "body": "The OpenAI CEO sought to distinguish his policy stance from rival developer Anthropic.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -183,7 +183,7 @@
       "title": "Inside Zuckerberg, Huang’s push for White House AI pact",
       "body": "The tech leaders helped build support for the “morally binding” accords signed by President Trump and AI leaders at a White House lunch.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -193,7 +193,7 @@
       "title": "‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials",
       "body": "The U.S. would “instantly” win a hypothetical tech war, an official moaned.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -203,7 +203,7 @@
       "title": "EU accused of hiding environmental impact of data centers",
       "body": "A formal complaint says the European Commission is keeping data center energy and water use under wraps, breaching the public’s right to know.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -213,7 +213,7 @@
       "title": "Andy Burnham keeps his options open on Brexit",
       "body": "The U.K. prime minister said he would lay out different paths for the future EU relationship at a summit later this year.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -223,7 +223,7 @@
       "title": "Burnham to go ‘further and faster’ than Starmer on Brexit reset",
       "body": "The U.K. prime minister is due to set out his vision for relations with the EU during a major speech on Tuesday.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -233,7 +233,7 @@
       "title": "EU’s top AI adviser urges commissioners to use the tech to fix bloc’s economy",
       "body": "The bloc’s new AI envoy wants Brussels to focus on using AI to lift productivity, rather than chasing U.S. and Chinese models.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -243,7 +243,7 @@
       "title": "Peter Thiel slams pope’s AI encyclical as gift to Chinese Communist Party",
       "body": "The tech billionaire argued that Pope Leo XIV’s call to regulate AI could slow the West while China surges ahead with the technology.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "CN"
@@ -253,7 +253,7 @@
       "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review",
       "body": "U.K. leaders are calling for a shared set of global principles, even as the White House seeks first access to new models for testing.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -263,7 +263,7 @@
       "title": "The world wants to secure AI. It may have to try without the US.",
       "body": "Proposals for global AI protections and guardrails abound this week at the U.N. General Assembly, but they can’t do much without the U.S. on board.",
       "source": "Politico Tech",
-      "date": "9 October 2026",
+      "date": "10 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
