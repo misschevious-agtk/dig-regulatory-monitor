@@ -2,7 +2,7 @@
 title: ‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials
 category: regulatory
 source: Politico Tech
-date: 11 October 2026
+date: 12 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

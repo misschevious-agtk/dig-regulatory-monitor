@@ -1,6 +1,7 @@
 {
-  "last_sync": "2026-10-11T12:22:53.803309Z",
+  "last_sync": "2026-10-12T14:51:22.204130Z",
   "changed_files": [
+    "ai_Banks_vs_bots__Agentic_AI_opens_up_new_fear_for_finance_indu.md",
     "ai_Bill_Gates_says_an_AI__kill_switch__isn_t_enough.md",
     "ai_EU_to_Trump__We_will_keep_pushing_for_global_AI_safety_rules.md",
     "ai_Jailed_Albanian_mayor_uses_AI_avatar_to_make_deepfake_speech.md",
@@ -11,6 +12,7 @@
     "privacy_EU_Parliament_president_urges_Germany_to_do_deal_in_US_drug_.md",
     "privacy_EU_and_Canada_to_announce_sweeping_new_partnership_pact.md",
     "privacy_Europe_s_AI_policing_plan_stokes_privacy_concerns.md",
+    "privacy_German_search_engine_ditches_Mistral__bets_on_Chinese_open-s.md",
     "privacy_Macron_is_most_impressive_world_leader_on_AI__says_Altman.md",
     "privacy_Von_der_Leyen_ally_slams_EU_Commission_s_AI_response.md",
     "regulatory_Andy_Burnham_keeps_his_options_open_on_Brexit.md",
@@ -18,21 +20,19 @@
     "regulatory_EU_accused_of_hiding_environmental_impact_of_data_centers.md",
     "regulatory_EU_s_top_AI_adviser_urges_commissioners_to_use_the_tech_to_f.md",
     "regulatory_Europe_is_fighting_the_wrong_AI_sovereignty_battle.md",
+    "regulatory_How_can_Europe_leverage_laws_to_secure_cloud_sovereignty_.md",
     "regulatory_Inside_Zuckerberg__Huang_s_push_for_White_House_AI_pact.md",
     "regulatory_Merz_and_Macron_want_the_EU_to_hit_back_harder___and_faster_.md",
     "regulatory_Peter_Thiel_slams_pope_s_AI_encyclical_as_gift_to_Chinese_Co.md",
     "regulatory_Sam_Altman_to_Decoded___The_world_should_accept_some_bad_thi.md",
-    "regulatory_The_world_wants_to_secure_AI__It_may_have_to_try_without_the.md",
-    "regulatory_Turkey_bans_social_media_for_kids_under_15.md",
-    "regulatory_White_House_asks_OpenAI_and_Anthropic_to_hold_new_models_fro.md",
     "regulatory__Absolute_s_t___EU_s_Microsoft_Teams_alternative_draws_bad_r.md"
   ],
   "total_changed": 25,
-  "total_articles": 21,
+  "total_articles": 20,
   "by_category": {
     "competition": 0,
-    "privacy": 6,
+    "privacy": 7,
     "ip": 2,
-    "regulatory": 13
+    "regulatory": 11
   }
 }
