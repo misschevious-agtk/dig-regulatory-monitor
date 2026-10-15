@@ -1,10 +1,31 @@
 {
   "trending": [
     {
+      "title": "Lights, bells and liability: Europe’s privacy regulators crack down on smart glasses",
+      "body": "Smart glasses may need flashing lights, audio alerts to abide by EU privacy law.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy",
+        "EU"
+      ]
+    },
+    {
+      "title": "France’s Philippe says Le Pen’s EU proposals would ‘crack open’ bloc",
+      "body": "The center-right candidate said at a POLITICO event that his far-right rival was selling the French ‘fantasy’ plans on the economy.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
       "body": "“We are disappointed with the quality of Mistral,” Ecosia founder and CEO told POLITICO.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -14,7 +35,7 @@
       "title": "Europe’s AI policing plan stokes privacy concerns",
       "body": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -25,40 +46,41 @@
       "title": "Macron is most impressive world leader on AI, says Altman",
       "body": "OpenAI CEO tells Decoded by POLITICO the French president is “extremely thoughtful and has been for a long time about where this is going.”",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
-      ]
-    },
-    {
-      "title": "Arms-maker urges Europe to let defense firms take down hostile drones",
-      "body": "Weapons manufacturers should be treated as critical infrastructure, a top executive at KNDS tells POLITICO.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "EU and Canada to announce sweeping new partnership pact",
-      "body": "From critical raw materials to fighting wildfires, a document obtained by POLITICO reveals a wide-ranging expansion in relations.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ],
   "competition": [],
   "privacy": [
     {
+      "title": "Lights, bells and liability: Europe’s privacy regulators crack down on smart glasses",
+      "body": "Smart glasses may need flashing lights, audio alerts to abide by EU privacy law.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy",
+        "EU"
+      ]
+    },
+    {
+      "title": "France’s Philippe says Le Pen’s EU proposals would ‘crack open’ bloc",
+      "body": "The center-right candidate said at a POLITICO event that his far-right rival was selling the French ‘fantasy’ plans on the economy.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
       "body": "“We are disappointed with the quality of Mistral,” Ecosia founder and CEO told POLITICO.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -68,7 +90,7 @@
       "title": "Europe’s AI policing plan stokes privacy concerns",
       "body": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy",
@@ -79,7 +101,7 @@
       "title": "Macron is most impressive world leader on AI, says Altman",
       "body": "OpenAI CEO tells Decoded by POLITICO the French president is “extremely thoughtful and has been for a long time about where this is going.”",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "UK"
@@ -89,20 +111,10 @@
       "title": "Arms-maker urges Europe to let defense firms take down hostile drones",
       "body": "Weapons manufacturers should be treated as critical infrastructure, a top executive at KNDS tells POLITICO.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "EU and Canada to announce sweeping new partnership pact",
-      "body": "From critical raw materials to fighting wildfires, a document obtained by POLITICO reveals a wide-ranging expansion in relations.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ],
@@ -111,7 +123,7 @@
       "title": "Von der Leyen pitches AI as solution to reduce reporting for European businesses",
       "body": "For the first time, the Commission President explicitly proposed using AI tools to cut administrative burdens.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -121,7 +133,7 @@
       "title": "50 members of European Parliament targeted by deepfake porn, report says",
       "body": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday. The number of women targeted by deepfake …",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -130,20 +142,40 @@
   ],
   "regulatory": [
     {
-      "title": "EU’s cyber unit turns to AI to fend off ‘high-risk’ hacks",
-      "body": "European Commission IT department wants to use AI to defend its systems from the most serious cyberattacks.",
+      "title": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+      "body": "Servers have become a target of war. As well as disrupting daily life, the strikes are raising questions of international law.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "How Maroš Šefčovič talked his way to a China trade breakthrough",
+      "body": "Europe’s trade chief has won a first concession from Beijing. Now he must convince EU leaders that dialogue can deliver more.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
       ]
     },
     {
+      "title": "MI5 to step up on AI threats amid bioweapon risk",
+      "body": "MI5 has launched the AI Threat Assessment Centre to help Britain respond to state threats, terrorism and bioweapons.",
+      "source": "Politico Tech",
+      "date": "15 October 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Document: Germany, Italy request ‘emergency brake’ power to stop new EU laws",
       "body": "Friedrich Merz, Giorgia Meloni and Bart de Wever said Brussels must accelerate business simplification efforts.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -153,7 +185,7 @@
       "title": "How Europe plans to squeeze out Starlink",
       "body": "European players are banding together to put the brakes on the U.S. giant’s dominance over satellite connectivity.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -163,7 +195,7 @@
       "title": "How can Europe leverage laws to secure cloud sovereignty?",
       "body": "Europe doesn’t have to choose between acting fast and building a solid foundation for sovereignty.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -173,7 +205,7 @@
       "title": "Turkey bans social media for kids under 15",
       "body": "The law comes amid a global push for tougher age restrictions on social media platforms.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -183,7 +215,7 @@
       "title": "EU, Canada and Lithuania pull out of disinformation conference after US pressure",
       "body": "The Trump administration was bothered by panels that referred to the U.S. as a disinformation threat.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -193,7 +225,7 @@
       "title": "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
       "body": "France and Germany want to give Brussels new powers to rapidly block imports deemed an economic or security threat.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -203,7 +235,7 @@
       "title": "Europe is fighting the wrong AI sovereignty battle",
       "body": "POLITICAL ADVERTISEMENT More information here.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -213,40 +245,10 @@
       "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI",
       "body": "The OpenAI CEO sought to distinguish his policy stance from rival developer Anthropic.",
       "source": "Politico Tech",
-      "date": "14 October 2026",
+      "date": "15 October 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
-      ]
-    },
-    {
-      "title": "Inside Zuckerberg, Huang’s push for White House AI pact",
-      "body": "The tech leaders helped build support for the “morally binding” accords signed by President Trump and AI leaders at a White House lunch.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials",
-      "body": "The U.S. would “instantly” win a hypothetical tech war, an official moaned.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "EU accused of hiding environmental impact of data centers",
-      "body": "A formal complaint says the European Commission is keeping data center energy and water use under wraps, breaching the public’s right to know.",
-      "source": "Politico Tech",
-      "date": "14 October 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
       ]
     }
   ]
