@@ -1,14 +1,15 @@
 {
-  "last_sync": "2026-10-15T11:04:47.744350Z",
+  "last_sync": "2026-10-16T11:00:11.262742Z",
   "changed_files": [
     "ai_Banks_vs_bots__Agentic_AI_opens_up_new_fear_for_finance_indu.md",
     "ai_EU_cyber_and_science_researchers_are_testing_Chinese_AI_mode.md",
     "ai_Jailed_Albanian_mayor_uses_AI_avatar_to_make_deepfake_speech.md",
+    "ai_OpenAI_employee_arrested_and_charged_over_hidden_recording.md",
     "ai_Read_the_charter_for_the_White_House_s__Super_Intelligence_F.md",
+    "ai_The_EU_is_facing_Big_Tech_pressure_to_revamp_its_AI_law.md",
     "ai_The_EU_shelved_AI_liability_rules__Sam_Altman_has_revived_th.md",
     "ip_50_members_of_European_Parliament_targeted_by_deepfake_porn_.md",
     "ip_Von_der_Leyen_pitches_AI_as_solution_to_reduce_reporting_for.md",
-    "privacy_Arms-maker_urges_Europe_to_let_defense_firms_take_down_hosti.md",
     "privacy_Europe_s_AI_policing_plan_stokes_privacy_concerns.md",
     "privacy_France_s_Philippe_says_Le_Pen_s_EU_proposals_would__crack_op.md",
     "privacy_German_search_engine_ditches_Mistral__bets_on_Chinese_open-s.md",
@@ -17,21 +18,20 @@
     "regulatory_Document__Germany__Italy_request__emergency_brake__power_to_.md",
     "regulatory_EU__Canada_and_Lithuania_pull_out_of_disinformation_conferen.md",
     "regulatory_Europe_is_fighting_the_wrong_AI_sovereignty_battle.md",
+    "regulatory_Europe_s_leaders_abandon_the_race_for_frontier_AI.md",
     "regulatory_How_Europe_plans_to_squeeze_out_Starlink.md",
     "regulatory_How_Maroš_Šefčovič_talked_his_way_to_a_China_trade_breakthro.md",
     "regulatory_How_can_Europe_leverage_laws_to_secure_cloud_sovereignty_.md",
     "regulatory_MI5_to_step_up_on_AI_threats_amid_bioweapon_risk.md",
     "regulatory_Merz_and_Macron_want_the_EU_to_hit_back_harder___and_faster_.md",
-    "regulatory_Sam_Altman_to_Decoded___The_world_should_accept_some_bad_thi.md",
-    "regulatory_Turkey_bans_social_media_for_kids_under_15.md",
-    "regulatory_Why_Ukrainian_strikes_on_data_centers_are_a_real_problem_for.md"
+    "regulatory_Turkey_bans_social_media_for_kids_under_15.md"
   ],
   "total_changed": 24,
-  "total_articles": 19,
+  "total_articles": 17,
   "by_category": {
     "competition": 0,
-    "privacy": 6,
+    "privacy": 5,
     "ip": 2,
-    "regulatory": 11
+    "regulatory": 10
   }
 }

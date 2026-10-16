@@ -2,7 +2,7 @@
 title: How can Europe leverage laws to secure cloud sovereignty?
 category: regulatory
 source: Politico Tech
-date: 15 October 2026
+date: 16 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

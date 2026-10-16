@@ -2,7 +2,7 @@
 title: Jailed Albanian mayor uses AI avatar to make deepfake speech
 category: ai
 source: Politico Tech
-date: 15 October 2026
+date: 16 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

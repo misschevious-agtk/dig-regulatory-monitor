@@ -2,7 +2,7 @@
 title: Banks vs bots: Agentic AI opens up new fear for finance industry
 category: ai
 source: Politico Tech
-date: 15 October 2026
+date: 16 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
