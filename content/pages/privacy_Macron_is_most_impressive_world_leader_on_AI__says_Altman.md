@@ -2,7 +2,7 @@
 title: Macron is most impressive world leader on AI, says Altman
 category: privacy
 source: Politico Tech
-date: 16 October 2026
+date: 17 October 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---
