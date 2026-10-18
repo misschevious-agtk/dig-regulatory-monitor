@@ -2,7 +2,7 @@
 title: German search engine ditches Mistral, bets on Chinese open-source AI
 category: privacy
 source: Politico Tech
-date: 17 October 2026
+date: 18 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

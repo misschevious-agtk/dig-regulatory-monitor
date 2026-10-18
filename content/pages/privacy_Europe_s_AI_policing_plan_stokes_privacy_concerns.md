@@ -2,7 +2,7 @@
 title: Europe’s AI policing plan stokes privacy concerns
 category: privacy
 source: Politico Tech
-date: 17 October 2026
+date: 18 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy, EU
 ---

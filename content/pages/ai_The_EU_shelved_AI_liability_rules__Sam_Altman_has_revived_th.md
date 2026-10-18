@@ -2,7 +2,7 @@
 title: The EU shelved AI liability rules. Sam Altman has revived the debate.
 category: ai
 source: Politico Tech
-date: 17 October 2026
+date: 18 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
