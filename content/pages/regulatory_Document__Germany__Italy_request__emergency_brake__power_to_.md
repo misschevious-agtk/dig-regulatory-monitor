@@ -2,7 +2,7 @@
 title: Document: Germany, Italy request ‘emergency brake’ power to stop new EU laws
 category: regulatory
 source: Politico Tech
-date: 18 October 2026
+date: 19 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
