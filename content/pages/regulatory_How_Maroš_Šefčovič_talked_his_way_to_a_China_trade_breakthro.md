@@ -2,7 +2,7 @@
 title: How Maroš Šefčovič talked his way to a China trade breakthrough
 category: regulatory
 source: Politico Tech
-date: 19 October 2026
+date: 20 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
