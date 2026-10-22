@@ -1,16 +1,15 @@
 {
-  "last_sync": "2026-10-21T11:25:28.402443Z",
+  "last_sync": "2026-10-22T11:25:23.045046Z",
   "changed_files": [
     "ai_EU_cyber_and_science_researchers_are_testing_Chinese_AI_mode.md",
-    "ai_Jailed_Albanian_mayor_uses_AI_avatar_to_make_deepfake_speech.md",
     "ai_OpenAI_employee_arrested_and_charged_over_hidden_recording.md",
     "ai_Read_the_charter_for_the_White_House_s__Super_Intelligence_F.md",
-    "ai_Socialists_push_for_EU_law_on_deepfakes.md",
-    "ai_The_EU_shelved_AI_liability_rules__Sam_Altman_has_revived_th.md",
+    "ai_The_EU_is_facing_Big_Tech_pressure_to_revamp_its_AI_law.md",
+    "ai_Von_der_Leyen_s_coalition_fractures_over_need_for_AI_liabili.md",
     "ip_Ukrainian_officers_warn_Starlink_slowdown__comparable_to_a_n.md",
     "ip_Von_der_Leyen_pitches_AI_as_solution_to_reduce_reporting_for.md",
+    "privacy_EU_faces_growing_pressure_to_plug_Ukraine_s_Starlink_gap.md",
     "privacy_France_s_Philippe_says_Le_Pen_s_EU_proposals_would__crack_op.md",
-    "privacy_German_search_engine_ditches_Mistral__bets_on_Chinese_open-s.md",
     "privacy_Lights__bells_and_liability__Europe_s_privacy_regulators_cra.md",
     "regulatory_Document__Germany__Italy_request__emergency_brake__power_to_.md",
     "regulatory_EU__Canada_and_Lithuania_pull_out_of_disinformation_conferen.md",
@@ -21,17 +20,18 @@
     "regulatory_How_a_tiny_Caribbean_island_shrugged_off_Trump_s_AI_rebrand.md",
     "regulatory_How_can_Europe_leverage_laws_to_secure_cloud_sovereignty_.md",
     "regulatory_How_to_watch_the_EU_leaders__summit_like_a_pro.md",
+    "regulatory_In_Europe_s_tech_capital__Irish_labor_unions_are_booming_ami.md",
     "regulatory_MI5_to_step_up_on_AI_threats_amid_bioweapon_risk.md",
     "regulatory_Millions_of_phones_exposed_to_Israeli_spyware_operation_thro.md",
     "regulatory_Turkey_bans_social_media_for_kids_under_15.md",
     "regulatory_Why_Ukrainian_strikes_on_data_centers_are_a_real_problem_for.md"
   ],
   "total_changed": 24,
-  "total_articles": 18,
+  "total_articles": 19,
   "by_category": {
     "competition": 0,
     "privacy": 3,
     "ip": 2,
-    "regulatory": 13
+    "regulatory": 14
   }
 }

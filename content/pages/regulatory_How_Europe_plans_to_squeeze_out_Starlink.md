@@ -2,7 +2,7 @@
 title: How Europe plans to squeeze out Starlink
 category: regulatory
 source: Politico Tech
-date: 21 October 2026
+date: 22 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
