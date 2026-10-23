@@ -2,7 +2,7 @@
 title: How a tiny Caribbean island shrugged off Trump’s AI rebrand
 category: regulatory
 source: Politico Tech
-date: 22 October 2026
+date: 23 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

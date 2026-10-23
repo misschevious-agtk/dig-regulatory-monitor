@@ -2,7 +2,7 @@
 title: How to watch the EU leaders’ summit like a pro
 category: regulatory
 source: Politico Tech
-date: 22 October 2026
+date: 23 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

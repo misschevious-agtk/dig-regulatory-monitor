@@ -2,7 +2,7 @@
 title: France’s Philippe says Le Pen’s EU proposals would ‘crack open’ bloc
 category: privacy
 source: Politico Tech
-date: 22 October 2026
+date: 23 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
