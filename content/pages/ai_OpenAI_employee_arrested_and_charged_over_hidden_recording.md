@@ -2,7 +2,7 @@
 title: OpenAI employee arrested and charged over hidden recording
 category: ai
 source: Politico Tech
-date: 23 October 2026
+date: 24 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
