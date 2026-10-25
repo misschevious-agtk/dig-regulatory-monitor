@@ -2,7 +2,7 @@
 title: After looting spree, France tells online resellers to crack down on traffic of stolen goods
 category: regulatory
 source: Politico Tech
-date: 24 October 2026
+date: 25 October 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---

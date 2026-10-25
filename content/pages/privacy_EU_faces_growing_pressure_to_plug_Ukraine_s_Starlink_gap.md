@@ -2,7 +2,7 @@
 title: EU faces growing pressure to plug Ukraine’s Starlink gap
 category: privacy
 source: Politico Tech
-date: 24 October 2026
+date: 25 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

@@ -2,7 +2,7 @@
 title: Europe’s leaders abandon the race for frontier AI
 category: regulatory
 source: Politico Tech
-date: 24 October 2026
+date: 25 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Von der Leyen pitches AI as solution to reduce reporting for European businesses
 category: ip
 source: Politico Tech
-date: 24 October 2026
+date: 25 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

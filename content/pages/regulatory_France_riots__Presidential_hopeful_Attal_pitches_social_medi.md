@@ -2,7 +2,7 @@
 title: France riots: Presidential hopeful Attal pitches social media blackout
 category: regulatory
 source: Politico Tech
-date: 24 October 2026
+date: 25 October 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---
