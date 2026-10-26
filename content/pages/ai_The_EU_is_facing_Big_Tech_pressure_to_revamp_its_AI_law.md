@@ -2,7 +2,7 @@
 title: The EU is facing Big Tech pressure to revamp its AI law
 category: ai
 source: Politico Tech
-date: 25 October 2026
+date: 26 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

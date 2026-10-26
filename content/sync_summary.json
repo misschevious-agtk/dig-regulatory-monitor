@@ -1,22 +1,23 @@
 {
-  "last_sync": "2026-10-25T10:59:06.768352Z",
+  "last_sync": "2026-10-26T12:31:35.461858Z",
   "changed_files": [
     "ai_Cyberattack_on_French_supermarkets_tells_us_more_about_food_.md",
     "ai_OpenAI_employee_arrested_and_charged_over_hidden_recording.md",
     "ai_Socialists_push_for_EU_law_on_deepfakes.md",
     "ai_The_EU_is_facing_Big_Tech_pressure_to_revamp_its_AI_law.md",
+    "ai_Von_der_Leyen_s_coalition_fractures_over_need_for_AI_liabili.md",
+    "competition_US_renews_push_for_EU_to_soften_Big_Tech_rules.md",
     "ip_Ukrainian_officers_warn_Starlink_slowdown__comparable_to_a_n.md",
-    "ip_Von_der_Leyen_pitches_AI_as_solution_to_reduce_reporting_for.md",
     "privacy_EU_faces_growing_pressure_to_plug_Ukraine_s_Starlink_gap.md",
     "privacy_France_s_Philippe_says_Le_Pen_s_EU_proposals_would__crack_op.md",
     "privacy_Lights__bells_and_liability__Europe_s_privacy_regulators_cra.md",
     "regulatory_After_looting_spree__France_tells_online_resellers_to_crack_.md",
+    "regulatory_Canada_and_Europe_want_to_reshape_the_global_order__But_whos.md",
     "regulatory_Document__Germany__Italy_request__emergency_brake__power_to_.md",
     "regulatory_EU_s_cyber_unit_turns_to_AI_to_fend_off__high-risk__hacks.md",
     "regulatory_Europe_s_leaders_abandon_the_race_for_frontier_AI.md",
     "regulatory_France_riots__Presidential_hopeful_Attal_pitches_social_medi.md",
     "regulatory_Hackers_launch__millions__of_attempts_to_exploit_global_PHP_.md",
-    "regulatory_How_Europe_plans_to_squeeze_out_Starlink.md",
     "regulatory_How_Maroš_Šefčovič_talked_his_way_to_a_China_trade_breakthro.md",
     "regulatory_How_a_tiny_Caribbean_island_shrugged_off_Trump_s_AI_rebrand.md",
     "regulatory_How_to_watch_the_EU_leaders__summit_like_a_pro.md",
@@ -24,15 +25,14 @@
     "regulatory_MI5_to_step_up_on_AI_threats_amid_bioweapon_risk.md",
     "regulatory_Millions_of_phones_exposed_to_Israeli_spyware_operation_thro.md",
     "regulatory_Publishers_want_Brussels_and_London_to_stop_Meta_s_new_AI_te.md",
-    "regulatory_Starlink_connection_restored_at_high_speed_in_Ukraine__defen.md",
     "regulatory_Why_Ukrainian_strikes_on_data_centers_are_a_real_problem_for.md"
   ],
   "total_changed": 25,
-  "total_articles": 21,
+  "total_articles": 20,
   "by_category": {
-    "competition": 0,
+    "competition": 1,
     "privacy": 3,
-    "ip": 2,
-    "regulatory": 16
+    "ip": 1,
+    "regulatory": 15
   }
 }
