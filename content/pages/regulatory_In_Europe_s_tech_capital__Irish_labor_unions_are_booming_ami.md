@@ -2,7 +2,7 @@
 title: In Europe’s tech capital, Irish labor unions are booming amid AI-driven layoffs
 category: regulatory
 source: Politico Tech
-date: 26 October 2026
+date: 27 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: MI5 to step up on AI threats amid bioweapon risk
 category: regulatory
 source: Politico Tech
-date: 26 October 2026
+date: 27 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

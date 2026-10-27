@@ -2,7 +2,7 @@
 title: Publishers want Brussels and London to stop Meta’s new AI terms
 category: regulatory
 source: Politico Tech
-date: 26 October 2026
+date: 27 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

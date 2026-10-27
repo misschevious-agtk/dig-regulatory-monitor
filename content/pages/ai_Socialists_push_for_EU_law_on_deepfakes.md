@@ -2,7 +2,7 @@
 title: Socialists push for EU law on deepfakes
 category: ai
 source: Politico Tech
-date: 26 October 2026
+date: 27 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
