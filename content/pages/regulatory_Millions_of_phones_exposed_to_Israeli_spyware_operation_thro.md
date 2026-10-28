@@ -2,7 +2,7 @@
 title: Millions of phones exposed to Israeli spyware operation through online ads, researchers say
 category: regulatory
 source: Politico Tech
-date: 27 October 2026
+date: 28 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

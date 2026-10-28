@@ -2,7 +2,7 @@
 title: Top ICC official urges EU to act ‘as soon as possible’ on US sanctions
 category: regulatory
 source: Politico Tech
-date: 23 October 2026
+date: 28 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
