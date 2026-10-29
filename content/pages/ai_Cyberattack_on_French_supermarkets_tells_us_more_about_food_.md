@@ -2,7 +2,7 @@
 title: Cyberattack on French supermarkets tells us more about food security than AI safety
 category: ai
 source: Politico Tech
-date: 28 October 2026
+date: 29 October 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

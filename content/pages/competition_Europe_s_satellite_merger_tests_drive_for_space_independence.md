@@ -2,7 +2,7 @@
 title: Europe’s satellite merger tests drive for space independence
 category: competition
 source: Politico Tech
-date: 28 October 2026
+date: 29 October 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
