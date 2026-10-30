@@ -1,38 +1,38 @@
 {
-  "last_sync": "2026-10-29T12:33:10.965001Z",
+  "last_sync": "2026-10-30T12:24:56.565541Z",
   "changed_files": [
-    "ai_Cyberattack_on_French_supermarkets_tells_us_more_about_food_.md",
     "ai_Socialists_push_for_EU_law_on_deepfakes.md",
-    "ai_The_EU_is_facing_Big_Tech_pressure_to_revamp_its_AI_law.md",
     "ai_Von_der_Leyen_s_coalition_fractures_over_need_for_AI_liabili.md",
     "competition_Europe_s_satellite_merger_tests_drive_for_space_independence.md",
     "competition_US_renews_push_for_EU_to_soften_Big_Tech_rules.md",
     "ip_Starlink_still_restricted_for_Ukraine_despite_Trump_saying_M.md",
-    "privacy_EU_faces_growing_pressure_to_plug_Ukraine_s_Starlink_gap.md",
+    "regulatory_AI_sell-off_would_rattle_global_economy__EU_watchdog_warns.md",
     "regulatory_After_looting_spree__France_tells_online_resellers_to_crack_.md",
     "regulatory_Canada_and_Europe_want_to_reshape_the_global_order__But_whos.md",
+    "regulatory_EU_countries_reject_Commission_s__associate_member__offer_fo.md",
     "regulatory_EU_divisions_persist_on__associate_member__label_for_Canada.md",
+    "regulatory_EU_eyes_global_tax_deal_revenue_to_boost_next_budget.md",
     "regulatory_Europe_vs__Elon__5_ways_the_EU_is_trying_to_squeeze_out_Musk.md",
     "regulatory_European_CEOs_warn_against_surrendering_frontier_AI_to_US_an.md",
     "regulatory_France_riots__Presidential_hopeful_Attal_pitches_social_medi.md",
     "regulatory_French_government_mulled_blocking_social_networks_and_mobile.md",
     "regulatory_Frontex_gets_power_to_track_migration_talk_on_social_media.md",
     "regulatory_Hackers_launch__millions__of_attempts_to_exploit_global_PHP_.md",
-    "regulatory_In_Europe_s_tech_capital__Irish_labor_unions_are_booming_ami.md",
+    "regulatory_How_Ireland_plans_to_beat_the_data_center_backlash.md",
+    "regulatory_Impatient_with_Brussels__European_capitals_forge_ahead_with_.md",
     "regulatory_Inside_the_cyber_flaw_scramble_that_brought_the_AI_threat_to.md",
-    "regulatory_Millions_of_phones_exposed_to_Israeli_spyware_operation_thro.md",
     "regulatory_Publishers_want_Brussels_and_London_to_stop_Meta_s_new_AI_te.md",
     "regulatory_Starlink_connection_restored_at_high_speed_in_Ukraine__defen.md",
     "regulatory_Top_ICC_official_urges_EU_to_act__as_soon_as_possible__on_US.md",
-    "regulatory_What_will_it_take_for_Europe_s_automotive_transition_to_succ.md",
+    "regulatory_UK_s_Healey_cracks_down_on_VAT-shirking_online_sellers.md",
     "regulatory_Who_s_who_at_the_EU-Canada_summit.md"
   ],
   "total_changed": 25,
-  "total_articles": 21,
+  "total_articles": 23,
   "by_category": {
     "competition": 2,
-    "privacy": 1,
+    "privacy": 0,
     "ip": 1,
-    "regulatory": 17
+    "regulatory": 20
   }
 }

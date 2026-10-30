@@ -2,7 +2,7 @@
 title: Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits
 category: ip
 source: Politico Tech
-date: 29 October 2026
+date: 30 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Inside the cyber flaw scramble that brought the AI threat to life
 category: regulatory
 source: Politico Tech
-date: 29 October 2026
+date: 30 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -2,7 +2,7 @@
 title: Who’s who at the EU-Canada summit
 category: regulatory
 source: Politico Tech
-date: 29 October 2026
+date: 30 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
