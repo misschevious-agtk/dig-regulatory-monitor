@@ -2,7 +2,7 @@
 title: European CEOs warn against surrendering frontier AI to US and China
 category: regulatory
 source: Politico Tech
-date: 30 October 2026
+date: 31 October 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

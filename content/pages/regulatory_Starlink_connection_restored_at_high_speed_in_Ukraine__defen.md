@@ -2,7 +2,7 @@
 title: Starlink connection restored at high speed in Ukraine, defense minister says
 category: regulatory
 source: Politico Tech
-date: 30 October 2026
+date: 31 October 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

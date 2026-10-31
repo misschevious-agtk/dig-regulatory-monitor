@@ -2,7 +2,7 @@
 title: US renews push for EU to soften Big Tech rules
 category: competition
 source: Politico Tech
-date: 30 October 2026
+date: 31 October 2026
 url: https://www.politico.eu/section/technology/
 tags: DMA, EU
 ---
