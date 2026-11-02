@@ -2,7 +2,7 @@
 title: Europe vs. Elon: 5 ways the EU is trying to squeeze out Musk’s Starlink
 category: regulatory
 source: Politico Tech
-date: 1 November 2026
+date: 2 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

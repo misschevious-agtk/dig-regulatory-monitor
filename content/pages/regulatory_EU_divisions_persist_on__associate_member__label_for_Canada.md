@@ -2,7 +2,7 @@
 title: EU divisions persist on ‘associate member’ label for Canada
 category: regulatory
 source: Politico Tech
-date: 1 November 2026
+date: 2 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
