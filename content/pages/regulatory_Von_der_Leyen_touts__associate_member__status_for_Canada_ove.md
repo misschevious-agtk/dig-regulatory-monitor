@@ -2,7 +2,7 @@
 title: Von der Leyen touts ‘associate member’ status for Canada over objections of EU capitals
 category: regulatory
 source: Politico Tech
-date: 2 November 2026
+date: 3 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

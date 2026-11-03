@@ -2,7 +2,7 @@
 title: Frontex gets power to track migration talk on social media
 category: regulatory
 source: Politico Tech
-date: 2 November 2026
+date: 3 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

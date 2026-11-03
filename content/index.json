@@ -1,97 +1,107 @@
 {
   "trending": [
     {
-      "title": "Europe’s satellite merger tests drive for space independence",
-      "body": "The three-way deal aims to strengthen Europe’s satellite industry as Elon Musk’s Starlink sets the pace in low Earth orbit. It could also leave the EU with fewer suppliers for its own secure communications network.",
+      "title": "EU Commission to probe supermarket cyberattacks",
+      "body": "Europe’s food security is not at risk, but a wave of cyberattacks is raising concerns about supply chain resilience, Agriculture Commissioner Christophe Hansen warned.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
+        "Under Investigation",
         "EU"
       ]
     },
     {
-      "title": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-      "body": "Although some Ukrainian drone pilots have reported a marked improvement, there are still “constant connection interruptions.”",
+      "title": "8 things we learned at the EU-Canada summit",
+      "body": "Ursula von der Leyen, António Costa and Mark Carney hammered out the contours of a new partnership during a whirlwind 48 hours in Montreal. Here’s everything you need to know.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
-      "title": "Berlin unveils blueprint to catch up on AI",
-      "body": "Germany should become a “sovereign AI nation” by 2030, according to a plan set to be released Monday.",
+      "title": "Mark Carney puts deadline on EU ‘associate membership’ push",
+      "body": "Canadian prime minister backs “the deepest possible partnership” with the bloc, but questions over its cost and differences on trade remain.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "DE"
+        "EU"
+      ]
+    },
+    {
+      "title": "EU open to flexibility on euro and Schengen if UK tries to rejoin",
+      "body": "The clarification could be a boost for Andy Burnham’s ambition to see Britain return to the European Union in his lifetime.",
+      "source": "Politico Tech",
+      "date": "3 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
       ]
     },
     {
       "title": "How Ireland plans to beat the data center backlash",
       "body": "Europe’s tech capital is the “canary in the coalmine” for the world’s data center dilemma.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
-    },
-    {
-      "title": "Carney frames C$1.6B AI investment as national security imperative",
-      "body": "”We’re not waiting for the future of AI to be decided somewhere else by those we don’t know or … don’t trust,” Carney said ahead of Canada-EU summit.",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
     }
   ],
-  "competition": [
-    {
-      "title": "Europe’s satellite merger tests drive for space independence",
-      "body": "The three-way deal aims to strengthen Europe’s satellite industry as Elon Musk’s Starlink sets the pace in low Earth orbit. It could also leave the EU with fewer suppliers for its own secure communications network.",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    }
-  ],
+  "competition": [],
   "privacy": [],
-  "ip": [
-    {
-      "title": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-      "body": "Although some Ukrainian drone pilots have reported a marked improvement, there are still “constant connection interruptions.”",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    }
-  ],
+  "ip": [],
   "regulatory": [
     {
-      "title": "Berlin unveils blueprint to catch up on AI",
-      "body": "Germany should become a “sovereign AI nation” by 2030, according to a plan set to be released Monday.",
+      "title": "EU Commission to probe supermarket cyberattacks",
+      "body": "Europe’s food security is not at risk, but a wave of cyberattacks is raising concerns about supply chain resilience, Agriculture Commissioner Christophe Hansen warned.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "DE"
+        "Under Investigation",
+        "EU"
+      ]
+    },
+    {
+      "title": "8 things we learned at the EU-Canada summit",
+      "body": "Ursula von der Leyen, António Costa and Mark Carney hammered out the contours of a new partnership during a whirlwind 48 hours in Montreal. Here’s everything you need to know.",
+      "source": "Politico Tech",
+      "date": "3 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Mark Carney puts deadline on EU ‘associate membership’ push",
+      "body": "Canadian prime minister backs “the deepest possible partnership” with the bloc, but questions over its cost and differences on trade remain.",
+      "source": "Politico Tech",
+      "date": "3 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "EU open to flexibility on euro and Schengen if UK tries to rejoin",
+      "body": "The clarification could be a boost for Andy Burnham’s ambition to see Britain return to the European Union in his lifetime.",
+      "source": "Politico Tech",
+      "date": "3 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
       ]
     },
     {
       "title": "How Ireland plans to beat the data center backlash",
       "body": "Europe’s tech capital is the “canary in the coalmine” for the world’s data center dilemma.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -101,7 +111,7 @@
       "title": "Carney frames C$1.6B AI investment as national security imperative",
       "body": "”We’re not waiting for the future of AI to be decided somewhere else by those we don’t know or … don’t trust,” Carney said ahead of Canada-EU summit.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -111,7 +121,7 @@
       "title": "Von der Leyen touts ‘associate member’ status for Canada over objections of EU capitals",
       "body": "Commission president’s speech contrasted with a statement by Germany’s Friedrich Merz, who referred instead to an “alliance for the future” between the EU and Canada.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -121,7 +131,7 @@
       "title": "Canada to join EU network of supercomputers",
       "body": "The compute power team-up is a first step for middle-power cooperation on AI.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -131,7 +141,7 @@
       "title": "EU tells capitals to halt their national social media bans for a year",
       "body": "Austria, the first country told to halt its national legislation, has lashed out at the order from Brussels meant to allow for the unified EU law to first be finalized.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -141,7 +151,7 @@
       "title": "What will it take for Europe’s automotive transition to succeed?",
       "body": "POLITICAL ADVERTISEMENT More information here",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -151,7 +161,7 @@
       "title": "EU lawmakers slam new border force powers to surveil social media",
       "body": "The EU border agency is getting a broad mandate to monitor social media for illegal content.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -161,7 +171,7 @@
       "title": "EU countries reject Commission’s ‘associate member’ offer for Canada",
       "body": "A group of countries including Germany, Greece and France all objected to mentioning associate membership in a joint EU-Canada statement.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -171,7 +181,7 @@
       "title": "UK’s Healey cracks down on VAT-shirking online sellers",
       "body": "Move to close a loophole brings Britain closer to approaches adopted in Switzerland.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -181,7 +191,7 @@
       "title": "AI sell-off would rattle global economy, EU watchdog warns",
       "body": "Top global regulators have said global finance could find itself in a bubble of AI overvaluation.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -191,7 +201,7 @@
       "title": "EU eyes global tax deal revenue to boost next budget",
       "body": "European Council President António Costa is pushing national capitals to agree new EU-wide levies to finance the budget.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -201,7 +211,7 @@
       "title": "Impatient with Brussels, European capitals forge ahead with social media bans",
       "body": "The EU’s signature Kids Act to block social media access to young people risks being tangled in a series of laws being pushed by national politicians.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -211,7 +221,7 @@
       "title": "Who’s who at the EU-Canada summit",
       "body": "Brussels and Ottawa want to forge closer ties in an increasingly uncertain world. Meet the people shaping their partnership.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -221,7 +231,7 @@
       "title": "EU divisions persist on ‘associate member’ label for Canada",
       "body": "The bloc can’t agree on controversial status just 48 hours before Montreal summit.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -231,7 +241,7 @@
       "title": "Frontex gets power to track migration talk on social media",
       "body": "Frontex will monitor publicly accessible social media content in a bid to stay ahead of illegal migration.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -241,37 +251,7 @@
       "title": "French government mulled blocking social networks and mobile internet amid protests",
       "body": "Paris was in touch with telecom operators in the week leading up to Oct. 24 to examine ways of restricting access to social networks.",
       "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Europe vs. Elon: 5 ways the EU is trying to squeeze out Musk’s Starlink",
-      "body": "Europe is working on several plans to break the dominance of the tech billionaire’s satellite communications service.",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Canada and Europe want to reshape the global order. But whose vision will prevail?",
-      "body": "Mark Carney’s push for a middle-powers alliance meets Ursula von der Leyen’s bid for influence.",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "Starlink connection restored at high speed in Ukraine, defense minister says",
-      "body": "SpaceX’s satellite internet service had been restricted since last week.",
-      "source": "Politico Tech",
-      "date": "2 November 2026",
+      "date": "3 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"

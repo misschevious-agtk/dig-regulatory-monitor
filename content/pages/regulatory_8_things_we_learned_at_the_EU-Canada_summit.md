@@ -2,7 +2,7 @@
 title: 8 things we learned at the EU-Canada summit
 category: regulatory
 source: Politico Tech
-date: 1 November 2026
+date: 3 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
