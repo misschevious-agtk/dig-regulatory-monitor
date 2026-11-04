@@ -2,7 +2,7 @@
 title: Impatient with Brussels, European capitals forge ahead with social media bans
 category: regulatory
 source: Politico Tech
-date: 3 November 2026
+date: 4 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

@@ -1,12 +1,13 @@
 {
-  "last_sync": "2026-11-03T13:52:06.841584Z",
+  "last_sync": "2026-11-04T13:59:00.524830Z",
   "changed_files": [
+    "privacy_Forget_AI__Europe_has_a_plan_to_win_the_next_tech_revolution.md",
     "regulatory_8_things_we_learned_at_the_EU-Canada_summit.md",
     "regulatory_AI_sell-off_would_rattle_global_economy__EU_watchdog_warns.md",
+    "regulatory_Brussels_sets_slimline_legislative_agenda_for_2027.md",
     "regulatory_Canada_and_Europe_want_to_reshape_the_global_order__But_whos.md",
     "regulatory_Canada_to_join_EU_network_of_supercomputers.md",
     "regulatory_Carney_frames_C_1_6B_AI_investment_as_national_security_impe.md",
-    "regulatory_EU_Commission_to_probe_supermarket_cyberattacks.md",
     "regulatory_EU_countries_reject_Commission_s__associate_member__offer_fo.md",
     "regulatory_EU_divisions_persist_on__associate_member__label_for_Canada.md",
     "regulatory_EU_eyes_global_tax_deal_revenue_to_boost_next_budget.md",
@@ -21,17 +22,16 @@
     "regulatory_Inside_the_cyber_flaw_scramble_that_brought_the_AI_threat_to.md",
     "regulatory_Mark_Carney_puts_deadline_on_EU__associate_membership__push.md",
     "regulatory_Starlink_connection_restored_at_high_speed_in_Ukraine__defen.md",
-    "regulatory_Top_ICC_official_urges_EU_to_act__as_soon_as_possible__on_US.md",
     "regulatory_UK_s_Healey_cracks_down_on_VAT-shirking_online_sellers.md",
     "regulatory_Von_der_Leyen_touts__associate_member__status_for_Canada_ove.md",
     "regulatory_What_will_it_take_for_Europe_s_automotive_transition_to_succ.md",
     "regulatory_Who_s_who_at_the_EU-Canada_summit.md"
   ],
   "total_changed": 25,
-  "total_articles": 20,
+  "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 0,
+    "privacy": 1,
     "ip": 0,
     "regulatory": 20
   }
