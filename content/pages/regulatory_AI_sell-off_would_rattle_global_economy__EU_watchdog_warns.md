@@ -2,7 +2,7 @@
 title: AI sell-off would rattle global economy, EU watchdog warns
 category: regulatory
 source: Politico Tech
-date: 4 November 2026
+date: 5 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
