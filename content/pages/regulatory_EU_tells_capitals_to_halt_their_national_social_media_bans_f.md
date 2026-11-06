@@ -2,7 +2,7 @@
 title: EU tells capitals to halt their national social media bans for a year
 category: regulatory
 source: Politico Tech
-date: 5 November 2026
+date: 6 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

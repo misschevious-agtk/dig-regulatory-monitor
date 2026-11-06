@@ -2,7 +2,7 @@
 title: Brussels sets slimline legislative agenda for 2027
 category: regulatory
 source: Politico Tech
-date: 4 November 2026
+date: 6 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

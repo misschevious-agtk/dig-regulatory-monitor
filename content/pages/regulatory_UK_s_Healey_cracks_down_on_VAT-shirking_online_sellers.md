@@ -2,7 +2,7 @@
 title: UK’s Healey cracks down on VAT-shirking online sellers
 category: regulatory
 source: Politico Tech
-date: 5 November 2026
+date: 6 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
