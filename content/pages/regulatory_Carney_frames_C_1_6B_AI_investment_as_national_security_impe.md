@@ -2,7 +2,7 @@
 title: Carney frames C$1.6B AI investment as national security imperative
 category: regulatory
 source: Politico Tech
-date: 7 November 2026
+date: 8 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

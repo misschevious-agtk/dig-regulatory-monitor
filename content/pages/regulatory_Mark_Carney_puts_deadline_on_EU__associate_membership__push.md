@@ -2,7 +2,7 @@
 title: Mark Carney puts deadline on EU ‘associate membership’ push
 category: regulatory
 source: Politico Tech
-date: 7 November 2026
+date: 8 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
