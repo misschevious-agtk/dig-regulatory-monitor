@@ -1,11 +1,12 @@
 {
-  "last_sync": "2026-11-08T12:58:33.104231Z",
+  "last_sync": "2026-11-09T15:39:24.534849Z",
   "changed_files": [
     "ai_Commission_turns_to_artificial_intelligence_to_write_better_.md",
+    "ai_EU_countries_still_can_t_get_it_together_on_AI.md",
+    "ai__Stop_using_US_tech___EU_lawmaker_says_Starlink_service_cuto.md",
     "privacy_Forget_AI__Europe_has_a_plan_to_win_the_next_tech_revolution.md",
     "privacy_Mistral_CEO__Europe_faces__complete_trap__without_frontier_A.md",
     "regulatory_8_things_we_learned_at_the_EU-Canada_summit.md",
-    "regulatory_AI_sell-off_would_rattle_global_economy__EU_watchdog_warns.md",
     "regulatory_Berlin_unveils_blueprint_to_catch_up_on_AI.md",
     "regulatory_Brussels_sets_slimline_legislative_agenda_for_2027.md",
     "regulatory_Canada_to_join_EU_network_of_supercomputers.md",
@@ -20,18 +21,17 @@
     "regulatory_Mark_Carney_puts_deadline_on_EU__associate_membership__push.md",
     "regulatory_Metsola_tells_MEPs_not_to_rely_on_AI_when_drafting_laws.md",
     "regulatory_Modern_warfare_spurs_demand_for_new_medical_techniques.md",
-    "regulatory_Mélenchon_squares_up_to_Brussels_in_election_manifesto.md",
     "regulatory_UK_s_Healey_cracks_down_on_VAT-shirking_online_sellers.md",
     "regulatory_UN_experts_warn_of_Big_Tech_influence_over_Ireland_s_digital.md",
     "regulatory_Von_der_Leyen_touts__associate_member__status_for_Canada_ove.md",
     "regulatory_What_will_it_take_for_Europe_s_automotive_transition_to_succ.md"
   ],
   "total_changed": 24,
-  "total_articles": 22,
+  "total_articles": 21,
   "by_category": {
     "competition": 0,
     "privacy": 2,
     "ip": 0,
-    "regulatory": 20
+    "regulatory": 19
   }
 }
