@@ -2,7 +2,7 @@
 title: EU Commission to probe supermarket cyberattacks
 category: regulatory
 source: Politico Tech
-date: 9 November 2026
+date: 10 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Under Investigation, EU
 ---

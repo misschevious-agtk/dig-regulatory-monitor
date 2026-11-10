@@ -2,7 +2,7 @@
 title: Mistral CEO: Europe faces ‘complete trap’ without frontier AI
 category: privacy
 source: Politico Tech
-date: 9 November 2026
+date: 10 November 2026
 url: https://www.politico.eu/section/technology/
 tags: UK
 ---

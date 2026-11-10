@@ -2,7 +2,7 @@
 title: How Ireland plans to beat the data center backlash
 category: regulatory
 source: Politico Tech
-date: 9 November 2026
+date: 10 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
