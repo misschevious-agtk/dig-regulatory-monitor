@@ -1,37 +1,37 @@
 {
-  "last_sync": "2026-11-10T14:33:53.761128Z",
+  "last_sync": "2026-11-11T13:49:09.047359Z",
   "changed_files": [
     "ai_Commission_turns_to_artificial_intelligence_to_write_better_.md",
+    "ai_EU_countries_still_can_t_get_it_together_on_AI.md",
+    "ai_France__US_clash_over_G7_effort_on_AI_safety.md",
     "ai__Stop_using_US_tech___EU_lawmaker_says_Starlink_service_cuto.md",
+    "ip_Nvidia_hires_Wachtell_Lipton_for_Jensen_Huang_investigation.md",
     "privacy_Forget_AI__Europe_has_a_plan_to_win_the_next_tech_revolution.md",
     "privacy_Mistral_CEO__Europe_faces__complete_trap__without_frontier_A.md",
     "regulatory_8_things_we_learned_at_the_EU-Canada_summit.md",
     "regulatory_Berlin_unveils_blueprint_to_catch_up_on_AI.md",
     "regulatory_Brussels_sets_slimline_legislative_agenda_for_2027.md",
-    "regulatory_Canada_to_join_EU_network_of_supercomputers.md",
     "regulatory_Carney_frames_C_1_6B_AI_investment_as_national_security_impe.md",
     "regulatory_EU_Commission_to_probe_supermarket_cyberattacks.md",
+    "regulatory_EU_accuses_TikTok_of_designing_algorithm_with__rabbit_holes_.md",
     "regulatory_EU_and_Canada_s_6-month_test_of_commitment.md",
     "regulatory_EU_budget_battle_paralyzes_Brussels_on_AI_chips__the_Arctic_.md",
     "regulatory_EU_open_to_flexibility_on_euro_and_Schengen_if_UK_tries_to_r.md",
-    "regulatory_EU_tells_capitals_to_halt_their_national_social_media_bans_f.md",
     "regulatory_How_Ireland_plans_to_beat_the_data_center_backlash.md",
     "regulatory_Mark_Carney_puts_deadline_on_EU__associate_membership__push.md",
     "regulatory_Metsola_tells_MEPs_not_to_rely_on_AI_when_drafting_laws.md",
     "regulatory_Modern_warfare_spurs_demand_for_new_medical_techniques.md",
     "regulatory_Mélenchon_s_mission_for_his_young_fans__Debate_boomers_on_Fa.md",
-    "regulatory_Prince_Harry_slams__lawless__social_media_s_impact_on_childr.md",
+    "regulatory_Mélenchon_squares_up_to_Brussels_in_election_manifesto.md",
     "regulatory_Russia_denies_involvement_in_fridge_hacks_across_Europe.md",
-    "regulatory_UN_experts_warn_of_Big_Tech_influence_over_Ireland_s_digital.md",
-    "regulatory_Von_der_Leyen_touts__associate_member__status_for_Canada_ove.md",
-    "regulatory_What_will_it_take_for_Europe_s_automotive_transition_to_succ.md"
+    "regulatory_UN_experts_warn_of_Big_Tech_influence_over_Ireland_s_digital.md"
   ],
   "total_changed": 24,
-  "total_articles": 22,
+  "total_articles": 20,
   "by_category": {
     "competition": 0,
     "privacy": 2,
-    "ip": 0,
-    "regulatory": 20
+    "ip": 1,
+    "regulatory": 17
   }
 }

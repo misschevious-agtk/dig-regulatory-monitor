@@ -2,7 +2,7 @@
 title: Mélenchon squares up to Brussels in election manifesto
 category: regulatory
 source: Politico Tech
-date: 8 November 2026
+date: 11 November 2026
 url: https://www.politico.eu/section/technology/
 tags: FR
 ---

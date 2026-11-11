@@ -2,7 +2,7 @@
 title: EU countries still can’t get it together on AI
 category: ai
 source: Politico Tech
-date: 9 November 2026
+date: 11 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
