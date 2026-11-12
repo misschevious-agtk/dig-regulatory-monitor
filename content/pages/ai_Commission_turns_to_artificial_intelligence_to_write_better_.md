@@ -2,7 +2,7 @@
 title: Commission turns to artificial intelligence to write better laws
 category: ai
 source: Politico Tech
-date: 11 November 2026
+date: 12 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

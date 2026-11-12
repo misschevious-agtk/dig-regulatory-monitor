@@ -2,7 +2,7 @@
 title: UN experts warn of Big Tech influence over Ireland’s digital oversight
 category: regulatory
 source: Politico Tech
-date: 11 November 2026
+date: 12 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

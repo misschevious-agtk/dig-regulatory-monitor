@@ -2,7 +2,7 @@
 title: Prince Harry slams ‘lawless’ social media’s impact on children
 category: regulatory
 source: Politico Tech
-date: 10 November 2026
+date: 12 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

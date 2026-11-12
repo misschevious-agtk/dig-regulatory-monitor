@@ -2,7 +2,7 @@
 title: EU and Canada’s 6-month test of commitment
 category: regulatory
 source: Politico Tech
-date: 11 November 2026
+date: 12 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
