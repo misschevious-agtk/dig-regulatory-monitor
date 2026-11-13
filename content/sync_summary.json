@@ -1,37 +1,38 @@
 {
-  "last_sync": "2026-11-12T14:51:50.357268Z",
+  "last_sync": "2026-11-13T14:14:32.417301Z",
   "changed_files": [
     "ai_Commission_turns_to_artificial_intelligence_to_write_better_.md",
     "ai_EU_countries_still_can_t_get_it_together_on_AI.md",
     "ai_France__US_clash_over_G7_effort_on_AI_safety.md",
     "ai__Stop_using_US_tech___EU_lawmaker_says_Starlink_service_cuto.md",
+    "ip_Nvidia_hires_Wachtell_Lipton_for_Jensen_Huang_investigation.md",
     "privacy_Mistral_CEO__Europe_faces__complete_trap__without_frontier_A.md",
     "privacy_Spain_s_conservatives_promise_to_relax_climate_rules_if_they.md",
     "regulatory_AI_pioneer_Yoshua_Bengio_implores_Europe_to_build_frontier_m.md",
     "regulatory_Berlin_unveils_blueprint_to_catch_up_on_AI.md",
     "regulatory_Brussels_sets_slimline_legislative_agenda_for_2027.md",
+    "regulatory_Brussels_takes_on_the_evils_of_online_commerce.md",
     "regulatory_EU_Commission_to_probe_supermarket_cyberattacks.md",
     "regulatory_EU_accuses_TikTok_of_designing_algorithm_with__rabbit_holes_.md",
-    "regulatory_EU_and_Canada_s_6-month_test_of_commitment.md",
     "regulatory_EU_budget_battle_paralyzes_Brussels_on_AI_chips__the_Arctic_.md",
+    "regulatory_EU_institutions_survive_Microsoft_outage_unscathed.md",
     "regulatory_EU_needs_only__very_trusted_partners__on_AI_chips__tech_chie.md",
     "regulatory_EU_watchdog_probes_Commission_s_AI_pick_over_conflict_of_int.md",
     "regulatory_Europe_needs_Nvidia__It_ll_take_more_than_a_spy_scandal_to_c.md",
+    "regulatory_European_gaming_firms_say_new_EU_consumer_rules_will__crippl.md",
     "regulatory_Metsola_tells_MEPs_not_to_rely_on_AI_when_drafting_laws.md",
-    "regulatory_Modern_warfare_spurs_demand_for_new_medical_techniques.md",
     "regulatory_Mélenchon_s_mission_for_his_young_fans__Debate_boomers_on_Fa.md",
     "regulatory_Mélenchon_squares_up_to_Brussels_in_election_manifesto.md",
     "regulatory_Prince_Harry_slams__lawless__social_media_s_impact_on_childr.md",
     "regulatory_Russia_denies_involvement_in_fridge_hacks_across_Europe.md",
-    "regulatory_UN_experts_warn_of_Big_Tech_influence_over_Ireland_s_digital.md",
-    "regulatory_Ukraine_Starlink_speed_restrictions_in_effect_again__Zelensk.md"
+    "regulatory_UN_experts_warn_of_Big_Tech_influence_over_Ireland_s_digital.md"
   ],
-  "total_changed": 24,
-  "total_articles": 20,
+  "total_changed": 25,
+  "total_articles": 21,
   "by_category": {
     "competition": 0,
     "privacy": 2,
-    "ip": 0,
+    "ip": 1,
     "regulatory": 18
   }
 }

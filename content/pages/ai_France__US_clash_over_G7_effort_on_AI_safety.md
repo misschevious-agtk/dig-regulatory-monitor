@@ -2,7 +2,7 @@
 title: France, US clash over G7 effort on AI safety
 category: ai
 source: Politico Tech
-date: 12 November 2026
+date: 13 November 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---
