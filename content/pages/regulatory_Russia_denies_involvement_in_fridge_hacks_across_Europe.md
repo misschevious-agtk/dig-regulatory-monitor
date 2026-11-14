@@ -2,7 +2,7 @@
 title: Russia denies involvement in fridge hacks across Europe
 category: regulatory
 source: Politico Tech
-date: 13 November 2026
+date: 14 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

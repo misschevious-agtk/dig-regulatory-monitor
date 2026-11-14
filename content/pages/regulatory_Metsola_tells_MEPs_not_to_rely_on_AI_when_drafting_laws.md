@@ -2,7 +2,7 @@
 title: Metsola tells MEPs not to rely on AI when drafting laws
 category: regulatory
 source: Politico Tech
-date: 13 November 2026
+date: 14 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
