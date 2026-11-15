@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-14T13:12:56.599166Z",
+  "last_sync": "2026-11-15T13:40:45.029101Z",
   "changed_files": [
     "ai_Commission_turns_to_artificial_intelligence_to_write_better_.md",
     "ai_EU_countries_still_can_t_get_it_together_on_AI.md",
@@ -8,14 +8,14 @@
     "ip_Ahead_of_Spanish_election__Sánchez_takes_aim_at_TikTok.md",
     "ip_Nvidia_hires_Wachtell_Lipton_for_Jensen_Huang_investigation.md",
     "privacy_EU_needs_a_system_to_respond_to_AI_incidents__Finland_and_Es.md",
+    "privacy_Italy_hits_Meta_with__805m_fine_over_privacy_law_violation.md",
     "privacy_Spain_s_conservatives_promise_to_relax_climate_rules_if_they.md",
     "regulatory_AI_pioneer_Yoshua_Bengio_implores_Europe_to_build_frontier_m.md",
+    "regulatory_Australia_signs_up_to_EU_s_Horizon_Europe_research_program.md",
     "regulatory_Brussels_sets_slimline_legislative_agenda_for_2027.md",
     "regulatory_Brussels_takes_on_the_evils_of_online_commerce.md",
-    "regulatory_EU_Commission_to_probe_supermarket_cyberattacks.md",
     "regulatory_EU_accuses_TikTok_of_designing_algorithm_with__rabbit_holes_.md",
     "regulatory_EU_budget_battle_paralyzes_Brussels_on_AI_chips__the_Arctic_.md",
-    "regulatory_EU_deal_on_Ukraine_talks_overshadows_AI-focused_summit_in_Du.md",
     "regulatory_EU_needs_only__very_trusted_partners__on_AI_chips__tech_chie.md",
     "regulatory_EU_watchdog_probes_Commission_s_AI_pick_over_conflict_of_int.md",
     "regulatory_Europe_needs_Nvidia__It_ll_take_more_than_a_spy_scandal_to_c.md",
@@ -31,8 +31,8 @@
   "total_articles": 21,
   "by_category": {
     "competition": 0,
-    "privacy": 2,
+    "privacy": 3,
     "ip": 2,
-    "regulatory": 17
+    "regulatory": 16
   }
 }

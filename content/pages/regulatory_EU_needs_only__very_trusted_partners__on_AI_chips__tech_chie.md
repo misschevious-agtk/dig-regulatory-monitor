@@ -2,7 +2,7 @@
 title: EU needs only ‘very trusted partners’ on AI chips, tech chief says amid Nvidia crisis
 category: regulatory
 source: Politico Tech
-date: 14 November 2026
+date: 15 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
