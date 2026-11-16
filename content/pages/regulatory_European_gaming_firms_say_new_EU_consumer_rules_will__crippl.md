@@ -2,7 +2,7 @@
 title: European gaming firms say new EU consumer rules will ‘cripple’ the industry
 category: regulatory
 source: Politico Tech
-date: 15 November 2026
+date: 16 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
