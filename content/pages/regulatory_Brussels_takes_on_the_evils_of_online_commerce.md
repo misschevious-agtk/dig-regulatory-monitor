@@ -2,7 +2,7 @@
 title: Brussels takes on the evils of online commerce
 category: regulatory
 source: Politico Tech
-date: 16 November 2026
+date: 17 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

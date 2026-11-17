@@ -2,7 +2,7 @@
 title: Ukraine Starlink speed restrictions in effect again, Zelenskyy says
 category: regulatory
 source: Politico Tech
-date: 16 November 2026
+date: 17 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
