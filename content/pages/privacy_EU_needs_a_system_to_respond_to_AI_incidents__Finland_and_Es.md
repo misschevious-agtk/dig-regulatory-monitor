@@ -2,7 +2,7 @@
 title: EU needs a system to respond to AI incidents, Finland and Estonia say
 category: privacy
 source: Politico Tech
-date: 17 November 2026
+date: 18 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

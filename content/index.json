@@ -1,20 +1,21 @@
 {
   "trending": [
     {
-      "title": "Irish regulator stops X training AI with data gathered by agents",
-      "body": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
+      "title": "Italy hits Meta with €805M fine over privacy law violation",
+      "body": "It is the largest fine ever issued by Italy’s data protection regulator.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Data & Privacy"
+        "Data & Privacy",
+        "Fine"
       ]
     },
     {
       "title": "Tinder owner hit with €11M privacy fine",
       "body": "The Irish Data Protection Commission ruled that Tinder’s “Download My Data” tool is not complaint with GDPR. The company plans to appeal.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "GDPR",
@@ -26,7 +27,7 @@
       "title": "EU needs a system to respond to AI incidents, Finland and Estonia say",
       "body": "In a letter seen by POLITICO, Finland and Estonia call for “EU-level arrangements for responding to serious AI incidents.” This comes as European leaders are set to meet Friday to debate AI for the first time.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -36,7 +37,7 @@
       "title": "Spain’s conservatives promise to relax climate rules if they win election",
       "body": "Madrid’s role as the EU’s loudest climate champion could end at a snap election later this month.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "NL"
@@ -46,7 +47,7 @@
       "title": "Ahead of Spanish election, Sánchez takes aim at TikTok",
       "body": "The Spanish government pursued a ban on TikTok after a report alleged the social media is lax about child sexual abuse material.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -56,20 +57,21 @@
   "competition": [],
   "privacy": [
     {
-      "title": "Irish regulator stops X training AI with data gathered by agents",
-      "body": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
+      "title": "Italy hits Meta with €805M fine over privacy law violation",
+      "body": "It is the largest fine ever issued by Italy’s data protection regulator.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
-        "Data & Privacy"
+        "Data & Privacy",
+        "Fine"
       ]
     },
     {
       "title": "Tinder owner hit with €11M privacy fine",
       "body": "The Irish Data Protection Commission ruled that Tinder’s “Download My Data” tool is not complaint with GDPR. The company plans to appeal.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "GDPR",
@@ -81,7 +83,7 @@
       "title": "EU needs a system to respond to AI incidents, Finland and Estonia say",
       "body": "In a letter seen by POLITICO, Finland and Estonia call for “EU-level arrangements for responding to serious AI incidents.” This comes as European leaders are set to meet Friday to debate AI for the first time.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -91,7 +93,7 @@
       "title": "Spain’s conservatives promise to relax climate rules if they win election",
       "body": "Madrid’s role as the EU’s loudest climate champion could end at a snap election later this month.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "NL"
@@ -103,7 +105,7 @@
       "title": "Ahead of Spanish election, Sánchez takes aim at TikTok",
       "body": "The Spanish government pursued a ban on TikTok after a report alleged the social media is lax about child sexual abuse material.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -113,7 +115,7 @@
       "title": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
       "body": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation"
@@ -122,10 +124,30 @@
   ],
   "regulatory": [
     {
+      "title": "Germany, Austria demand TikTok’s European platform be sold to owners in EU",
+      "body": "Proposal comes after President Donald Trump forced TikTok to split out U.S. app.",
+      "source": "Politico Tech",
+      "date": "18 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "The EU has always found a way through. On AI, it’s struggling to see it.",
+      "body": "There might be an AI apocalypse. European leaders don’t really want to talk about it.",
+      "source": "Politico Tech",
+      "date": "18 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
       "title": "EU deal on Ukraine talks overshadows AI-focused summit in Dublin",
       "body": "EU leaders have agreed that the E5 format — Germany, France, U.K, Italy and Poland — plus the European Commission and Council will represent the bloc at any future peace negotiations.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -135,7 +157,7 @@
       "title": "Microsoft outage renews European calls to detox from US tech",
       "body": "Lawmakers across Europe call for action to reduce reliance on a handful of foreign tech companies.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -145,7 +167,7 @@
       "title": "EU institutions survive Microsoft outage unscathed",
       "body": "Europe is working to reduce its use of big U.S. providers.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -155,7 +177,7 @@
       "title": "Jensen Huang’s fall further exposes EU leaders on AI",
       "body": "European leaders are meeting for their first conversation on AI with the tech world in tumult.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -165,7 +187,7 @@
       "title": "Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
       "body": "Military units have recorded “significant disruptions” similar to the speed limits enforced in October, Ukraine’s president said.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -175,7 +197,7 @@
       "title": "Australia signs up to EU’s Horizon Europe research program",
       "body": "Industry Minister Tim Ayres signed the association agreement in Brussels on Thursday.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -185,7 +207,7 @@
       "title": "European gaming firms say new EU consumer rules will ‘cripple’ the industry",
       "body": "The EU’s Digital Fairness Act clamps down on video-game practices where players are encouraged to spend real money to keep playing.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -195,7 +217,7 @@
       "title": "Brussels takes on the evils of online commerce",
       "body": "The EU is proposing new rules that would fine companies that use manipulative online tactics like “dynamic pricing” and “addictive design” to lure consumers to buy and pay more.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -205,7 +227,7 @@
       "title": "EU watchdog probes Commission’s AI pick over conflict of interest concerns",
       "body": "Jim Hagemann Snabe was named AI envoy in June, but the choice has proved controversial.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Under Investigation",
@@ -216,7 +238,7 @@
       "title": "EU needs only ‘very trusted partners’ on AI chips, tech chief says amid Nvidia crisis",
       "body": "“We want to really keep the business secrets in Europe,” Henna Virkkunen says about EU efforts to protect sensitive industries.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -226,7 +248,7 @@
       "title": "Prince Harry slams ‘lawless’ social media’s impact on children",
       "body": "Duke and Duchess of Sussex visit the European Parliament.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -236,7 +258,7 @@
       "title": "Europe needs Nvidia. It’ll take more than a spy scandal to change that.",
       "body": "Though the U.S. chipmaker’s boss Jensen Huang may have been caught up in a Chinese espionage operation, Europe has no homegrown alternative to Nvidia.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -246,7 +268,7 @@
       "title": "AI pioneer Yoshua Bengio implores Europe to build frontier models",
       "body": "One of the “godfathers” of AI warned Europe against relying on U.S. proprietary or Chinese open-weight frontier models.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -256,7 +278,7 @@
       "title": "Mélenchon squares up to Brussels in election manifesto",
       "body": "The far-left leader’s plan for France will “require a confrontation with European institutions,” according to his presidential platform.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "FR"
@@ -266,30 +288,10 @@
       "title": "EU accuses TikTok of designing algorithm with ‘rabbit holes’",
       "body": "The preliminary findings mark the first time the Commission has focused on a social media platform’s recommender systems as a breach of its powerful Digital Services Act.",
       "source": "Politico Tech",
-      "date": "17 November 2026",
+      "date": "18 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "DSA",
-        "EU"
-      ]
-    },
-    {
-      "title": "Mélenchon’s mission for his young fans: Debate boomers on Facebook",
-      "body": "The leftist presidential candidate is betting that his young supporters can win over their parents on the old-school social network.",
-      "source": "Politico Tech",
-      "date": "17 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "EU budget battle paralyzes Brussels on AI chips, the Arctic and agriculture",
-      "body": "European policymakers are blocked on proposals linked to EU funding amid a negotiating impasse over the size of the 2028-2034 budget.",
-      "source": "Politico Tech",
-      "date": "17 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
         "EU"
       ]
     }
