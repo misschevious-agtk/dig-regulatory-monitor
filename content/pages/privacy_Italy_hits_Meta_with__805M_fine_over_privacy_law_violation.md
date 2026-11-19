@@ -2,7 +2,7 @@
 title: Italy hits Meta with €805M fine over privacy law violation
 category: privacy
 source: Politico Tech
-date: 18 November 2026
+date: 19 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy, Fine
 ---

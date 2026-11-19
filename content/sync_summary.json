@@ -1,8 +1,6 @@
 {
-  "last_sync": "2026-11-18T15:21:51.500008Z",
+  "last_sync": "2026-11-19T15:28:01.843148Z",
   "changed_files": [
-    "ai_EU_countries_still_can_t_get_it_together_on_AI.md",
-    "ai_France__US_clash_over_G7_effort_on_AI_safety.md",
     "ip_Ahead_of_Spanish_election__Sánchez_takes_aim_at_TikTok.md",
     "ip_Nvidia_hires_Wachtell_Lipton_for_Jensen_Huang_investigation.md",
     "privacy_EU_needs_a_system_to_respond_to_AI_incidents__Finland_and_Es.md",
@@ -12,27 +10,29 @@
     "regulatory_AI_pioneer_Yoshua_Bengio_implores_Europe_to_build_frontier_m.md",
     "regulatory_Australia_signs_up_to_EU_s_Horizon_Europe_research_program.md",
     "regulatory_Brussels_takes_on_the_evils_of_online_commerce.md",
-    "regulatory_EU_accuses_TikTok_of_designing_algorithm_with__rabbit_holes_.md",
     "regulatory_EU_deal_on_Ukraine_talks_overshadows_AI-focused_summit_in_Du.md",
     "regulatory_EU_institutions_survive_Microsoft_outage_unscathed.md",
     "regulatory_EU_needs_only__very_trusted_partners__on_AI_chips__tech_chie.md",
+    "regulatory_EU_sanctions_Russian_trolls__hackers.md",
     "regulatory_EU_watchdog_probes_Commission_s_AI_pick_over_conflict_of_int.md",
+    "regulatory_Estonia_has_a_plan_for_Russian_occupation__Run_its_governmen.md",
     "regulatory_Europe_needs_Nvidia__It_ll_take_more_than_a_spy_scandal_to_c.md",
     "regulatory_European_gaming_firms_say_new_EU_consumer_rules_will__crippl.md",
-    "regulatory_Germany__Austria_demand_TikTok_s_European_platform_be_sold_t.md",
+    "regulatory_Google_says_Russian_speakers_pulled_off_first-ever_fully_aut.md",
     "regulatory_Jensen_Huang_s_fall_further_exposes_EU_leaders_on_AI.md",
     "regulatory_Microsoft_outage_renews_European_calls_to_detox_from_US_tech.md",
-    "regulatory_Mélenchon_squares_up_to_Brussels_in_election_manifesto.md",
     "regulatory_Prince_Harry_slams__lawless__social_media_s_impact_on_childr.md",
     "regulatory_The_EU_has_always_found_a_way_through__On_AI__it_s_strugglin.md",
-    "regulatory_Ukraine_Starlink_speed_restrictions_in_effect_again__Zelensk.md"
+    "regulatory_Ukraine_Starlink_speed_restrictions_in_effect_again__Zelensk.md",
+    "regulatory_What_the_EU_can_learn_from_Mark_Carney_on_digital_sovereignt.md",
+    "regulatory_Why_depth_beats_breadth_in_Europe_s_hunt_for_an_AI_edge.md"
   ],
   "total_changed": 25,
-  "total_articles": 23,
+  "total_articles": 25,
   "by_category": {
     "competition": 0,
     "privacy": 4,
     "ip": 2,
-    "regulatory": 17
+    "regulatory": 19
   }
 }

@@ -2,7 +2,7 @@
 title: AI pioneer Yoshua Bengio implores Europe to build frontier models
 category: regulatory
 source: Politico Tech
-date: 18 November 2026
+date: 19 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
