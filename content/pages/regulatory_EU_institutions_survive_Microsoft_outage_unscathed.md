@@ -2,7 +2,7 @@
 title: EU institutions survive Microsoft outage unscathed
 category: regulatory
 source: Politico Tech
-date: 19 November 2026
+date: 20 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

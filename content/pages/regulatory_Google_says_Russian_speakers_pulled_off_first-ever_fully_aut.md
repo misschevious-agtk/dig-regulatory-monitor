@@ -2,7 +2,7 @@
 title: Google says Russian speakers pulled off first-ever fully automated AI cyberattack
 category: regulatory
 source: Politico Tech
-date: 19 November 2026
+date: 20 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

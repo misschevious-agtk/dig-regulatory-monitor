@@ -2,7 +2,7 @@
 title: EU deal on Ukraine talks overshadows AI-focused summit in Dublin
 category: regulatory
 source: Politico Tech
-date: 19 November 2026
+date: 20 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
