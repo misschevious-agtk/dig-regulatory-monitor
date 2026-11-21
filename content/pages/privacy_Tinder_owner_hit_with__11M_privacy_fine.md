@@ -2,7 +2,7 @@
 title: Tinder owner hit with €11M privacy fine
 category: privacy
 source: Politico Tech
-date: 20 November 2026
+date: 21 November 2026
 url: https://www.politico.eu/section/technology/
 tags: GDPR, Data & Privacy, Fine
 ---
