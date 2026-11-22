@@ -1,21 +1,21 @@
 {
-  "last_sync": "2026-11-21T14:25:15.124798Z",
+  "last_sync": "2026-11-22T14:18:34.824185Z",
   "changed_files": [
     "ai_Grand_Theft_Auto_VI_is_here__The_EU_has_6_reasons_to_pay_att.md",
     "ip_Ahead_of_Spanish_election__Sánchez_takes_aim_at_TikTok.md",
     "ip_EU_Commission_accused_of_withholding_emails_on_killing_paten.md",
-    "ip_Nvidia_hires_Wachtell_Lipton_for_Jensen_Huang_investigation.md",
     "privacy_Dutch_resist_US_bid_to_tighten_semiconductor_export_controls.md",
     "privacy_EU_needs_a_system_to_respond_to_AI_incidents__Finland_and_Es.md",
     "privacy_Irish_regulator_stops_X_training_AI_with_data_gathered_by_ag.md",
     "privacy_Italy_hits_Meta_with__805M_fine_over_privacy_law_violation.md",
+    "privacy_Startups_call_on_Commission_to_salvage_or_scrap_EU_Inc_propo.md",
     "privacy_Tinder_owner_hit_with__11M_privacy_fine.md",
     "regulatory_Australia_signs_up_to_EU_s_Horizon_Europe_research_program.md",
-    "regulatory_Costa_cuts_proposed_EU_budget_by__44B.md",
     "regulatory_EU_Commission_eyes_rule_change_to_retaliate_faster_against_C.md",
     "regulatory_EU_deal_on_Ukraine_talks_overshadows_AI-focused_summit_in_Du.md",
     "regulatory_EU_institutions_survive_Microsoft_outage_unscathed.md",
     "regulatory_EU_sanctions_Russian_trolls__hackers.md",
+    "regulatory_Effort_to_regulate__killer_robots__delayed_to_2028.md",
     "regulatory_Estonia_has_a_plan_for_Russian_occupation__Run_its_governmen.md",
     "regulatory_European_gaming_firms_say_new_EU_consumer_rules_will__crippl.md",
     "regulatory_Germany__Austria_demand_TikTok_s_European_platform_be_sold_t.md",
@@ -31,8 +31,8 @@
   "total_articles": 24,
   "by_category": {
     "competition": 0,
-    "privacy": 5,
-    "ip": 3,
+    "privacy": 6,
+    "ip": 2,
     "regulatory": 16
   }
 }
