@@ -2,7 +2,7 @@
 title: Ahead of Spanish election, Sánchez takes aim at TikTok
 category: ip
 source: Politico Tech
-date: 22 November 2026
+date: 23 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

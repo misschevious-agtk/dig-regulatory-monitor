@@ -1,7 +1,8 @@
 {
-  "last_sync": "2026-11-22T14:18:34.824185Z",
+  "last_sync": "2026-11-23T17:41:43.293282Z",
   "changed_files": [
     "ai_Grand_Theft_Auto_VI_is_here__The_EU_has_6_reasons_to_pay_att.md",
+    "competition_Global_left_rallies_in_Paris_to_make__not_so_radical__case_f.md",
     "ip_Ahead_of_Spanish_election__Sánchez_takes_aim_at_TikTok.md",
     "ip_EU_Commission_accused_of_withholding_emails_on_killing_paten.md",
     "privacy_Dutch_resist_US_bid_to_tighten_semiconductor_export_controls.md",
@@ -15,14 +16,13 @@
     "regulatory_EU_deal_on_Ukraine_talks_overshadows_AI-focused_summit_in_Du.md",
     "regulatory_EU_institutions_survive_Microsoft_outage_unscathed.md",
     "regulatory_EU_sanctions_Russian_trolls__hackers.md",
-    "regulatory_Effort_to_regulate__killer_robots__delayed_to_2028.md",
     "regulatory_Estonia_has_a_plan_for_Russian_occupation__Run_its_governmen.md",
-    "regulatory_European_gaming_firms_say_new_EU_consumer_rules_will__crippl.md",
     "regulatory_Germany__Austria_demand_TikTok_s_European_platform_be_sold_t.md",
     "regulatory_Google_says_Russian_speakers_pulled_off_first-ever_fully_aut.md",
     "regulatory_Jensen_Huang_s_fall_further_exposes_EU_leaders_on_AI.md",
     "regulatory_Microsoft_outage_renews_European_calls_to_detox_from_US_tech.md",
     "regulatory_The_EU_has_always_found_a_way_through__On_AI__it_s_strugglin.md",
+    "regulatory_The_web_is_held_together_by_volunteers__AI_could_tear_it_apa.md",
     "regulatory_Ukraine_Starlink_speed_restrictions_in_effect_again__Zelensk.md",
     "regulatory_What_the_EU_can_learn_from_Mark_Carney_on_digital_sovereignt.md",
     "regulatory_Why_depth_beats_breadth_in_Europe_s_hunt_for_an_AI_edge.md"
@@ -30,9 +30,9 @@
   "total_changed": 25,
   "total_articles": 24,
   "by_category": {
-    "competition": 0,
+    "competition": 1,
     "privacy": 6,
     "ip": 2,
-    "regulatory": 16
+    "regulatory": 15
   }
 }

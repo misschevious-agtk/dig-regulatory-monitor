@@ -2,7 +2,7 @@
 title: Irish regulator stops X training AI with data gathered by agents
 category: privacy
 source: Politico Tech
-date: 22 November 2026
+date: 23 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Data & Privacy
 ---
