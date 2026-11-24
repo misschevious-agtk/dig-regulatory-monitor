@@ -2,7 +2,7 @@
 title: Why depth beats breadth in Europe’s hunt for an AI edge
 category: regulatory
 source: Politico Tech
-date: 23 November 2026
+date: 24 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

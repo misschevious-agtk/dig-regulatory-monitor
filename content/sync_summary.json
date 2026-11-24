@@ -1,24 +1,24 @@
 {
-  "last_sync": "2026-11-23T17:41:43.293282Z",
+  "last_sync": "2026-11-24T17:13:31.128139Z",
   "changed_files": [
     "ai_Grand_Theft_Auto_VI_is_here__The_EU_has_6_reasons_to_pay_att.md",
-    "competition_Global_left_rallies_in_Paris_to_make__not_so_radical__case_f.md",
-    "ip_Ahead_of_Spanish_election__Sánchez_takes_aim_at_TikTok.md",
     "ip_EU_Commission_accused_of_withholding_emails_on_killing_paten.md",
     "privacy_Dutch_resist_US_bid_to_tighten_semiconductor_export_controls.md",
-    "privacy_EU_needs_a_system_to_respond_to_AI_incidents__Finland_and_Es.md",
     "privacy_Irish_regulator_stops_X_training_AI_with_data_gathered_by_ag.md",
     "privacy_Italy_hits_Meta_with__805M_fine_over_privacy_law_violation.md",
+    "privacy_Snowden_on_steroids__AI_agents_in_phones_trigger_surveillanc.md",
     "privacy_Startups_call_on_Commission_to_salvage_or_scrap_EU_Inc_propo.md",
     "privacy_Tinder_owner_hit_with__11M_privacy_fine.md",
-    "regulatory_Australia_signs_up_to_EU_s_Horizon_Europe_research_program.md",
+    "regulatory_Costa_eyes_tax_on_Big_Tech_to_boost_EU_budget_after_Trump_s_.md",
     "regulatory_EU_Commission_eyes_rule_change_to_retaliate_faster_against_C.md",
     "regulatory_EU_deal_on_Ukraine_talks_overshadows_AI-focused_summit_in_Du.md",
     "regulatory_EU_institutions_survive_Microsoft_outage_unscathed.md",
     "regulatory_EU_sanctions_Russian_trolls__hackers.md",
     "regulatory_Estonia_has_a_plan_for_Russian_occupation__Run_its_governmen.md",
     "regulatory_Germany__Austria_demand_TikTok_s_European_platform_be_sold_t.md",
+    "regulatory_Germany_says_investors_ready_to_spend__25B_to_buy_TikTok_Eur.md",
     "regulatory_Google_says_Russian_speakers_pulled_off_first-ever_fully_aut.md",
+    "regulatory_How_to_watch_the_UK-EU_summit_like_a_pro.md",
     "regulatory_Jensen_Huang_s_fall_further_exposes_EU_leaders_on_AI.md",
     "regulatory_Microsoft_outage_renews_European_calls_to_detox_from_US_tech.md",
     "regulatory_The_EU_has_always_found_a_way_through__On_AI__it_s_strugglin.md",
@@ -30,9 +30,9 @@
   "total_changed": 25,
   "total_articles": 24,
   "by_category": {
-    "competition": 1,
+    "competition": 0,
     "privacy": 6,
-    "ip": 2,
-    "regulatory": 15
+    "ip": 1,
+    "regulatory": 17
   }
 }

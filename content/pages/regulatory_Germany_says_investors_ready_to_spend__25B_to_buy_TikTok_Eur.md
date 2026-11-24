@@ -2,7 +2,7 @@
 title: Germany says investors ready to spend €25B to buy TikTok Europe
 category: regulatory
 source: Politico Tech
-date: 20 November 2026
+date: 24 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, DE
 ---
