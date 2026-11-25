@@ -2,7 +2,7 @@
 title: Estonia has a plan for Russian occupation: Run its government from the cloud
 category: regulatory
 source: Politico Tech
-date: 24 November 2026
+date: 25 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
