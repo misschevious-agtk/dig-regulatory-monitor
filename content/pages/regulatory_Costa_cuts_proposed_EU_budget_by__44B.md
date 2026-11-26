@@ -2,7 +2,7 @@
 title: Costa cuts proposed EU budget by €44B
 category: regulatory
 source: Politico Tech
-date: 25 November 2026
+date: 26 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Fine, EU
 ---
