@@ -2,7 +2,7 @@
 title: French billionaire hunter takes fight global after California tax defeat
 category: competition
 source: Politico Tech
-date: 26 November 2026
+date: 27 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

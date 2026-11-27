@@ -2,7 +2,7 @@
 title: Right-wing revolt threatens to bog down EU budget
 category: regulatory
 source: Politico Tech
-date: 26 November 2026
+date: 27 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---

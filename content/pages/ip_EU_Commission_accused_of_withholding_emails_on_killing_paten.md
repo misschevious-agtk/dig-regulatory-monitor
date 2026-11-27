@@ -2,7 +2,7 @@
 title: EU Commission accused of withholding emails on killing patent law
 category: ip
 source: Politico Tech
-date: 26 November 2026
+date: 27 November 2026
 url: https://www.politico.eu/section/technology/
 tags: IP Law, EU
 ---

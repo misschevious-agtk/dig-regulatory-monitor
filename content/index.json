@@ -4,7 +4,7 @@
       "title": "Global left rallies in Paris to make ‘not so radical’ case for taxing billionaires",
       "body": "Politicians from Europe and the U.S. gathered at Gabriel Zucman’s summit to challenge the power of the super-rich — but few are in a position to act.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -14,17 +14,27 @@
       "title": "French billionaire hunter takes fight global after California tax defeat",
       "body": "Gabriel Zucman is rallying politicians in Paris behind his campaign to tax the super-rich. But can he overcome the billionaires and political leaders standing in his way?",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
       ]
     },
     {
+      "title": "Snowden on steroids: AI agents in phones trigger surveillance fears",
+      "body": "AI agents have already proven to be a cybersecurity risk. Now the privacy world is sounding the alarm.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy"
+      ]
+    },
+    {
       "title": "Startups call on Commission to salvage or scrap EU Inc proposal",
       "body": "Lobby groups call on Brussels to withdraw and resubmit after proposal for new corporate form was watered down by EU  member countries.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -34,20 +44,10 @@
       "title": "Dutch resist US bid to tighten semiconductor export controls",
       "body": "The bipartisan MATCH Act would tighten restrictions on ASML’s sales to China, drawing objections from The Hague.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
-      ]
-    },
-    {
-      "title": "Irish regulator stops X training AI with data gathered by agents",
-      "body": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Data & Privacy"
       ]
     }
   ],
@@ -56,7 +56,7 @@
       "title": "Global left rallies in Paris to make ‘not so radical’ case for taxing billionaires",
       "body": "Politicians from Europe and the U.S. gathered at Gabriel Zucman’s summit to challenge the power of the super-rich — but few are in a position to act.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -66,7 +66,7 @@
       "title": "French billionaire hunter takes fight global after California tax defeat",
       "body": "Gabriel Zucman is rallying politicians in Paris behind his campaign to tax the super-rich. But can he overcome the billionaires and political leaders standing in his way?",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -75,10 +75,20 @@
   ],
   "privacy": [
     {
+      "title": "Snowden on steroids: AI agents in phones trigger surveillance fears",
+      "body": "AI agents have already proven to be a cybersecurity risk. Now the privacy world is sounding the alarm.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Data & Privacy"
+      ]
+    },
+    {
       "title": "Startups call on Commission to salvage or scrap EU Inc proposal",
       "body": "Lobby groups call on Brussels to withdraw and resubmit after proposal for new corporate form was watered down by EU  member countries.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -88,7 +98,7 @@
       "title": "Dutch resist US bid to tighten semiconductor export controls",
       "body": "The bipartisan MATCH Act would tighten restrictions on ASML’s sales to China, drawing objections from The Hague.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "US"
@@ -98,21 +108,10 @@
       "title": "Irish regulator stops X training AI with data gathered by agents",
       "body": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Data & Privacy"
-      ]
-    },
-    {
-      "title": "Italy hits Meta with €805M fine over privacy law violation",
-      "body": "It is the largest fine ever issued by Italy’s data protection regulator.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Data & Privacy",
-        "Fine"
       ]
     }
   ],
@@ -121,7 +120,7 @@
       "title": "EU Commission accused of withholding emails on killing patent law",
       "body": "Lawmakers suggested the U-turn came following a meeting between JD Vance and Ursula von der Leyen.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "IP Law",
@@ -131,10 +130,30 @@
   ],
   "regulatory": [
     {
-      "title": "US warns EU leaders against Big Tech tax",
-      "body": "Washington’s opposition to the idea of a bloc-wide digital services tax complicates efforts to find new revenue sources for the EU’s €2 trillion budget.",
+      "title": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
+      "body": "Poland’s defense minister said it would be “wrong” not to use the software, despite concerns over reliance on American technology.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
+      "title": "Parliament clears 7 EU budget files for negotiations",
+      "body": "The vote headed off a possible challenge from the far right.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "EU Commission wants €50B fund to keep tech European",
+      "body": "The Sovereign Tech Equity Fund will hinge on the next seven-year budget to catch up the U.S. and China.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -142,10 +161,30 @@
       ]
     },
     {
+      "title": "Quantum may be a bigger security risk than AI. Europe’s got a plan.",
+      "body": "As the EU unveils its Quantum Act, the tech industry must begin to face the risk of encryption coming undone.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "EU"
+      ]
+    },
+    {
+      "title": "Merz to meet Pope Leo, Meloni in Rome",
+      "body": "The German chancellor and Pope Leo are expected to discuss human dignity, AI and Ukraine.",
+      "source": "Politico Tech",
+      "date": "27 November 2026",
+      "url": "https://www.politico.eu/section/technology/",
+      "tags": [
+        "Regulatory"
+      ]
+    },
+    {
       "title": "Right-wing revolt threatens to bog down EU budget",
       "body": "A Patriots for Europe official said several other delegations could back a challenge that would slow down budget talks in the European Parliament.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -155,7 +194,7 @@
       "title": "‘It’s just a circus’: Founders clash with notaries over new EU startup law",
       "body": "Brussels wants to make it easier to set up and fund startups across Europe. But notaries warn its proposed law could open the door to fraud and litigation.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -165,7 +204,7 @@
       "title": "Effort to regulate ‘killer robots’ delayed to 2028",
       "body": "Russia blocked the talks, but other countries were also opposed.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -175,7 +214,7 @@
       "title": "Costa cuts proposed EU budget by €44B",
       "body": "Brussels plans a tax on Big Tech to raise billions for the next budget cycle.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -186,7 +225,7 @@
       "title": "Germany says investors ready to spend €25B to buy TikTok Europe",
       "body": "Germany and Austria floated the initiative earlier this week, citing concerns about the Chinese-owned company’s influence on European democracy.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Fine",
@@ -197,7 +236,7 @@
       "title": "How to watch the UK-EU summit like a pro",
       "body": "After more than two years of talks, can London and Brussels finally agree on a reset? Here’s what to look out for as their leaders meet.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -207,7 +246,7 @@
       "title": "Costa eyes tax on Big Tech to boost EU budget after Trump’s poor midterms showing",
       "body": "Supporters of the levy say the Republicans’ recent defeat finally opens an opportunity.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -217,7 +256,7 @@
       "title": "The web is held together by volunteers. AI could tear it apart.",
       "body": "As AI reveals deeply hidden vulnerabilities, idealist coders and non-profits say they’re running on fumes trying to maintain the web’s core vitals.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -227,7 +266,7 @@
       "title": "Why depth beats breadth in Europe’s hunt for an AI edge",
       "body": "At the European Resilience Summit, Mauro Capo, Accenture’s digital sovereignty lead for EMEA, shared the company’s view on Europe’s opportunities in AI’s next phase.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "Regulatory"
@@ -237,7 +276,7 @@
       "title": "Germany, Austria demand TikTok’s European platform be sold to owners in EU",
       "body": "Proposal comes after President Donald Trump forced TikTok to split out U.S. app.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -247,7 +286,7 @@
       "title": "EU Commission eyes rule change to retaliate faster against China",
       "body": "Brussels looks at tweaks to the Enforcement Regulation as it develops a trade “kill switch”.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"
@@ -257,47 +296,7 @@
       "title": "What the EU can learn from Mark Carney on digital sovereignty",
       "body": "Building autonomy does not mean countries need to isolate.",
       "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
-      "body": "The development could mark an inflection point in the use of AI for cyberattacks.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "EU sanctions Russian trolls, hackers",
-      "body": "A Moscow-based firm that carries out “large scale information manipulation and interference projects” is in the EU’s crosshairs.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "EU"
-      ]
-    },
-    {
-      "title": "Estonia has a plan for Russian occupation: Run its government from the cloud",
-      "body": "Tallinn is preparing its digital government to be run from abroad in case of an invasion.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
-      "url": "https://www.politico.eu/section/technology/",
-      "tags": [
-        "Regulatory"
-      ]
-    },
-    {
-      "title": "The EU has always found a way through. On AI, it’s struggling to see it.",
-      "body": "There might be an AI apocalypse. European leaders don’t really want to talk about it.",
-      "source": "Politico Tech",
-      "date": "26 November 2026",
+      "date": "27 November 2026",
       "url": "https://www.politico.eu/section/technology/",
       "tags": [
         "EU"

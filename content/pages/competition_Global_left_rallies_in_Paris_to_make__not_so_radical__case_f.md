@@ -2,7 +2,7 @@
 title: Global left rallies in Paris to make ‘not so radical’ case for taxing billionaires
 category: competition
 source: Politico Tech
-date: 26 November 2026
+date: 27 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---
