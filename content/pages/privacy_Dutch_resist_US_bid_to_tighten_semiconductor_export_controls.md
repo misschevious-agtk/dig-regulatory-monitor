@@ -2,7 +2,7 @@
 title: Dutch resist US bid to tighten semiconductor export controls
 category: privacy
 source: Politico Tech
-date: 27 November 2026
+date: 28 November 2026
 url: https://www.politico.eu/section/technology/
 tags: US
 ---

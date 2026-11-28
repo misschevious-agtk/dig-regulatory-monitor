@@ -2,7 +2,7 @@
 title: We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir
 category: regulatory
 source: Politico Tech
-date: 27 November 2026
+date: 28 November 2026
 url: https://www.politico.eu/section/technology/
 tags: Regulatory
 ---

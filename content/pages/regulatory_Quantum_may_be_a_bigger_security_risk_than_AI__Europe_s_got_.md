@@ -2,7 +2,7 @@
 title: Quantum may be a bigger security risk than AI. Europe’s got a plan.
 category: regulatory
 source: Politico Tech
-date: 27 November 2026
+date: 28 November 2026
 url: https://www.politico.eu/section/technology/
 tags: EU
 ---
